@@ -1,0 +1,1326 @@
+{
+    "id": "i4py84gpg8lm9ni6l5z0c188",
+    "title": "第十九课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1bT4y1U793",
+    "order": 19,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:51.762Z",
+    "updatedAt": "2024-05-23T14:05:59.183Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "书",
+            "english": "book",
+            "soundmark": "/bʊk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:44.832Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 2,
+            "chinese": "英语",
+            "english": "English",
+            "soundmark": "/ˈɪŋɡlɪʃ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:44.854Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 3,
+            "chinese": "一本英语书",
+            "english": "an English book",
+            "soundmark": "/æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:44.976Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 4,
+            "chinese": "阅读",
+            "english": "to read",
+            "soundmark": "/tə/ /rid/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.028Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 5,
+            "chinese": "阅读一本英语书",
+            "english": "to read an English book",
+            "soundmark": "/tə/ /rid/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.068Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 6,
+            "chinese": "阅读（ing形式）",
+            "english": "reading",
+            "soundmark": "/ridɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.126Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 7,
+            "chinese": "是；赋值（原型）",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.158Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 8,
+            "chinese": "正在阅读",
+            "english": "be reading",
+            "soundmark": "/bi/ /ridɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.162Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 9,
+            "chinese": "正在阅读一本英语书",
+            "english": "be reading an English book",
+            "soundmark": "/bi/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.252Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 10,
+            "chinese": "我",
+            "english": "I",
+            "soundmark": "/aɪ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.302Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 11,
+            "chinese": "我（现在）正在阅读一本英语书",
+            "english": "I am reading an English book",
+            "soundmark": "/aɪ/ /æm/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.334Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 12,
+            "chinese": "这一瞬间；这一刻",
+            "english": "the moment",
+            "soundmark": "/ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.489Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 13,
+            "chinese": "在这一刻；此刻",
+            "english": "at the moment",
+            "soundmark": "/æt/ /ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.526Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 14,
+            "chinese": "我此刻正在阅读一本英语书",
+            "english": "I am reading an English book at the moment",
+            "soundmark": "/aɪ/ /æm/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /æt/ /ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.548Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 15,
+            "chinese": "我（过去）正在阅读一本英语书",
+            "english": "I was reading an English book",
+            "soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.576Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 16,
+            "chinese": "昨晚",
+            "english": "last night",
+            "soundmark": "/læst/ /naɪt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.601Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 17,
+            "chinese": "我昨晚正在阅读一本英语书",
+            "english": "I was reading an English book last night",
+            "soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /læst/ /naɪt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.638Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 18,
+            "chinese": "家",
+            "english": "home",
+            "soundmark": "/hom/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.709Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 19,
+            "chinese": "工作",
+            "english": "work",
+            "soundmark": "/wɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.755Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 20,
+            "chinese": "家庭作业",
+            "english": "homework",
+            "soundmark": "/'homwɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.830Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 21,
+            "chinese": "她的",
+            "english": "her",
+            "soundmark": "/hɚ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.957Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 22,
+            "chinese": "她的家庭作业",
+            "english": "her homework",
+            "soundmark": "/hɚ/ /'homwɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.972Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 23,
+            "chinese": "做",
+            "english": "to do",
+            "soundmark": "/tə/ /du/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:45.992Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 24,
+            "chinese": "做她的家庭作业",
+            "english": "to do her homework",
+            "soundmark": "/tə/ /du/ /hɚ/ /'homwɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.015Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 25,
+            "chinese": "做（ing形式）",
+            "english": "doing",
+            "soundmark": "/ˈduɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.064Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 26,
+            "chinese": "是；赋值（原型）",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.067Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 27,
+            "chinese": "正在做",
+            "english": "be doing",
+            "soundmark": "/bi/ /ˈduɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.146Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 28,
+            "chinese": "正在做她的家庭作业",
+            "english": "be doing her homework",
+            "soundmark": "/bi/ /ˈduɪŋ/ /hɚ/ /'homwɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.146Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 29,
+            "chinese": "她",
+            "english": "she",
+            "soundmark": "/ʃi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.214Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 30,
+            "chinese": "她（现在）正在做她的家庭作业",
+            "english": "she is doing her homework",
+            "soundmark": "/ʃi/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.330Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 31,
+            "chinese": "女儿",
+            "english": "daughter",
+            "soundmark": "/'dɔtɚ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.418Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 32,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.459Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 33,
+            "chinese": "我的女儿",
+            "english": "my daughter",
+            "soundmark": "/maɪ/ /'dɔtɚ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.458Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 34,
+            "chinese": "我的女儿（现在）正在做她的家庭作业",
+            "english": "my daughter is doing her homework",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.494Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 35,
+            "chinese": "在这一刻；此刻",
+            "english": "at the moment",
+            "soundmark": "/æt/ /ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.510Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 36,
+            "chinese": "我的女儿此刻正在做她的家庭作业",
+            "english": "my daughter is doing her homework at the moment",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/ /æt/ /ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.575Z",
+            "updatedAt": "2024-04-28T12:26:53.963Z"
+        },
+        {
+            "order": 37,
+            "chinese": "我的女儿（过去）正在做她的家庭作业",
+            "english": "my daughter was doing her homework",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.576Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 38,
+            "chinese": "我（过去）正在阅读一本英语书",
+            "english": "I was reading an English book",
+            "soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.643Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 39,
+            "chinese": "与此同时",
+            "english": "while",
+            "soundmark": "/waɪl/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.666Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 40,
+            "chinese": "我（过去）正在阅读一本英语书与此同时我的女儿（过去）正在做她的家庭作业",
+            "english": "I was reading an English book while my daughter was doing her homework",
+            "soundmark": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /waɪl/ /maɪ/ /'dɔtɚ/ /wəz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.824Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 41,
+            "chinese": "跑步",
+            "english": "to run",
+            "soundmark": "/tə/ /rʌn/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.864Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 42,
+            "chinese": "街道",
+            "english": "the street",
+            "soundmark": "/ðə/ /strit/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.918Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 43,
+            "chinese": "在街上",
+            "english": "in the street",
+            "soundmark": "/ɪn/ /ðə/ /strit/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.953Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 44,
+            "chinese": "在街上跑步",
+            "english": "to run in the street",
+            "soundmark": "/tə/ /rʌn/ /ɪn/ /ðə/ /strit/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.961Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 45,
+            "chinese": "跑步（ing形式）",
+            "english": "running",
+            "soundmark": "/'rʌnɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:46.995Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 46,
+            "chinese": "是；赋值（原型）",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.015Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 47,
+            "chinese": "正在跑步",
+            "english": "be running",
+            "soundmark": "/bi/ /'rʌnɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.086Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 48,
+            "chinese": "正在在街上跑步",
+            "english": "be running in the street",
+            "soundmark": "/bi/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.112Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 49,
+            "chinese": "他",
+            "english": "he",
+            "soundmark": "/hi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.157Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 50,
+            "chinese": "他（现在）正在在街上跑步",
+            "english": "he is running in the street",
+            "soundmark": "/hi/ /ɪz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.311Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 51,
+            "chinese": "在这一刻；此刻",
+            "english": "at the moment",
+            "soundmark": "/æt/ /ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.321Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 52,
+            "chinese": "他此刻正在在街上跑步",
+            "english": "he is running in the street at the moment",
+            "soundmark": "/hi/ /ɪz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/ /æt/ /ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.369Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 53,
+            "chinese": "他（过去）正在在街上跑步",
+            "english": "he was running in the street",
+            "soundmark": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.413Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 54,
+            "chinese": "游泳",
+            "english": "to swim",
+            "soundmark": "/tə/ /swɪm/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.469Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 55,
+            "chinese": "游泳池",
+            "english": "the pool",
+            "soundmark": "/ðə/ /pul/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.469Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 56,
+            "chinese": "在游泳池里",
+            "english": "in the pool",
+            "soundmark": "/ɪn/ /ðə/ /pul/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.481Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 57,
+            "chinese": "在游泳池里游泳",
+            "english": "to swim in the pool",
+            "soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /pul/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.570Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 58,
+            "chinese": "游泳（ing形式）",
+            "english": "swimming",
+            "soundmark": "/'swɪmɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.612Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 59,
+            "chinese": "是；赋值（原型）",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.678Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 60,
+            "chinese": "正在游泳",
+            "english": "be swimming",
+            "soundmark": "/bi/ /'swɪmɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.758Z",
+            "updatedAt": "2024-04-28T12:26:53.964Z"
+        },
+        {
+            "order": 61,
+            "chinese": "正在在游泳池里游泳",
+            "english": "be swimming in the pool",
+            "soundmark": "/bi/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.815Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 62,
+            "chinese": "她",
+            "english": "she",
+            "soundmark": "/ʃi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.820Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 63,
+            "chinese": "她（现在）正在游泳池里游泳",
+            "english": "she is swimming in the pool",
+            "soundmark": "/ʃi/ /ɪz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.865Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 64,
+            "chinese": "在这一刻；此刻",
+            "english": "at the moment",
+            "soundmark": "/æt/ /ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.897Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 65,
+            "chinese": "她此刻正在游泳池里游泳",
+            "english": "she is swimming in the pool at the moment",
+            "soundmark": "/ʃi/ /ɪz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/ /æt/ /ðə/ /moment/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.969Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 66,
+            "chinese": "她（过去）正在游泳池里游泳",
+            "english": "she was swimming in the pool",
+            "soundmark": "/ʃi/ /wəz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:47.984Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 67,
+            "chinese": "他（过去）正在在街上跑步",
+            "english": "he was running in the street",
+            "soundmark": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.027Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 68,
+            "chinese": "与此同时",
+            "english": "while",
+            "soundmark": "/waɪl/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.126Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 69,
+            "chinese": "他（过去）正在在街上跑步与此同时她（过去）正在游泳池里游泳",
+            "english": "he was running in the street while she was swimming in the pool",
+            "soundmark": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/ /waɪl/ /ʃi/ /wəz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.202Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 70,
+            "chinese": "房子",
+            "english": "house",
+            "soundmark": "/haʊs/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.261Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 71,
+            "chinese": "工作",
+            "english": "work",
+            "soundmark": "/wɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.311Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 72,
+            "chinese": "家务",
+            "english": "the housework",
+            "soundmark": "/ðə/ /'haʊswɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.317Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 73,
+            "chinese": "做",
+            "english": "to do",
+            "soundmark": "/tə/ /du/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.336Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 74,
+            "chinese": "做家务",
+            "english": "to do the housework",
+            "soundmark": "/tə/ /du/ /ðə/ /'haʊswɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.461Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 75,
+            "chinese": "做（ing形式）",
+            "english": "doing",
+            "soundmark": "/ˈduɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.472Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 76,
+            "chinese": "是；赋值（原型）",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.478Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 77,
+            "chinese": "正在做",
+            "english": "be doing",
+            "soundmark": "/bi/ /ˈduɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.498Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 78,
+            "chinese": "正在做家务",
+            "english": "be doing the housework",
+            "soundmark": "/bi/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.653Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 79,
+            "chinese": "她",
+            "english": "she",
+            "soundmark": "/ʃi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.665Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 80,
+            "chinese": "她（现在）正在做家务",
+            "english": "she is doing the housework",
+            "soundmark": "/ʃi/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.727Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 81,
+            "chinese": "母亲；妈妈",
+            "english": "mother",
+            "soundmark": "/'mʌðɚ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.780Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 82,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.779Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 83,
+            "chinese": "我的妈妈",
+            "english": "my mother",
+            "soundmark": "/maɪ/ /'mʌðɚ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.846Z",
+            "updatedAt": "2024-04-28T12:26:53.965Z"
+        },
+        {
+            "order": 84,
+            "chinese": "我的妈妈（现在）正在做家务",
+            "english": "my mother is doing the housework",
+            "soundmark": "/maɪ/ /'mʌðɚ/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.938Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 85,
+            "chinese": "在这一刻；此刻",
+            "english": "at the moment",
+            "soundmark": "/æt/ /ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.966Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 86,
+            "chinese": "我妈此刻正在做家务",
+            "english": "my mother is doing the housework at the moment",
+            "soundmark": "/maɪ/ /'mʌðɚ/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/ /æt/ /ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:48.991Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 87,
+            "chinese": "我妈（过去）正在做家务",
+            "english": "my mother was doing the housework",
+            "soundmark": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.016Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 88,
+            "chinese": "说话",
+            "english": "to talk",
+            "soundmark": "/tə/ /tɔk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.101Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 89,
+            "chinese": "手机",
+            "english": "the phone",
+            "soundmark": "/ðə/ /fon/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.178Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 90,
+            "chinese": "在手机上",
+            "english": "on the phone",
+            "soundmark": "/ɑn/ /ðə/ /fon/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.181Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 91,
+            "chinese": "在手机上说话",
+            "english": "to talk on the phone",
+            "soundmark": "/tə/ /tɔk/ /ɑn/ /ðə/ /fon/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.219Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 92,
+            "chinese": "说话（ing形式）",
+            "english": "talking",
+            "soundmark": "/'tɔkɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.229Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 93,
+            "chinese": "是；赋值（原型）",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.343Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 94,
+            "chinese": "正在说话",
+            "english": "be talking",
+            "soundmark": "/bi/ /'tɔkɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.381Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 95,
+            "chinese": "正在在手机上说话",
+            "english": "be talking on the phone",
+            "soundmark": "/bi/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.459Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 96,
+            "chinese": "他",
+            "english": "he",
+            "soundmark": "/hi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.480Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 97,
+            "chinese": "他（现在）正在手机上说话",
+            "english": "he is talking on the phone",
+            "soundmark": "/hi/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.514Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 98,
+            "chinese": "父亲；爸爸",
+            "english": "father",
+            "soundmark": "/'fɑðɚ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.545Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 99,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.622Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 100,
+            "chinese": "我的父亲",
+            "english": "my father",
+            "soundmark": "/maɪ/ /'fɑðɚ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.659Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 101,
+            "chinese": "我爸（现在）正在手机上说话",
+            "english": "my father is talking on the phone",
+            "soundmark": "/maɪ/ /'fɑðɚ/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.670Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 102,
+            "chinese": "在这一刻；此刻",
+            "english": "at the moment",
+            "soundmark": "/æt/ /ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.686Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 103,
+            "chinese": "我爸此刻正在手机上说话",
+            "english": "my father is talking on the phone at the moment",
+            "soundmark": "/maɪ/ /'fɑðɚ/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/ /æt/ /ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.826Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 104,
+            "chinese": "我爸（过去）正在手机上说话",
+            "english": "my father was talking on the phone",
+            "soundmark": "/maɪ/ /'fɑðɚ/ /wəz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.845Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 105,
+            "chinese": "与此同时",
+            "english": "while",
+            "soundmark": "/waɪl/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.946Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 106,
+            "chinese": "我妈（过去）正在做家务",
+            "english": "my mother was doing the housework",
+            "soundmark": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.974Z",
+            "updatedAt": "2024-04-28T12:26:53.966Z"
+        },
+        {
+            "order": 107,
+            "chinese": "我妈（过去）正在做家务与此同时我爸（过去）正在手机上说话",
+            "english": "my mother was doing the housework while my father was talking on the phone",
+            "soundmark": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/ /waɪl/ /maɪ/ /'fɑðɚ/ /wəz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:49.991Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 108,
+            "chinese": "看",
+            "english": "to watch",
+            "soundmark": "/tə/ /wɑtʃ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.005Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 109,
+            "chinese": "电视",
+            "english": "TV",
+            "soundmark": "/ˈtiˈvi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.067Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 110,
+            "chinese": "看电视",
+            "english": "to watch TV",
+            "soundmark": "/tə/ /'wɑtʃ/ /ˈtiˈvi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.092Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 111,
+            "chinese": "看（ing形式）",
+            "english": "watching",
+            "soundmark": "/'wɑtʃɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.115Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 112,
+            "chinese": "是；赋值（原型）",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.347Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 113,
+            "chinese": "正在看",
+            "english": "be watching",
+            "soundmark": "/bi/ /'wɑtʃɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.445Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 114,
+            "chinese": "正在看电视",
+            "english": "be watching TV",
+            "soundmark": "/bi/ /'wɑtʃɪŋ/ /ˈtiˈvi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.445Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 115,
+            "chinese": "她",
+            "english": "she",
+            "soundmark": "/ʃi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.469Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 116,
+            "chinese": "她（现在）正在看电视",
+            "english": "she is watching TV",
+            "soundmark": "/ʃi/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.514Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 117,
+            "chinese": "女儿",
+            "english": "daughter",
+            "soundmark": "/'dɔtɚ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.511Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 118,
+            "chinese": "我的女儿",
+            "english": "my daughter",
+            "soundmark": "/maɪ/ /'dɔtɚ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.513Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 119,
+            "chinese": "我女儿（现在）正在看电视",
+            "english": "my daughter is watching TV",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.524Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 120,
+            "chinese": "在这一刻；此刻",
+            "english": "at the moment",
+            "soundmark": "/æt/ /ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.556Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 121,
+            "chinese": "我女儿此刻正在看电视",
+            "english": "my daughter is watching TV at the moment",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/ /æt/ /ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.578Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 122,
+            "chinese": "我女儿（过去）正在看电视",
+            "english": "my daughter was watching TV",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.894Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 123,
+            "chinese": "烹饪；做饭",
+            "english": "to cook",
+            "soundmark": "/tə/ /kʊk/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.948Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 124,
+            "chinese": "牛肉",
+            "english": "beef",
+            "soundmark": "/bif/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.961Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 125,
+            "chinese": "做牛肉",
+            "english": "to cook beef",
+            "soundmark": "/tə/ /kʊk/ /bif/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.974Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 126,
+            "chinese": "和",
+            "english": "with",
+            "soundmark": "/wɪð/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:50.984Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 127,
+            "chinese": "土豆",
+            "english": "potatoes",
+            "soundmark": "/pə'tetoz/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.020Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 128,
+            "chinese": "和土豆",
+            "english": "with potatoes",
+            "soundmark": "/wɪð/ /pə'tetoz/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.023Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 129,
+            "chinese": "牛肉和土豆",
+            "english": "beef with potatoes",
+            "soundmark": "/bif/ /wɪð/ /pə'tetoz/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.027Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 130,
+            "chinese": "烹饪牛肉和土豆",
+            "english": "to cook beef with potatoes",
+            "soundmark": "/tə/ /kʊk/ /bif/ /wɪð/ /pə'tetoz/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.031Z",
+            "updatedAt": "2024-04-28T12:26:53.967Z"
+        },
+        {
+            "order": 131,
+            "chinese": "烹饪；做饭（ing形式）",
+            "english": "cooking",
+            "soundmark": "/'kʊkɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.139Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        },
+        {
+            "order": 132,
+            "chinese": "是；赋值（原型）",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.354Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        },
+        {
+            "order": 133,
+            "chinese": "正在烹饪",
+            "english": "be cooking",
+            "soundmark": "/bi/ /'kʊkɪŋ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.399Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        },
+        {
+            "order": 134,
+            "chinese": "正在做牛肉烧土豆",
+            "english": "be cooking beef with potatoes",
+            "soundmark": "/bi/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.424Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        },
+        {
+            "order": 135,
+            "chinese": "她",
+            "english": "she",
+            "soundmark": "/ʃi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.451Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        },
+        {
+            "order": 136,
+            "chinese": "她（现在）正在做牛肉烧土豆",
+            "english": "she is cooking beef with potatoes",
+            "soundmark": "/ʃi/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.471Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        },
+        {
+            "order": 137,
+            "chinese": "母亲；妈妈",
+            "english": "mother",
+            "soundmark": "/'mʌðɚ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.473Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        },
+        {
+            "order": 138,
+            "chinese": "她的",
+            "english": "her",
+            "soundmark": "/hɚ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.494Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        },
+        {
+            "order": 139,
+            "chinese": "她的妈妈",
+            "english": "her mother",
+            "soundmark": "/hɚ/ /'mʌðɚ/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.521Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        },
+        {
+            "order": 140,
+            "chinese": "她妈妈（现在）正在做牛肉烧土豆",
+            "english": "her mother is cooking beef with potatoes",
+            "soundmark": "/hɚ/ /'mʌðɚ/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.546Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        },
+        {
+            "order": 141,
+            "chinese": "在这一刻；此刻",
+            "english": "at the moment",
+            "soundmark": "/æt/ /ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.649Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        },
+        {
+            "order": 142,
+            "chinese": "她妈妈此刻正在做牛肉烧土豆",
+            "english": "her mother is cooking beef with potatoes at the moment",
+            "soundmark": "/hɚ/ /'mʌðɚ/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/ /æt/ /ðə/ /'momənt/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.800Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        },
+        {
+            "order": 143,
+            "chinese": "她妈妈（过去）正在做牛肉烧土豆",
+            "english": "her mother was cooking beef with potatoes",
+            "soundmark": "/hɚ/ /'mʌðɚ/ /wəz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.856Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        },
+        {
+            "order": 144,
+            "chinese": "我女儿（过去）正在看电视",
+            "english": "my daughter was watching TV",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.868Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        },
+        {
+            "order": 145,
+            "chinese": "与此同时",
+            "english": "while",
+            "soundmark": "/waɪl/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.918Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        },
+        {
+            "order": 146,
+            "chinese": "我女儿（过去）正在看电视与此同时她妈妈（过去）正在做牛肉烧土豆",
+            "english": "my daughter was watching TV while her mother was cooking beef with potatoes",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/ /waɪl/ /hɚ/ /'mʌðɚ/ /wəz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/",
+            "courseId": "i4py84gpg8lm9ni6l5z0c188",
+            "createdAt": "2024-04-28T12:29:51.946Z",
+            "updatedAt": "2024-04-28T12:26:53.968Z"
+        }
+    ]
+}

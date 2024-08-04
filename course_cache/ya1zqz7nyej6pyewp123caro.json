@@ -1,0 +1,1056 @@
+{
+    "id": "ya1zqz7nyej6pyewp123caro",
+    "title": "第十八课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1vu411B7Lj",
+    "order": 18,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:51.757Z",
+    "updatedAt": "2024-05-23T14:05:59.118Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "吃",
+            "english": "to eat",
+            "soundmark": "/tə/ /it/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.320Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 2,
+            "chinese": "鸡蛋",
+            "english": "eggs",
+            "soundmark": "/ɛgz/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.331Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 3,
+            "chinese": "吃鸡蛋",
+            "english": "to eat eggs",
+            "soundmark": "/tə/ /it/ /ɛgz/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.334Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 4,
+            "chinese": "正在吃",
+            "english": "eating",
+            "soundmark": "/'itɪŋ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.391Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 5,
+            "chinese": "正在吃鸡蛋",
+            "english": "eating eggs",
+            "soundmark": "/'itɪŋ/ /ɛgz/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.447Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 6,
+            "chinese": "我是",
+            "english": "I am",
+            "soundmark": "/aɪ/ /æm/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.496Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 7,
+            "chinese": "我是星荣",
+            "english": "I am Xingrong",
+            "soundmark": "/aɪ/ /æm/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.659Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 8,
+            "chinese": "正在吃鸡蛋",
+            "english": "eating eggs",
+            "soundmark": "/'itɪŋ/ /ɛgz/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.677Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 9,
+            "chinese": "我正在吃鸡蛋",
+            "english": "I am eating eggs",
+            "soundmark": "/aɪ/ /æm/ /'itɪŋ/ /ɛgz/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.691Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 10,
+            "chinese": "厨房",
+            "english": "the kitchen",
+            "soundmark": "/ðə/ /'kɪtʃɪn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.772Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 11,
+            "chinese": "在厨房里",
+            "english": "in the kitchen",
+            "soundmark": "/ɪn/ /ðə/ /'kɪtʃɪn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.786Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 12,
+            "chinese": "我在厨房里（现在）正在吃鸡蛋",
+            "english": "I am eating eggs in the kitchen",
+            "soundmark": "/aɪ/ /æm/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.790Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 13,
+            "chinese": "我在厨房里（过去）正在吃鸡蛋",
+            "english": "I was eating eggs in the kitchen",
+            "soundmark": "/aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.845Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 14,
+            "chinese": "你在厨房里（现在）正在吃鸡蛋",
+            "english": "you are eating eggs in the kitchen",
+            "soundmark": "/ju/ /ɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.893Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 15,
+            "chinese": "你在厨房里（过去）正在吃鸡蛋",
+            "english": "you were eating eggs in the kitchen",
+            "soundmark": "/ju/ /wɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.905Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 16,
+            "chinese": "他们",
+            "english": "they",
+            "soundmark": "/ðe/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:39.935Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 17,
+            "chinese": "他们在厨房里（现在）正在吃鸡蛋",
+            "english": "they are eating eggs in the kitchen",
+            "soundmark": "/ðe/ /ɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.126Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 18,
+            "chinese": "他们在厨房里（过去）正在吃鸡蛋",
+            "english": "they were eating eggs in the kitchen",
+            "soundmark": "/ðe/ /wɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.178Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 19,
+            "chinese": "喝",
+            "english": "to drink",
+            "soundmark": "/tə/ /drɪŋk/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.218Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 20,
+            "chinese": "茶",
+            "english": "tea",
+            "soundmark": "/ti/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.237Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 21,
+            "chinese": "喝茶",
+            "english": "to drink tea",
+            "soundmark": "/tə/ /drɪŋk/ /ti/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.290Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 22,
+            "chinese": "正在喝",
+            "english": "drinking",
+            "soundmark": "/'drɪŋkɪŋ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.358Z",
+            "updatedAt": "2024-04-28T12:26:53.956Z"
+        },
+        {
+            "order": 23,
+            "chinese": "正在喝茶",
+            "english": "drinking tea",
+            "soundmark": "/'drɪŋkɪŋ/ /ti/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.373Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 24,
+            "chinese": "他们",
+            "english": "they",
+            "soundmark": "/ðe/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.379Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 25,
+            "chinese": "他们（现在）正在喝茶",
+            "english": "they are drinking tea",
+            "soundmark": "/ðe/ /ɚ/ /'drɪŋkɪŋ/ /ti/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.395Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 26,
+            "chinese": "花园",
+            "english": "the garden",
+            "soundmark": "/ðə/ /ˈɡɑrdn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.484Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 27,
+            "chinese": "在花园里",
+            "english": "in the garden",
+            "soundmark": "/ɪn/ /ðə/ /ˈɡɑrdn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.573Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 28,
+            "chinese": "他们在花园里（现在）正在喝茶",
+            "english": "they are drinking tea in the garden",
+            "soundmark": "/ðe/ /ɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.666Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 29,
+            "chinese": "茶",
+            "english": "tea",
+            "soundmark": "/tiː/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.670Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 30,
+            "chinese": "他们在花园里（过去）正在喝茶",
+            "english": "they were drinking tea in the garden",
+            "soundmark": "/ðe/ /wɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.681Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 31,
+            "chinese": "我在厨房里（过去）正在吃鸡蛋",
+            "english": "I was eating eggs in the kitchen",
+            "soundmark": "/aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.791Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 32,
+            "chinese": "与此同时",
+            "english": "while",
+            "soundmark": "/waɪl/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.807Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 33,
+            "chinese": "他们在花园里（过去）正在喝茶与此同时我在厨房里（过去）正在吃鸡蛋",
+            "english": "they were drinking tea in the garden while I was eating eggs in the kitchen",
+            "soundmark": "/ðe/ /wɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/ /waɪl/ /aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.812Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 34,
+            "chinese": "教",
+            "english": "to teach",
+            "soundmark": "/tə/ /titʃ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.883Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 35,
+            "chinese": "我们",
+            "english": "us",
+            "soundmark": "/ʌs/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.905Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 36,
+            "chinese": "教我们",
+            "english": "to teach us",
+            "soundmark": "/tə/ /titʃ/ /ʌs/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:40.981Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 37,
+            "chinese": "正在教",
+            "english": "teaching",
+            "soundmark": "/'titʃɪŋ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.030Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 38,
+            "chinese": "正在教我们",
+            "english": "teaching us",
+            "soundmark": "/'titʃɪŋ/ /ʌs/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.117Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 39,
+            "chinese": "说",
+            "english": "to speak",
+            "soundmark": "/tə/ /spik/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.124Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 40,
+            "chinese": "英语",
+            "english": "English",
+            "soundmark": "/ˈɪŋɡlɪʃ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.168Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 41,
+            "chinese": "说英语",
+            "english": "to speak English",
+            "soundmark": "/tə/ /spik/ /ˈɪŋɡlɪʃ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.259Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 42,
+            "chinese": "如何",
+            "english": "how",
+            "soundmark": "/haʊ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.276Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 43,
+            "chinese": "如何说英语",
+            "english": "how to speak English",
+            "soundmark": "/haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.304Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 44,
+            "chinese": "正在教我们如何说英语",
+            "english": "teaching us how to speak English",
+            "soundmark": "/'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.394Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 45,
+            "chinese": "星荣正在教我们如何说英语",
+            "english": "Xingrong is teaching us how to speak English",
+            "soundmark": "/ɪz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.399Z",
+            "updatedAt": "2024-04-28T12:26:53.957Z"
+        },
+        {
+            "order": 46,
+            "chinese": "星荣（过去）正在教我们如何说英语",
+            "english": "Xingrong was teaching us how to speak English",
+            "soundmark": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.478Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 47,
+            "chinese": "学习",
+            "english": "to learn",
+            "soundmark": "/tə/ /lɝn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.558Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 48,
+            "chinese": "英语",
+            "english": "English",
+            "soundmark": "/ˈɪŋɡlɪʃ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.567Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 49,
+            "chinese": "学习英语",
+            "english": "to learn English",
+            "soundmark": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.660Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 50,
+            "chinese": "正在学习",
+            "english": "learning",
+            "soundmark": "/'lɝnɪŋ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.710Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 51,
+            "chinese": "正在学习英语",
+            "english": "learning English",
+            "soundmark": "/'lɝnɪŋ/ /ˈɪŋɡlɪʃ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.717Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 52,
+            "chinese": "我正在学习英语",
+            "english": "I am learning English",
+            "soundmark": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.803Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 53,
+            "chinese": "视频",
+            "english": "videos",
+            "soundmark": "/'vɪdɪoz/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.802Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 54,
+            "chinese": "他的",
+            "english": "his",
+            "soundmark": "/hɪz/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.903Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 55,
+            "chinese": "他的视频",
+            "english": "his videos",
+            "soundmark": "/hɪz/ /'vɪdɪoz/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.912Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 56,
+            "chinese": "观看",
+            "english": "to watch",
+            "soundmark": "/tə/ /wɑtʃ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:41.925Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 57,
+            "chinese": "观看他的视频",
+            "english": "to watch his videos",
+            "soundmark": "/tə/ /wɑtʃ/ /hɪz/ /'vɪdɪoz/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.000Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 58,
+            "chinese": "正在观看",
+            "english": "watching",
+            "soundmark": "/'wɑtʃɪŋ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.016Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 59,
+            "chinese": "正在观看他的视频",
+            "english": "watching his videos",
+            "soundmark": "/'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.161Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 60,
+            "chinese": "通过......的方式",
+            "english": "by",
+            "soundmark": "/baɪ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.160Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 61,
+            "chinese": "通过观看他的视频的方式",
+            "english": "by watching his videos",
+            "soundmark": "/baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.163Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 62,
+            "chinese": "我正在学习英语",
+            "english": "I am learning English",
+            "soundmark": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.309Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 63,
+            "chinese": "我正在通过观看他的视频的方式学习英语",
+            "english": "I am learning English by watching his videos",
+            "soundmark": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.310Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 64,
+            "chinese": "我（过去）正在通过观看他的视频的方式学习英语",
+            "english": "I was learning English by watching his videos",
+            "soundmark": "/aɪ/ /wəz/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.377Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 65,
+            "chinese": "星荣（过去）正在教我们如何说英语",
+            "english": "Xingrong was teaching us how to speak English",
+            "soundmark": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.412Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 66,
+            "chinese": "与此同时",
+            "english": "while",
+            "soundmark": "/waɪl/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.443Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 67,
+            "chinese": "星荣（过去）正在教我们如何说英语与此同时我（过去）正在通过观看他的视频的方式学习英语",
+            "english": "Xingrong was teaching us how to speak English while I was learning English by watching his videos",
+            "soundmark": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/ /waɪl/ /aɪ/ /wəz/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.439Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 68,
+            "chinese": "走路",
+            "english": "to walk",
+            "soundmark": "/tə/ /wɔk/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.462Z",
+            "updatedAt": "2024-04-28T12:26:53.958Z"
+        },
+        {
+            "order": 69,
+            "chinese": "家",
+            "english": "home",
+            "soundmark": "/hom/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.598Z",
+            "updatedAt": "2024-04-28T12:26:53.959Z"
+        },
+        {
+            "order": 70,
+            "chinese": "走路回家",
+            "english": "to walk home",
+            "soundmark": "/tə/ /wɔk/ /hom/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.612Z",
+            "updatedAt": "2024-04-28T12:26:53.959Z"
+        },
+        {
+            "order": 71,
+            "chinese": "学校",
+            "english": "school",
+            "soundmark": "/skul/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.648Z",
+            "updatedAt": "2024-04-28T12:26:53.959Z"
+        },
+        {
+            "order": 72,
+            "chinese": "从",
+            "english": "from",
+            "soundmark": "/frʌm/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.803Z",
+            "updatedAt": "2024-04-28T12:26:53.959Z"
+        },
+        {
+            "order": 73,
+            "chinese": "从学校",
+            "english": "from school",
+            "soundmark": "/frʌm/ /skul/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.814Z",
+            "updatedAt": "2024-04-28T12:26:53.959Z"
+        },
+        {
+            "order": 74,
+            "chinese": "从学校走路回家",
+            "english": "to walk home from school",
+            "soundmark": "/tə/ /wɔk/ /hom/ /frʌm/ /skul/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.830Z",
+            "updatedAt": "2024-04-28T12:26:53.959Z"
+        },
+        {
+            "order": 75,
+            "chinese": "正在从学校走路回家",
+            "english": "walking home from school",
+            "soundmark": "/'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.878Z",
+            "updatedAt": "2024-04-28T12:26:53.959Z"
+        },
+        {
+            "order": 76,
+            "chinese": "我正在从学校走路回家",
+            "english": "I am walking home from school",
+            "soundmark": "/aɪ/ /æm/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.910Z",
+            "updatedAt": "2024-04-28T12:26:53.959Z"
+        },
+        {
+            "order": 77,
+            "chinese": "我（过去）正在从学校走路回家",
+            "english": "I was walking home from school",
+            "soundmark": "/aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.932Z",
+            "updatedAt": "2024-04-28T12:26:53.959Z"
+        },
+        {
+            "order": 78,
+            "chinese": "朋友",
+            "english": "friend",
+            "soundmark": "/frɛnd/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:42.965Z",
+            "updatedAt": "2024-04-28T12:26:53.960Z"
+        },
+        {
+            "order": 79,
+            "chinese": "老的",
+            "english": "old",
+            "soundmark": "/old/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.044Z",
+            "updatedAt": "2024-04-28T12:26:53.960Z"
+        },
+        {
+            "order": 80,
+            "chinese": "一个老朋友",
+            "english": "an old friend",
+            "soundmark": "/ən/ /old/ /frɛnd/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.069Z",
+            "updatedAt": "2024-04-28T12:26:53.960Z"
+        },
+        {
+            "order": 81,
+            "chinese": "遇见",
+            "english": "to meet",
+            "soundmark": "/tə/ /mit/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.136Z",
+            "updatedAt": "2024-04-28T12:26:53.960Z"
+        },
+        {
+            "order": 82,
+            "chinese": "遇见一个老朋友",
+            "english": "to meet an old friend",
+            "soundmark": "/tə/ /mit/ /ən/ /old/ /frɛnd/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.274Z",
+            "updatedAt": "2024-04-28T12:26:53.960Z"
+        },
+        {
+            "order": 83,
+            "chinese": "我（过去）遇见一个老朋友",
+            "english": "I met an old friend",
+            "soundmark": "/aɪ/ /mɛt/ /ən/ /old/ /frɛnd/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.304Z",
+            "updatedAt": "2024-04-28T12:26:53.960Z"
+        },
+        {
+            "order": 84,
+            "chinese": "我（过去）正在从学校走路回家",
+            "english": "I was walking home from school",
+            "soundmark": "/aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.307Z",
+            "updatedAt": "2024-04-28T12:26:53.960Z"
+        },
+        {
+            "order": 85,
+            "chinese": "当......的时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.333Z",
+            "updatedAt": "2024-04-28T12:26:53.960Z"
+        },
+        {
+            "order": 86,
+            "chinese": "当我（过去）正在从学校走路回家的时候",
+            "english": "when I was walking home from school",
+            "soundmark": "/wɛn/ /aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.367Z",
+            "updatedAt": "2024-04-28T12:26:53.960Z"
+        },
+        {
+            "order": 87,
+            "chinese": "当我（过去）正在从学校走路回家的时候我（过去）遇见一个老朋友",
+            "english": "I met an old friend when I was walking home from school",
+            "soundmark": "/aɪ/ /mɛt/ /ən/ /old/ /frɛnd/ /wɛn/ /aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.438Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 88,
+            "chinese": "睡觉",
+            "english": "to sleep",
+            "soundmark": "/tə/ /slip/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.483Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 89,
+            "chinese": "卧室",
+            "english": "the bedroom",
+            "soundmark": "/ðə/ /'bɛdrum/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.493Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 90,
+            "chinese": "在卧室里",
+            "english": "in the bedroom",
+            "soundmark": "/ɪn/ /ðə/ /'bɛdrum/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.517Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 91,
+            "chinese": "在卧室里睡觉",
+            "english": "to sleep in the bedroom",
+            "soundmark": "/tə/ /slip/ /ɪn/ /ðə/ /'bɛdrum/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.653Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 92,
+            "chinese": "正在睡觉",
+            "english": "sleeping",
+            "soundmark": "/ˈslipɪŋ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.719Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 93,
+            "chinese": "正在在卧室里睡觉",
+            "english": "sleeping in the bedroom",
+            "soundmark": "/ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.780Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 94,
+            "chinese": "我正在在卧室里睡觉",
+            "english": "I am sleeping in the bedroom",
+            "soundmark": "/aɪ/ /æm/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.813Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 95,
+            "chinese": "我（过去）正在在卧室里睡觉",
+            "english": "I was sleeping in the bedroom",
+            "soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.816Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 96,
+            "chinese": "打电话",
+            "english": "to call",
+            "soundmark": "/tə/ /kɔl/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.816Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 97,
+            "chinese": "打电话给我",
+            "english": "to call me",
+            "soundmark": "/tə/ /kɔl/ /mi/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.924Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 98,
+            "chinese": "她",
+            "english": "she",
+            "soundmark": "/ʃi/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.962Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 99,
+            "chinese": "她（过去）打电话给我",
+            "english": "she called me",
+            "soundmark": "/ʃi/ /kɔld/ /mi/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.971Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 100,
+            "chinese": "当......的时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:43.999Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 101,
+            "chinese": "当她（过去）打电话给我的时候",
+            "english": "when she called me",
+            "soundmark": "/wɛn/ /ʃi/ /kɔld/ /mi/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.162Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 102,
+            "chinese": "我（过去）正在在卧室里睡觉",
+            "english": "I was sleeping in the bedroom",
+            "soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.172Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 103,
+            "chinese": "当她打电话给我的时候我（过去）正在在卧室里睡觉",
+            "english": "I was sleeping in the bedroom when she called me",
+            "soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/ /wɛn/ /ʃi/ /kɔld/ /mi/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.220Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 104,
+            "chinese": "玩",
+            "english": "to play",
+            "soundmark": "/tə/ /ple/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.264Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 105,
+            "chinese": "钢琴",
+            "english": "the piano",
+            "soundmark": "/ðə/ /pɪ'æno/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.323Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 106,
+            "chinese": "弹钢琴",
+            "english": "to play the piano",
+            "soundmark": "/tə/ /ple/ /ðə/ /pɪ'æno/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.327Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 107,
+            "chinese": "正在玩",
+            "english": "playing",
+            "soundmark": "/pleɪŋ/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.358Z",
+            "updatedAt": "2024-04-28T12:26:53.961Z"
+        },
+        {
+            "order": 108,
+            "chinese": "正在弹钢琴",
+            "english": "playing the piano",
+            "soundmark": "/pleɪŋ/ /ðə/ /pɪ'æno/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.410Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 109,
+            "chinese": "她正在弹钢琴",
+            "english": "she is playing the piano",
+            "soundmark": "/ʃi/ /ɪz/ /pleɪŋ/ /ðə/ /pɪ'æno/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.466Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 110,
+            "chinese": "她（过去）正在弹钢琴",
+            "english": "she was playing the piano",
+            "soundmark": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.517Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 111,
+            "chinese": "起居室；客厅",
+            "english": "the living room",
+            "soundmark": "/ðə/ /'lɪvɪŋ/ /rum/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.617Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 112,
+            "chinese": "在客厅",
+            "english": "in the living room",
+            "soundmark": "/ɪn/ /ðə/ /'lɪvɪŋ/ /rum/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.669Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 113,
+            "chinese": "她（过去）正在在客厅弹钢琴",
+            "english": "she was playing the piano in the living room",
+            "soundmark": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/ /ɪn/ /ðə/ /'lɪvɪŋ/ /rum/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.669Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 114,
+            "chinese": "与此同时",
+            "english": "while",
+            "soundmark": "/waɪl/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.711Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 115,
+            "chinese": "我（过去）正在在卧室里睡觉",
+            "english": "I was sleeping in the bedroom",
+            "soundmark": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.821Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        },
+        {
+            "order": 116,
+            "chinese": "她（过去）正在在客厅弹钢琴与此同时我（过去）正在在卧室里睡觉",
+            "english": "she was playing the piano in the living room while I was sleeping in the bedroom",
+            "soundmark": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/ /ɪn/ /ðə/ /'lɪvɪŋ/ /rum/ /waɪl/ /aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+            "courseId": "ya1zqz7nyej6pyewp123caro",
+            "createdAt": "2024-04-28T12:29:44.834Z",
+            "updatedAt": "2024-04-28T12:26:53.962Z"
+        }
+    ]
+}

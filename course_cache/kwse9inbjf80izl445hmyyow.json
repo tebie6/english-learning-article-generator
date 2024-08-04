@@ -1,0 +1,1605 @@
+{
+    "id": "kwse9inbjf80izl445hmyyow",
+    "title": "第四十四课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1GM4y1j7S6",
+    "order": 44,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:52.967Z",
+    "updatedAt": "2024-05-23T14:06:01.841Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "问",
+            "english": "to ask",
+            "soundmark": "/tə/ /æsk/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:41.671Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 2,
+            "chinese": "问题",
+            "english": "questions",
+            "soundmark": "/'kwɛstʃənz/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:41.725Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 3,
+            "chinese": "问问题",
+            "english": "to ask questions",
+            "soundmark": "/tə/ /æsk/ /'kwɛstʃənz/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:41.854Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 4,
+            "chinese": "时间",
+            "english": "time",
+            "soundmark": "/taɪm/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:41.957Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 5,
+            "chinese": "任何",
+            "english": "any",
+            "soundmark": "/'ɛni/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:41.986Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 6,
+            "chinese": "任何时间",
+            "english": "any time",
+            "soundmark": "/'ɛni/ /taɪm/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:41.993Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 7,
+            "chinese": "在任何时间",
+            "english": "at any time",
+            "soundmark": "/ət/ /'ɛni/ /taɪm/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.015Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 8,
+            "chinese": "随时提问",
+            "english": "to ask questions at any time",
+            "soundmark": "/tə/ /æsk/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.034Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 9,
+            "chinese": "随时提问(ing形式)",
+            "english": "asking questions at any time",
+            "soundmark": "/ˈæskɪŋ/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.100Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 10,
+            "chinese": "允许",
+            "english": "to permit",
+            "soundmark": "/tə/ /pɚˈmɪt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.114Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 11,
+            "chinese": "老师",
+            "english": "the teacher",
+            "soundmark": "/ðə/ /'titʃɚ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.187Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 12,
+            "chinese": "老师允许",
+            "english": "the teacher permits",
+            "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.207Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 13,
+            "chinese": "老师允许随时提问",
+            "english": "the teacher permits asking questions at any time",
+            "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /ˈæskɪŋ/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.368Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 14,
+            "chinese": "家",
+            "english": "home",
+            "soundmark": "/hom/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.407Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 15,
+            "chinese": "从",
+            "english": "from",
+            "soundmark": "/frʌm/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.464Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 16,
+            "chinese": "从家里",
+            "english": "from home",
+            "soundmark": "/frʌm/ /hom/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.466Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 17,
+            "chinese": "工作",
+            "english": "to work",
+            "soundmark": "/tə/ /wɝk/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.509Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 18,
+            "chinese": "从家里工作",
+            "english": "to work from home",
+            "soundmark": "/tə/ /wɝk/ /frʌm/ /hom/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.557Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 19,
+            "chinese": "周五",
+            "english": "Friday",
+            "soundmark": "/ˈfraɪde/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.569Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 20,
+            "chinese": "在周五",
+            "english": "on Friday",
+            "soundmark": "/ɑn/ /ˈfraɪde/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.651Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 21,
+            "chinese": "在周五居家办公",
+            "english": "to work from home on Fridays",
+            "soundmark": "/tə/ /wɝk/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.736Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 22,
+            "chinese": "在周五居家办公(ing形式)",
+            "english": "working from home on Fridays",
+            "soundmark": "/ˈwɝkɪŋ/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.868Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 23,
+            "chinese": "允许",
+            "english": "to permit",
+            "soundmark": "/tə/ /pɚˈmɪt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.888Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 24,
+            "chinese": "公司",
+            "english": "the company",
+            "soundmark": "/ðə/ /ˈkʌmpəni/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.900Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 25,
+            "chinese": "公司允许",
+            "english": "the company permits",
+            "soundmark": "/ðə/ /ˈkʌmpəni/ /pɚˈmɪts/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.918Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 26,
+            "chinese": "公司允许在周五居家办公",
+            "english": "the company permits working from home on Fridays",
+            "soundmark": "/ðə/ /ˈkʌmpəni/ /pɚˈmɪts/ /ˈwɝkɪŋ/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:42.930Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 27,
+            "chinese": "音乐",
+            "english": "music",
+            "soundmark": "/'mjuzɪk/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.028Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 28,
+            "chinese": "听",
+            "english": "to listen",
+            "soundmark": "/tə/ /'lɪsn/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.093Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 29,
+            "chinese": "听音乐",
+            "english": "to listen to music",
+            "soundmark": "/tə/ /'lɪsn/ /tə/ /'mjuzɪk/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.107Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 30,
+            "chinese": "打破",
+            "english": "to break",
+            "soundmark": "/tə/ /brek/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.252Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 31,
+            "chinese": "休息",
+            "english": "break",
+            "soundmark": "/brek/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.322Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 32,
+            "chinese": "在......期间",
+            "english": "during",
+            "soundmark": "/'dʊrɪŋ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.329Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 33,
+            "chinese": "在休息期间",
+            "english": "during the break",
+            "soundmark": "/'dʊrɪŋ/ /ðə/ /brek/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.332Z",
+            "updatedAt": "2024-04-28T12:26:54.129Z"
+        },
+        {
+            "order": 34,
+            "chinese": "在休息期间听音乐",
+            "english": "to listen to music during the break",
+            "soundmark": "/tə/ /'lɪsn/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.374Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 35,
+            "chinese": "在休息期间听音乐(ing形式)",
+            "english": "listening to music during the break",
+            "soundmark": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.392Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 36,
+            "chinese": "允许",
+            "english": "to permit",
+            "soundmark": "/tə/ /pɚˈmɪt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.424Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 37,
+            "chinese": "老师",
+            "english": "the teacher",
+            "soundmark": "/ðə/ /'titʃɚ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.476Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 38,
+            "chinese": "老师允许",
+            "english": "the teacher permits",
+            "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.552Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 39,
+            "chinese": "老师允许在休息期间听音乐",
+            "english": "the teacher permits listening to music during the break",
+            "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.613Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 40,
+            "chinese": "玩",
+            "english": "to play",
+            "soundmark": "/tə/ /ple/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.762Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 41,
+            "chinese": "游戏",
+            "english": "games",
+            "soundmark": "/ɡemz/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.770Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 42,
+            "chinese": "玩游戏",
+            "english": "to play games",
+            "soundmark": "/tə/ /ple/ /ɡemz/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.787Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 43,
+            "chinese": "玩游戏(ing形式)",
+            "english": "playing games",
+            "soundmark": "/ˈpleɪŋ/ /ɡemz/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.823Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 44,
+            "chinese": "听音乐(ing形式)",
+            "english": "listening to music",
+            "soundmark": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.835Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 45,
+            "chinese": "或者",
+            "english": "or",
+            "soundmark": "/ɔr/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.917Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 46,
+            "chinese": "听音乐或者玩游戏(ing形式)",
+            "english": "listening to music or playing games",
+            "soundmark": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /ɔr/ /ˈpleɪŋ/ /ɡemz/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:43.921Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 47,
+            "chinese": "老师允许在休息期间听音乐或者玩游戏",
+            "english": "the teacher permits listening to music or playing games during the break",
+            "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /ɔr/ /ˈpleɪŋ/ /ɡemz/ /'dʊrɪŋ/ /ðə/ /brek/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.014Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 48,
+            "chinese": "在......期间",
+            "english": "during",
+            "soundmark": "/'dʊrɪŋ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.122Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 49,
+            "chinese": "测验",
+            "english": "test",
+            "soundmark": "/tɛst/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.203Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 50,
+            "chinese": "在这个测验期间",
+            "english": "during the test",
+            "soundmark": "/'dʊrɪŋ/ /ðə/ /tɛst/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.201Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 51,
+            "chinese": "使用",
+            "english": "to use",
+            "soundmark": "/tə/ /juz/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.245Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 52,
+            "chinese": "计算器",
+            "english": "calculator",
+            "soundmark": "/ˈkælkjuletɚ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.278Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 53,
+            "chinese": "使用计算器",
+            "english": "to use calculators",
+            "soundmark": "/tə/ /juz/ /ˈkælkjuletɚz/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.281Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 54,
+            "chinese": "使用计算器(ing形式)",
+            "english": "using calculators",
+            "soundmark": "/'juzɪŋ/ /ˈkælkjuletɚz/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.326Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 55,
+            "chinese": "允许",
+            "english": "to permit",
+            "soundmark": "/tə/ /pɚˈmɪt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.371Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 56,
+            "chinese": "老师允许",
+            "english": "the teacher permits",
+            "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.421Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 57,
+            "chinese": "老师允许使用计算器",
+            "english": "the teacher permits using calculators",
+            "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'juzɪŋ/ /ˈkælkjuletɚz/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.472Z",
+            "updatedAt": "2024-04-28T12:26:54.130Z"
+        },
+        {
+            "order": 58,
+            "chinese": "在这个测验期间",
+            "english": "during the test",
+            "soundmark": "/'dʊrɪŋ/ /ðə/ /tɛst/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.641Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 59,
+            "chinese": "老师允许在这个测验期间使用计算器",
+            "english": "the teacher permits using calculators during the test",
+            "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'juzɪŋ/ /ˈkælkjuletɚz/ /'dʊrɪŋ/ /ðə/ /tɛst/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.657Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 60,
+            "chinese": "喝",
+            "english": "to drink",
+            "soundmark": "/tə/ /drɪŋk/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.705Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 61,
+            "chinese": "水",
+            "english": "water",
+            "soundmark": "/'wɔtɚ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.704Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 62,
+            "chinese": "喝水",
+            "english": "to drink water",
+            "soundmark": "/tə/ /drɪŋk/ /'wɔtɚ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.726Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 63,
+            "chinese": "测试",
+            "english": "test",
+            "soundmark": "/tɛst/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.794Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 64,
+            "chinese": "血液",
+            "english": "blood",
+            "soundmark": "/blʌd/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.823Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 65,
+            "chinese": "血液测试",
+            "english": "the blood test",
+            "soundmark": "/ðə/ /blʌd/ /tɛst/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.824Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 66,
+            "chinese": "在......之前",
+            "english": "before",
+            "soundmark": "/bɪ'fɔr/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.923Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 67,
+            "chinese": "在血液测试之前",
+            "english": "before the blood test",
+            "soundmark": "/bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:44.949Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 68,
+            "chinese": "在血液测试之前喝水",
+            "english": "to drink water before the blood test",
+            "soundmark": "/tə/ /drɪŋk/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.088Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 69,
+            "chinese": "在血液测试之前喝水(ing形式)",
+            "english": "drinking water before the blood test",
+            "soundmark": "/'drɪŋkɪŋ/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.143Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 70,
+            "chinese": "允许",
+            "english": "to permit",
+            "soundmark": "/tə/ /pɚˈmɪt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.151Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 71,
+            "chinese": "医生",
+            "english": "the doctor",
+            "soundmark": "/ðə/ /'dɑktɚ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.186Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 72,
+            "chinese": "医生允许",
+            "english": "the doctor permits",
+            "soundmark": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.214Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 73,
+            "chinese": "医生允许喝水",
+            "english": "the doctor permits drinking water",
+            "soundmark": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/ /'drɪŋkɪŋ/ /'wɔtɚ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.286Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 74,
+            "chinese": "医生允许在血液测试之前喝水",
+            "english": "the doctor permits drinking water before the blood test",
+            "soundmark": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/ /'drɪŋkɪŋ/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.323Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 75,
+            "chinese": "驾驶",
+            "english": "to drive",
+            "soundmark": "/draɪv/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.323Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 76,
+            "chinese": "驾驶(ing形式)",
+            "english": "driving",
+            "soundmark": "/'draɪvɪŋ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.371Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 77,
+            "chinese": "允许",
+            "english": "to permit",
+            "soundmark": "/tə/ /pɚˈmɪt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.468Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 78,
+            "chinese": "政策",
+            "english": "policy",
+            "soundmark": "/ˈpɑləsi/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.522Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 79,
+            "chinese": "政策允许",
+            "english": "the policy permits",
+            "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.603Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 80,
+            "chinese": "政策允许驾驶",
+            "english": "the policy permits driving",
+            "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.628Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 81,
+            "chinese": "执照",
+            "english": "license",
+            "soundmark": "/ˈlaɪsns/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.645Z",
+            "updatedAt": "2024-04-28T12:26:54.131Z"
+        },
+        {
+            "order": 82,
+            "chinese": "有效的",
+            "english": "valid",
+            "soundmark": "/ˈvælɪd/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.723Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 83,
+            "chinese": "一个有效的执照",
+            "english": "a valid license",
+            "soundmark": "/ə/ /ˈvælɪd/ /ˈlaɪsns/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.728Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 84,
+            "chinese": "拥有",
+            "english": "have",
+            "soundmark": "/hæv/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.820Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 85,
+            "chinese": "你拥有",
+            "english": "you have",
+            "soundmark": "/ju/ /hæv/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.817Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 86,
+            "chinese": "你拥有一个有效的执照",
+            "english": "you have a valid license",
+            "soundmark": "/ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.836Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 87,
+            "chinese": "如果",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.966Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 88,
+            "chinese": "如果你拥有一个有效的执照",
+            "english": "if you have a valid license",
+            "soundmark": "/ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:45.969Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 89,
+            "chinese": "政策允许驾驶",
+            "english": "the policy permits driving",
+            "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.047Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 90,
+            "chinese": "政策允许开车如果你拥有一个有效的执照",
+            "english": "the policy permits driving if you have a valid license",
+            "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/ /ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.082Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 91,
+            "chinese": "旅行",
+            "english": "to travel",
+            "soundmark": "/tə/ /'trævl/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.172Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 92,
+            "chinese": "出国",
+            "english": "abroad",
+            "soundmark": "/ə'brɔd/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.243Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 93,
+            "chinese": "出国旅行",
+            "english": "to travel abroad",
+            "soundmark": "/tə/ /'trævl/ /ə'brɔd/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.262Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 94,
+            "chinese": "出国旅行(ing形式)",
+            "english": "traveling abroad",
+            "soundmark": "/'trævlɪŋ/ /ə'brɔd/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.307Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 95,
+            "chinese": "允许",
+            "english": "to permit",
+            "soundmark": "/tə/ /pɚˈmɪt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.339Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 96,
+            "chinese": "政策",
+            "english": "policy",
+            "soundmark": "/ˈpɑləsi/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.415Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 97,
+            "chinese": "政策允许",
+            "english": "the policy permits",
+            "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.430Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 98,
+            "chinese": "政策允许出国旅行",
+            "english": "the policy permits traveling abroad",
+            "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.466Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 99,
+            "chinese": "护照",
+            "english": "passport",
+            "soundmark": "/'pæspɔrt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.494Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 100,
+            "chinese": "有效的",
+            "english": "valid",
+            "soundmark": "/ˈvælɪd/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.527Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 101,
+            "chinese": "一个有效的护照",
+            "english": "a valid passport",
+            "soundmark": "/ə/ /ˈvælɪd/ /'pæspɔrt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.617Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 102,
+            "chinese": "你拥有",
+            "english": "you have",
+            "soundmark": "/ju/ /hæv/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.714Z",
+            "updatedAt": "2024-04-28T12:26:54.132Z"
+        },
+        {
+            "order": 103,
+            "chinese": "你拥有一个有效的护照",
+            "english": "you have a valid passport",
+            "soundmark": "/ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.755Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 104,
+            "chinese": "如果你拥有一个有效的护照",
+            "english": "if you have a valid passport",
+            "soundmark": "/ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.813Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 105,
+            "chinese": "政策允许出国旅行",
+            "english": "the policy permits traveling abroad",
+            "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.846Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 106,
+            "chinese": "政策允许出国旅行如果你拥有一个有效的护照",
+            "english": "the policy permits traveling abroad if you have a valid passport",
+            "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/ /ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.855Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 107,
+            "chinese": "抽烟",
+            "english": "to smoke",
+            "soundmark": "/tə/ /smok/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.920Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 108,
+            "chinese": "抽烟(ing形式)",
+            "english": "smoking",
+            "soundmark": "/ˈsmokɪŋ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.949Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 109,
+            "chinese": "允许",
+            "english": "to permit",
+            "soundmark": "/tə/ /pɚˈmɪt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.975Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 110,
+            "chinese": "我们允许",
+            "english": "we permit",
+            "soundmark": "/wi/ /pɚˈmɪt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:46.986Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 111,
+            "chinese": "我们允许抽烟",
+            "english": "we permit smoking",
+            "soundmark": "/wi/ /pɚˈmɪt/ /ˈsmokɪŋ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.063Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 112,
+            "chinese": "我们不允许抽烟",
+            "english": "we don't permit smoking",
+            "soundmark": "/wi/ /dont/ /pɚˈmɪt/ /ˈsmokɪŋ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.166Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 113,
+            "chinese": "办公室",
+            "english": "office",
+            "soundmark": "/'ɑfɪs/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.264Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 114,
+            "chinese": "在办公室里",
+            "english": "in the office",
+            "soundmark": "/ɪn/ /ði/ /'ɑfɪs/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.284Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 115,
+            "chinese": "我们不允许在办公室里抽烟",
+            "english": "we don't permit smoking in the office",
+            "soundmark": "/wi/ /dont/ /pɚˈmɪt/ /ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.307Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 116,
+            "chinese": "禁止",
+            "english": "to prohibit",
+            "soundmark": "/tə/ /prəˈhɪbɪt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.360Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 117,
+            "chinese": "我们禁止",
+            "english": "we prohibit",
+            "soundmark": "/wi/ /prəˈhɪbɪt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.402Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 118,
+            "chinese": "在办公室里抽烟(ing形式)",
+            "english": "smoking in the office",
+            "soundmark": "/ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.421Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 119,
+            "chinese": "我们禁止在办公室里抽烟",
+            "english": "we prohibit smoking in the office",
+            "soundmark": "/wi/ /prəˈhɪbɪt/ /ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.434Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 120,
+            "chinese": "公共场所",
+            "english": "public",
+            "soundmark": "/ˈpʌblɪk/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.468Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 121,
+            "chinese": "在公共场所",
+            "english": "in public",
+            "soundmark": "/ɪn/ /ˈpʌblɪk/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.520Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 122,
+            "chinese": "我们禁止在公共场所抽烟",
+            "english": "we prohibit smoking in public",
+            "soundmark": "/wi/ /prəˈhɪbɪt/ /ˈsmokɪŋ/ /ɪn/ /ˈpʌblɪk/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.624Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 123,
+            "chinese": "禁止",
+            "english": "to prohibit",
+            "soundmark": "/tə/ /prəˈhɪbɪt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.717Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 124,
+            "chinese": "法律",
+            "english": "the law",
+            "soundmark": "/ðə/ /lɔ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.773Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 125,
+            "chinese": "法律禁止",
+            "english": "the law prohibits",
+            "soundmark": "/ðə/ /lɔ/ /prəˈhɪbɪts/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.805Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 126,
+            "chinese": "执照",
+            "english": "license",
+            "soundmark": "/ˈlaɪsns/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.856Z",
+            "updatedAt": "2024-04-28T12:26:54.133Z"
+        },
+        {
+            "order": 127,
+            "chinese": "有效的",
+            "english": "valid",
+            "soundmark": "/ˈvælɪd/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.875Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 128,
+            "chinese": "一个有效的执照",
+            "english": "a valid license",
+            "soundmark": "/ə/ /ˈvælɪd/ /ˈlaɪsns/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.882Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 129,
+            "chinese": "驾驶",
+            "english": "to drive",
+            "soundmark": "/tə/ /draɪv/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.914Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 130,
+            "chinese": "和......一起",
+            "english": "with",
+            "soundmark": "/wɪð/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.969Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 131,
+            "chinese": "和一个有效的执照一起驾驶",
+            "english": "to drive with a valid license",
+            "soundmark": "/tə/ /draɪv/ /wɪð/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:47.985Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 132,
+            "chinese": "不和......一起",
+            "english": "without",
+            "soundmark": "/wɪð'aʊt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.075Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 133,
+            "chinese": "无证驾驶",
+            "english": "to drive without a valid license",
+            "soundmark": "/tə/ /draɪv/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.159Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 134,
+            "chinese": "无证驾驶(ing形式)",
+            "english": "driving without a valid license",
+            "soundmark": "/'draɪvɪŋ/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.276Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 135,
+            "chinese": "禁止",
+            "english": "to prohibit",
+            "soundmark": "/tə/ /prəˈhɪbɪt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.297Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 136,
+            "chinese": "法律",
+            "english": "the law",
+            "soundmark": "/ðə/ /lɔ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.304Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 137,
+            "chinese": "法律禁止",
+            "english": "the law prohibits",
+            "soundmark": "/ðə/ /lɔ/ /prəˈhɪbɪts/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.316Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 138,
+            "chinese": "法律禁止无证驾驶",
+            "english": "the law prohibits driving without a valid license",
+            "soundmark": "/ðə/ /lɔ/ /prəˈhɪbɪts/ /'draɪvɪŋ/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.390Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 139,
+            "chinese": "禁止",
+            "english": "to prohibit",
+            "soundmark": "/tə/ /prəˈhɪbɪt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.412Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 140,
+            "chinese": "老师",
+            "english": "the teacher",
+            "soundmark": "/ðə/ /'titʃɚ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.435Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 141,
+            "chinese": "老师禁止",
+            "english": "the teacher prohibits",
+            "soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.523Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 142,
+            "chinese": "家庭作业",
+            "english": "homework",
+            "soundmark": "/'homwɝk/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.609Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 143,
+            "chinese": "复制",
+            "english": "to copy",
+            "soundmark": "/tə/ /ˈkɑpɪ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.751Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 144,
+            "chinese": "抄作业",
+            "english": "to copy homework",
+            "soundmark": "/tə/ /ˈkɑpɪ/ /'homwɝk/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.765Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 145,
+            "chinese": "其他人",
+            "english": "others",
+            "soundmark": "/'ʌðɚz/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.775Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 146,
+            "chinese": "从......那里",
+            "english": "from",
+            "soundmark": "/frʌm/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.782Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 147,
+            "chinese": "从其他人那里",
+            "english": "from others",
+            "soundmark": "/frʌm/ /'ʌðɚz/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.792Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 148,
+            "chinese": "从其他人那里抄作业",
+            "english": "to copy homework from others",
+            "soundmark": "/tə/ /ˈkɑpɪ/ /'homwɝk/ /frʌm/ /'ʌðɚz/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.879Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 149,
+            "chinese": "从其他人那里抄作业(ing形式)",
+            "english": "copying homework from others",
+            "soundmark": "/ˈkɑpɪɪŋ/ /'homwɝk/ /frʌm/ /'ʌðɚz/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.912Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 150,
+            "chinese": "老师禁止",
+            "english": "the teacher prohibits",
+            "soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:48.968Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 151,
+            "chinese": "老师禁止从其他人那里抄作业",
+            "english": "the teacher prohibits copying homework from others",
+            "soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/ /ˈkɑpɪɪŋ/ /'homwɝk/ /frʌm/ /'ʌðɚz/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.042Z",
+            "updatedAt": "2024-04-28T12:26:54.134Z"
+        },
+        {
+            "order": 152,
+            "chinese": "老师禁止",
+            "english": "the teacher prohibits",
+            "soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.199Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 153,
+            "chinese": "说话",
+            "english": "to talk",
+            "soundmark": "/tə/ /tɔk/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.207Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 154,
+            "chinese": "笑",
+            "english": "to laugh",
+            "soundmark": "/tə/ /læf/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.269Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 155,
+            "chinese": "或者",
+            "english": "or",
+            "soundmark": "/ɔr/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.281Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 156,
+            "chinese": "说话或者笑",
+            "english": "to talk or to laugh",
+            "soundmark": "/tə/ /tɔk/ /ɔr/ /tə/ /læf/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.291Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 157,
+            "chinese": "说笑(ing形式)",
+            "english": "talking or laughing",
+            "soundmark": "/'tɔkɪŋ/ /ɔr/ /'læfɪŋ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.320Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 158,
+            "chinese": "测验",
+            "english": "test",
+            "soundmark": "/tɛst/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.413Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 159,
+            "chinese": "在......期间",
+            "english": "during",
+            "soundmark": "/'dʊrɪŋ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.421Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 160,
+            "chinese": "在这个测验期间",
+            "english": "during the test",
+            "soundmark": "/'dʊrɪŋ/ /ðə/ /tɛst/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.474Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 161,
+            "chinese": "在这个测验期间说笑(ing形式)",
+            "english": "talking or laughing during the test",
+            "soundmark": "/'tɔkɪŋ/ /ɔr/ /'læfɪŋ/ /'dʊrɪŋ/ /ðə/ /tɛst/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.522Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 162,
+            "chinese": "老师禁止",
+            "english": "the teacher prohibits",
+            "soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.646Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 163,
+            "chinese": "老师禁止在这个测验期间说笑",
+            "english": "the teacher prohibits talking or laughing during the test",
+            "soundmark": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/ /'tɔkɪŋ/ /ɔr/ /'læfɪŋ/ /'dʊrɪŋ/ /ðə/ /tɛst/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.660Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 164,
+            "chinese": "禁止",
+            "english": "to prohibit",
+            "soundmark": "/tə/ /prəˈhɪbɪt/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.768Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 165,
+            "chinese": "学校",
+            "english": "the school",
+            "soundmark": "/ðə/ /skul/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.775Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 166,
+            "chinese": "学校禁止",
+            "english": "the school prohibits",
+            "soundmark": "/ðə/ /skul/ /prəˈhɪbɪts/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.787Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 167,
+            "chinese": "吃",
+            "english": "to eat",
+            "soundmark": "/tə/ /it/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.801Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 168,
+            "chinese": "喝",
+            "english": "to drink",
+            "soundmark": "/tə/ /drɪŋk/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.867Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 169,
+            "chinese": "吃或者喝",
+            "english": "to eat or to drink",
+            "soundmark": "/tə/ /it/ /ɔr/ /tə/ /drɪŋk/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.906Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 170,
+            "chinese": "吃喝(ing形式)",
+            "english": "eating or drinking",
+            "soundmark": "/'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:49.927Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 171,
+            "chinese": "课程",
+            "english": "class",
+            "soundmark": "/klæs/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:50.032Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 172,
+            "chinese": "房间",
+            "english": "room",
+            "soundmark": "/rum/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:50.111Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 173,
+            "chinese": "教室",
+            "english": "classroom",
+            "soundmark": "/'klæsrum/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:50.111Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 174,
+            "chinese": "在教室里",
+            "english": "in the classroom",
+            "soundmark": "/ɪn/ /ðə/ /'klæsrum/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:50.217Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 175,
+            "chinese": "在教室里吃喝(ing形式)",
+            "english": "eating or drinking in the classroom",
+            "soundmark": "/'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/ /ɪn/ /ðə/ /'klæsrum/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:50.271Z",
+            "updatedAt": "2024-04-28T12:26:54.135Z"
+        },
+        {
+            "order": 176,
+            "chinese": "学校禁止",
+            "english": "the school prohibits",
+            "soundmark": "/ðə/ /skul/ /prəˈhɪbɪts/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:50.289Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 177,
+            "chinese": "学校禁止在教室里吃喝",
+            "english": "the school prohibits eating or drinking in the classroom",
+            "soundmark": "/ðə/ /skul/ /prəˈhɪbɪts/ /'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/ /ɪn/ /ðə/ /'klæsrum/",
+            "courseId": "kwse9inbjf80izl445hmyyow",
+            "createdAt": "2024-04-28T12:32:50.311Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        }
+    ]
+}

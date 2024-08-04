@@ -1,0 +1,1569 @@
+{
+    "id": "ic3kvwxx0bwotyihv6y9o4b7",
+    "title": "第四十九课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1Wa4y167c2",
+    "order": 49,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:53.257Z",
+    "updatedAt": "2024-05-23T14:06:02.362Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "解决",
+            "english": "to solve",
+            "soundmark": "/tə/ /sɑlv/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:15.591Z",
+            "updatedAt": "2024-04-28T12:26:54.158Z"
+        },
+        {
+            "order": 2,
+            "chinese": "解决办法",
+            "english": "solution",
+            "soundmark": "/səˈluʃn/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:15.622Z",
+            "updatedAt": "2024-04-28T12:26:54.158Z"
+        },
+        {
+            "order": 3,
+            "chinese": "那个问题",
+            "english": "the problem",
+            "soundmark": "/ðə/ /'prɑbləm/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:15.678Z",
+            "updatedAt": "2024-04-28T12:26:54.158Z"
+        },
+        {
+            "order": 4,
+            "chinese": "那个问题的一个解决办法",
+            "english": "a solution to the problem",
+            "soundmark": "/ə/ /səˈluʃn/ /tə/ /ðə/ /'prɑbləm/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:15.692Z",
+            "updatedAt": "2024-04-28T12:26:54.158Z"
+        },
+        {
+            "order": 5,
+            "chinese": "找到",
+            "english": "to find",
+            "soundmark": "/tə/ /faɪnd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:15.806Z",
+            "updatedAt": "2024-04-28T12:26:54.158Z"
+        },
+        {
+            "order": 6,
+            "chinese": "找到(过去分词)",
+            "english": "found",
+            "soundmark": "/faʊnd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:15.837Z",
+            "updatedAt": "2024-04-28T12:26:54.158Z"
+        },
+        {
+            "order": 7,
+            "chinese": "我们(已经)找到",
+            "english": "we have found",
+            "soundmark": "/wi/ /hæv/ /faʊnd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:15.935Z",
+            "updatedAt": "2024-04-28T12:26:54.158Z"
+        },
+        {
+            "order": 8,
+            "chinese": "我们(已经)找到那个问题的一个解决办法",
+            "english": "we have found a solution to the problem",
+            "soundmark": "/wi/ /hæv/ /faʊnd/ /ə/ /səˈluʃn/ /tə/ /ðə/ /'prɑbləm/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:15.942Z",
+            "updatedAt": "2024-04-28T12:26:54.158Z"
+        },
+        {
+            "order": 9,
+            "chinese": "还没有",
+            "english": "haven't",
+            "soundmark": "/ˈhævnt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:15.963Z",
+            "updatedAt": "2024-04-28T12:26:54.158Z"
+        },
+        {
+            "order": 10,
+            "chinese": "我们(还没有)找到那个问题的一个解决办法",
+            "english": "we haven't found a solution to the problem",
+            "soundmark": "/wi/ /ˈhævnt/ /faʊnd/ /ə/ /səˈluʃn/ /tə/ /ðə/ /'prɑbləm/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.040Z",
+            "updatedAt": "2024-04-28T12:26:54.158Z"
+        },
+        {
+            "order": 11,
+            "chinese": "参观",
+            "english": "to visit",
+            "soundmark": "/tə/ /'vɪzɪt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.075Z",
+            "updatedAt": "2024-04-28T12:26:54.158Z"
+        },
+        {
+            "order": 12,
+            "chinese": "参观(过去分词)",
+            "english": "visited",
+            "soundmark": "/'vɪzɪtɪd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.118Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 13,
+            "chinese": "他们(已经)参观过",
+            "english": "they have visited",
+            "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.135Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 14,
+            "chinese": "博物馆",
+            "english": "museum",
+            "soundmark": "/mjuˈziəm/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.167Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 15,
+            "chinese": "那个博物馆",
+            "english": "that museum",
+            "soundmark": "/ðæt/ /mjuˈziəm/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.285Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 16,
+            "chinese": "他们(已经)参观过那个博物馆",
+            "english": "they have visited that museum",
+            "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.305Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 17,
+            "chinese": "两次",
+            "english": "twice",
+            "soundmark": "/twaɪs/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.386Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 18,
+            "chinese": "他们(已经)参观过那个博物馆两次",
+            "english": "they have visited that museum twice",
+            "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/ /twaɪs/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.396Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 19,
+            "chinese": "遗弃",
+            "english": "to abandon",
+            "soundmark": "/tə/ /əˈbændən/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.461Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 20,
+            "chinese": "遗弃(过去分词)",
+            "english": "abandoned",
+            "soundmark": "/ə'bændənd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.531Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 21,
+            "chinese": "被遗弃了",
+            "english": "be abandoned",
+            "soundmark": "/bi/ /ə'bændənd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.537Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 22,
+            "chinese": "那个博物馆",
+            "english": "that museum",
+            "soundmark": "/ðæt/ /mjuˈziəm/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.567Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 23,
+            "chinese": "那个博物馆被遗弃了",
+            "english": "that museum is abandoned",
+            "soundmark": "/ðæt/ /mjuˈziəm/ /ɪz/ /ə'bændənd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.639Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 24,
+            "chinese": "被遗弃了的",
+            "english": "abandoned",
+            "soundmark": "/ə'bændənd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.657Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 25,
+            "chinese": "那个博物馆",
+            "english": "that museum",
+            "soundmark": "/ðæt/ /mjuˈziəm/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.735Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 26,
+            "chinese": "那个被遗弃的博物馆",
+            "english": "that abandoned museum",
+            "soundmark": "/ðæt/ /ə'bændənd/ /mjuˈziəm/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.806Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 27,
+            "chinese": "他们(已经)参观过那个被遗弃的博物馆两次",
+            "english": "they have visited that abandoned museum twice",
+            "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /ə'bændənd/ /mjuˈziəm/ /twaɪs/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.829Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 28,
+            "chinese": "年",
+            "english": "year",
+            "soundmark": "/jɪr/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.849Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 29,
+            "chinese": "今年",
+            "english": "this year",
+            "soundmark": "/ðɪs/ /jɪr/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.977Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 30,
+            "chinese": "他们今年(已经)参观过那个被遗弃的博物馆两次",
+            "english": "they have visited that abandoned museum twice this year",
+            "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /ə'bændənd/ /mjuˈziəm/ /twaɪs/ /ðɪs/ /jɪr/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.979Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 31,
+            "chinese": "许多",
+            "english": "many",
+            "soundmark": "/'mɛni/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:16.999Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 32,
+            "chinese": "次数",
+            "english": "time",
+            "soundmark": "/taɪm/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.038Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 33,
+            "chinese": "多次",
+            "english": "many times",
+            "soundmark": "/'mɛni/ /taɪmz/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.148Z",
+            "updatedAt": "2024-04-28T12:26:54.159Z"
+        },
+        {
+            "order": 34,
+            "chinese": "他们(已经)参观过那个被遗弃的博物馆多次",
+            "english": "they have visited that abandoned museum many times",
+            "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /ə'bændənd/ /mjuˈziəm/ /'mɛni/ /taɪmz/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.151Z",
+            "updatedAt": "2024-04-28T12:26:54.160Z"
+        },
+        {
+            "order": 35,
+            "chinese": "还没有",
+            "english": "haven't",
+            "soundmark": "/ˈhævnt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.180Z",
+            "updatedAt": "2024-04-28T12:26:54.160Z"
+        },
+        {
+            "order": 36,
+            "chinese": "他们(还没)参观过那个博物馆",
+            "english": "they haven't visited that museum",
+            "soundmark": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.278Z",
+            "updatedAt": "2024-04-28T12:26:54.160Z"
+        },
+        {
+            "order": 37,
+            "chinese": "以前",
+            "english": "before",
+            "soundmark": "/bɪ'fɔr/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.296Z",
+            "updatedAt": "2024-04-28T12:26:54.160Z"
+        },
+        {
+            "order": 38,
+            "chinese": "他们以前(还没有)参观过那个博物馆",
+            "english": "they haven't visited that museum before",
+            "soundmark": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/ /bɪ'fɔr/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.322Z",
+            "updatedAt": "2024-04-28T12:26:54.160Z"
+        },
+        {
+            "order": 39,
+            "chinese": "地",
+            "english": "land",
+            "soundmark": "/lænd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.430Z",
+            "updatedAt": "2024-04-28T12:26:54.160Z"
+        },
+        {
+            "order": 40,
+            "chinese": "标志",
+            "english": "mark",
+            "soundmark": "/mɑrk/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.433Z",
+            "updatedAt": "2024-04-28T12:26:54.160Z"
+        },
+        {
+            "order": 41,
+            "chinese": "地标",
+            "english": "landmark",
+            "soundmark": "/ˈlændmɑrk/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.467Z",
+            "updatedAt": "2024-04-28T12:26:54.160Z"
+        },
+        {
+            "order": 42,
+            "chinese": "有名的",
+            "english": "famous",
+            "soundmark": "/'feməs/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.637Z",
+            "updatedAt": "2024-04-28T12:26:54.160Z"
+        },
+        {
+            "order": 43,
+            "chinese": "最",
+            "english": "the most",
+            "soundmark": "/ðə/ /most/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.647Z",
+            "updatedAt": "2024-04-28T12:26:54.160Z"
+        },
+        {
+            "order": 44,
+            "chinese": "最有名的",
+            "english": "the most famous",
+            "soundmark": "/ðə/ /most/ /'feməs/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.671Z",
+            "updatedAt": "2024-04-28T12:26:54.160Z"
+        },
+        {
+            "order": 45,
+            "chinese": "最有名的地标",
+            "english": "the most famous landmark",
+            "soundmark": "/ðə/ /most/ /'feməs/ /ˈlændmɑrk/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.724Z",
+            "updatedAt": "2024-04-28T12:26:54.160Z"
+        },
+        {
+            "order": 46,
+            "chinese": "他们(已经)参观过",
+            "english": "they have visited",
+            "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.748Z",
+            "updatedAt": "2024-04-28T12:26:54.160Z"
+        },
+        {
+            "order": 47,
+            "chinese": "他们(已经)参观过那个最有名的地标",
+            "english": "they have visited the most famous landmark",
+            "soundmark": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.827Z",
+            "updatedAt": "2024-04-28T12:26:54.160Z"
+        },
+        {
+            "order": 48,
+            "chinese": "还没有",
+            "english": "haven't",
+            "soundmark": "/ˈhævnt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.839Z",
+            "updatedAt": "2024-04-28T12:26:54.161Z"
+        },
+        {
+            "order": 49,
+            "chinese": "他们(还没有)参观过",
+            "english": "they haven't visited",
+            "soundmark": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.875Z",
+            "updatedAt": "2024-04-28T12:26:54.161Z"
+        },
+        {
+            "order": 50,
+            "chinese": "他们(还没有)参观过那个最有名的地标",
+            "english": "they haven't visited the most famous landmark",
+            "soundmark": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.882Z",
+            "updatedAt": "2024-04-28T12:26:54.161Z"
+        },
+        {
+            "order": 51,
+            "chinese": "以前",
+            "english": "before",
+            "soundmark": "/bɪ'fɔr/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:17.965Z",
+            "updatedAt": "2024-04-28T12:26:54.161Z"
+        },
+        {
+            "order": 52,
+            "chinese": "他们以前(还没有)参观过那个最有名的地标",
+            "english": "they haven't visited the most famous landmark before",
+            "soundmark": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/ /bɪ'fɔr/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.104Z",
+            "updatedAt": "2024-04-28T12:26:54.161Z"
+        },
+        {
+            "order": 53,
+            "chinese": "那个餐厅",
+            "english": "the restaurant",
+            "soundmark": "/ðe/ /'rɛstrɑnt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.144Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 54,
+            "chinese": "新的",
+            "english": "new",
+            "soundmark": "/nu/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.167Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 55,
+            "chinese": "那个新餐厅",
+            "english": "the new restaurant",
+            "soundmark": "/ðə/ /nu/ /'rɛstrɑnt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.191Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 56,
+            "chinese": "城镇",
+            "english": "town",
+            "soundmark": "/taʊn/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.193Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 57,
+            "chinese": "在镇上",
+            "english": "in town",
+            "soundmark": "/ɪn/ /taʊn/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.333Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 58,
+            "chinese": "在镇上的那家新餐厅",
+            "english": "the new restaurant in town",
+            "soundmark": "/ðə/ /nu/ /'rɛstrɑnt/ /ɪn/ /taʊn/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.339Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 59,
+            "chinese": "尝试",
+            "english": "to try",
+            "soundmark": "/tə/ /traɪ/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.350Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 60,
+            "chinese": "尝试(过去分词)",
+            "english": "tried",
+            "soundmark": "/traɪd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.350Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 61,
+            "chinese": "我们(已经)尝试了",
+            "english": "we have tried",
+            "soundmark": "/wi/ /hæv/ /traɪd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.464Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 62,
+            "chinese": "我们(已经)尝试了在镇上的那家新餐厅",
+            "english": "we have tried the new restaurant in town",
+            "soundmark": "/wi/ /hæv/ /traɪd/ /ðə/ /nu/ /'rɛstrɑnt/ /ɪn/ /taʊn/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.557Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 63,
+            "chinese": "还没有",
+            "english": "haven't",
+            "soundmark": "/ˈhævnt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.609Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 64,
+            "chinese": "我们(还没有)尝试在镇上的那家新餐厅",
+            "english": "we haven't tried the new restaurant in town",
+            "soundmark": "/wi/ /ˈhævnt/ /traɪd/ /ðə/ /nu/ /'rɛstrɑnt/ /ɪn/ /taʊn/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.637Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 65,
+            "chinese": "见",
+            "english": "to meet",
+            "soundmark": "/tə/ /mit/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.647Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 66,
+            "chinese": "见(过去分词)",
+            "english": "met",
+            "soundmark": "/mɛt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.693Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 67,
+            "chinese": "他们(已经)见过",
+            "english": "they have met",
+            "soundmark": "/ðe/ /hæv/ /mɛt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.767Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 68,
+            "chinese": "邻居",
+            "english": "neighbor",
+            "soundmark": "/ˈnebɚ/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.804Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 69,
+            "chinese": "新的邻居",
+            "english": "new neighbor",
+            "soundmark": "/nu/ /ˈnebɚ/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.855Z",
+            "updatedAt": "2024-04-28T12:26:54.162Z"
+        },
+        {
+            "order": 70,
+            "chinese": "他们的",
+            "english": "their",
+            "soundmark": "/ðɛr/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:18.963Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 71,
+            "chinese": "他们的新邻居",
+            "english": "their new neighbors",
+            "soundmark": "/ðɛr/ /nu/ /ˈnebɚ/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.005Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 72,
+            "chinese": "他们(已经)见过",
+            "english": "they have met",
+            "soundmark": "/ðe/ /hæv/ /mɛt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.050Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 73,
+            "chinese": "他们(已经)见过他们的新邻居",
+            "english": "they have met their new neighbors",
+            "soundmark": "/ðe/ /hæv/ /mɛt/ /ðɛr/ /nu/ /ˈnebɚ/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.081Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 74,
+            "chinese": "还没有",
+            "english": "haven't",
+            "soundmark": "/ˈhævnt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.147Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 75,
+            "chinese": "他们(还没有)见过他们的新邻居",
+            "english": "they haven't met their new neighbors",
+            "soundmark": "/ðe/ /ˈhævnt/ /mɛt/ /ðɛr/ /nu/ /ˈnebɚ/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.147Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 76,
+            "chinese": "参加",
+            "english": "to attend",
+            "soundmark": "/tə/ /əˈtɛnd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.218Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 77,
+            "chinese": "参加(过去分词)",
+            "english": "attended",
+            "soundmark": "/əˈtɛndɪd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.229Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 78,
+            "chinese": "她(已经)参加过",
+            "english": "she has attended",
+            "soundmark": "/ʃi/ /hæz/ /əˈtɛndɪd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.277Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 79,
+            "chinese": "课程",
+            "english": "class",
+            "soundmark": "/klæs/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.375Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 80,
+            "chinese": "瑜伽",
+            "english": "yoga",
+            "soundmark": "/ˈjoɡə/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.465Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 81,
+            "chinese": "一个瑜伽课程",
+            "english": "a yoga class",
+            "soundmark": "/ə/ /ˈjoɡə/ /klæs/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.495Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 82,
+            "chinese": "她(已经)参加过一个瑜伽课程",
+            "english": "she has attended a yoga class",
+            "soundmark": "/ʃi/ /hæz/ /əˈtɛndɪd/ /ə/ /ˈjoɡə/ /klæs/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.537Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 83,
+            "chinese": "还没有",
+            "english": "hasn't",
+            "soundmark": "/ˈhæzənt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.544Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 84,
+            "chinese": "她(还没)参加过一个瑜伽课程",
+            "english": "she hasn't attended a yoga class",
+            "soundmark": "/ʃi/ /ˈhæzənt/ /əˈtɛndɪd/ /ə/ /ˈjoɡə/ /klæs/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.669Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 85,
+            "chinese": "以前",
+            "english": "before",
+            "soundmark": "/bɪ'fɔr/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.678Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 86,
+            "chinese": "她以前(还没有)参加过一个瑜伽课程",
+            "english": "she hasn't attended a yoga class before",
+            "soundmark": "/ʃi/ /ˈhæzənt/ /əˈtɛndɪd/ /ə/ /ˈjoɡə/ /klæs/ /bɪ'fɔr/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.696Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 87,
+            "chinese": "修理",
+            "english": "to fix",
+            "soundmark": "/tə/ /fɪks/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.734Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 88,
+            "chinese": "修理(过去分词)",
+            "english": "fixed",
+            "soundmark": "/fɪkst/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.768Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 89,
+            "chinese": "他(已经)修理了",
+            "english": "he has fixed",
+            "soundmark": "/hi/ /hæz/ /fɪkst/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.905Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 90,
+            "chinese": "那个窗户",
+            "english": "the window",
+            "soundmark": "/ðə/ /'wɪndo/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.943Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 91,
+            "chinese": "他(已经)修理了那个窗户",
+            "english": "he has fixed the window",
+            "soundmark": "/hi/ /hæz/ /fɪkst/ /ðə/ /'wɪndo/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.999Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 92,
+            "chinese": "打破",
+            "english": "to break",
+            "soundmark": "/tə/ /brek/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:19.998Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 93,
+            "chinese": "打破(过去分词)",
+            "english": "broken",
+            "soundmark": "/'brokən/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.004Z",
+            "updatedAt": "2024-04-28T12:26:54.163Z"
+        },
+        {
+            "order": 94,
+            "chinese": "被打破",
+            "english": "be broken",
+            "soundmark": "/bi/ /'brokən/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.154Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 95,
+            "chinese": "那个窗户",
+            "english": "the window",
+            "soundmark": "/ðə/ /'wɪndo/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.174Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 96,
+            "chinese": "那个窗户被打破了",
+            "english": "the window is broken",
+            "soundmark": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.178Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 97,
+            "chinese": "被打破的",
+            "english": "broken",
+            "soundmark": "/'brokən/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.254Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 98,
+            "chinese": "那个被打破了的窗户",
+            "english": "the broken window",
+            "soundmark": "/ðə/ /'brokən/ /'wɪndo/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.259Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 99,
+            "chinese": "他(已经)修理了那个被打破的窗户",
+            "english": "he has fixed the broken window",
+            "soundmark": "/hi/ /hæz/ /fɪkst/ /ðə/ /'brokən/ /'wɪndo/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.404Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 100,
+            "chinese": "还没有",
+            "english": "hasn't",
+            "soundmark": "/ˈhæzənt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.418Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 101,
+            "chinese": "他(还没有)修理那个被打破的窗户",
+            "english": "he hasn't fixed the broken window",
+            "soundmark": "/hi/ /ˈhæzənt/ /fɪkst/ /ðə/ /'brokən/ /'wɪndo/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.461Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 102,
+            "chinese": "收到",
+            "english": "to receive",
+            "soundmark": "/tə/ /rɪ'siv/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.460Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 103,
+            "chinese": "收到(过去分词)",
+            "english": "received",
+            "soundmark": "/rɪ'sivd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.505Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 104,
+            "chinese": "他(已经)收到",
+            "english": "he has received",
+            "soundmark": "/hi/ /hæz/ /rɪ'sivd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.603Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 105,
+            "chinese": "那个电子邮件",
+            "english": "the email",
+            "soundmark": "/ði/ /ˈimel/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.664Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 106,
+            "chinese": "他(已经)收到那个电子邮件",
+            "english": "he has received the email",
+            "soundmark": "/hi/ /hæz/ /rɪ'sivd/ /ði/ /ˈimel/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.688Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 107,
+            "chinese": "还没有",
+            "english": "hasn't",
+            "soundmark": "/ˈhæzənt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.701Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 108,
+            "chinese": "他(还没有)收到那个电子邮件",
+            "english": "he hasn't received the email",
+            "soundmark": "/hi/ /ˈhæzənt/ /rɪ'sivd/ /ði/ /ˈimel/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.778Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 109,
+            "chinese": "完成",
+            "english": "to finish",
+            "soundmark": "/tə/ /'fɪnɪʃ/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.858Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 110,
+            "chinese": "完成(过去分词)",
+            "english": "finished",
+            "soundmark": "/'fɪnɪʃt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.912Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 111,
+            "chinese": "他(已经)完成了",
+            "english": "he has finished",
+            "soundmark": "/hi/ /hæz/ /'fɪnɪʃt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.914Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 112,
+            "chinese": "家庭作业",
+            "english": "homework",
+            "soundmark": "/'homwɝk/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:20.919Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 113,
+            "chinese": "他的家庭作业",
+            "english": "his homework",
+            "soundmark": "/hɪz/ /'homwɝk/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.039Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 114,
+            "chinese": "他(已经)完成了他的家庭作业",
+            "english": "he has finished his homework",
+            "soundmark": "/hi/ /hæz/ /'fɪnɪʃt/ /hɪz/ /'homwɝk/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.148Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 115,
+            "chinese": "还没有",
+            "english": "hasn't",
+            "soundmark": "/ˈhæzənt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.166Z",
+            "updatedAt": "2024-04-28T12:26:54.164Z"
+        },
+        {
+            "order": 116,
+            "chinese": "他(还没有)完成他的家庭作业",
+            "english": "he hasn't finished his homework",
+            "soundmark": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/ /hɪz/ /'homwɝk/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.186Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 117,
+            "chinese": "那份报告",
+            "english": "the report",
+            "soundmark": "/ðə/ /rɪ'pɔrt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.287Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 118,
+            "chinese": "写",
+            "english": "to write",
+            "soundmark": "/tə/ /raɪt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.294Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 119,
+            "chinese": "写那份报告",
+            "english": "to write the report",
+            "soundmark": "/tə/ /raɪt/ /ðə/ /rɪ'pɔrt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.305Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 120,
+            "chinese": "写(ing形式)",
+            "english": "writing",
+            "soundmark": "/'raɪtɪŋ/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.362Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 121,
+            "chinese": "写那份报告(ing形式)",
+            "english": "writing the report",
+            "soundmark": "/'raɪtɪŋ/ /ðə/ /rɪ'pɔrt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.362Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 122,
+            "chinese": "他(还没有)完成",
+            "english": "he hasn't finished",
+            "soundmark": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.421Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 123,
+            "chinese": "他(还没有)完成写那份报告",
+            "english": "he hasn't finished writing the report",
+            "soundmark": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/ /'raɪtɪŋ/ /ðə/ /rɪ'pɔrt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.472Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 124,
+            "chinese": "阅读",
+            "english": "to read",
+            "soundmark": "/tə/ /rid/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.598Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 125,
+            "chinese": "那本小说",
+            "english": "the novel",
+            "soundmark": "/ðə/ /ˈnɑvl/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.680Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 126,
+            "chinese": "阅读那本小说",
+            "english": "to read the novel",
+            "soundmark": "/tə/ /rid/ /ðə/ /ˈnɑvl/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.701Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 127,
+            "chinese": "阅读(ing形式)",
+            "english": "reading",
+            "soundmark": "/'ridɪŋ/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.771Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 128,
+            "chinese": "阅读那本小说(ing形式)",
+            "english": "reading the novel",
+            "soundmark": "/'ridɪŋ/ /ðə/ /ˈnɑvl/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.782Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 129,
+            "chinese": "他(还没有)完成",
+            "english": "he hasn't finished",
+            "soundmark": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.802Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 130,
+            "chinese": "他(还没有)完成阅读那本小说",
+            "english": "he hasn't finished reading the novel",
+            "soundmark": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /ˈnɑvl/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.821Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 131,
+            "chinese": "树",
+            "english": "tree",
+            "soundmark": "/tri/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.822Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 132,
+            "chinese": "圣诞节",
+            "english": "Christmas",
+            "soundmark": "/ˈkrɪsməs/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.921Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 133,
+            "chinese": "一棵圣诞树",
+            "english": "a Christmas tree",
+            "soundmark": "/ə/ /ˈkrɪsməs/ /tri/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:21.944Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 134,
+            "chinese": "买",
+            "english": "to buy",
+            "soundmark": "/tə/ /baɪ/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.054Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 135,
+            "chinese": "买一棵圣诞树",
+            "english": "to buy a Christmas tree",
+            "soundmark": "/tə/ /baɪ/ /ə/ /ˈkrɪsməs/ /tri/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.198Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 136,
+            "chinese": "买(过去分词)",
+            "english": "bought",
+            "soundmark": "/bɔt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.238Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 137,
+            "chinese": "他(已经)买了",
+            "english": "he has bought",
+            "soundmark": "/hi/ /hæz/ /bɔt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.245Z",
+            "updatedAt": "2024-04-28T12:26:54.165Z"
+        },
+        {
+            "order": 138,
+            "chinese": "他(已经)买了一棵圣诞树",
+            "english": "he has bought a Christmas tree",
+            "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.265Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 139,
+            "chinese": "家庭",
+            "english": "family",
+            "soundmark": "/ˈfæməli/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.301Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 140,
+            "chinese": "他的家庭",
+            "english": "his family",
+            "soundmark": "/hɪz/ /ˈfæməli/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.329Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 141,
+            "chinese": "为了他的家庭",
+            "english": "for his family",
+            "soundmark": "/fɝ/ /hɪz/ /ˈfæməli/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.355Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 142,
+            "chinese": "他为了他的家庭(已经)买了一棵圣诞树",
+            "english": "he has bought a Christmas tree for his family",
+            "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.465Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 143,
+            "chinese": "装饰",
+            "english": "to decorate",
+            "soundmark": "/tə/ /ˈdɛkəret/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.502Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 144,
+            "chinese": "装饰(过去分词)",
+            "english": "decorated",
+            "soundmark": "/ˈdɛkəretɪd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.538Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 145,
+            "chinese": "被装饰",
+            "english": "be decorated",
+            "soundmark": "/bi/ /ˈdɛkəretɪd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.688Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 146,
+            "chinese": "那棵圣诞树",
+            "english": "the Christmas tree",
+            "soundmark": "/ðə/ /ˈkrɪsməs/ /tri/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.691Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 147,
+            "chinese": "那棵圣诞树被装饰了的",
+            "english": "the Christmas tree is decorated",
+            "soundmark": "/ðə/ /ˈkrɪsməs/ /tri/ /ɪz/ /ˈdɛkəretɪd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.699Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 148,
+            "chinese": "一棵被装饰的圣诞树",
+            "english": "a decorated Christmas tree",
+            "soundmark": "/ə/ /ˈdɛkəretɪd/ /ˈkrɪsməs/ /tri/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.719Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 149,
+            "chinese": "他为了他的家庭(已经)买了一棵装饰好了的圣诞树",
+            "english": "he has bought a decorated Christmas tree for his family",
+            "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈdɛkəretɪd/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.800Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 150,
+            "chinese": "装饰",
+            "english": "to decorate",
+            "soundmark": "/tə/ /ˈdɛkəret/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.802Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 151,
+            "chinese": "装饰(过去分词)",
+            "english": "decorated",
+            "soundmark": "/ˈdɛkəretɪd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.859Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 152,
+            "chinese": "他(已经)装饰了",
+            "english": "he has decorated",
+            "soundmark": "/hi/ /hæz/ /ˈdɛkəretɪd/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.978Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 153,
+            "chinese": "那棵圣诞树",
+            "english": "the Christmas tree",
+            "soundmark": "/ðə/ /ˈkrɪsməs/ /tri/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:22.988Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 154,
+            "chinese": "他(已经)装饰了那棵圣诞树",
+            "english": "he has decorated the Christmas tree",
+            "soundmark": "/hi/ /hæz/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.014Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 155,
+            "chinese": "还没有",
+            "english": "hasn't",
+            "soundmark": "/ˈhæzənt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.134Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 156,
+            "chinese": "他(还没有)装饰那棵圣诞树",
+            "english": "he hasn't decorated the Christmas tree",
+            "soundmark": "/hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.156Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 157,
+            "chinese": "但是",
+            "english": "but",
+            "soundmark": "/bʌt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.161Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 158,
+            "chinese": "但是他(还没有)装饰那棵圣诞树",
+            "english": "but he hasn't decorated the Christmas tree",
+            "soundmark": "/bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.194Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 159,
+            "chinese": "他为了他的家庭(已经)买了一棵圣诞树",
+            "english": "he has bought a Christmas tree for his family",
+            "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.239Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 160,
+            "chinese": "他为了他的家庭(已经)买了一棵圣诞树但是他(还没有)装饰那棵圣诞树",
+            "english": "he has bought a Christmas tree for his family but he hasn't decorated the Christmas tree",
+            "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.294Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 161,
+            "chinese": "他为了他的家庭(已经)买了一棵圣诞树但是他(还没有)装饰它",
+            "english": "he has bought a Christmas tree for his family but he hasn't decorated it",
+            "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.371Z",
+            "updatedAt": "2024-04-28T12:26:54.166Z"
+        },
+        {
+            "order": 162,
+            "chinese": "迄今为止",
+            "english": "yet",
+            "soundmark": "/jɛt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.438Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 163,
+            "chinese": "他为了他的家庭(已经)买了一棵圣诞树但是迄今为止他(还没有)装饰它",
+            "english": "he has bought a Christmas tree for his family but he hasn't decorated it yet",
+            "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.481Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 164,
+            "chinese": "繁忙的",
+            "english": "busy",
+            "soundmark": "/'bɪzi/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.500Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 165,
+            "chinese": "他是繁忙的",
+            "english": "he is busy",
+            "soundmark": "/hi/ /ɪz/ /'bɪzi/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.584Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 166,
+            "chinese": "非常",
+            "english": "too",
+            "soundmark": "/tu/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.607Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 167,
+            "chinese": "他是非常忙的",
+            "english": "he is too busy",
+            "soundmark": "/hi/ /ɪz/ /tu/ /'bɪzi/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.608Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 168,
+            "chinese": "因为",
+            "english": "because",
+            "soundmark": "/bɪ'kɔz/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.673Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 169,
+            "chinese": "因为他太忙了",
+            "english": "because he is too busy",
+            "soundmark": "/bɪ'kɔz/ /hi/ /ɪz/ /tu/ /'bɪzi/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.690Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 170,
+            "chinese": "但是迄今为止他(还没有)装饰它",
+            "english": "but he hasn't decorated it yet",
+            "soundmark": "/bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.803Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 171,
+            "chinese": "但是迄今为止他(还没有)装饰它因为他太忙了",
+            "english": "but he hasn't decorated it yet because he is too busy",
+            "soundmark": "/bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/ /bɪ'kɔz/ /hi/ /ɪz/ /tu/ /'bɪzi/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.875Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 172,
+            "chinese": "他为了他的家庭(已经)买了一棵圣诞树",
+            "english": "he has bought a Christmas tree for his family",
+            "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.889Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 173,
+            "chinese": "他为了他的家庭(已经)买了一棵圣诞树但是迄今为止他(还没有)装饰它因为他太忙了",
+            "english": "he has bought a Christmas tree for his family but he hasn't decorated it yet because he is too busy",
+            "soundmark": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/ /bɪ'kɔz/ /hi/ /ɪz/ /tu/ /'bɪzi/",
+            "courseId": "ic3kvwxx0bwotyihv6y9o4b7",
+            "createdAt": "2024-04-28T12:33:23.985Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        }
+    ]
+}

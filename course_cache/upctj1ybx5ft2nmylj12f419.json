@@ -1,0 +1,1857 @@
+{
+    "id": "upctj1ybx5ft2nmylj12f419",
+    "title": "第五课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1E44y1i7dt",
+    "order": 5,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:51.155Z",
+    "updatedAt": "2024-05-23T14:05:57.796Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "可以",
+            "english": "can",
+            "soundmark": "/kæn/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.181Z",
+            "updatedAt": "2024-04-28T12:26:53.822Z"
+        },
+        {
+            "order": 2,
+            "chinese": "我可以",
+            "english": "I can",
+            "soundmark": "/aɪ/ /kæn/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.225Z",
+            "updatedAt": "2024-04-28T12:26:53.822Z"
+        },
+        {
+            "order": 3,
+            "chinese": "做这件事",
+            "english": "to do it",
+            "soundmark": "/tə/ /du/ /ɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.256Z",
+            "updatedAt": "2024-04-28T12:26:53.822Z"
+        },
+        {
+            "order": 4,
+            "chinese": "我可以做这件事",
+            "english": "I can do it",
+            "soundmark": "/aɪ/ /kæn/ /du/ /ɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.325Z",
+            "updatedAt": "2024-04-28T12:26:53.822Z"
+        },
+        {
+            "order": 5,
+            "chinese": "单独",
+            "english": "alone",
+            "soundmark": "/ə'lon/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.342Z",
+            "updatedAt": "2024-04-28T12:26:53.822Z"
+        },
+        {
+            "order": 6,
+            "chinese": "我可以单独做这件事",
+            "english": "I can do it alone",
+            "soundmark": "/aɪ/ /kæn/ /du/ /ɪt/ /ə'lon/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.355Z",
+            "updatedAt": "2024-04-28T12:26:53.822Z"
+        },
+        {
+            "order": 7,
+            "chinese": "我不可以单独做这件事",
+            "english": "I can not do it alone",
+            "soundmark": "/aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.357Z",
+            "updatedAt": "2024-04-28T12:26:53.822Z"
+        },
+        {
+            "order": 8,
+            "chinese": "你必须帮助我",
+            "english": "you have to help me",
+            "soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.362Z",
+            "updatedAt": "2024-04-28T12:26:53.822Z"
+        },
+        {
+            "order": 9,
+            "chinese": "因为",
+            "english": "because",
+            "soundmark": "/bɪ'kɔz/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.450Z",
+            "updatedAt": "2024-04-28T12:26:53.822Z"
+        },
+        {
+            "order": 10,
+            "chinese": "你必须帮助我因为我不可以单独做这件事",
+            "english": "you have to help me because I can not do it alone",
+            "soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/ /bɪ'kɔz/ /aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.563Z",
+            "updatedAt": "2024-04-28T12:26:53.822Z"
+        },
+        {
+            "order": 11,
+            "chinese": "在这里",
+            "english": "be here",
+            "soundmark": "/bi/ /hɪr/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.636Z",
+            "updatedAt": "2024-04-28T12:26:53.822Z"
+        },
+        {
+            "order": 12,
+            "chinese": "我可以在这里",
+            "english": "I can be here",
+            "soundmark": "/aɪ/ /kæn/ /bi/ /hɪr/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.702Z",
+            "updatedAt": "2024-04-28T12:26:53.822Z"
+        },
+        {
+            "order": 13,
+            "chinese": "明天",
+            "english": "tomorrow",
+            "soundmark": "/tə'mɔro/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.730Z",
+            "updatedAt": "2024-04-28T12:26:53.822Z"
+        },
+        {
+            "order": 14,
+            "chinese": "我可以明天在这里",
+            "english": "I can be here tomorrow",
+            "soundmark": "/aɪ/ /kæn/ /bi/ /hɪr/ /tə'mɔro/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.771Z",
+            "updatedAt": "2024-04-28T12:26:53.822Z"
+        },
+        {
+            "order": 15,
+            "chinese": "我不可以明天在这里",
+            "english": "I can not be here tomorrow",
+            "soundmark": "/aɪ/ /kæn/ /nɑt/ /bi/ /hɪr/ /tə'mɔro/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.788Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 16,
+            "chinese": "他需要知道",
+            "english": "he needs to know",
+            "soundmark": "/hi/ /nidz/ /tə/ /no/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.807Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 17,
+            "chinese": "是否",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.871Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 18,
+            "chinese": "他需要知道是否我可以明天在这里",
+            "english": "he needs to know if I can be here tomorrow",
+            "soundmark": "/hi/ /nidz/ /tə/ /no/ /ɪf/ /aɪ/ /kæn/ /bi/ /hɪr/ /tə'mɔro/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.872Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 19,
+            "chinese": "吃这个食物",
+            "english": "eat the food",
+            "soundmark": "/it/ /ðə/ /fud/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:29.945Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 20,
+            "chinese": "我可以吃这个食物",
+            "english": "I can eat the food",
+            "soundmark": "/aɪ/ /kæn/ /it/ /ðə/ /fud/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.057Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 21,
+            "chinese": "现在",
+            "english": "now",
+            "soundmark": "/naʊ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.079Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 22,
+            "chinese": "我可以现在吃这个食物",
+            "english": "I can eat the food now",
+            "soundmark": "/aɪ/ /kæn/ /it/ /ðə/ /fud/ /naʊ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.156Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 23,
+            "chinese": "我不可以现在吃这个食物",
+            "english": "I can not eat the food now",
+            "soundmark": "/aɪ/ /kæn/ /nɑt/ /it/ /ðə/ /fud/ /naʊ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.202Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 24,
+            "chinese": "我想要知道",
+            "english": "I want to know",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.237Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 25,
+            "chinese": "是否",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.238Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 26,
+            "chinese": "我想要知道是否我可以现在吃这个食物",
+            "english": "I want to know if I can eat the food now",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /kæn/ /it/ /ðə/ /fud/ /naʊ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.249Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 27,
+            "chinese": "你可以",
+            "english": "you can",
+            "soundmark": "/ju/ /kæn/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.375Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 28,
+            "chinese": "告诉我",
+            "english": "tell me",
+            "soundmark": "/tɛl/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.383Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 29,
+            "chinese": "事实",
+            "english": "the truth",
+            "soundmark": "/ðə/ /trʊθ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.439Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 30,
+            "chinese": "告诉我事实",
+            "english": "tell me the truth",
+            "soundmark": "/tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.535Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 31,
+            "chinese": "你可以告诉我事实",
+            "english": "you can tell me the truth",
+            "soundmark": "/ju/ /kæn/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.601Z",
+            "updatedAt": "2024-04-28T12:26:53.823Z"
+        },
+        {
+            "order": 32,
+            "chinese": "你不可以告诉我事实",
+            "english": "you can not tell me the truth",
+            "soundmark": "/ju/ /kæn/ /nɑt/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.633Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 33,
+            "chinese": "我需要知道",
+            "english": "I need to know",
+            "soundmark": "/aɪ/ /nid/ /tə/ /no/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.686Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 34,
+            "chinese": "是否",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.692Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 35,
+            "chinese": "我需要知道是否你可以告诉我事实",
+            "english": "I need to know if you can tell me the truth",
+            "soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.755Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 36,
+            "chinese": "帮助我",
+            "english": "help me",
+            "soundmark": "/hɛlp/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.884Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 37,
+            "chinese": "你可以帮助我",
+            "english": "you can help me",
+            "soundmark": "/ju/ /kæn/ /hɛlp/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.895Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 38,
+            "chinese": "你不可以帮助我",
+            "english": "you can not help me",
+            "soundmark": "/ju/ /kæn/ /nɑt/ /hɛlp/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.935Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 39,
+            "chinese": "我需要知道是否你可以帮助我",
+            "english": "I need to know if you can help me",
+            "soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /hɛlp/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:30.986Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 40,
+            "chinese": "在家里",
+            "english": "at home",
+            "soundmark": "/ət/ /hom/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.055Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 41,
+            "chinese": "在家里阅读",
+            "english": "read at home",
+            "soundmark": "/rid/ /ət/ /hom/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.115Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 42,
+            "chinese": "你可以在家里阅读",
+            "english": "you can read at home",
+            "soundmark": "/ju/ /kæn/ /rid/ /ət/ /hom/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.145Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 43,
+            "chinese": "你不可以在家里阅读",
+            "english": "you can not read at home",
+            "soundmark": "/ju/ /kæn/ /nɑt/ /rid/ /ət/ /hom/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.145Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 44,
+            "chinese": "你需要告诉我",
+            "english": "you need to tell me",
+            "soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.287Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 45,
+            "chinese": "原因",
+            "english": "the reason",
+            "soundmark": "/ðə/ /ˈrizən/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.402Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 46,
+            "chinese": "你需要告诉我原因",
+            "english": "you need to tell me the reason",
+            "soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /ˈrizən/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.418Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 47,
+            "chinese": "为什么",
+            "english": "why",
+            "soundmark": "/waɪ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.428Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 48,
+            "chinese": "你需要告诉我原因为什么你不可以在家里阅读",
+            "english": "you need to tell me the reason why you can not read at home",
+            "soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /ˈrizən/ /waɪ/ /ju/ /kæn/ /nɑt/ /rid/ /ət/ /hom/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.494Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 49,
+            "chinese": "他可以",
+            "english": "he can",
+            "soundmark": "/hi/ /kæn/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.510Z",
+            "updatedAt": "2024-04-28T12:26:53.824Z"
+        },
+        {
+            "order": 50,
+            "chinese": "他可以做这件事",
+            "english": "he can do it",
+            "soundmark": "/hi/ /kæn/ /du/ /ɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.522Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 51,
+            "chinese": "以后",
+            "english": "later",
+            "soundmark": "/'letɚ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.571Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 52,
+            "chinese": "他可以以后做这件事",
+            "english": "he can do it later",
+            "soundmark": "/hi/ /kæn/ /du/ /ɪt/ /'letɚ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.593Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 53,
+            "chinese": "他不可以以后做这件事",
+            "english": "he can not do it later",
+            "soundmark": "/hi/ /kæn/ /nɑt/ /du/ /ɪt/ /'letɚ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.603Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 54,
+            "chinese": "和我说话",
+            "english": "talk with me",
+            "soundmark": "/tɔk/ /wɪð/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.802Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 55,
+            "chinese": "他可以和我说话",
+            "english": "he can talk with me",
+            "soundmark": "/hi/ /kæn/ /tɔk/ /wɪð/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.904Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 56,
+            "chinese": "今晚",
+            "english": "tonight",
+            "soundmark": "/tə'naɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.908Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 57,
+            "chinese": "他今晚可以和我说话",
+            "english": "he can talk with me tonight",
+            "soundmark": "/hi/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.929Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 58,
+            "chinese": "他今晚不可以和我说话",
+            "english": "he can not talk with me tonight",
+            "soundmark": "/hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.943Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 59,
+            "chinese": "我想要知道",
+            "english": "I want to know",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:31.962Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 60,
+            "chinese": "是否",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.002Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 61,
+            "chinese": "我想要知道是否他今晚可以和我说话",
+            "english": "I want to know if he can talk with me tonight",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /hi/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.010Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 62,
+            "chinese": "她可以",
+            "english": "she can",
+            "soundmark": "/ʃi/ /kæn/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.032Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 63,
+            "chinese": "解释",
+            "english": "explain",
+            "soundmark": "/ɪk'splen/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.054Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 64,
+            "chinese": "原因",
+            "english": "the reason",
+            "soundmark": "/ðə/ /ˈrizən/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.389Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 65,
+            "chinese": "解释原因",
+            "english": "explain the reason",
+            "soundmark": "/ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.402Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 66,
+            "chinese": "她可以解释原因",
+            "english": "she can explain the reason",
+            "soundmark": "/ʃi/ /kæn/ /ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.403Z",
+            "updatedAt": "2024-04-28T12:26:53.825Z"
+        },
+        {
+            "order": 67,
+            "chinese": "她不可以解释原因",
+            "english": "she can not explain the reason",
+            "soundmark": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.405Z",
+            "updatedAt": "2024-04-28T12:26:53.826Z"
+        },
+        {
+            "order": 68,
+            "chinese": "为什么",
+            "english": "why",
+            "soundmark": "/waɪ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.443Z",
+            "updatedAt": "2024-04-28T12:26:53.826Z"
+        },
+        {
+            "order": 69,
+            "chinese": "他今晚不可以和我说话",
+            "english": "he can not talk with me tonight",
+            "soundmark": "/hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.442Z",
+            "updatedAt": "2024-04-28T12:26:53.826Z"
+        },
+        {
+            "order": 70,
+            "chinese": "她可以解释原因为什么他今晚不可以和我说话",
+            "english": "she can explain the reason why he can not talk with me tonight",
+            "soundmark": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.479Z",
+            "updatedAt": "2024-04-28T12:26:53.826Z"
+        },
+        {
+            "order": 71,
+            "chinese": "问我",
+            "english": "ask me",
+            "soundmark": "/æsk/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.502Z",
+            "updatedAt": "2024-04-28T12:26:53.826Z"
+        },
+        {
+            "order": 72,
+            "chinese": "一个问题",
+            "english": "a question",
+            "soundmark": "/ə/ /'kwɛstʃən/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.583Z",
+            "updatedAt": "2024-04-28T12:26:53.826Z"
+        },
+        {
+            "order": 73,
+            "chinese": "问我一个问题",
+            "english": "ask me a question",
+            "soundmark": "/æsk/ /mi/ /ə/ /'kwɛstʃən/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.792Z",
+            "updatedAt": "2024-04-28T12:26:53.826Z"
+        },
+        {
+            "order": 74,
+            "chinese": "她可以问我一个问题",
+            "english": "she can ask me a question",
+            "soundmark": "/ʃi/ /kæn/ /æsk/ /mi/ /ə/ /'kwɛstʃən/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.863Z",
+            "updatedAt": "2024-04-28T12:26:53.826Z"
+        },
+        {
+            "order": 75,
+            "chinese": "它可以",
+            "english": "it can",
+            "soundmark": "/ɪt/ /kæn/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.892Z",
+            "updatedAt": "2024-04-28T12:26:53.826Z"
+        },
+        {
+            "order": 76,
+            "chinese": "飞翔",
+            "english": "fly",
+            "soundmark": "/flaɪ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.929Z",
+            "updatedAt": "2024-04-28T12:26:53.826Z"
+        },
+        {
+            "order": 77,
+            "chinese": "它可以飞翔",
+            "english": "it can fly",
+            "soundmark": "/ɪt/ /kæn/ /flaɪ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.929Z",
+            "updatedAt": "2024-04-28T12:26:53.826Z"
+        },
+        {
+            "order": 78,
+            "chinese": "在天空中",
+            "english": "in the sky",
+            "soundmark": "/ɪn/ /ðə/ /skaɪ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.930Z",
+            "updatedAt": "2024-04-28T12:26:53.826Z"
+        },
+        {
+            "order": 79,
+            "chinese": "它可以在天空中飞翔",
+            "english": "it can fly in the sky",
+            "soundmark": "/ɪt/ /kæn/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.958Z",
+            "updatedAt": "2024-04-28T12:26:53.826Z"
+        },
+        {
+            "order": 80,
+            "chinese": "它不可以在天空中飞翔",
+            "english": "it can not fly in the sky",
+            "soundmark": "/ɪt/ /kæn/ /nɑt/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:32.953Z",
+            "updatedAt": "2024-04-28T12:26:53.826Z"
+        },
+        {
+            "order": 81,
+            "chinese": "解释",
+            "english": "explain",
+            "soundmark": "/ɪk'splen/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.077Z",
+            "updatedAt": "2024-04-28T12:26:53.827Z"
+        },
+        {
+            "order": 82,
+            "chinese": "它可以解释",
+            "english": "it can explain",
+            "soundmark": "/ɪt/ /kæn/ /ɪk'splen/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.138Z",
+            "updatedAt": "2024-04-28T12:26:53.827Z"
+        },
+        {
+            "order": 83,
+            "chinese": "原因",
+            "english": "the reason",
+            "soundmark": "/ðə/ /ˈrizən/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.323Z",
+            "updatedAt": "2024-04-28T12:26:53.827Z"
+        },
+        {
+            "order": 84,
+            "chinese": "它可以解释原因",
+            "english": "it can explain the reason",
+            "soundmark": "/ɪt/ /kæn/ /ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.323Z",
+            "updatedAt": "2024-04-28T12:26:53.827Z"
+        },
+        {
+            "order": 85,
+            "chinese": "它不可以解释原因",
+            "english": "it can not explain the reason",
+            "soundmark": "/ɪt/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.375Z",
+            "updatedAt": "2024-04-28T12:26:53.827Z"
+        },
+        {
+            "order": 86,
+            "chinese": "星荣可以",
+            "english": "Xingrong can",
+            "soundmark": "/kæn/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.424Z",
+            "updatedAt": "2024-04-28T12:26:53.827Z"
+        },
+        {
+            "order": 87,
+            "chinese": "散步",
+            "english": "walk",
+            "soundmark": "/wɔk/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.435Z",
+            "updatedAt": "2024-04-28T12:26:53.827Z"
+        },
+        {
+            "order": 88,
+            "chinese": "在公园里",
+            "english": "in the park",
+            "soundmark": "/ɪn/ /ðə/ /pɑrk/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.445Z",
+            "updatedAt": "2024-04-28T12:26:53.827Z"
+        },
+        {
+            "order": 89,
+            "chinese": "在公园里散步",
+            "english": "walk in the park",
+            "soundmark": "/wɔk/ /ɪn/ /ðə/ /pɑrk/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.473Z",
+            "updatedAt": "2024-04-28T12:26:53.827Z"
+        },
+        {
+            "order": 90,
+            "chinese": "星荣可以在公园里散步",
+            "english": "Xingrong can walk in the park",
+            "soundmark": "/kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.579Z",
+            "updatedAt": "2024-04-28T12:26:53.827Z"
+        },
+        {
+            "order": 91,
+            "chinese": "星荣不可以在公园里散步",
+            "english": "Xingrong can not walk in the park",
+            "soundmark": "/kæn/ /nɑt/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.587Z",
+            "updatedAt": "2024-04-28T12:26:53.827Z"
+        },
+        {
+            "order": 92,
+            "chinese": "应该",
+            "english": "should",
+            "soundmark": "/ʃʊd/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.609Z",
+            "updatedAt": "2024-04-28T12:26:53.827Z"
+        },
+        {
+            "order": 93,
+            "chinese": "我应该",
+            "english": "I should",
+            "soundmark": "/aɪ/ /ʃʊd/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.755Z",
+            "updatedAt": "2024-04-28T12:26:53.827Z"
+        },
+        {
+            "order": 94,
+            "chinese": "吃这个食物",
+            "english": "eat the food",
+            "soundmark": "/it/ /ðə/ /fud/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.768Z",
+            "updatedAt": "2024-04-28T12:26:53.827Z"
+        },
+        {
+            "order": 95,
+            "chinese": "我应该吃这个食物",
+            "english": "I should eat the food",
+            "soundmark": "/aɪ/ /ʃʊd/ /it/ /ðə/ /fud/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.836Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 96,
+            "chinese": "我不应该吃这个食物",
+            "english": "I should not eat the food",
+            "soundmark": "/aɪ/ /ʃʊd/ /nɑt/ /it/ /ðə/ /fud/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.871Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 97,
+            "chinese": "和你说话",
+            "english": "talk with you",
+            "soundmark": "/tɔk/ /wɪð/ /ju/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.923Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 98,
+            "chinese": "我应该和你说话",
+            "english": "I should talk with you",
+            "soundmark": "/aɪ/ /ʃʊd/ /tɔk/ /wɪð/ /ju/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:33.944Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 99,
+            "chinese": "我不应该和你说话",
+            "english": "I should not talk with you",
+            "soundmark": "/aɪ/ /ʃʊd/ /nɑt/ /tɔk/ /wɪð/ /ju/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.055Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 100,
+            "chinese": "相信你",
+            "english": "believe you",
+            "soundmark": "/bɪ'liv/ /ju/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.086Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 101,
+            "chinese": "我应该相信你",
+            "english": "I should believe you",
+            "soundmark": "/aɪ/ /ʃʊd/ /bɪ'liv/ /ju/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.191Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 102,
+            "chinese": "我不应该相信你",
+            "english": "I should not believe you",
+            "soundmark": "/aɪ/ /ʃʊd/ /nɑt/ /bɪ'liv/ /ju/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.211Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 103,
+            "chinese": "你应该",
+            "english": "you should",
+            "soundmark": "/ju/ /ʃʊd/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.283Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 104,
+            "chinese": "帮助我",
+            "english": "help me",
+            "soundmark": "/hɛlp/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.288Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 105,
+            "chinese": "你应该帮助我",
+            "english": "you should help me",
+            "soundmark": "/ju/ /ʃʊd/ /hɛlp/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.318Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 106,
+            "chinese": "现在",
+            "english": "now",
+            "soundmark": "/naʊ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.381Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 107,
+            "chinese": "你应该现在帮助我",
+            "english": "you should help me now",
+            "soundmark": "/ju/ /ʃʊd/ /hɛlp/ /mi/ /naʊ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.420Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 108,
+            "chinese": "你不应该现在帮助我",
+            "english": "you should not help me now",
+            "soundmark": "/ju/ /ʃʊd/ /nɑt/ /hɛlp/ /mi/ /naʊ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.445Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 109,
+            "chinese": "在这里",
+            "english": "be here",
+            "soundmark": "/bi/ /hɪr/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.503Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 110,
+            "chinese": "你应该在这里",
+            "english": "you should be here",
+            "soundmark": "/ju/ /ʃʊd/ /bi/ /hɪr/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.577Z",
+            "updatedAt": "2024-04-28T12:26:53.828Z"
+        },
+        {
+            "order": 111,
+            "chinese": "每天",
+            "english": "every day",
+            "soundmark": "/'ɛvri/ /de/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.622Z",
+            "updatedAt": "2024-04-28T12:26:53.829Z"
+        },
+        {
+            "order": 112,
+            "chinese": "你应该每天在这里",
+            "english": "you should be here every day",
+            "soundmark": "/ju/ /ʃʊd/ /bi/ /hɪr/ /'ɛvri/ /de/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.653Z",
+            "updatedAt": "2024-04-28T12:26:53.829Z"
+        },
+        {
+            "order": 113,
+            "chinese": "你不应该每天在这里",
+            "english": "you should not be here every day",
+            "soundmark": "/ju/ /ʃʊd/ /nɑt/ /bi/ /hɪr/ /'ɛvri/ /de/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.730Z",
+            "updatedAt": "2024-04-28T12:26:53.829Z"
+        },
+        {
+            "order": 114,
+            "chinese": "阅读",
+            "english": "read",
+            "soundmark": "/rid/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.772Z",
+            "updatedAt": "2024-04-28T12:26:53.829Z"
+        },
+        {
+            "order": 115,
+            "chinese": "你应该阅读",
+            "english": "you should read",
+            "soundmark": "/ju/ /ʃʊd/ /rid/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.797Z",
+            "updatedAt": "2024-04-28T12:26:53.829Z"
+        },
+        {
+            "order": 116,
+            "chinese": "在家里",
+            "english": "at home",
+            "soundmark": "/ət/ /hom/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.892Z",
+            "updatedAt": "2024-04-28T12:26:53.831Z"
+        },
+        {
+            "order": 117,
+            "chinese": "你应该在家里阅读",
+            "english": "you should read at home",
+            "soundmark": "/ju/ /ʃʊd/ /rid/ /ət/ /hom/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.917Z",
+            "updatedAt": "2024-04-28T12:26:53.831Z"
+        },
+        {
+            "order": 118,
+            "chinese": "你不应该在家里阅读",
+            "english": "you should not read at home",
+            "soundmark": "/ju/ /ʃʊd/ /nɑt/ /rid/ /ət/ /hom/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.946Z",
+            "updatedAt": "2024-04-28T12:26:53.831Z"
+        },
+        {
+            "order": 119,
+            "chinese": "他应该",
+            "english": "he should",
+            "soundmark": "/hi/ /ʃʊd/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:34.957Z",
+            "updatedAt": "2024-04-28T12:26:53.831Z"
+        },
+        {
+            "order": 120,
+            "chinese": "和我说话",
+            "english": "talk with me",
+            "soundmark": "/tɔk/ /wɪð/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.076Z",
+            "updatedAt": "2024-04-28T12:26:53.831Z"
+        },
+        {
+            "order": 121,
+            "chinese": "他应该和我说话",
+            "english": "he should talk with me",
+            "soundmark": "/hi/ /ʃʊd/ /tɔk/ /wɪð/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.075Z",
+            "updatedAt": "2024-04-28T12:26:53.831Z"
+        },
+        {
+            "order": 122,
+            "chinese": "他不应该和我说话",
+            "english": "he should not talk with me",
+            "soundmark": "/hi/ /ʃʊd/ /nɑt/ /tɔk/ /wɪð/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.093Z",
+            "updatedAt": "2024-04-28T12:26:53.831Z"
+        },
+        {
+            "order": 123,
+            "chinese": "在家里阅读",
+            "english": "read at home",
+            "soundmark": "/rid/ /ət/ /hom/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.181Z",
+            "updatedAt": "2024-04-28T12:26:53.831Z"
+        },
+        {
+            "order": 124,
+            "chinese": "他应该在家里阅读",
+            "english": "he should read at home",
+            "soundmark": "/hi/ /ʃʊd/ /rid/ /ət/ /hom/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.240Z",
+            "updatedAt": "2024-04-28T12:26:53.831Z"
+        },
+        {
+            "order": 125,
+            "chinese": "他不应该在家里阅读",
+            "english": "he should not read at home",
+            "soundmark": "/hi/ /ʃʊd/ /nɑt/ /rid/ /ət/ /hom/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.307Z",
+            "updatedAt": "2024-04-28T12:26:53.831Z"
+        },
+        {
+            "order": 126,
+            "chinese": "她应该",
+            "english": "she should",
+            "soundmark": "/ʃi/ /ʃʊd/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.389Z",
+            "updatedAt": "2024-04-28T12:26:53.831Z"
+        },
+        {
+            "order": 127,
+            "chinese": "在公园里散步",
+            "english": "walk in the park",
+            "soundmark": "/wɔk/ /ɪn/ /ðə/ /pɑrk/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.409Z",
+            "updatedAt": "2024-04-28T12:26:53.831Z"
+        },
+        {
+            "order": 128,
+            "chinese": "她应该在公园里散步",
+            "english": "she should walk in the park",
+            "soundmark": "/ʃi/ /ʃʊd/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.415Z",
+            "updatedAt": "2024-04-28T12:26:53.831Z"
+        },
+        {
+            "order": 129,
+            "chinese": "她不应该在公园里散步",
+            "english": "she should not walk in the park",
+            "soundmark": "/ʃi/ /ʃʊd/ /nɑt/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.447Z",
+            "updatedAt": "2024-04-28T12:26:53.831Z"
+        },
+        {
+            "order": 130,
+            "chinese": "睡觉",
+            "english": "sleep",
+            "soundmark": "/slip/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.512Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 131,
+            "chinese": "在床上",
+            "english": "on the bed",
+            "soundmark": "/ɑn/ /ðə/ /bɛd/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.537Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 132,
+            "chinese": "在床上睡觉",
+            "english": "sleep on the bed",
+            "soundmark": "/slip/ /ɑn/ /ðə/ /bɛd/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.560Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 133,
+            "chinese": "她应该在床上睡觉",
+            "english": "she should sleep on the bed",
+            "soundmark": "/ʃi/ /ʃʊd/ /slip/ /ɑn/ /ðə/ /bɛd/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.634Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 134,
+            "chinese": "她不应该在床上睡觉",
+            "english": "she should not sleep on the bed",
+            "soundmark": "/ʃi/ /ʃʊd/ /nɑt/ /slip/ /ɑn/ /ðə/ /bɛd/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.694Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 135,
+            "chinese": "它应该",
+            "english": "it should",
+            "soundmark": "/ɪt/ /ʃʊd/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.816Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 136,
+            "chinese": "在这里",
+            "english": "be here",
+            "soundmark": "/bi/ /hɪr/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.886Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 137,
+            "chinese": "它应该在这里",
+            "english": "it should be here",
+            "soundmark": "/ɪt/ /ʃʊd/ /bi/ /hɪr/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.919Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 138,
+            "chinese": "它不应该在这里",
+            "english": "it should not be here",
+            "soundmark": "/ɪt/ /ʃʊd/ /nɑt/ /bi/ /hɪr/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.941Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 139,
+            "chinese": "星荣应该在这里",
+            "english": "Xingrong should be here",
+            "soundmark": "/ʃʊd/ /bi/ /hɪr/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.972Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 140,
+            "chinese": "星荣不应该在这里",
+            "english": "Xingrong should not be here",
+            "soundmark": "/ʃʊd/ /nɑt/ /bi/ /hɪr/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:35.999Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 141,
+            "chinese": "将会",
+            "english": "will",
+            "soundmark": "/wɪl/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.093Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 142,
+            "chinese": "我将会",
+            "english": "I will",
+            "soundmark": "/aɪ/ /wɪl/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.155Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 143,
+            "chinese": "见到你",
+            "english": "see you",
+            "soundmark": "/si/ /ju/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.189Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 144,
+            "chinese": "我将会见到你",
+            "english": "I will see you",
+            "soundmark": "/aɪ/ /wɪl/ /si/ /ju/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.339Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 145,
+            "chinese": "明天",
+            "english": "tomorrow",
+            "soundmark": "/tə'mɔro/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.389Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 146,
+            "chinese": "我明天将会见到你",
+            "english": "I will see you tomorrow",
+            "soundmark": "/aɪ/ /wɪl/ /si/ /ju/ /tə'mɔro/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.392Z",
+            "updatedAt": "2024-04-28T12:26:53.832Z"
+        },
+        {
+            "order": 147,
+            "chinese": "我明天将不会见到你",
+            "english": "I will not see you tomorrow",
+            "soundmark": "/aɪ/ /wɪl/ /nɑt/ /si/ /ju/ /tə'mɔro/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.395Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 148,
+            "chinese": "告诉你",
+            "english": "tell you",
+            "soundmark": "/tɛl/ /ju/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.427Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 149,
+            "chinese": "事实",
+            "english": "the truth",
+            "soundmark": "/ðə/ /trʊθ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.447Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 150,
+            "chinese": "告诉你事实",
+            "english": "tell you the truth",
+            "soundmark": "/tɛl/ /ju/ /ðə/ /trʊθ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.534Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 151,
+            "chinese": "我将会告诉你事实",
+            "english": "I will tell you the truth",
+            "soundmark": "/aɪ/ /wɪl/ /tɛl/ /ju/ /ðə/ /trʊθ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.603Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 152,
+            "chinese": "我将不会告诉你事实",
+            "english": "I will not tell you the truth",
+            "soundmark": "/aɪ/ /wɪl/ /nɑt/ /tɛl/ /ju/ /ðə/ /trʊθ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.639Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 153,
+            "chinese": "未来",
+            "english": "the future",
+            "soundmark": "/ðə/ /'fjʊtʃɚ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.842Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 154,
+            "chinese": "在未来",
+            "english": "in the future",
+            "soundmark": "/ɪn/ /ðə/ /'fjʊtʃɚ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.855Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 155,
+            "chinese": "我将会在未来告诉你事实",
+            "english": "I will tell you the truth in the future",
+            "soundmark": "/aɪ/ /wɪl/ /tɛl/ /ju/ /ðə/ /trʊθ/ /ɪn/ /ðə/ /'fjʊtʃɚ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.888Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 156,
+            "chinese": "我将不会在未来告诉你事实",
+            "english": "I will not tell you the truth in the future",
+            "soundmark": "/aɪ/ /wɪl/ /nɑt/ /tɛl/ /ju/ /ðə/ /trʊθ/ /ɪn/ /ðə/ /'fjʊtʃɚ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.888Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 157,
+            "chinese": "重要的",
+            "english": "important",
+            "soundmark": "/ɪm'pɔrtnt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.904Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 158,
+            "chinese": "它是不重要的",
+            "english": "it is not important",
+            "soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.933Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 159,
+            "chinese": "所以",
+            "english": "so",
+            "soundmark": "/so/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:36.982Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 160,
+            "chinese": "它是不重要的所以我将会在未来告诉你事实",
+            "english": "it is not important so I will tell you the truth in the future",
+            "soundmark": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /so/ /aɪ/ /wɪl/ /tɛl/ /ju/ /ðə/ /trʊθ/ /ɪn/ /ðə/ /'fjʊtʃɚ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.051Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 161,
+            "chinese": "解释",
+            "english": "explain",
+            "soundmark": "/ɪk'splen/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.079Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 162,
+            "chinese": "原因",
+            "english": "the reason",
+            "soundmark": "/ðə/ /ˈrizən/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.086Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 163,
+            "chinese": "解释原因",
+            "english": "explain the reason",
+            "soundmark": "/ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.272Z",
+            "updatedAt": "2024-04-28T12:26:53.833Z"
+        },
+        {
+            "order": 164,
+            "chinese": "我将会解释原因",
+            "english": "I will explain the reason",
+            "soundmark": "/aɪ/ /wɪl/ /ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.343Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 165,
+            "chinese": "星期",
+            "english": "week",
+            "soundmark": "/wik/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.372Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 166,
+            "chinese": "下周",
+            "english": "next week",
+            "soundmark": "/nekst/ /wik/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.387Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 167,
+            "chinese": "我将会在下周解释原因",
+            "english": "I will explain the reason next week",
+            "soundmark": "/aɪ/ /wɪl/ /ɪk'splen/ /ðə/ /ˈrizən/ /nekst/ /wik/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.409Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 168,
+            "chinese": "我将不会在下周解释原因",
+            "english": "I will not explain the reason next week",
+            "soundmark": "/aɪ/ /wɪl/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/ /nekst/ /wik/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.429Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 169,
+            "chinese": "紧急的",
+            "english": "urgent",
+            "soundmark": "/'ɝdʒənt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.437Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 170,
+            "chinese": "它是不紧急的",
+            "english": "it is not urgent",
+            "soundmark": "/ɪt/ /ɪz/ /nɑt/ /'ɝdʒənt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.508Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 171,
+            "chinese": "所以",
+            "english": "so",
+            "soundmark": "/so/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.538Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 172,
+            "chinese": "它是不紧急的所以我将会在下周解释原因",
+            "english": "it is not urgent so I will explain the reason next week",
+            "soundmark": "/ɪt/ /ɪz/ /nɑt/ /'ɝdʒənt/ /so/ /aɪ/ /wɪl/ /ɪk'splen/ /ðə/ /ˈrizən/ /nekst/ /wik/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.583Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 173,
+            "chinese": "你将会",
+            "english": "you will",
+            "soundmark": "/ju/ /wɪl/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.718Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 174,
+            "chinese": "在家里阅读",
+            "english": "read at home",
+            "soundmark": "/rid/ /ət/ /hom/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.787Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 175,
+            "chinese": "你将会在家里阅读",
+            "english": "you will read at home",
+            "soundmark": "/ju/ /wɪl/ /rid/ /ət/ /hom/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.867Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 176,
+            "chinese": "今晚",
+            "english": "tonight",
+            "soundmark": "/tə'naɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.887Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 177,
+            "chinese": "你今晚将会在家里阅读",
+            "english": "you will read at home tonight",
+            "soundmark": "/ju/ /wɪl/ /rid/ /ət/ /hom/ /tə'naɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.886Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 178,
+            "chinese": "你今晚将不会在家里阅读",
+            "english": "you will not read at home tonight",
+            "soundmark": "/ju/ /wɪl/ /nɑt/ /rid/ /ət/ /hom/ /tə'naɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.904Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 179,
+            "chinese": "在床上睡觉",
+            "english": "sleep on the bed",
+            "soundmark": "/slip/ /ɑn/ /ðə/ /bɛd/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.933Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 180,
+            "chinese": "你今晚将会在床上睡觉",
+            "english": "you will sleep on the bed tonight",
+            "soundmark": "/ju/ /wɪl/ /slip/ /ɑn/ /ðə/ /bɛd/ /tə'naɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.957Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 181,
+            "chinese": "你今晚将不会在床上睡觉",
+            "english": "you will not sleep on the bed tonight",
+            "soundmark": "/ju/ /wɪl/ /nɑt/ /slip/ /ɑn/ /ðə/ /bɛd/ /tə'naɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:37.996Z",
+            "updatedAt": "2024-04-28T12:26:53.834Z"
+        },
+        {
+            "order": 182,
+            "chinese": "他将会",
+            "english": "he will",
+            "soundmark": "/hi/ /wɪl/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.088Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 183,
+            "chinese": "告诉我",
+            "english": "tell me",
+            "soundmark": "/tɛl/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.169Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 184,
+            "chinese": "他将会告诉我",
+            "english": "he will tell me",
+            "soundmark": "/hi/ /wɪl/ /tɛl/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.226Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 185,
+            "chinese": "事实",
+            "english": "the truth",
+            "soundmark": "/ðə/ /trʊθ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.310Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 186,
+            "chinese": "他将会告诉我事实",
+            "english": "he will tell me the truth",
+            "soundmark": "/hi/ /wɪl/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.394Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 187,
+            "chinese": "他将不会告诉我事实",
+            "english": "he will not tell me the truth",
+            "soundmark": "/hi/ /wɪl/ /nɑt/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.396Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 188,
+            "chinese": "相信我",
+            "english": "believe me",
+            "soundmark": "/bɪ'liv/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.395Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 189,
+            "chinese": "他将会相信我",
+            "english": "he will believe me",
+            "soundmark": "/hi/ /wɪl/ /bɪ'liv/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.407Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 190,
+            "chinese": "他将不会相信我",
+            "english": "he will not believe me",
+            "soundmark": "/hi/ /wɪl/ /nɑt/ /bɪ'liv/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.426Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 191,
+            "chinese": "她将会",
+            "english": "she will",
+            "soundmark": "/ʃi/ /wɪl/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.453Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 192,
+            "chinese": "告诉我",
+            "english": "tell me",
+            "soundmark": "/tɛl/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.598Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 193,
+            "chinese": "她将会告诉我",
+            "english": "she will tell me",
+            "soundmark": "/ʃi/ /wɪl/ /tɛl/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.626Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 194,
+            "chinese": "一个故事",
+            "english": "a story",
+            "soundmark": "/ə/ /'stɔri/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.688Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 195,
+            "chinese": "她将会告诉我一个故事",
+            "english": "she will tell me a story",
+            "soundmark": "/ʃi/ /wɪl/ /tɛl/ /mi/ /ə/ /'stɔri/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.749Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 196,
+            "chinese": "今晚",
+            "english": "tonight",
+            "soundmark": "/tə'naɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.857Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 197,
+            "chinese": "她今晚将会告诉我一个故事",
+            "english": "she will tell me a story tonight",
+            "soundmark": "/ʃi/ /wɪl/ /tɛl/ /mi/ /ə/ /'stɔri/ /tə'naɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.887Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 198,
+            "chinese": "她今晚将不会告诉我一个故事",
+            "english": "she will not tell me a story tonight",
+            "soundmark": "/ʃi/ /wɪl/ /nɑt/ /tɛl/ /mi/ /ə/ /'stɔri/ /tə'naɪt/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.908Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 199,
+            "chinese": "帮助我",
+            "english": "help me",
+            "soundmark": "/hɛlp/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:38.910Z",
+            "updatedAt": "2024-04-28T12:26:53.835Z"
+        },
+        {
+            "order": 200,
+            "chinese": "她将会帮助我",
+            "english": "she will help me",
+            "soundmark": "/ʃi/ /wɪl/ /hɛlp/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:39.068Z",
+            "updatedAt": "2024-04-28T12:26:53.836Z"
+        },
+        {
+            "order": 201,
+            "chinese": "她将不会帮助我",
+            "english": "she will not help me",
+            "soundmark": "/ʃi/ /wɪl/ /nɑt/ /hɛlp/ /mi/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:39.089Z",
+            "updatedAt": "2024-04-28T12:26:53.836Z"
+        },
+        {
+            "order": 202,
+            "chinese": "它将会",
+            "english": "it will",
+            "soundmark": "/ɪt/ /wɪl/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:39.132Z",
+            "updatedAt": "2024-04-28T12:26:53.836Z"
+        },
+        {
+            "order": 203,
+            "chinese": "在天空中飞翔",
+            "english": "fly in the sky",
+            "soundmark": "/flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:39.170Z",
+            "updatedAt": "2024-04-28T12:26:53.836Z"
+        },
+        {
+            "order": 204,
+            "chinese": "它将会在天空中飞翔",
+            "english": "it will fly in the sky",
+            "soundmark": "/ɪt/ /wɪl/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:39.204Z",
+            "updatedAt": "2024-04-28T12:26:53.836Z"
+        },
+        {
+            "order": 205,
+            "chinese": "它将不会在天空中飞翔",
+            "english": "it will not fly in the sky",
+            "soundmark": "/ɪt/ /wɪl/ /nɑt/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+            "courseId": "upctj1ybx5ft2nmylj12f419",
+            "createdAt": "2024-04-28T12:27:39.205Z",
+            "updatedAt": "2024-04-28T12:26:53.836Z"
+        }
+    ]
+}

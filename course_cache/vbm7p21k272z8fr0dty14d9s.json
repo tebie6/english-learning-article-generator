@@ -1,0 +1,1128 @@
+{
+    "id": "vbm7p21k272z8fr0dty14d9s",
+    "title": "第四十五课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1wN411v7XH",
+    "order": 45,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:52.990Z",
+    "updatedAt": "2024-05-23T14:06:01.981Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "允许",
+            "english": "to permit",
+            "soundmark": "/tə/ /pɚˈmɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:50.340Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 2,
+            "chinese": "老师",
+            "english": "the teacher",
+            "soundmark": "/ðə/ /'titʃɚ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:50.425Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 3,
+            "chinese": "老师允许",
+            "english": "the teacher permits",
+            "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:50.549Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 4,
+            "chinese": "唱歌",
+            "english": "to sing",
+            "soundmark": "/tə/ /sɪŋ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:50.565Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 5,
+            "chinese": "课堂",
+            "english": "class",
+            "soundmark": "/klæs/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:50.575Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 6,
+            "chinese": "在",
+            "english": "in",
+            "soundmark": "/ɪn/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:50.600Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 7,
+            "chinese": "在课堂",
+            "english": "in the class",
+            "soundmark": "/ɪn/ /ðə/ /klæs/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:50.660Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 8,
+            "chinese": "音乐",
+            "english": "music",
+            "soundmark": "/'mjuzɪk/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:50.756Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 9,
+            "chinese": "在音乐课",
+            "english": "in the music class",
+            "soundmark": "/ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:50.771Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 10,
+            "chinese": "在音乐课唱歌",
+            "english": "to sing in the music class",
+            "soundmark": "/tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:50.777Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 11,
+            "chinese": "在音乐课唱歌(ing形式)",
+            "english": "singing in the music class",
+            "soundmark": "/'sɪŋɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:50.916Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 12,
+            "chinese": "老师允许",
+            "english": "the teacher permits",
+            "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.006Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 13,
+            "chinese": "老师允许在音乐课唱歌",
+            "english": "the teacher permits singing in the music class",
+            "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'sɪŋɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.021Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 14,
+            "chinese": "他",
+            "english": "him",
+            "soundmark": "/hɪm/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.073Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 15,
+            "chinese": "老师允许他",
+            "english": "the teacher permits him",
+            "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /hɪm/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.079Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 16,
+            "chinese": "在音乐课唱歌",
+            "english": "to sing in the music class",
+            "soundmark": "/tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.096Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 17,
+            "chinese": "老师允许他在音乐课唱歌",
+            "english": "the teacher permits him to sing in the music class",
+            "soundmark": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /hɪm/ /tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.112Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 18,
+            "chinese": "大海",
+            "english": "the sea",
+            "soundmark": "/ðə/ /si/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.204Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 19,
+            "chinese": "在......里",
+            "english": "in",
+            "soundmark": "/ɪn/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.210Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 20,
+            "chinese": "在大海里",
+            "english": "in the sea",
+            "soundmark": "/ɪn/ /ðə/ /si/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.266Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 21,
+            "chinese": "游泳",
+            "english": "to swim",
+            "soundmark": "/tə/ /swɪm/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.455Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 22,
+            "chinese": "在大海里游泳",
+            "english": "to swim in the sea",
+            "soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.477Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 23,
+            "chinese": "日落",
+            "english": "sunset",
+            "soundmark": "/'sʌnsɛt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.555Z",
+            "updatedAt": "2024-04-28T12:26:54.136Z"
+        },
+        {
+            "order": 24,
+            "chinese": "在......之前",
+            "english": "before",
+            "soundmark": "/bɪ'fɔr/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.585Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 25,
+            "chinese": "在日落之前",
+            "english": "before sunset",
+            "soundmark": "/bɪ'fɔr/ /'sʌnsɛt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.585Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 26,
+            "chinese": "在日落之前在大海里游泳",
+            "english": "to swim in the sea before sunset",
+            "soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.583Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 27,
+            "chinese": "在日落之前在大海里游泳(ing形式)",
+            "english": "swimming in the sea before sunset",
+            "soundmark": "/'swɪmɪŋ/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.656Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 28,
+            "chinese": "允许",
+            "english": "to permit",
+            "soundmark": "/tə/ /pɚˈmɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.657Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 29,
+            "chinese": "政策",
+            "english": "the policy",
+            "soundmark": "/ðə/ /ˈpɑləsi/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.720Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 30,
+            "chinese": "政策允许",
+            "english": "the policy permits",
+            "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.774Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 31,
+            "chinese": "政策允许在日落之前在大海里游泳",
+            "english": "the policy permits swimming in the sea before sunset",
+            "soundmark": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'swɪmɪŋ/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.902Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 32,
+            "chinese": "父亲",
+            "english": "father",
+            "soundmark": "/'fɑðɚ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.934Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 33,
+            "chinese": "他的",
+            "english": "his",
+            "soundmark": "/hɪz/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:51.993Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 34,
+            "chinese": "他的父亲",
+            "english": "his father",
+            "soundmark": "/hɪz/ /'fɑðɚ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.076Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 35,
+            "chinese": "允许",
+            "english": "to permit",
+            "soundmark": "/tə/ /pɚˈmɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.088Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 36,
+            "chinese": "他的父亲允许",
+            "english": "his father permits",
+            "soundmark": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.091Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 37,
+            "chinese": "他",
+            "english": "him",
+            "soundmark": "/hɪm/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.106Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 38,
+            "chinese": "他的父亲允许他",
+            "english": "his father permits him",
+            "soundmark": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/ /hɪm/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.107Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 39,
+            "chinese": "在日落之前在大海里游泳",
+            "english": "to swim in the sea before sunset",
+            "soundmark": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.236Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 40,
+            "chinese": "他的父亲允许他在日落之前在大海里游泳",
+            "english": "his father permits him to swim in the sea before sunset",
+            "soundmark": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/ /hɪm/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.343Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 41,
+            "chinese": "停止",
+            "english": "to stop",
+            "soundmark": "/tə/ /stɑp/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.404Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 42,
+            "chinese": "他",
+            "english": "he",
+            "soundmark": "/hi/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.441Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 43,
+            "chinese": "他停止",
+            "english": "he stops",
+            "soundmark": "/hi/ /stɑps/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.525Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 44,
+            "chinese": "他停止(过去)",
+            "english": "he stopped",
+            "soundmark": "/hi/ /stɑpt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.615Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 45,
+            "chinese": "抽烟",
+            "english": "to smoke",
+            "soundmark": "/tə/ /smok/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.615Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 46,
+            "chinese": "抽烟(ing形式)",
+            "english": "smoking",
+            "soundmark": "/'smokɪŋ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.614Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 47,
+            "chinese": "他停止抽烟",
+            "english": "he stopped smoking",
+            "soundmark": "/hi/ /stɑpt/ /'smokɪŋ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.615Z",
+            "updatedAt": "2024-04-28T12:26:54.137Z"
+        },
+        {
+            "order": 48,
+            "chinese": "健康",
+            "english": "health",
+            "soundmark": "/hɛlθ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.643Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 49,
+            "chinese": "他的健康",
+            "english": "his health",
+            "soundmark": "/hɪz/ /hɛlθ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.731Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 50,
+            "chinese": "为了",
+            "english": "for",
+            "soundmark": "/fɚ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.819Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 51,
+            "chinese": "为了他的健康",
+            "english": "for his health",
+            "soundmark": "/fɚ/ /hɪz/ /hɛlθ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.884Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 52,
+            "chinese": "他停止抽烟",
+            "english": "he stopped smoking",
+            "soundmark": "/hi/ /stɑpt/ /'smokɪŋ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.884Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 53,
+            "chinese": "他为了他的健康停止抽烟",
+            "english": "he stopped smoking for his health",
+            "soundmark": "/hi/ /stɑpt/ /'smokɪŋ/ /fɚ/ /hɪz/ /hɛlθ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:52.968Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 54,
+            "chinese": "他停止抽烟",
+            "english": "he stopped smoking",
+            "soundmark": "/hi/ /stɑpt/ /'smokɪŋ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.060Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 55,
+            "chinese": "抽烟",
+            "english": "to smoke",
+            "soundmark": "/tə/ /smok/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.112Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 56,
+            "chinese": "他停下来去抽烟",
+            "english": "he stopped to smoke",
+            "soundmark": "/hi/ /stɑpt/ /tə/ /smok/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.115Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 57,
+            "chinese": "公交车",
+            "english": "bus",
+            "soundmark": "/bʌs/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.118Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 58,
+            "chinese": "停止",
+            "english": "stop",
+            "soundmark": "/stɑp/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.169Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 59,
+            "chinese": "公交车站",
+            "english": "bus stop",
+            "soundmark": "/bʌs/ /stɑp/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.239Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 60,
+            "chinese": "在公交车站",
+            "english": "at the bus stop",
+            "soundmark": "/ət/ /ðə/ /bʌs/ /stɑp/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.278Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 61,
+            "chinese": "他停下来去抽烟",
+            "english": "he stopped to smoke",
+            "soundmark": "/hi/ /stɑpt/ /tə/ /smok/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.327Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 62,
+            "chinese": "他在公交车站停下来去抽烟",
+            "english": "he stopped to smoke at the bus stop",
+            "soundmark": "/hi/ /stɑpt/ /tə/ /smok/ /ət/ /ðə/ /bʌs/ /stɑp/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.334Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 63,
+            "chinese": "买",
+            "english": "to buy",
+            "soundmark": "/tə/ /baɪ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.400Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 64,
+            "chinese": "花",
+            "english": "flower",
+            "soundmark": "/'flaʊɚ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.503Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 65,
+            "chinese": "一些",
+            "english": "some",
+            "soundmark": "/səm/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.609Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 66,
+            "chinese": "一些花",
+            "english": "some flowers",
+            "soundmark": "/səm/ /'flaʊɚz/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.619Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 67,
+            "chinese": "买一些花",
+            "english": "to buy some flowers",
+            "soundmark": "/tə/ /baɪ/ /səm/ /'flaʊɚz/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.621Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 68,
+            "chinese": "他停止",
+            "english": "he stopped",
+            "soundmark": "/hi/ /stɑpt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.695Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 69,
+            "chinese": "他停下来去买一些花",
+            "english": "he stopped to buy some flowers",
+            "soundmark": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.719Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 70,
+            "chinese": "路",
+            "english": "way",
+            "soundmark": "/we/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.756Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 71,
+            "chinese": "他的",
+            "english": "his",
+            "soundmark": "/hɪz/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.767Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 72,
+            "chinese": "他的路",
+            "english": "his way",
+            "soundmark": "/hɪz/ /we/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.783Z",
+            "updatedAt": "2024-04-28T12:26:54.138Z"
+        },
+        {
+            "order": 73,
+            "chinese": "家",
+            "english": "home",
+            "soundmark": "/hom/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.834Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 74,
+            "chinese": "他回家的路",
+            "english": "his way home",
+            "soundmark": "/hɪz/ /we/ /hom/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:53.961Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 75,
+            "chinese": "在他回家的路上",
+            "english": "on his way home",
+            "soundmark": "/ɑn/ /hɪz/ /we/ /hom/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.112Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 76,
+            "chinese": "他停下来去买一些花",
+            "english": "he stopped to buy some flowers",
+            "soundmark": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.116Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 77,
+            "chinese": "他在他回家的路上停下来去买一些花",
+            "english": "he stopped to buy some flowers on his way home",
+            "soundmark": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/ /ɑn/ /hɪz/ /we/ /hom/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.120Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 78,
+            "chinese": "买(ing形式)",
+            "english": "buying",
+            "soundmark": "/'baɪɪŋ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.162Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 79,
+            "chinese": "花",
+            "english": "flowers",
+            "soundmark": "/'flaʊɚz/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.209Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 80,
+            "chinese": "买花(ing形式)",
+            "english": "buying flowers",
+            "soundmark": "/'baɪɪŋ/ /'flaʊɚz/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.212Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 81,
+            "chinese": "他停止",
+            "english": "he stopped",
+            "soundmark": "/hi/ /stɑpt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.240Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 82,
+            "chinese": "他停止买花",
+            "english": "he stopped buying flowers",
+            "soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.256Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 83,
+            "chinese": "她",
+            "english": "her",
+            "soundmark": "/hɚ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.267Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 84,
+            "chinese": "为了",
+            "english": "for",
+            "soundmark": "/fɚ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.418Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 85,
+            "chinese": "为她",
+            "english": "for her",
+            "soundmark": "/fɚ/ /hɚ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.623Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 86,
+            "chinese": "他停止为她买花",
+            "english": "he stopped buying flowers for her",
+            "soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.625Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 87,
+            "chinese": "争吵",
+            "english": "fight",
+            "soundmark": "/faɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.636Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 88,
+            "chinese": "一次争吵",
+            "english": "a fight",
+            "soundmark": "/ə/ /faɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.653Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 89,
+            "chinese": "他们",
+            "english": "they",
+            "soundmark": "/ðe/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.708Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 90,
+            "chinese": "有",
+            "english": "have",
+            "soundmark": "/hæv/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.715Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 91,
+            "chinese": "他们有",
+            "english": "they have",
+            "soundmark": "/ðe/ /hæv/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.750Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 92,
+            "chinese": "他们有一次争吵",
+            "english": "they have a fight",
+            "soundmark": "/ðe/ /hæv/ /ə/ /faɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.779Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 93,
+            "chinese": "他们(过去)有一次争吵",
+            "english": "they had a fight",
+            "soundmark": "/ðe/ /hæd/ /ə/ /faɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.870Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 94,
+            "chinese": "在......之后",
+            "english": "after",
+            "soundmark": "/'æftɚ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:54.918Z",
+            "updatedAt": "2024-04-28T12:26:54.139Z"
+        },
+        {
+            "order": 95,
+            "chinese": "在他们(过去)有一次争吵之后",
+            "english": "after they had a fight",
+            "soundmark": "/'æftɚ/ /ðe/ /hæd/ /ə/ /faɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.071Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 96,
+            "chinese": "他停止为她买花",
+            "english": "he stopped buying flowers for her",
+            "soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.098Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 97,
+            "chinese": "在他们(过去)有一次争吵之后他停止为她买花",
+            "english": "he stopped buying flowers for her after they had a fight",
+            "soundmark": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/ /'æftɚ/ /ðe/ /hæd/ /ə/ /faɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.123Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 98,
+            "chinese": "记得",
+            "english": "to remember",
+            "soundmark": "/tə/ /rɪ'mɛmbɚ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.141Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 99,
+            "chinese": "我需要",
+            "english": "I need",
+            "soundmark": "/aɪ/ /nid/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.159Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 100,
+            "chinese": "我需要记得",
+            "english": "I need to remember",
+            "soundmark": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.156Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 101,
+            "chinese": "打电话给......",
+            "english": "to call",
+            "soundmark": "/tə/ /kɔl/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.263Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 102,
+            "chinese": "妈妈",
+            "english": "mom",
+            "soundmark": "/mɑm/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.286Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 103,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.320Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 104,
+            "chinese": "我的妈妈",
+            "english": "my mom",
+            "soundmark": "/maɪ/ /mɑm/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.420Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 105,
+            "chinese": "打电话给我的妈妈",
+            "english": "to call my mom",
+            "soundmark": "/tə/ /kɔl/ /maɪ/ /mɑm/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.511Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 106,
+            "chinese": "明天",
+            "english": "tomorrow",
+            "soundmark": "/tə'mɔro/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.555Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 107,
+            "chinese": "明天打电话给我的妈妈",
+            "english": "to call my mom tomorrow",
+            "soundmark": "/tə/ /kɔl/ /maɪ/ /mɑm/ /tə'mɔro/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.606Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 108,
+            "chinese": "我需要记得",
+            "english": "I need to remember",
+            "soundmark": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.627Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 109,
+            "chinese": "我需要记得明天打电话给我的妈妈",
+            "english": "I need to remember to call my mom tomorrow",
+            "soundmark": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/ /tə/ /kɔl/ /maɪ/ /mɑm/ /tə'mɔro/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.640Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 110,
+            "chinese": "打电话给......",
+            "english": "to call",
+            "soundmark": "/tə/ /kɔl/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.640Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 111,
+            "chinese": "打电话给你",
+            "english": "to call you",
+            "soundmark": "/tə/ /kɔl/ /ju/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.781Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 112,
+            "chinese": "打电话给你(ing形式)",
+            "english": "calling you",
+            "soundmark": "/ˈkɔlɪŋ/ /ju/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.789Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 113,
+            "chinese": "昨天晚上",
+            "english": "last night",
+            "soundmark": "/læst/ /naɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.802Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 114,
+            "chinese": "昨天晚上打电话给你(ing形式)",
+            "english": "calling you last night",
+            "soundmark": "/ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.911Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 115,
+            "chinese": "我记得",
+            "english": "I remember",
+            "soundmark": "/aɪ/ /rɪ'mɛmbɚ/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:55.974Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 116,
+            "chinese": "我记得昨天晚上打电话给你",
+            "english": "I remember calling you last night",
+            "soundmark": "/aɪ/ /rɪ'mɛmbɚ/ /ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:56.002Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 117,
+            "chinese": "忘记",
+            "english": "to forget",
+            "soundmark": "/tə/ /fɚ'ɡɛt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:56.050Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 118,
+            "chinese": "我忘记",
+            "english": "I forget",
+            "soundmark": "/aɪ/ /fɚ'ɡɛt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:56.083Z",
+            "updatedAt": "2024-04-28T12:26:54.140Z"
+        },
+        {
+            "order": 119,
+            "chinese": "我忘记(过去)",
+            "english": "I forgot",
+            "soundmark": "/aɪ/ /fɚ'ɡɑt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:56.150Z",
+            "updatedAt": "2024-04-28T12:26:54.141Z"
+        },
+        {
+            "order": 120,
+            "chinese": "昨天晚上打电话给你(ing形式)",
+            "english": "calling you last night",
+            "soundmark": "/ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:56.232Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 121,
+            "chinese": "我忘记昨天晚上打电话给你",
+            "english": "I forgot calling you last night",
+            "soundmark": "/aɪ/ /fɚ'ɡɑt/ /ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:56.296Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 122,
+            "chinese": "打电话给......",
+            "english": "to call",
+            "soundmark": "/tə/ /kɔl/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:56.310Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 123,
+            "chinese": "昨天晚上打电话给你",
+            "english": "to call you last night",
+            "soundmark": "/tə/ /kɔl/ /ju/ /læst/ /naɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:56.418Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 124,
+            "chinese": "我忘记昨晚去给你打电话",
+            "english": "I forgot to call you last night",
+            "soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /kɔl/ /ju/ /læst/ /naɪt/",
+            "courseId": "vbm7p21k272z8fr0dty14d9s",
+            "createdAt": "2024-04-28T12:32:56.425Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        }
+    ]
+}

@@ -1,0 +1,1164 @@
+{
+    "id": "ksu53ea1v2b3us1bszcm1sr0",
+    "title": "第四十六课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1LH4y1d7eF",
+    "order": 46,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:52.991Z",
+    "updatedAt": "2024-05-23T14:06:02.136Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "掌握",
+            "english": "to master",
+            "soundmark": "/tə/ /'mæstɚ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:56.438Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 2,
+            "chinese": "英语",
+            "english": "English",
+            "soundmark": "/ˈɪŋɡlɪʃ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:56.444Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 3,
+            "chinese": "掌握英语",
+            "english": "to master English",
+            "soundmark": "/tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:56.499Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 4,
+            "chinese": "尝试",
+            "english": "to try",
+            "soundmark": "/tə/ /traɪ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:56.539Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 5,
+            "chinese": "尝试掌握英语",
+            "english": "to try to master English",
+            "soundmark": "/tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:56.653Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 6,
+            "chinese": "决定",
+            "english": "to decide",
+            "soundmark": "/tə/ /dɪ'saɪd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:56.692Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 7,
+            "chinese": "她(过去)决定",
+            "english": "she decided",
+            "soundmark": "/ʃi/ /dɪ'saɪdɪd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:56.811Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 8,
+            "chinese": "尝试掌握英语",
+            "english": "to try to master English",
+            "soundmark": "/tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:56.824Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 9,
+            "chinese": "她(过去)决定尝试掌握英语",
+            "english": "she decided to try to master English",
+            "soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:56.883Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 10,
+            "chinese": "餐厅",
+            "english": "restaurant",
+            "soundmark": "/'rɛstrɑnt/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:56.902Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 11,
+            "chinese": "新的",
+            "english": "new",
+            "soundmark": "/nu/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:56.948Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 12,
+            "chinese": "新餐厅",
+            "english": "new restaurant",
+            "soundmark": "/nu/ /'rɛstrɑnt/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:56.948Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 13,
+            "chinese": "那个新餐厅",
+            "english": "the new restaurant",
+            "soundmark": "/ðə/ /nu/ /'rɛstrɑnt/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:56.939Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 14,
+            "chinese": "她(过去)决定尝试",
+            "english": "she decided to try",
+            "soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:56.998Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 15,
+            "chinese": "她(过去)决定尝试那个新餐厅",
+            "english": "she decided to try the new restaurant",
+            "soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /ðə/ /nu/ /'rɛstrɑnt/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.140Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 16,
+            "chinese": "阅读",
+            "english": "to read",
+            "soundmark": "/tə/ /rid/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.157Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 17,
+            "chinese": "书",
+            "english": "books",
+            "soundmark": "/bʊks/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.326Z",
+            "updatedAt": "2024-04-28T12:26:54.142Z"
+        },
+        {
+            "order": 18,
+            "chinese": "读书",
+            "english": "to read books",
+            "soundmark": "/tə/ /rid/ /bʊks/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.325Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 19,
+            "chinese": "英文",
+            "english": "English",
+            "soundmark": "/ˈɪŋɡlɪʃ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.326Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 20,
+            "chinese": "读英文书",
+            "english": "to read English books",
+            "soundmark": "/tə/ /rid/ /ˈɪŋɡlɪʃ/ /bʊks/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.344Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 21,
+            "chinese": "读英文书(ing形式)",
+            "english": "reading English books",
+            "soundmark": "/'ridɪŋ/ /ˈɪŋɡlɪʃ/ /bʊks/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.390Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 22,
+            "chinese": "尝试",
+            "english": "to try",
+            "soundmark": "/tə/ /traɪ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.444Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 23,
+            "chinese": "她(过去)尝试",
+            "english": "she tried",
+            "soundmark": "/ʃi/ /traɪd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.463Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 24,
+            "chinese": "她(过去)尝试读英文书",
+            "english": "she tried reading English books",
+            "soundmark": "/ʃi/ /traɪd/ /'ridɪŋ/ /ˈɪŋɡlɪʃ/ /bʊks/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.464Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 25,
+            "chinese": "线",
+            "english": "line",
+            "soundmark": "/laɪn/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.603Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 26,
+            "chinese": "在线",
+            "english": "online",
+            "soundmark": "/ɑnˈlaɪn/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.661Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 27,
+            "chinese": "课程",
+            "english": "course",
+            "soundmark": "/kɔrsɪz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.787Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 28,
+            "chinese": "在线课程",
+            "english": "online courses",
+            "soundmark": "/ɑnˈlaɪn/ /kɔrsɪz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.801Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 29,
+            "chinese": "使用",
+            "english": "to use",
+            "soundmark": "/tə/ /juz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.825Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 30,
+            "chinese": "使用在线课程",
+            "english": "to use online courses",
+            "soundmark": "/tə/ /juz/ /ɑnˈlaɪn/ /kɔrsɪz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.852Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 31,
+            "chinese": "使用在线课程(ing形式)",
+            "english": "using online courses",
+            "soundmark": "/juzɪŋ/ /ɑnˈlaɪn/ /kɔrsɪz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.837Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 32,
+            "chinese": "她(过去)尝试",
+            "english": "she tried",
+            "soundmark": "/ʃi/ /traɪd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.917Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 33,
+            "chinese": "她(过去)尝试使用在线课程",
+            "english": "she tried using online courses",
+            "soundmark": "/ʃi/ /traɪd/ /juzɪŋ/ /ɑnˈlaɪn/ /kɔrsɪz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.949Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 34,
+            "chinese": "歌曲",
+            "english": "song",
+            "soundmark": "/sɔŋ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:57.960Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 35,
+            "chinese": "英文歌曲",
+            "english": "English songs",
+            "soundmark": "/ˈɪŋɡlɪʃ/ /sɔŋz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.051Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 36,
+            "chinese": "听",
+            "english": "to listen",
+            "soundmark": "/tə/ /'lɪsn/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.161Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 37,
+            "chinese": "听英文歌曲",
+            "english": "to listen to English songs",
+            "soundmark": "/tə/ /'lɪsn/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.228Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 38,
+            "chinese": "听英文歌曲(ing形式)",
+            "english": "listening to English songs",
+            "soundmark": "/'lɪsnɪŋ/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.261Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 39,
+            "chinese": "她(过去)尝试",
+            "english": "she tried",
+            "soundmark": "/ʃi/ /traɪd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.270Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 40,
+            "chinese": "她(过去)尝试听英文歌曲",
+            "english": "she tried listening to English songs",
+            "soundmark": "/ʃi/ /traɪd/ /'lɪsnɪŋ/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.365Z",
+            "updatedAt": "2024-04-28T12:26:54.143Z"
+        },
+        {
+            "order": 41,
+            "chinese": "说话",
+            "english": "to speak",
+            "soundmark": "/tə/ /spik/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.369Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 42,
+            "chinese": "说话的人",
+            "english": "speaker",
+            "soundmark": "/'spikɚ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.370Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 43,
+            "chinese": "当地的",
+            "english": "native",
+            "soundmark": "/ˈnetɪv/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.449Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 44,
+            "chinese": "母语使用者",
+            "english": "native speakers",
+            "soundmark": "/ˈnetɪv/ /'spikɚz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.457Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 45,
+            "chinese": "说话",
+            "english": "to speak",
+            "soundmark": "/tə/ /spik/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.510Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 46,
+            "chinese": "和",
+            "english": "with",
+            "soundmark": "/wɪð/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.670Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 47,
+            "chinese": "和母语使用者说话",
+            "english": "to speak with native speakers",
+            "soundmark": "/tə/ /spik/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.669Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 48,
+            "chinese": "和母语使用者说话(ing形式)",
+            "english": "speaking with native speakers",
+            "soundmark": "/'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.708Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 49,
+            "chinese": "练习",
+            "english": "to practice",
+            "soundmark": "/tə/ /ˈpræktɪs/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.723Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 50,
+            "chinese": "练习和母语使用者说话",
+            "english": "to practice speaking with native speakers",
+            "soundmark": "/tə/ /ˈpræktɪs/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.842Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 51,
+            "chinese": "练习和母语使用者说话(ing形式)",
+            "english": "practicing speaking with native speakers",
+            "soundmark": "/ˈpræktɪsɪŋ/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.873Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 52,
+            "chinese": "她(过去)尝试",
+            "english": "she tried",
+            "soundmark": "/ʃi/ /traɪd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.887Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 53,
+            "chinese": "她(过去)尝试练习和母语使用者说话",
+            "english": "she tried practicing speaking with native speakers",
+            "soundmark": "/ʃi/ /traɪd/ /ˈpræktɪsɪŋ/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:58.981Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 54,
+            "chinese": "说话(ing形式)",
+            "english": "speaking",
+            "soundmark": "/'spikɪŋ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.005Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 55,
+            "chinese": "英语",
+            "english": "English",
+            "soundmark": "/ˈɪŋɡlɪʃ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.009Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 56,
+            "chinese": "说英语的",
+            "english": "English-speaking",
+            "soundmark": "/ˈɪŋɡlɪʃ/ /'spikɪŋ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.122Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 57,
+            "chinese": "环境",
+            "english": "environment",
+            "soundmark": "/ɪnˈvaɪrənmənt/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.150Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 58,
+            "chinese": "说英语的环境",
+            "english": "English-speaking environment",
+            "soundmark": "/ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.168Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 59,
+            "chinese": "一个说英语的环境",
+            "english": "an English-speaking environment",
+            "soundmark": "/ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.203Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 60,
+            "chinese": "在......里",
+            "english": "in",
+            "soundmark": "/ɪn/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.289Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 61,
+            "chinese": "在一个说英语的环境里",
+            "english": "in an English-speaking environment",
+            "soundmark": "/ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.376Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 62,
+            "chinese": "沉浸",
+            "english": "to immerse",
+            "soundmark": "/tə/ /ɪˈmɝs/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.410Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 63,
+            "chinese": "她自己",
+            "english": "herself",
+            "soundmark": "/hɝ'sɛlf/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.439Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 64,
+            "chinese": "沉浸她自己",
+            "english": "to immerse herself",
+            "soundmark": "/tə/ /ɪˈmɝs/ /hɝ'sɛlf/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.521Z",
+            "updatedAt": "2024-04-28T12:26:54.144Z"
+        },
+        {
+            "order": 65,
+            "chinese": "沉浸她自己在一个说英语的环境里",
+            "english": "to immerse herself in an English-speaking environment",
+            "soundmark": "/tə/ /ɪˈmɝs/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.538Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 66,
+            "chinese": "沉浸(ing形式)",
+            "english": "immersing",
+            "soundmark": "/ɪˈmɝsɪŋ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.570Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 67,
+            "chinese": "沉浸她自己在一个说英语的环境里(ing形式)",
+            "english": "immersing herself in an English-speaking environment",
+            "soundmark": "/ɪˈmɝsɪŋ/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.591Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 68,
+            "chinese": "她(过去)尝试",
+            "english": "she tried",
+            "soundmark": "/ʃi/ /traɪd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.648Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 69,
+            "chinese": "她(过去)尝试沉浸她自己在一个说英语的环境里",
+            "english": "she tried immersing herself in an English-speaking environment",
+            "soundmark": "/ʃi/ /traɪd/ /ɪˈmɝsɪŋ/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.674Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 70,
+            "chinese": "健康",
+            "english": "fitness",
+            "soundmark": "/'fɪtnəs/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.742Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 71,
+            "chinese": "她的",
+            "english": "her",
+            "soundmark": "/hɚ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.874Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 72,
+            "chinese": "她的健康",
+            "english": "her fitness",
+            "soundmark": "/hɚ/ /'fɪtnəs/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.887Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 73,
+            "chinese": "改善",
+            "english": "to improve",
+            "soundmark": "/tə/ /ɪmˈpruv/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:32:59.916Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 74,
+            "chinese": "改善她的健康",
+            "english": "to improve her fitness",
+            "soundmark": "/tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.017Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 75,
+            "chinese": "尝试",
+            "english": "to try",
+            "soundmark": "/tə/ /traɪ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.018Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 76,
+            "chinese": "尝试改善她的健康",
+            "english": "to try to improve her fitness",
+            "soundmark": "/tə/ /traɪ/ /tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.036Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 77,
+            "chinese": "决定",
+            "english": "to decide",
+            "soundmark": "/tə/ /dɪ'saɪd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.044Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 78,
+            "chinese": "她(过去)决定",
+            "english": "she decided",
+            "soundmark": "/ʃi/ /dɪ'saɪdɪd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.119Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 79,
+            "chinese": "她(过去)决定尝试改善她的健康",
+            "english": "she decided to try to improve her fitness",
+            "soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.195Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 80,
+            "chinese": "她(过去)决定尝试那个新餐厅",
+            "english": "she decided to try the new restaurant",
+            "soundmark": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /ðə/ /nu/ /'rɛstrɑnt/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.196Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 81,
+            "chinese": "早上",
+            "english": "morning",
+            "soundmark": "/'mɔrnɪŋ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.347Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 82,
+            "chinese": "在早上",
+            "english": "in the mornings",
+            "soundmark": "/ɪn/ /ðə/ /'mɔrnɪŋz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.387Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 83,
+            "chinese": "跑步",
+            "english": "to run",
+            "soundmark": "/tə/ /rʌn/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.430Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 84,
+            "chinese": "在早上跑步",
+            "english": "to run in the mornings",
+            "soundmark": "/tə/ /rʌn/ /ɪn/ /ðə/ /'mɔrnɪŋz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.489Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 85,
+            "chinese": "在早上跑步(ing形式)",
+            "english": "running in the mornings",
+            "soundmark": "/'rʌnɪŋ/ /ɪn/ /ðə/ /'mɔrnɪŋz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.509Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 86,
+            "chinese": "她(过去)尝试",
+            "english": "she tried",
+            "soundmark": "/ʃi/ /traɪd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.568Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 87,
+            "chinese": "她(过去)尝试在早上跑步",
+            "english": "she tried running in the mornings",
+            "soundmark": "/ʃi/ /traɪd/ /'rʌnɪŋ/ /ɪn/ /ðə/ /'mɔrnɪŋz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.577Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 88,
+            "chinese": "在......之后",
+            "english": "after",
+            "soundmark": "/'æftɚ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.655Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 89,
+            "chinese": "中午",
+            "english": "noon",
+            "soundmark": "/nun/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.735Z",
+            "updatedAt": "2024-04-28T12:26:54.145Z"
+        },
+        {
+            "order": 90,
+            "chinese": "下午",
+            "english": "afternoon",
+            "soundmark": "/æftɚ'nun/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.811Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 91,
+            "chinese": "在下午",
+            "english": "in the afternoons",
+            "soundmark": "/ɪn/ /ði/ /æftɚ'nunz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.840Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 92,
+            "chinese": "骑自行车",
+            "english": "to cycle",
+            "soundmark": "/tə/ /ˈsaɪkl/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.903Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 93,
+            "chinese": "在下午骑自行车",
+            "english": "to cycle in the afternoons",
+            "soundmark": "/tə/ /ˈsaɪkl/ /ɪn/ /ði/ /æftɚ'nunz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.940Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 94,
+            "chinese": "在下午骑自行车(ing形式)",
+            "english": "cycling in the afternoons",
+            "soundmark": "/ˈsaɪklɪŋ/ /ɪn/ /ði/ /æftɚ'nunz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.968Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 95,
+            "chinese": "她(过去)尝试",
+            "english": "she tried",
+            "soundmark": "/ʃi/ /traɪd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:00.964Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 96,
+            "chinese": "她(过去)尝试在下午骑自行车",
+            "english": "she tried cycling in the afternoons",
+            "soundmark": "/ʃi/ /traɪd/ /ˈsaɪklɪŋ/ /ɪn/ /ði/ /æftɚ'nunz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.010Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 97,
+            "chinese": "晚上",
+            "english": "night",
+            "soundmark": "/naɪt/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.085Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 98,
+            "chinese": "在晚上",
+            "english": "in the nights",
+            "soundmark": "/ɪn/ /ðə/ /naɪts/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.116Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 99,
+            "chinese": "瑜伽",
+            "english": "yoga",
+            "soundmark": "/ˈjoɡə/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.240Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 100,
+            "chinese": "课程",
+            "english": "classes",
+            "soundmark": "/klæsɪz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.268Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 101,
+            "chinese": "瑜伽课程",
+            "english": "yoga classes",
+            "soundmark": "/ˈjoɡə/ /klæsɪz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.343Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 102,
+            "chinese": "参加",
+            "english": "to attend",
+            "soundmark": "/tə/ /əˈtɛnd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.390Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 103,
+            "chinese": "参加瑜伽课程",
+            "english": "to attend yoga classes",
+            "soundmark": "/tə/ /əˈtɛnd/ /ˈjoɡə/ /klæsɪz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.413Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 104,
+            "chinese": "在晚上",
+            "english": "in the nights",
+            "soundmark": "/ɪn/ /ðə/ /naɪts/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.412Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 105,
+            "chinese": "在晚上参加瑜伽课程",
+            "english": "to attend yoga classes in the nights",
+            "soundmark": "/tə/ /əˈtɛnd/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.453Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 106,
+            "chinese": "参加(ing形式)",
+            "english": "attending",
+            "soundmark": "/əˈtɛndɪŋ/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.475Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 107,
+            "chinese": "在晚上参加瑜伽课程(ing形式)",
+            "english": "attending yoga classes in the nights",
+            "soundmark": "/əˈtɛndɪŋ/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.561Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 108,
+            "chinese": "她(过去)尝试",
+            "english": "she tried",
+            "soundmark": "/ʃi/ /traɪd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.600Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 109,
+            "chinese": "她(过去)尝试在晚上参加瑜伽课程",
+            "english": "she tried attending yoga classes in the nights",
+            "soundmark": "/ʃi/ /traɪd/ /əˈtɛndɪŋ/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.717Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 110,
+            "chinese": "健身房",
+            "english": "gym",
+            "soundmark": "/dʒɪm/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.744Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 111,
+            "chinese": "在健身房里",
+            "english": "in the gym",
+            "soundmark": "/ɪn/ /ðə/ /dʒɪm/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.845Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 112,
+            "chinese": "重量",
+            "english": "weights",
+            "soundmark": "/wets/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.846Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 113,
+            "chinese": "举起",
+            "english": "to lift",
+            "soundmark": "/tə/ /lɪft/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.858Z",
+            "updatedAt": "2024-04-28T12:26:54.146Z"
+        },
+        {
+            "order": 114,
+            "chinese": "举哑铃",
+            "english": "to lift weights",
+            "soundmark": "/tə/ /lɪft/ /wets/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.909Z",
+            "updatedAt": "2024-04-28T12:26:54.147Z"
+        },
+        {
+            "order": 115,
+            "chinese": "在健身房里",
+            "english": "in the gym",
+            "soundmark": "/ɪn/ /ðə/ /dʒɪm/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:01.938Z",
+            "updatedAt": "2024-04-28T12:26:54.147Z"
+        },
+        {
+            "order": 116,
+            "chinese": "在健身房里举哑铃",
+            "english": "to lift weights in the gym",
+            "soundmark": "/tə/ /lɪft/ /wets/ /ɪn/ /ðə/ /dʒɪm/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:02.002Z",
+            "updatedAt": "2024-04-28T12:26:54.147Z"
+        },
+        {
+            "order": 117,
+            "chinese": "在健身房里举哑铃(ing形式)",
+            "english": "lifting weights in the gym",
+            "soundmark": "/lɪftɪŋ/ /wets/ /ɪn/ /ðə/ /dʒɪm/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:02.012Z",
+            "updatedAt": "2024-04-28T12:26:54.147Z"
+        },
+        {
+            "order": 118,
+            "chinese": "她(过去)尝试",
+            "english": "she tried",
+            "soundmark": "/ʃi/ /traɪd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:02.113Z",
+            "updatedAt": "2024-04-28T12:26:54.147Z"
+        },
+        {
+            "order": 119,
+            "chinese": "她(过去)尝试在健身房里举哑铃",
+            "english": "she tried lifting weights in the gym",
+            "soundmark": "/ʃi/ /traɪd/ /lɪftɪŋ/ /wets/ /ɪn/ /ðə/ /dʒɪm/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:02.185Z",
+            "updatedAt": "2024-04-28T12:26:54.147Z"
+        },
+        {
+            "order": 120,
+            "chinese": "周",
+            "english": "week",
+            "soundmark": "/wik/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:02.260Z",
+            "updatedAt": "2024-04-28T12:26:54.147Z"
+        },
+        {
+            "order": 121,
+            "chinese": "末",
+            "english": "end",
+            "soundmark": "/ɛnd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:02.298Z",
+            "updatedAt": "2024-04-28T12:26:54.147Z"
+        },
+        {
+            "order": 122,
+            "chinese": "周末",
+            "english": "weekend",
+            "soundmark": "/'wikɛnd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:02.313Z",
+            "updatedAt": "2024-04-28T12:26:54.147Z"
+        },
+        {
+            "order": 123,
+            "chinese": "在周末",
+            "english": "on the weekends",
+            "soundmark": "/ɑn/ /ðə/ /'wikɛndz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:02.344Z",
+            "updatedAt": "2024-04-28T12:26:54.147Z"
+        },
+        {
+            "order": 124,
+            "chinese": "游泳",
+            "english": "to swim",
+            "soundmark": "/tə/ /swɪm/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:02.351Z",
+            "updatedAt": "2024-04-28T12:26:54.147Z"
+        },
+        {
+            "order": 125,
+            "chinese": "在周末游泳",
+            "english": "to swim on the weekends",
+            "soundmark": "/tə/ /swɪm/ /ɑn/ /ðə/ /'wikɛndz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:02.470Z",
+            "updatedAt": "2024-04-28T12:26:54.147Z"
+        },
+        {
+            "order": 126,
+            "chinese": "在周末游泳(ing形式)",
+            "english": "swimming on the weekends",
+            "soundmark": "/swɪmɪŋ/ /ɑn/ /ðə/ /'wikɛndz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:02.510Z",
+            "updatedAt": "2024-04-28T12:26:54.147Z"
+        },
+        {
+            "order": 127,
+            "chinese": "她(过去)尝试",
+            "english": "she tried",
+            "soundmark": "/ʃi/ /traɪd/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:02.619Z",
+            "updatedAt": "2024-04-28T12:26:54.147Z"
+        },
+        {
+            "order": 128,
+            "chinese": "她(过去)尝试在周末游泳",
+            "english": "she tried swimming on the weekends",
+            "soundmark": "/ʃi/ /traɪd/ /swɪmɪŋ/ /ɑn/ /ðə/ /'wikɛndz/",
+            "courseId": "ksu53ea1v2b3us1bszcm1sr0",
+            "createdAt": "2024-04-28T12:33:02.636Z",
+            "updatedAt": "2024-04-28T12:26:54.147Z"
+        }
+    ]
+}

@@ -1,0 +1,1137 @@
+{
+    "id": "c9eqfibo7r8si08jj9jg3ms0",
+    "title": "第十五课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1TF411n7cA",
+    "order": 15,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:51.629Z",
+    "updatedAt": "2024-05-23T14:05:58.806Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "支付；付钱",
+            "english": "to pay",
+            "soundmark": "/tə/ /pe/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:19.948Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 2,
+            "chinese": "账单",
+            "english": "the bill",
+            "soundmark": "/ðə/ /bɪl/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:19.961Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 3,
+            "chinese": "支付账单",
+            "english": "to pay the bill",
+            "soundmark": "/tə/ /pe/ /ðə/ /bɪl/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:19.999Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 4,
+            "chinese": "他",
+            "english": "him",
+            "soundmark": "/hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.042Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 5,
+            "chinese": "付钱给他",
+            "english": "to pay him",
+            "soundmark": "/tə/ /pe/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.102Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 6,
+            "chinese": "你",
+            "english": "you",
+            "soundmark": "/ju/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.209Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 7,
+            "chinese": "你(过去)付钱给他",
+            "english": "you paid him",
+            "soundmark": "/ju/ /ped/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.224Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 8,
+            "chinese": "十",
+            "english": "ten",
+            "soundmark": "/tɛn/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.235Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 9,
+            "chinese": "美元",
+            "english": "dollars",
+            "soundmark": "/'dɑlɚz/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.359Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 10,
+            "chinese": "十美元",
+            "english": "ten dollars",
+            "soundmark": "/tɛn/ /'dɑlɚz/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.391Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 11,
+            "chinese": "你(过去)付给他十美元",
+            "english": "you paid him ten dollars",
+            "soundmark": "/ju/ /ped/ /hɪm/ /tɛn/ /'dɑlɚz/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.439Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 12,
+            "chinese": "你(过去)没有付给他十美元",
+            "english": "you didn't pay him ten dollars",
+            "soundmark": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tɛn/ /'dɑlɚz/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.439Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 13,
+            "chinese": "做",
+            "english": "to do",
+            "soundmark": "/tə/ /du/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.448Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 14,
+            "chinese": "做这件事",
+            "english": "to do it",
+            "soundmark": "/tə/ /du/ /ɪt/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.561Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 15,
+            "chinese": "你(过去)付钱给他去做这件事",
+            "english": "you paid him to do it",
+            "soundmark": "/ju/ /ped/ /hɪm/ /tə/ /du/ /ɪt/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.566Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 16,
+            "chinese": "你(过去)没有付钱给他去做这件事",
+            "english": "you didn't pay him to do it",
+            "soundmark": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tə/ /du/ /ɪt/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.680Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 17,
+            "chinese": "你(过去)付给他十美元去做这件事",
+            "english": "you paid him ten dollars to do it",
+            "soundmark": "/ju/ /ped/ /hɪm/ /tɛn/ /'dɑlɚz/ /tə/ /du/ /ɪt/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.712Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 18,
+            "chinese": "你(过去)没有付给他十美元去做这件事",
+            "english": "you didn't pay him ten dollars to do it",
+            "soundmark": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tɛn/ /'dɑlɚz/ /tə/ /du/ /ɪt/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.734Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 19,
+            "chinese": "决定",
+            "english": "to decide",
+            "soundmark": "/tə/ /dɪ'saɪd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.814Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 20,
+            "chinese": "我们必须决定",
+            "english": "we have to decide",
+            "soundmark": "/wi/ /hæv/ /tə/ /dɪ'saɪd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.852Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 21,
+            "chinese": "今晚",
+            "english": "tonight",
+            "soundmark": "/tə'naɪt/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.883Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 22,
+            "chinese": "我们必须今晚决定",
+            "english": "we have to decide tonight",
+            "soundmark": "/wi/ /hæv/ /tə/ /dɪ'saɪd/ /tə'naɪt/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.948Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 23,
+            "chinese": "我们不必今晚决定",
+            "english": "we don't have to decide tonight",
+            "soundmark": "/wi/ /dont/ /hæv/ /tə/ /dɪ'saɪd/ /tə'naɪt/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:20.946Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 24,
+            "chinese": "我们决定",
+            "english": "we decide",
+            "soundmark": "/wi/ /dɪ'saɪd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.045Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 25,
+            "chinese": "去",
+            "english": "to go",
+            "soundmark": "/tə/ /ɡo/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.113Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 26,
+            "chinese": "外面",
+            "english": "out",
+            "soundmark": "/aʊt/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.136Z",
+            "updatedAt": "2024-04-28T12:26:53.938Z"
+        },
+        {
+            "order": 27,
+            "chinese": "去外面",
+            "english": "to go out",
+            "soundmark": "/tə/ /ɡo/ /aʊt/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.209Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 28,
+            "chinese": "我们决定去外面",
+            "english": "we decide to go out",
+            "soundmark": "/wi/ /dɪ'saɪd/ /tə/ /ɡo/ /aʊt/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.245Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 29,
+            "chinese": "为了",
+            "english": "for",
+            "soundmark": "/fɝ/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.252Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 30,
+            "chinese": "晚餐",
+            "english": "dinner",
+            "soundmark": "/'dɪnɚ/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.308Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 31,
+            "chinese": "为了晚餐",
+            "english": "for dinner",
+            "soundmark": "/fɝ/ /'dɪnɚ/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.337Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 32,
+            "chinese": "我们决定去外面为了晚餐",
+            "english": "we decide to go out for dinner",
+            "soundmark": "/wi/ /dɪ'saɪd/ /tə/ /ɡo/ /aʊt/ /fɝ/ /'dɪnɚ/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.436Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 33,
+            "chinese": "决定(过去)",
+            "english": "decided",
+            "soundmark": "/dɪ'saɪdɪd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.488Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 34,
+            "chinese": "我们(过去)决定",
+            "english": "we decided",
+            "soundmark": "/wi/ /dɪ'saɪdɪd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.586Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 35,
+            "chinese": "我们(过去)决定去外面为了晚餐",
+            "english": "we decided to go out for dinner",
+            "soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /ɡo/ /aʊt/ /fɝ/ /'dɪnɚ/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.621Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 36,
+            "chinese": "驾驶",
+            "english": "to drive",
+            "soundmark": "/tə/ /draɪv/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.703Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 37,
+            "chinese": "那辆汽车",
+            "english": "the car",
+            "soundmark": "/ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.708Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 38,
+            "chinese": "开那辆车",
+            "english": "to drive the car",
+            "soundmark": "/tə/ /draɪv/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.750Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 39,
+            "chinese": "我(过去)决定",
+            "english": "I decided",
+            "soundmark": "/aɪ/ /dɪ'saɪdɪd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.754Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 40,
+            "chinese": "我(过去)决定开那辆车",
+            "english": "I decided to drive the car",
+            "soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.776Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 41,
+            "chinese": "我开那辆车",
+            "english": "I drive the car",
+            "soundmark": "/aɪ/ /draɪv/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.790Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 42,
+            "chinese": "我(过去)开那辆车",
+            "english": "I drove the car",
+            "soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.939Z",
+            "updatedAt": "2024-04-28T12:26:53.939Z"
+        },
+        {
+            "order": 43,
+            "chinese": "昨天",
+            "english": "yesterday",
+            "soundmark": "/'jɛstɚde/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:21.959Z",
+            "updatedAt": "2024-04-28T12:26:53.940Z"
+        },
+        {
+            "order": 44,
+            "chinese": "我昨天开了那辆车",
+            "english": "I drove the car yesterday",
+            "soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/ /'jɛstɚde/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.035Z",
+            "updatedAt": "2024-04-28T12:26:53.940Z"
+        },
+        {
+            "order": 45,
+            "chinese": "我昨天没有开那辆车",
+            "english": "I didn't drive the car yesterday",
+            "soundmark": "/aɪ/ /'dɪdnt/ /draɪv/ /ðə/ /kɑr/ /'jɛstɚde/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.135Z",
+            "updatedAt": "2024-04-28T12:26:53.940Z"
+        },
+        {
+            "order": 46,
+            "chinese": "相信",
+            "english": "to believe",
+            "soundmark": "/tə/ /bɪ'liv/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.151Z",
+            "updatedAt": "2024-04-28T12:26:53.940Z"
+        },
+        {
+            "order": 47,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.194Z",
+            "updatedAt": "2024-04-28T12:26:53.940Z"
+        },
+        {
+            "order": 48,
+            "chinese": "相信我",
+            "english": "to believe me",
+            "soundmark": "/tə/ /bɪ'liv/ /mi/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.224Z",
+            "updatedAt": "2024-04-28T12:26:53.940Z"
+        },
+        {
+            "order": 49,
+            "chinese": "你需要",
+            "english": "you need",
+            "soundmark": "/ju/ /nid/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.236Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 50,
+            "chinese": "你需要相信我",
+            "english": "you need to believe me",
+            "soundmark": "/ju/ /nid/ /tə/ /bɪ'liv/ /mi/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.251Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 51,
+            "chinese": "你相信我",
+            "english": "you believe me",
+            "soundmark": "/ju/ /bɪ'liv/ /mi/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.410Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 52,
+            "chinese": "你不相信我",
+            "english": "you don't believe me",
+            "soundmark": "/ju/ /dont/ /bɪ'liv/ /mi/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.460Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 53,
+            "chinese": "你(过去)相信我",
+            "english": "you believed me",
+            "soundmark": "/ju/ /bɪ'livd/ /mi/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.500Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 54,
+            "chinese": "你(过去)不相信我",
+            "english": "you didn't believe me",
+            "soundmark": "/ju/ /'dɪdnt/ /bɪ'liv/ /mi/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.566Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 55,
+            "chinese": "但是",
+            "english": "but",
+            "soundmark": "/bət/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.600Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 56,
+            "chinese": "但是你(过去)不相信我",
+            "english": "but you didn't believe me",
+            "soundmark": "/bət/ /ju/ /'dɪdnt/ /bɪ'liv/ /mi/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.640Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 57,
+            "chinese": "我昨天开了那辆车但是你(过去)不相信我",
+            "english": "I drove the car yesterday but you didn't believe me",
+            "soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/ /'jɛstɚde/ /bət/ /ju/ /'dɪdnt/ /bɪ'liv/ /mi/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.663Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 58,
+            "chinese": "改变",
+            "english": "to change",
+            "soundmark": "/tə/ /tʃendʒ/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.678Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 59,
+            "chinese": "想法",
+            "english": "mind",
+            "soundmark": "/maɪnd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.722Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 60,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.756Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 61,
+            "chinese": "我的想法",
+            "english": "my mind",
+            "soundmark": "/maɪ/ /maɪnd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.858Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 62,
+            "chinese": "改变我的想法",
+            "english": "to change my mind",
+            "soundmark": "/tə/ /tʃendʒ/ /maɪ/ /maɪnd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.947Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 63,
+            "chinese": "我想要",
+            "english": "I want",
+            "soundmark": "/aɪ/ /wɑnt/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:22.964Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 64,
+            "chinese": "我想要改变我的想法",
+            "english": "I want to change my mind",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /tʃendʒ/ /maɪ/ /maɪnd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.000Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 65,
+            "chinese": "我改变我的想法",
+            "english": "I change my mind",
+            "soundmark": "/aɪ/ /tʃendʒ/ /maɪ/ /maɪnd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.080Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 66,
+            "chinese": "改变了",
+            "english": "changed",
+            "soundmark": "/tʃendʒd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.098Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 67,
+            "chinese": "我改变了我的想法",
+            "english": "I changed my mind",
+            "soundmark": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.120Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 68,
+            "chinese": "再次",
+            "english": "again",
+            "soundmark": "/ə'ɡɛn/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.175Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 69,
+            "chinese": "我再次改变了我的想法",
+            "english": "I changed my mind again",
+            "soundmark": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/ /ə'ɡɛn/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.216Z",
+            "updatedAt": "2024-04-28T12:26:53.941Z"
+        },
+        {
+            "order": 70,
+            "chinese": "决定",
+            "english": "to decide",
+            "soundmark": "/tə/ /dɪ'saɪd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.258Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 71,
+            "chinese": "开那辆车",
+            "english": "to drive the car",
+            "soundmark": "/tə/ /draɪv/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.310Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 72,
+            "chinese": "我(过去)决定开那辆车",
+            "english": "I decided to drive the car",
+            "soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.417Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 73,
+            "chinese": "我再次改变了我的想法我(过去)决定开那辆车",
+            "english": "I changed my mind again I decided to drive the car",
+            "soundmark": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/ /ə'ɡɛn/ /aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.463Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 74,
+            "chinese": "尝试",
+            "english": "to try",
+            "soundmark": "/tə/ /traɪ/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.462Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 75,
+            "chinese": "我(过去)决定尝试",
+            "english": "I decided to try",
+            "soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /traɪ/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.529Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 76,
+            "chinese": "我(过去)决定尝试开那辆车",
+            "english": "I decided to try to drive the car",
+            "soundmark": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.560Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 77,
+            "chinese": "我(过去)没有决定尝试开那辆车",
+            "english": "I didn't decide to try to drive the car",
+            "soundmark": "/aɪ/ /'dɪdnt/ /dɪ'saɪd/ /tə/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.611Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 78,
+            "chinese": "我尝试开那辆车",
+            "english": "I try to drive the car",
+            "soundmark": "/aɪ/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.678Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 79,
+            "chinese": "我不尝试开那辆车",
+            "english": "I don't try to drive the car",
+            "soundmark": "/aɪ/ /dont/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.713Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 80,
+            "chinese": "我(过去)尝试开那辆车",
+            "english": "I tried to drive the car",
+            "soundmark": "/aɪ/ /traɪd/ /tə/ /draɪv/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.764Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 81,
+            "chinese": "我(过去)没有尝试开那辆车",
+            "english": "I didn't try to drive the car",
+            "soundmark": "/aɪ/ /'dɪdnt/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.767Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 82,
+            "chinese": "我开那辆车",
+            "english": "I drive the car",
+            "soundmark": "/aɪ/ /draɪv/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.878Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 83,
+            "chinese": "我不开那辆车",
+            "english": "I don't drive the car",
+            "soundmark": "/aɪ/ /dont/ /draɪv/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.919Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 84,
+            "chinese": "我(过去)开那辆车",
+            "english": "I drove the car",
+            "soundmark": "/aɪ/ /drov/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.958Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 85,
+            "chinese": "我(过去)没有开那辆车",
+            "english": "I didn't drive the car",
+            "soundmark": "/aɪ/ /'dɪdnt/ /draɪv/ /ðə/ /kɑr/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.970Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 86,
+            "chinese": "停止；阻止",
+            "english": "to stop",
+            "soundmark": "/tə/ /stɑp/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:23.999Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 87,
+            "chinese": "他",
+            "english": "him",
+            "soundmark": "/hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.112Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 88,
+            "chinese": "阻止他",
+            "english": "to stop him",
+            "soundmark": "/tə/ /stɑp/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.194Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 89,
+            "chinese": "我(过去)尝试阻止他",
+            "english": "I tried to stop him",
+            "soundmark": "/aɪ/ /traɪd/ /tə/ /stɑp/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.209Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 90,
+            "chinese": "我(过去)没有尝试阻止他",
+            "english": "I didn't try to stop him",
+            "soundmark": "/aɪ/ /'dɪdnt/ /traɪ/ /tə/ /stɑp/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.209Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 91,
+            "chinese": "找到",
+            "english": "to find",
+            "soundmark": "/tə/ /faɪnd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.269Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 92,
+            "chinese": "一个方法",
+            "english": "a way",
+            "soundmark": "/ə/ /we/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.342Z",
+            "updatedAt": "2024-04-28T12:26:53.942Z"
+        },
+        {
+            "order": 93,
+            "chinese": "找到一个方法",
+            "english": "to find a way",
+            "soundmark": "/tə/ /faɪnd/ /ə/ /we/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.362Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 94,
+            "chinese": "我必须找到一个方法",
+            "english": "I have to find a way",
+            "soundmark": "/aɪ/ /hæv/ /tə/ /faɪnd/ /ə/ /we/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.417Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 95,
+            "chinese": "阻止他",
+            "english": "to stop him",
+            "soundmark": "/tə/ /stɑp/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.449Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 96,
+            "chinese": "我必须找到一个方法阻止他",
+            "english": "I have to find a way to stop him",
+            "soundmark": "/aɪ/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.449Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 97,
+            "chinese": "我不必找到一个方法阻止他",
+            "english": "I don't have to find a way to stop him",
+            "soundmark": "/aɪ/ /dont/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.623Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 98,
+            "chinese": "我(过去)必须",
+            "english": "I had to",
+            "soundmark": "/aɪ/ /hæd/ /tə/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.657Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 99,
+            "chinese": "我(过去)必须找到一个方法",
+            "english": "I had to find a way",
+            "soundmark": "/aɪ/ /hæd/ /tə/ /faɪnd/ /ə/ /we/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.704Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 100,
+            "chinese": "我(过去)必须找到一个方法阻止他",
+            "english": "I had to find a way to stop him",
+            "soundmark": "/aɪ/ /hæd/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.720Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 101,
+            "chinese": "我(过去)不必找到一个方法阻止他",
+            "english": "I didn't have to find a way to stop him",
+            "soundmark": "/aɪ/ /'dɪdnt/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.784Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 102,
+            "chinese": "我找到一个方法阻止他",
+            "english": "I find a way to stop him",
+            "soundmark": "/aɪ/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.789Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 103,
+            "chinese": "我(过去)找到一个方法阻止他",
+            "english": "I found a way to stop him",
+            "soundmark": "/aɪ/ /faʊnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.796Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 104,
+            "chinese": "我(过去)没有找到一个方法阻止他",
+            "english": "I didn't find a way to stop him",
+            "soundmark": "/aɪ/ /'dɪdnt/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.879Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 105,
+            "chinese": "我阻止他",
+            "english": "I stop him",
+            "soundmark": "/aɪ/ /stɑp/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.887Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 106,
+            "chinese": "我阻止了他",
+            "english": "I stopped him",
+            "soundmark": "/aɪ/ /stɑpt/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:24.951Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 107,
+            "chinese": "我(过去)没有阻止他",
+            "english": "I didn't stop him",
+            "soundmark": "/aɪ/ /'dɪdnt/ /stɑp/ /hɪm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.103Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 108,
+            "chinese": "问",
+            "english": "to ask",
+            "soundmark": "/tə/ /æsk/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.127Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 109,
+            "chinese": "问过",
+            "english": "asked",
+            "soundmark": "/æskt/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.215Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 110,
+            "chinese": "他们",
+            "english": "them",
+            "soundmark": "/ðəm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.217Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 111,
+            "chinese": "问过他们",
+            "english": "asked them",
+            "soundmark": "/æskt/ /ðəm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.238Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 112,
+            "chinese": "我",
+            "english": "I",
+            "soundmark": "/aɪ/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.238Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 113,
+            "chinese": "我问过他们",
+            "english": "I asked them",
+            "soundmark": "/aɪ/ /æskt/ /ðəm/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.280Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 114,
+            "chinese": "那个问题",
+            "english": "the question",
+            "soundmark": "/ðə/ /'kwɛstʃən/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.319Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 115,
+            "chinese": "相同的",
+            "english": "same",
+            "soundmark": "/sem/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.335Z",
+            "updatedAt": "2024-04-28T12:26:53.943Z"
+        },
+        {
+            "order": 116,
+            "chinese": "那个相同的问题",
+            "english": "the same question",
+            "soundmark": "/ðə/ /sem/ /'kwɛstʃən/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.442Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 117,
+            "chinese": "我问过他们那个相同的问题",
+            "english": "I asked them the same question",
+            "soundmark": "/aɪ/ /æskt/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.562Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 118,
+            "chinese": "我没有问过他们那个相同的问题",
+            "english": "I didn't ask them the same question",
+            "soundmark": "/aɪ/ /'dɪdnt/ /æsk/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.633Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 119,
+            "chinese": "回答",
+            "english": "to answer",
+            "soundmark": "/tə/ /'ænsɚ/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.672Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 120,
+            "chinese": "回答过",
+            "english": "answered",
+            "soundmark": "/'ænsɚd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.695Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 121,
+            "chinese": "没有人",
+            "english": "nobody",
+            "soundmark": "/ˈnobɑdi/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.712Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 122,
+            "chinese": "没有人回答过",
+            "english": "nobody answered",
+            "soundmark": "/ˈnobɑdi/ /'ænsɚd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.719Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 123,
+            "chinese": "但是",
+            "english": "but",
+            "soundmark": "/bət/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.771Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 124,
+            "chinese": "但是没有人回答过",
+            "english": "but nobody answered",
+            "soundmark": "/bət/ /ˈnobɑdi/ /'ænsɚd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.777Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 125,
+            "chinese": "我问过他们那个相同的问题但是没有人回答过",
+            "english": "I asked them the same question but nobody answered",
+            "soundmark": "/aɪ/ /æskt/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/ /bət/ /ˈnobɑdi/ /'ænsɚd/",
+            "courseId": "c9eqfibo7r8si08jj9jg3ms0",
+            "createdAt": "2024-04-28T12:29:25.782Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        }
+    ]
+}

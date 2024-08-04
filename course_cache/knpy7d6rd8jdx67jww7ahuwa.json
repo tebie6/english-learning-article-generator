@@ -1,0 +1,1407 @@
+{
+    "id": "knpy7d6rd8jdx67jww7ahuwa",
+    "title": "第五十三课",
+    "description": null,
+    "video": "https://www.bilibili.com/video/BV1D1421k72C",
+    "order": 53,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-06-16T13:13:03.948Z",
+    "updatedAt": "2024-06-16T05:13:03.608Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "存",
+            "english": "to save",
+            "soundmark": "/tə/ /sev/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.703Z",
+            "updatedAt": "2024-07-25T02:14:24.394Z"
+        },
+        {
+            "order": 2,
+            "chinese": "存(ed形式)",
+            "english": "saved",
+            "soundmark": "/sevd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.857Z",
+            "updatedAt": "2024-07-25T02:14:24.397Z"
+        },
+        {
+            "order": 3,
+            "chinese": "我们(过去已经)存",
+            "english": "we had saved",
+            "soundmark": "/wi/ /hæd/ /sevd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.865Z",
+            "updatedAt": "2024-07-25T02:14:24.397Z"
+        },
+        {
+            "order": 4,
+            "chinese": "钱",
+            "english": "money",
+            "soundmark": "/ˈmʌni/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.901Z",
+            "updatedAt": "2024-07-25T02:14:24.398Z"
+        },
+        {
+            "order": 5,
+            "chinese": "足够的",
+            "english": "enough",
+            "soundmark": "/ɪ'nʌf/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.906Z",
+            "updatedAt": "2024-07-25T02:14:24.398Z"
+        },
+        {
+            "order": 6,
+            "chinese": "足够的钱",
+            "english": "enough money",
+            "soundmark": "/ɪ'nʌf/ /ˈmʌni/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.883Z",
+            "updatedAt": "2024-07-25T02:14:24.398Z"
+        },
+        {
+            "order": 7,
+            "chinese": "我们(过去已经)存了足够的钱",
+            "english": "we had saved enough money",
+            "soundmark": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.930Z",
+            "updatedAt": "2024-07-25T02:14:24.398Z"
+        },
+        {
+            "order": 8,
+            "chinese": "购买",
+            "english": "to buy",
+            "soundmark": "/tə/ /baɪ/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.883Z",
+            "updatedAt": "2024-07-25T02:14:24.398Z"
+        },
+        {
+            "order": 9,
+            "chinese": "房子",
+            "english": "house",
+            "soundmark": "/haʊs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.883Z",
+            "updatedAt": "2024-07-25T02:14:24.398Z"
+        },
+        {
+            "order": 10,
+            "chinese": "买一套房子",
+            "english": "to buy a house",
+            "soundmark": "/tə/ /baɪ/ /ə/ /haʊs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.882Z",
+            "updatedAt": "2024-07-25T02:14:24.398Z"
+        },
+        {
+            "order": 11,
+            "chinese": "决定",
+            "english": "to decide",
+            "soundmark": "/tə/ /dɪ'saɪd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.759Z",
+            "updatedAt": "2024-07-25T02:14:24.398Z"
+        },
+        {
+            "order": 12,
+            "chinese": "决定买一套房子",
+            "english": "to decide to buy a house",
+            "soundmark": "/tə/ /dɪ'saɪd/ /tə/ /baɪ/ /ə/ /haʊs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.812Z",
+            "updatedAt": "2024-07-25T02:14:24.399Z"
+        },
+        {
+            "order": 13,
+            "chinese": "我们决定买一套房子",
+            "english": "we decide to buy a house",
+            "soundmark": "/wi/ /dɪ'saɪd/ /tə/ /baɪ/ /ə/ /haʊs/ /(过去)决定 decided/ /dɪ'saɪdɪd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.868Z",
+            "updatedAt": "2024-07-25T02:14:24.399Z"
+        },
+        {
+            "order": 14,
+            "chinese": "我们(过去)决定买一套房子",
+            "english": "we decided to buy a house",
+            "soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.922Z",
+            "updatedAt": "2024-07-25T02:14:24.399Z"
+        },
+        {
+            "order": 15,
+            "chinese": "在......之前",
+            "english": "before",
+            "soundmark": "/bɪ'fɔr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.924Z",
+            "updatedAt": "2024-07-25T02:14:24.399Z"
+        },
+        {
+            "order": 16,
+            "chinese": "在我们(过去)决定买一套房子之前",
+            "english": "before we decided to buy a house",
+            "soundmark": "/bɪ'fɔr/ /wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.924Z",
+            "updatedAt": "2024-07-25T02:14:24.399Z"
+        },
+        {
+            "order": 17,
+            "chinese": "我们(过去已经)存了足够的钱",
+            "english": "we had saved enough money",
+            "soundmark": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.941Z",
+            "updatedAt": "2024-07-25T02:14:24.399Z"
+        },
+        {
+            "order": 18,
+            "chinese": "在我们(过去)决定买一个房子之前我们(过去已经)存了足够的钱。",
+            "english": "we had saved enough money before we decided to buy a house",
+            "soundmark": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/ /bɪ'fɔr/ /wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.942Z",
+            "updatedAt": "2024-07-25T02:14:24.399Z"
+        },
+        {
+            "order": 19,
+            "chinese": "打扫",
+            "english": "to clean",
+            "soundmark": "/tə/ /klin/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.942Z",
+            "updatedAt": "2024-07-25T02:14:24.399Z"
+        },
+        {
+            "order": 20,
+            "chinese": "打扫(ed形式)",
+            "english": "cleaned",
+            "soundmark": "/klind/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.943Z",
+            "updatedAt": "2024-07-25T02:14:24.399Z"
+        },
+        {
+            "order": 21,
+            "chinese": "他们(过去已经)打扫",
+            "english": "they had cleaned",
+            "soundmark": "/ðe/ /hæd/ /klind/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.977Z",
+            "updatedAt": "2024-07-25T02:14:24.399Z"
+        },
+        {
+            "order": 22,
+            "chinese": "房子",
+            "english": "house",
+            "soundmark": "/haʊs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.980Z",
+            "updatedAt": "2024-07-25T02:14:24.399Z"
+        },
+        {
+            "order": 23,
+            "chinese": "他们(过去已经)打扫了那个房子",
+            "english": "they had cleaned the house",
+            "soundmark": "/ðe/ /hæd/ /klind/ /ðə/ /haʊs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.980Z",
+            "updatedAt": "2024-07-25T02:14:24.400Z"
+        },
+        {
+            "order": 24,
+            "chinese": "整个",
+            "english": "entire",
+            "soundmark": "/ɪnˈtaɪɚ/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.981Z",
+            "updatedAt": "2024-07-25T02:14:24.400Z"
+        },
+        {
+            "order": 25,
+            "chinese": "他们(过去已经)打扫了整个房子",
+            "english": "they had cleaned the entire house",
+            "soundmark": "/ðe/ /hæd/ /klind/ /ði/ /ɪnˈtaɪɚ/ /haʊs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.992Z",
+            "updatedAt": "2024-07-25T02:14:24.400Z"
+        },
+        {
+            "order": 26,
+            "chinese": "父母",
+            "english": "parents",
+            "soundmark": "/'pɛrənts/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.997Z",
+            "updatedAt": "2024-07-25T02:14:24.400Z"
+        },
+        {
+            "order": 27,
+            "chinese": "他们的",
+            "english": "their",
+            "soundmark": "/ðɛr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:24.998Z",
+            "updatedAt": "2024-07-25T02:14:24.400Z"
+        },
+        {
+            "order": 28,
+            "chinese": "他们的父母",
+            "english": "their parents",
+            "soundmark": "/ðɛr/ /'pɛrənts/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.003Z",
+            "updatedAt": "2024-07-25T02:14:24.400Z"
+        },
+        {
+            "order": 29,
+            "chinese": "到达",
+            "english": "to arrive",
+            "soundmark": "/tə/ /ə'raɪv/ /(过去)达到 arrived/ /ə'raɪvd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.011Z",
+            "updatedAt": "2024-07-25T02:14:24.400Z"
+        },
+        {
+            "order": 30,
+            "chinese": "他们的父母(过去)到达",
+            "english": "their parents arrived",
+            "soundmark": "/ðɛr/ /'pɛrənts/ /ə'raɪvd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.004Z",
+            "updatedAt": "2024-07-25T02:14:24.400Z"
+        },
+        {
+            "order": 31,
+            "chinese": "在他们的父母(过去)到达之前",
+            "english": "before their parents arrived",
+            "soundmark": "/bɪ'fɔr/ /ðɛr/ /'pɛrənts/ /ə'raɪvd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.038Z",
+            "updatedAt": "2024-07-25T02:14:24.400Z"
+        },
+        {
+            "order": 32,
+            "chinese": "他们(过去已经)打扫了整个房子",
+            "english": "they had cleaned the entire house",
+            "soundmark": "/ðe/ /hæd/ /klind/ /ðə/ /ɪnˈtaɪɚ/ /haʊs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.040Z",
+            "updatedAt": "2024-07-25T02:14:24.400Z"
+        },
+        {
+            "order": 33,
+            "chinese": "在他们的父母(过去)到达之前他们(过去已经)打扫了整个房子。",
+            "english": "they had cleaned the entire house before their parents arrived",
+            "soundmark": "/ðe/ /hæd/ /klind/ /ði/ /ɪnˈtaɪɚ/ /haʊs/ /bɪ'fɔr/ /ðɛr/ /'pɛrənts/ /ə'raɪvd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.048Z",
+            "updatedAt": "2024-07-25T02:14:24.400Z"
+        },
+        {
+            "order": 34,
+            "chinese": "搬家",
+            "english": "move",
+            "soundmark": "/muv/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.059Z",
+            "updatedAt": "2024-07-25T02:14:24.400Z"
+        },
+        {
+            "order": 35,
+            "chinese": "搬家(ed形式)",
+            "english": "moved",
+            "soundmark": "/muvd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.053Z",
+            "updatedAt": "2024-07-25T02:14:24.400Z"
+        },
+        {
+            "order": 36,
+            "chinese": "他们(过去已经)搬家",
+            "english": "they had moved",
+            "soundmark": "/ðe/ /hæd/ /muvd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.056Z",
+            "updatedAt": "2024-07-25T02:14:24.401Z"
+        },
+        {
+            "order": 37,
+            "chinese": "城市",
+            "english": "city",
+            "soundmark": "/'sɪti/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.057Z",
+            "updatedAt": "2024-07-25T02:14:24.401Z"
+        },
+        {
+            "order": 38,
+            "chinese": "新的",
+            "english": "new",
+            "soundmark": "/nu/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.063Z",
+            "updatedAt": "2024-07-25T02:14:24.401Z"
+        },
+        {
+            "order": 39,
+            "chinese": "一个新的城市",
+            "english": "a new city",
+            "soundmark": "/ə/ /nu/ /'sɪti/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.068Z",
+            "updatedAt": "2024-07-25T02:14:24.401Z"
+        },
+        {
+            "order": 40,
+            "chinese": "他们(过去已经)搬家到了一个新的城市",
+            "english": "they had moved to a new city",
+            "soundmark": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.087Z",
+            "updatedAt": "2024-07-25T02:14:24.401Z"
+        },
+        {
+            "order": 41,
+            "chinese": "出生",
+            "english": "to birth",
+            "soundmark": "/tə/ /bɜːθ/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.090Z",
+            "updatedAt": "2024-07-25T02:14:24.401Z"
+        },
+        {
+            "order": 42,
+            "chinese": "出生(ed形式)",
+            "english": "born",
+            "soundmark": "/bɔrn/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.098Z",
+            "updatedAt": "2024-07-25T02:14:24.401Z"
+        },
+        {
+            "order": 43,
+            "chinese": "被出生",
+            "english": "be born",
+            "soundmark": "/bi/ /bɔrn/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.111Z",
+            "updatedAt": "2024-07-25T02:14:24.401Z"
+        },
+        {
+            "order": 44,
+            "chinese": "那个婴儿",
+            "english": "the baby",
+            "soundmark": "/ðə/ /'bebi/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.113Z",
+            "updatedAt": "2024-07-25T02:14:24.401Z"
+        },
+        {
+            "order": 45,
+            "chinese": "那个婴儿(过去)出生",
+            "english": "the baby was born",
+            "soundmark": "/ðə/ /'bebi/ /wəz/ /bɔrn/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.123Z",
+            "updatedAt": "2024-07-25T02:14:24.401Z"
+        },
+        {
+            "order": 46,
+            "chinese": "在......之前",
+            "english": "before",
+            "soundmark": "/bɪ'fɔr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.115Z",
+            "updatedAt": "2024-07-25T02:14:24.401Z"
+        },
+        {
+            "order": 47,
+            "chinese": "在那个婴儿(过去)出生之前",
+            "english": "before the baby was born",
+            "soundmark": "/bɪ'fɔr/ /ðə/ /'bebi/ /wəz/ /bɔrn/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.124Z",
+            "updatedAt": "2024-07-25T02:14:24.401Z"
+        },
+        {
+            "order": 48,
+            "chinese": "他们(过去已经)搬家到了一个新的城市",
+            "english": "they had moved to a new city",
+            "soundmark": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.132Z",
+            "updatedAt": "2024-07-25T02:14:24.401Z"
+        },
+        {
+            "order": 49,
+            "chinese": "在那个婴儿(过去)出生之前他们,(过去已经)搬到了一个新的城市",
+            "english": "they had moved to a new city before the baby was born",
+            "soundmark": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/ /bɪ'fɔr/ /ðə/ /'bebi/ /wəz/ /bɔrn/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.140Z",
+            "updatedAt": "2024-07-25T02:14:24.402Z"
+        },
+        {
+            "order": 50,
+            "chinese": "计划",
+            "english": "to plan",
+            "soundmark": "/tə/ /plæn/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.145Z",
+            "updatedAt": "2024-07-25T02:14:24.402Z"
+        },
+        {
+            "order": 51,
+            "chinese": "计划(ed形式)",
+            "english": "planned",
+            "soundmark": "/plænd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.161Z",
+            "updatedAt": "2024-07-25T02:14:24.402Z"
+        },
+        {
+            "order": 52,
+            "chinese": "他们(过去已经)计划",
+            "english": "they had planned",
+            "soundmark": "/ðe/ /hæd/ /plænd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.163Z",
+            "updatedAt": "2024-07-25T02:14:24.402Z"
+        },
+        {
+            "order": 53,
+            "chinese": "已经",
+            "english": "already",
+            "soundmark": "/ɔl'rɛdi/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.170Z",
+            "updatedAt": "2024-07-25T02:14:24.402Z"
+        },
+        {
+            "order": 54,
+            "chinese": "他们(过去)已经计划",
+            "english": "they had already planned",
+            "soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.169Z",
+            "updatedAt": "2024-07-25T02:14:24.402Z"
+        },
+        {
+            "order": 55,
+            "chinese": "假期",
+            "english": "vacation",
+            "soundmark": "/veˈkeʃn/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.180Z",
+            "updatedAt": "2024-07-25T02:14:24.402Z"
+        },
+        {
+            "order": 56,
+            "chinese": "他们的",
+            "english": "their",
+            "soundmark": "/ðɛr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.186Z",
+            "updatedAt": "2024-07-25T02:14:24.402Z"
+        },
+        {
+            "order": 57,
+            "chinese": "他们的假期",
+            "english": "their vacation",
+            "soundmark": "/ðɛr/ /veˈkeʃn/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.195Z",
+            "updatedAt": "2024-07-25T02:14:24.402Z"
+        },
+        {
+            "order": 58,
+            "chinese": "他们(过去)已经计划了他们的假期",
+            "english": "they had already planned their vacation",
+            "soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.197Z",
+            "updatedAt": "2024-07-25T02:14:24.402Z"
+        },
+        {
+            "order": 59,
+            "chinese": "邀请",
+            "english": "to invite",
+            "soundmark": "/tə/ /ɪn'vaɪt/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.204Z",
+            "updatedAt": "2024-07-25T02:14:24.402Z"
+        },
+        {
+            "order": 60,
+            "chinese": "邀请",
+            "english": "invitation",
+            "soundmark": "/ɪnvɪ'teʃən/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.213Z",
+            "updatedAt": "2024-07-25T02:14:24.402Z"
+        },
+        {
+            "order": 61,
+            "chinese": "那个邀请",
+            "english": "the invitation",
+            "soundmark": "/ði/ /ɪnvɪ'teʃən/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.219Z",
+            "updatedAt": "2024-07-25T02:14:24.402Z"
+        },
+        {
+            "order": 62,
+            "chinese": "收到",
+            "english": "to receive",
+            "soundmark": "/tə/ /rɪ'siv/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.226Z",
+            "updatedAt": "2024-07-25T02:14:24.402Z"
+        },
+        {
+            "order": 63,
+            "chinese": "收到那个邀请",
+            "english": "to receive the invitation",
+            "soundmark": "/tə/ /rɪ'siv/ /ði/ /ɪnvɪ'teʃən/ /(过去)收到 received/ /rɪ'sivd/ /(过去)收到那个邀请 received the invitation/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.226Z",
+            "updatedAt": "2024-07-25T02:14:24.403Z"
+        },
+        {
+            "order": 64,
+            "chinese": "他们(过去)收到那个邀请",
+            "english": "they received the invitation",
+            "soundmark": "/ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.238Z",
+            "updatedAt": "2024-07-25T02:14:24.403Z"
+        },
+        {
+            "order": 65,
+            "chinese": "在......之前",
+            "english": "before",
+            "soundmark": "/bɪ'fɔr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.242Z",
+            "updatedAt": "2024-07-25T02:14:24.403Z"
+        },
+        {
+            "order": 66,
+            "chinese": "在他们(过去)收到那个邀请之前",
+            "english": "before they received the invitation",
+            "soundmark": "/bɪ'fɔr/ /ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.248Z",
+            "updatedAt": "2024-07-25T02:14:24.403Z"
+        },
+        {
+            "order": 67,
+            "chinese": "他们(过去)已经计划了他们的假期",
+            "english": "they had already planned their vacation",
+            "soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.258Z",
+            "updatedAt": "2024-07-25T02:14:24.403Z"
+        },
+        {
+            "order": 68,
+            "chinese": "在他们(过去)收到那个邀请之前他们(过去)已经计划了他们的假期",
+            "english": "they had already planned their vacation before they received the invitation",
+            "soundmark": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/ /bɪ'fɔr/ /ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.259Z",
+            "updatedAt": "2024-07-25T02:14:24.403Z"
+        },
+        {
+            "order": 69,
+            "chinese": "离开",
+            "english": "to leave",
+            "soundmark": "/tə/ /liv/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.274Z",
+            "updatedAt": "2024-07-25T02:14:24.403Z"
+        },
+        {
+            "order": 70,
+            "chinese": "办公室",
+            "english": "office",
+            "soundmark": "/ði/ /'ɑfɪs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.281Z",
+            "updatedAt": "2024-07-25T02:14:24.403Z"
+        },
+        {
+            "order": 71,
+            "chinese": "离开办公室",
+            "english": "to leave the office",
+            "soundmark": "/tə/ /liv/ /ði/ /'ɑfɪs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.282Z",
+            "updatedAt": "2024-07-25T02:14:24.403Z"
+        },
+        {
+            "order": 72,
+            "chinese": "离开(ed形式)",
+            "english": "left",
+            "soundmark": "/lɛft/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.282Z",
+            "updatedAt": "2024-07-25T02:14:24.403Z"
+        },
+        {
+            "order": 73,
+            "chinese": "她(过去已经)离开",
+            "english": "she had left",
+            "soundmark": "/ʃi/ /hæd/ /lɛft/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.289Z",
+            "updatedAt": "2024-07-25T02:14:24.403Z"
+        },
+        {
+            "order": 74,
+            "chinese": "她(过去已经)离开办公室",
+            "english": "she had left the office",
+            "soundmark": "/ʃi/ /hæd/ /lɛft/ /ði/ /'ɑfɪs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.311Z",
+            "updatedAt": "2024-07-25T02:14:24.403Z"
+        },
+        {
+            "order": 75,
+            "chinese": "刚刚",
+            "english": "just",
+            "soundmark": "/dʒʌst/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.311Z",
+            "updatedAt": "2024-07-25T02:14:24.403Z"
+        },
+        {
+            "order": 76,
+            "chinese": "她(过去已经)刚刚离开办公室",
+            "english": "she had just left the office",
+            "soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.322Z",
+            "updatedAt": "2024-07-25T02:14:24.403Z"
+        },
+        {
+            "order": 77,
+            "chinese": "老板",
+            "english": "boss",
+            "soundmark": "/bɔs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.313Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 78,
+            "chinese": "她的",
+            "english": "her",
+            "soundmark": "/hɚ/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.318Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 79,
+            "chinese": "她的老板",
+            "english": "her boss",
+            "soundmark": "/hɚ/ /bɔs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.337Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 80,
+            "chinese": "打电话",
+            "english": "to call",
+            "soundmark": "/tə/ /kɔl/ /(过去)打电话 called/ /kɔld/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.337Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 81,
+            "chinese": "她的老板(过去)打电话",
+            "english": "her boss called",
+            "soundmark": "/hɚ/ /bɔs/ /kɔld/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.337Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 82,
+            "chinese": "当......时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.349Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 83,
+            "chinese": "当她的老板(过去)打电话的时候",
+            "english": "when her boss called",
+            "soundmark": "/wɛn/ /hɚ/ /bɔs/ /kɔld/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.362Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 84,
+            "chinese": "她(过去已经)刚刚离开办公室",
+            "english": "she had just left the office",
+            "soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.367Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 85,
+            "chinese": "她(过去已经)刚刚离开办公室当她的老板(过去)打电话的时候",
+            "english": "she had just left the office when her boss called",
+            "soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/ /wɛn/ /hɚ/ /bɔs/ /kɔld/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.369Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 86,
+            "chinese": "任务",
+            "english": "task",
+            "soundmark": "/tæsk/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.369Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 87,
+            "chinese": "紧急的",
+            "english": "urgent",
+            "soundmark": "/'ɝdʒənt/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.384Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 88,
+            "chinese": "一项紧急的任务",
+            "english": "an urgent task",
+            "soundmark": "/ən/ /'ɝdʒənt/ /tæsk/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.390Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 89,
+            "chinese": "她的老板(过去)打电话",
+            "english": "her boss called",
+            "soundmark": "/hɚ/ /bɔs/ /kɔld/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.391Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 90,
+            "chinese": "她的老板(过去)打电话给她安排一项紧急的任务",
+            "english": "her boss called with an urgent task",
+            "soundmark": "/hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.391Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 91,
+            "chinese": "当她的老板(过去)打电话给她安排一项紧急的任务的时候",
+            "english": "when her boss called with an urgent task",
+            "soundmark": "/wɛn/ /hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.399Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 92,
+            "chinese": "她(过去已经)刚刚离开办公室",
+            "english": "she had just left the office",
+            "soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.423Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 93,
+            "chinese": "当她的老板(过去)打电话给她安排一项紧急任务的时候她刚刚离开办公室",
+            "english": "she had just left the office when her boss called with an urgent task",
+            "soundmark": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/ /wɛn/ /hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.421Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 94,
+            "chinese": "在国外",
+            "english": "abroad",
+            "soundmark": "/ə'brɔd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.428Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 95,
+            "chinese": "我在国外",
+            "english": "I am abroad",
+            "soundmark": "/aɪ/ /æm/ /ə'brɔd/ /be(ed形式) been/ /bɪn/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.428Z",
+            "updatedAt": "2024-07-25T02:14:24.404Z"
+        },
+        {
+            "order": 96,
+            "chinese": "我(已经)去过国外",
+            "english": "I have been abroad",
+            "soundmark": "/aɪ/ /hæv/ /bɪn/ /ə'brɔd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.436Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 97,
+            "chinese": "还没有",
+            "english": "haven't",
+            "soundmark": "/ˈhævnt/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.442Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 98,
+            "chinese": "我还没有去过国外",
+            "english": "I haven't been abroad",
+            "soundmark": "/aɪ/ /ˈhævnt/ /bɪn/ /ə'brɔd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.443Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 99,
+            "chinese": "从来没有",
+            "english": "never",
+            "soundmark": "/'nɛvɚ/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.444Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 100,
+            "chinese": "我从来没有去过国外",
+            "english": "I have never been abroad",
+            "soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /ə'brɔd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.452Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 101,
+            "chinese": "我(过去)从来没有去过国外",
+            "english": "I had never been abroad",
+            "soundmark": "/aɪ/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.478Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 102,
+            "chinese": "她(过去)从来没有去过国外",
+            "english": "she had never been abroad",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.480Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 103,
+            "chinese": "旅行",
+            "english": "trip",
+            "soundmark": "/trɪp/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.486Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 104,
+            "chinese": "她的旅行",
+            "english": "her trip",
+            "soundmark": "/hɚ/ /trɪp/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.486Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 105,
+            "chinese": "西班牙",
+            "english": "Spain",
+            "soundmark": "/spen/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.494Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 106,
+            "chinese": "她的去西班牙的旅行",
+            "english": "her trip to Spain",
+            "soundmark": "/hɚ/ /trɪp/ /tə/ /spen/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.497Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 107,
+            "chinese": "上一个",
+            "english": "last",
+            "soundmark": "/læst/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.498Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 108,
+            "chinese": "年",
+            "english": "year",
+            "soundmark": "/jɪr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.505Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 109,
+            "chinese": "去年",
+            "english": "last year",
+            "soundmark": "/læst/ /jɪr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.513Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 110,
+            "chinese": "去年她的去西班牙的旅行",
+            "english": "her trip to Spain last year",
+            "soundmark": "/hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.513Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 111,
+            "chinese": "在......之前",
+            "english": "before",
+            "soundmark": "/bɪ'fɔr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.533Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 112,
+            "chinese": "在去年她的去西班牙的旅行之前",
+            "english": "before her trip to Spain last year",
+            "soundmark": "/bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.554Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 113,
+            "chinese": "她(过去)从来没有去过国外",
+            "english": "she had never been abroad",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.546Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 114,
+            "chinese": "在去年她的去西班牙的旅行之前她(过去)从来没有去过国外",
+            "english": "she had never been abroad before her trip to Spain last year",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/ /bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.547Z",
+            "updatedAt": "2024-07-25T02:14:24.405Z"
+        },
+        {
+            "order": 115,
+            "chinese": "国家",
+            "english": "country",
+            "soundmark": "/ˈkʌntri/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.553Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 116,
+            "chinese": "外国的",
+            "english": "foreign",
+            "soundmark": "/ˈfɔrən/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.554Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 117,
+            "chinese": "外国",
+            "english": "a foreign country",
+            "soundmark": "/ə/ /ˈfɔrən/ /ˈkʌntri/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.567Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 118,
+            "chinese": "在国外",
+            "english": "abroad",
+            "soundmark": "/ə'brɔd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.568Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 119,
+            "chinese": "她(过去)从来没有去过国外",
+            "english": "she had never been abroad",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.572Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 120,
+            "chinese": "她(过去)从来没有去过外国",
+            "english": "she had never been to a foreign country",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ə/ /ˈfɔrən/ /ˈkʌntri/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.596Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 121,
+            "chinese": "在去年她的去西班牙的旅行之前",
+            "english": "before her trip to Spain last year",
+            "soundmark": "/bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.604Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 122,
+            "chinese": "在去年她的去西班牙的旅行之前她(过去)从来没有去过外国",
+            "english": "she had never been to a foreign country before her trip to Spain last year",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ə/ /ˈfɔrən/ /ˈkʌntri/ /bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.603Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 123,
+            "chinese": "她(过去)从来没有去过",
+            "english": "she had never been",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.603Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 124,
+            "chinese": "加州",
+            "english": "California",
+            "soundmark": "/ˌkælɪˈfɔrnjə/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.624Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 125,
+            "chinese": "她(过去)从来没有去过加州",
+            "english": "she had never been to California",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ˌkælɪˈfɔrnjə/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.625Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 126,
+            "chinese": "夏天",
+            "english": "summer",
+            "soundmark": "/'sʌmɚ/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.631Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 127,
+            "chinese": "上一个",
+            "english": "last",
+            "soundmark": "/læst/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.630Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 128,
+            "chinese": "去年夏天",
+            "english": "last summer",
+            "soundmark": "/læst/ /'sʌmɚ/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.639Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 129,
+            "chinese": "在......之前",
+            "english": "before",
+            "soundmark": "/bɪ'fɔr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.640Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 130,
+            "chinese": "在去年夏天之前",
+            "english": "before last summer",
+            "soundmark": "/bɪ'fɔr/ /læst/ /'sʌmɚ/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.647Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 131,
+            "chinese": "在去年夏天之前她(过去)从来没有去过加州",
+            "english": "she had never been to California before last summer",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ˌkælɪˈfɔrnjə/ /bɪ'fɔr/ /læst/ /'sʌmɚ/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.659Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 132,
+            "chinese": "迟到",
+            "english": "late",
+            "soundmark": "/let/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.660Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 133,
+            "chinese": "她(过去)从来没有迟到过",
+            "english": "she had never been late",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.676Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 134,
+            "chinese": "工作",
+            "english": "work",
+            "soundmark": "/wɝk/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.677Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 135,
+            "chinese": "她(过去)从来没有上班迟到过",
+            "english": "she had never been late to work",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/ /tə/ /wɝk/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.685Z",
+            "updatedAt": "2024-07-25T02:14:24.406Z"
+        },
+        {
+            "order": 136,
+            "chinese": "天",
+            "english": "day",
+            "soundmark": "/de/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.685Z",
+            "updatedAt": "2024-07-25T02:14:24.407Z"
+        },
+        {
+            "order": 137,
+            "chinese": "那天",
+            "english": "that day",
+            "soundmark": "/ðæt/ /de/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.689Z",
+            "updatedAt": "2024-07-25T02:14:24.407Z"
+        },
+        {
+            "order": 138,
+            "chinese": "在那天之前",
+            "english": "before that day",
+            "soundmark": "/bɪ'fɔr/ /ðæt/ /de/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.702Z",
+            "updatedAt": "2024-07-25T02:14:24.407Z"
+        },
+        {
+            "order": 139,
+            "chinese": "在那天之前她(过去)从来没有上班迟到过",
+            "english": "she had never been late to work before that day",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/ /tə/ /wɝk/ /bɪ'fɔr/ /ðæt/ /de/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.715Z",
+            "updatedAt": "2024-07-25T02:14:24.407Z"
+        },
+        {
+            "order": 140,
+            "chinese": "驾驶",
+            "english": "to drive",
+            "soundmark": "/tə/ /draɪv/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.715Z",
+            "updatedAt": "2024-07-25T02:14:24.407Z"
+        },
+        {
+            "order": 141,
+            "chinese": "驾驶(ed形式)",
+            "english": "driven",
+            "soundmark": "/'drɪvn/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.717Z",
+            "updatedAt": "2024-07-25T02:14:24.407Z"
+        },
+        {
+            "order": 142,
+            "chinese": "她(过去)从来没有驾驶过",
+            "english": "she had never driven",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.718Z",
+            "updatedAt": "2024-07-25T02:14:24.407Z"
+        },
+        {
+            "order": 143,
+            "chinese": "车",
+            "english": "car",
+            "soundmark": "/kɑr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.733Z",
+            "updatedAt": "2024-07-25T02:14:24.407Z"
+        },
+        {
+            "order": 144,
+            "chinese": "她(过去)从来没有驾驶过一辆车",
+            "english": "she had never driven a car",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.747Z",
+            "updatedAt": "2024-07-25T02:14:24.407Z"
+        },
+        {
+            "order": 145,
+            "chinese": "驾驶",
+            "english": "to drive",
+            "soundmark": "/tə/ /draɪv/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.742Z",
+            "updatedAt": "2024-07-25T02:14:24.407Z"
+        },
+        {
+            "order": 146,
+            "chinese": "驾驶员",
+            "english": "driver",
+            "soundmark": "/'draɪvɚ/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.742Z",
+            "updatedAt": "2024-07-25T02:14:24.408Z"
+        },
+        {
+            "order": 147,
+            "chinese": "执照",
+            "english": "license",
+            "soundmark": "/'laɪsns/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.747Z",
+            "updatedAt": "2024-07-25T02:14:24.408Z"
+        },
+        {
+            "order": 148,
+            "chinese": "驾照",
+            "english": "driver's license",
+            "soundmark": "/'draɪvɚz/ /'laɪsns/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.758Z",
+            "updatedAt": "2024-07-25T02:14:24.408Z"
+        },
+        {
+            "order": 149,
+            "chinese": "她的驾照",
+            "english": "her driver's license",
+            "soundmark": "/hɚ/ /'draɪvɚz/ /'laɪsns/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.776Z",
+            "updatedAt": "2024-07-25T02:14:24.408Z"
+        },
+        {
+            "order": 150,
+            "chinese": "拿到",
+            "english": "to get",
+            "soundmark": "/tə/ /ɡɛt/ /(过去)拿到 got/ /ɡɑt/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.788Z",
+            "updatedAt": "2024-07-25T02:14:24.408Z"
+        },
+        {
+            "order": 151,
+            "chinese": "她(过去)拿到",
+            "english": "she got",
+            "soundmark": "/ʃi/ /ɡɑt/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.780Z",
+            "updatedAt": "2024-07-25T02:14:24.408Z"
+        },
+        {
+            "order": 152,
+            "chinese": "她(过去)拿到她的驾照",
+            "english": "she got her driver's license",
+            "soundmark": "/ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.788Z",
+            "updatedAt": "2024-07-25T02:14:24.408Z"
+        },
+        {
+            "order": 153,
+            "chinese": "在她(过去)拿到她的驾照之前",
+            "english": "before she got her driver's license",
+            "soundmark": "/bɪ'fɔr/ /ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.787Z",
+            "updatedAt": "2024-07-25T02:14:24.408Z"
+        },
+        {
+            "order": 154,
+            "chinese": "她(过去)从来没有驾驶过一辆车",
+            "english": "she had never driven a car",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.800Z",
+            "updatedAt": "2024-07-25T02:14:24.408Z"
+        },
+        {
+            "order": 155,
+            "chinese": "在她(过去)拿到她的驾照之前她,(过去)从来没有驾驶过一辆车",
+            "english": "she had never driven a car before she got her driver's license",
+            "soundmark": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/ /bɪ'fɔr/ /ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/",
+            "courseId": "knpy7d6rd8jdx67jww7ahuwa",
+            "createdAt": "2024-07-25T10:14:25.803Z",
+            "updatedAt": "2024-07-25T02:14:24.408Z"
+        }
+    ]
+}

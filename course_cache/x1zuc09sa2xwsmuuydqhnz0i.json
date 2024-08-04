@@ -1,0 +1,1272 @@
+{
+    "id": "x1zuc09sa2xwsmuuydqhnz0i",
+    "title": "第二十二课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1h541197Py",
+    "order": 22,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:51.889Z",
+    "updatedAt": "2024-05-23T14:05:59.530Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "这个问题",
+            "english": "the question",
+            "soundmark": "/ðə/ /'kwɛstʃən/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.095Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 2,
+            "chinese": "回答",
+            "english": "to answer",
+            "soundmark": "/tə/ /'ænsɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.105Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 3,
+            "chinese": "回答这个问题",
+            "english": "to answer the question",
+            "soundmark": "/tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.143Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 4,
+            "chinese": "这个问题；这个麻烦",
+            "english": "the problem",
+            "soundmark": "/ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.143Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 5,
+            "chinese": "解决",
+            "english": "to solve",
+            "soundmark": "/tə/ /sɑlv/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.257Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 6,
+            "chinese": "解决这个问题",
+            "english": "to solve the problem",
+            "soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.351Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 7,
+            "chinese": "需要",
+            "english": "need",
+            "soundmark": "/nid/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.378Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 8,
+            "chinese": "我们需要",
+            "english": "we need",
+            "soundmark": "/wi/ /nid/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.435Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 9,
+            "chinese": "解决这个麻烦",
+            "english": "to solve the problem",
+            "soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.528Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 10,
+            "chinese": "我们需要解决这个麻烦",
+            "english": "we need to solve the problem",
+            "soundmark": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.546Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 11,
+            "chinese": "一起",
+            "english": "together",
+            "soundmark": "/tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.568Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 12,
+            "chinese": "我们需要一起解决这个麻烦",
+            "english": "we need to solve the problem together",
+            "soundmark": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.581Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 13,
+            "chinese": "不需要",
+            "english": "don't need",
+            "soundmark": "/dont/ /nid/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.607Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 14,
+            "chinese": "我们不需要一起解决这个麻烦",
+            "english": "we don't need to solve the problem together",
+            "soundmark": "/wi/ /dont/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.608Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 15,
+            "chinese": "可以",
+            "english": "can",
+            "soundmark": "/kən/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.755Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 16,
+            "chinese": "我们可以一起解决这个麻烦",
+            "english": "we can solve the problem together",
+            "soundmark": "/wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.797Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 17,
+            "chinese": "我们不可以一起解决这个麻烦",
+            "english": "we can not solve the problem together",
+            "soundmark": "/wi/ /kən/ /nɑt/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.884Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 18,
+            "chinese": "将会",
+            "english": "will",
+            "soundmark": "/wɪl/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.948Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 19,
+            "chinese": "我们将会一起解决这个麻烦",
+            "english": "we will solve the problem together",
+            "soundmark": "/wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:05.983Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 20,
+            "chinese": "我们将不会一起解决这个麻烦",
+            "english": "we will not solve the problem together",
+            "soundmark": "/wi/ /wɪl/ /nɑt/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.027Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 21,
+            "chinese": "尝试",
+            "english": "to try",
+            "soundmark": "/tə/ /traɪ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.037Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 22,
+            "chinese": "解决这个麻烦",
+            "english": "to solve the problem",
+            "soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.054Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 23,
+            "chinese": "我们尝试解决这个麻烦",
+            "english": "we try to solve the problem",
+            "soundmark": "/wi/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.069Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 24,
+            "chinese": "一起",
+            "english": "together",
+            "soundmark": "/tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.124Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 25,
+            "chinese": "我们尝试一起解决这个麻烦",
+            "english": "we try to solve the problem together",
+            "soundmark": "/wi/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.258Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 26,
+            "chinese": "尝试(ing形式)",
+            "english": "trying",
+            "soundmark": "/'traɪɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.272Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 27,
+            "chinese": "是；赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.401Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 28,
+            "chinese": "正在尝试",
+            "english": "be trying",
+            "soundmark": "/bi/ /'traɪɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.440Z",
+            "updatedAt": "2024-04-28T12:26:53.982Z"
+        },
+        {
+            "order": 29,
+            "chinese": "我们",
+            "english": "we",
+            "soundmark": "/wi/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.462Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 30,
+            "chinese": "我们(现在)正在尝试",
+            "english": "we are trying",
+            "soundmark": "/wi/ /ɚ/ /'traɪɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.480Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 31,
+            "chinese": "解决这个麻烦",
+            "english": "to solve the problem",
+            "soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.496Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 32,
+            "chinese": "我们(现在)正在尝试解决这个麻烦",
+            "english": "we are trying to solve the problem",
+            "soundmark": "/wi/ /ɚ/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.520Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 33,
+            "chinese": "一起",
+            "english": "together",
+            "soundmark": "/tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.583Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 34,
+            "chinese": "我们(现在)正在尝试一起解决这个麻烦",
+            "english": "we are trying to solve the problem together",
+            "soundmark": "/wi/ /ɚ/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.628Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 35,
+            "chinese": "脸",
+            "english": "face",
+            "soundmark": "/fes/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.732Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 36,
+            "chinese": "面对",
+            "english": "to face",
+            "soundmark": "/tə/ /fes/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.767Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 37,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.882Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 38,
+            "chinese": "面对我",
+            "english": "to face me",
+            "soundmark": "/tə/ /fes/ /mi/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.910Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 39,
+            "chinese": "真相；现实",
+            "english": "the truth",
+            "soundmark": "/ðə/ /trʊθ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.921Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 40,
+            "chinese": "面对现实",
+            "english": "to face the truth",
+            "soundmark": "/tə/ /fes/ /ðə/ /trʊθ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.975Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 41,
+            "chinese": "需要",
+            "english": "need",
+            "soundmark": "/nid/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.976Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 42,
+            "chinese": "你需要面对现实",
+            "english": "you need to face the truth",
+            "soundmark": "/ju/ /nid/ /tə/ /fes/ /ðə/ /trʊθ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:06.974Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 43,
+            "chinese": "这个麻烦",
+            "english": "the problem",
+            "soundmark": "/ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.106Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 44,
+            "chinese": "面对这个麻烦",
+            "english": "to face the problem",
+            "soundmark": "/tə/ /fes/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.132Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 45,
+            "chinese": "我们需要",
+            "english": "we need",
+            "soundmark": "/wi/ /nid/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.179Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 46,
+            "chinese": "我们需要面对这个麻烦",
+            "english": "we need to face the problem",
+            "soundmark": "/wi/ /nid/ /tə/ /fes/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.260Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 47,
+            "chinese": "我们面对这个麻烦",
+            "english": "we face the problem",
+            "soundmark": "/wi/ /fes/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.327Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 48,
+            "chinese": "面对(ing形式)",
+            "english": "facing",
+            "soundmark": "/'fesɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.365Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 49,
+            "chinese": "是；赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.427Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 50,
+            "chinese": "正在面对",
+            "english": "be facing",
+            "soundmark": "/bi/ /'fesɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.427Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 51,
+            "chinese": "我们",
+            "english": "we",
+            "soundmark": "/wi/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.431Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 52,
+            "chinese": "我们(现在)正在面对",
+            "english": "we are facing",
+            "soundmark": "/wi/ /ɚ/ /'fesɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.484Z",
+            "updatedAt": "2024-04-28T12:26:53.983Z"
+        },
+        {
+            "order": 53,
+            "chinese": "一个",
+            "english": "a",
+            "soundmark": "/ə/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.624Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 54,
+            "chinese": "一个麻烦",
+            "english": "a problem",
+            "soundmark": "/ə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.631Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 55,
+            "chinese": "大的",
+            "english": "big",
+            "soundmark": "/bɪɡ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.645Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 56,
+            "chinese": "一个大麻烦",
+            "english": "a big problem",
+            "soundmark": "/ə/ /bɪɡ/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.760Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 57,
+            "chinese": "我们(现在)正在面对一个大麻烦",
+            "english": "we are facing a big problem",
+            "soundmark": "/wi/ /ɚ/ /'fesɪŋ/ /ə/ /bɪɡ/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.778Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 58,
+            "chinese": "这个麻烦",
+            "english": "the problem",
+            "soundmark": "/ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.809Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 59,
+            "chinese": "解决",
+            "english": "to solve",
+            "soundmark": "/tə/ /sɑlv/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.883Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 60,
+            "chinese": "解决这个麻烦",
+            "english": "to solve the problem",
+            "soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.879Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 61,
+            "chinese": "尝试",
+            "english": "to try",
+            "soundmark": "/tə/ /traɪ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.946Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 62,
+            "chinese": "我尝试解决这个麻烦",
+            "english": "I try to solve the problem",
+            "soundmark": "/aɪ/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:07.994Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 63,
+            "chinese": "尝试(ing形式)",
+            "english": "trying",
+            "soundmark": "/'traɪɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.075Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 64,
+            "chinese": "是；赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.150Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 65,
+            "chinese": "正在尝试",
+            "english": "be trying",
+            "soundmark": "/bi/ /'traɪɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.154Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 66,
+            "chinese": "我",
+            "english": "I",
+            "soundmark": "/aɪ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.219Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 67,
+            "chinese": "我(现在)正在尝试",
+            "english": "I am trying",
+            "soundmark": "/aɪ/ /æm/ /'traɪɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.254Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 68,
+            "chinese": "解决这个麻烦",
+            "english": "to solve the problem",
+            "soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.261Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 69,
+            "chinese": "我(现在)正在尝试解决这个麻烦",
+            "english": "I am trying to solve the problem",
+            "soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.347Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 70,
+            "chinese": "面对(ing形式)",
+            "english": "facing",
+            "soundmark": "/'fesɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.345Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 71,
+            "chinese": "是；赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.449Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 72,
+            "chinese": "正在面对",
+            "english": "be facing",
+            "soundmark": "/bi/ /'fesɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.503Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 73,
+            "chinese": "我们",
+            "english": "we",
+            "soundmark": "/wi/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.532Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 74,
+            "chinese": "我们(现在)正在面对",
+            "english": "we are facing",
+            "soundmark": "/wi/ /ɚ/ /'fesɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.663Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 75,
+            "chinese": "这个麻烦",
+            "english": "the problem",
+            "soundmark": "/ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.669Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 76,
+            "chinese": "我们(现在)正在面对的这个麻烦",
+            "english": "the problem we are facing",
+            "soundmark": "/ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.672Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 77,
+            "chinese": "我(现在)正在尝试解决这个麻烦",
+            "english": "I am trying to solve the problem",
+            "soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.699Z",
+            "updatedAt": "2024-04-28T12:26:53.984Z"
+        },
+        {
+            "order": 78,
+            "chinese": "我(现在)正在尝试解决我们面对的这个麻烦",
+            "english": "I am trying to solve the problem we are facing",
+            "soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.753Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 79,
+            "chinese": "现在",
+            "english": "now",
+            "soundmark": "/naʊ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.803Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 80,
+            "chinese": "我(现在)正在尝试解决我们现在正在面对的这个麻烦",
+            "english": "I am trying to solve the problem we are facing now",
+            "soundmark": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/ /naʊ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.815Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 81,
+            "chinese": "解决这个麻烦",
+            "english": "to solve the problem",
+            "soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.952Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 82,
+            "chinese": "我解决这个麻烦",
+            "english": "I solve the problem",
+            "soundmark": "/aɪ/ /sɑlv/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:08.977Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 83,
+            "chinese": "解决(ing形式)",
+            "english": "solving",
+            "soundmark": "/sɑlvɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.001Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 84,
+            "chinese": "是；赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.104Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 85,
+            "chinese": "正在解决",
+            "english": "be solving",
+            "soundmark": "/bi/ /sɑlvɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.151Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 86,
+            "chinese": "我(现在)正在解决",
+            "english": "I am solving",
+            "soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.173Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 87,
+            "chinese": "这个麻烦",
+            "english": "the problem",
+            "soundmark": "/ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.194Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 88,
+            "chinese": "我(现在)正在解决这个麻烦",
+            "english": "I am solving the problem",
+            "soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.251Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 89,
+            "chinese": "我们(现在)正在面对",
+            "english": "we are facing",
+            "soundmark": "/wi/ /ɚ/ /'fesɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.254Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 90,
+            "chinese": "我们(现在)正在面对的这个麻烦",
+            "english": "the problem we are facing",
+            "soundmark": "/ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.275Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 91,
+            "chinese": "我(现在)正在解决我们(现在)正在面对的这个麻烦",
+            "english": "I am solving the problem we are facing",
+            "soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.420Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 92,
+            "chinese": "现在",
+            "english": "now",
+            "soundmark": "/naʊ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.474Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 93,
+            "chinese": "我(现在)正在解决我们现在正在面对的这个麻烦",
+            "english": "I am solving the problem we are facing now",
+            "soundmark": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/ /naʊ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.495Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 94,
+            "chinese": "疑惑",
+            "english": "to wonder",
+            "soundmark": "/tə/ /'wʌndɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.575Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 95,
+            "chinese": "我疑惑",
+            "english": "I wonder",
+            "soundmark": "/aɪ/ /'wʌndɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.589Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 96,
+            "chinese": "一起解决这个麻烦",
+            "english": "to solve the problem together",
+            "soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.687Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 97,
+            "chinese": "我们可以",
+            "english": "we can",
+            "soundmark": "/wi/ /kən/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.711Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 98,
+            "chinese": "我们可以一起解决这个麻烦",
+            "english": "we can solve the problem together",
+            "soundmark": "/wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.735Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 99,
+            "chinese": "是否",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.745Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 100,
+            "chinese": "是否我们可以一起解决这个麻烦",
+            "english": "if we can solve the problem together",
+            "soundmark": "/ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.760Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 101,
+            "chinese": "我疑惑",
+            "english": "I wonder",
+            "soundmark": "/aɪ/ /'wʌndɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.862Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 102,
+            "chinese": "我疑惑是否我们可以一起解决这个麻烦",
+            "english": "I wonder if we can solve the problem together",
+            "soundmark": "/aɪ/ /'wʌndɚ/ /ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:09.997Z",
+            "updatedAt": "2024-04-28T12:26:53.985Z"
+        },
+        {
+            "order": 103,
+            "chinese": "一起解决这个麻烦",
+            "english": "to solve the problem together",
+            "soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.022Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 104,
+            "chinese": "我们需要",
+            "english": "we need",
+            "soundmark": "/wi/ /nid/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.027Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 105,
+            "chinese": "我们需要一起解决这个麻烦",
+            "english": "we need to solve the problem together",
+            "soundmark": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.040Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 106,
+            "chinese": "为什么",
+            "english": "why",
+            "soundmark": "/waɪ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.162Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 107,
+            "chinese": "为什么我们需要一起解决这个麻烦",
+            "english": "why we need to solve the problem together",
+            "soundmark": "/waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.203Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 108,
+            "chinese": "我疑惑",
+            "english": "I wonder",
+            "soundmark": "/aɪ/ /'wʌndɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.210Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 109,
+            "chinese": "我疑惑为什么我们需要一起解决这个麻烦",
+            "english": "I wonder why we need to solve the problem together",
+            "soundmark": "/aɪ/ /'wʌndɚ/ /waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.248Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 110,
+            "chinese": "他",
+            "english": "he",
+            "soundmark": "/hi/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.255Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 111,
+            "chinese": "他疑惑",
+            "english": "he wonders",
+            "soundmark": "/hi/ /'wʌndɚz/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.300Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 112,
+            "chinese": "一起解决这个麻烦",
+            "english": "to solve the problem together",
+            "soundmark": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.475Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 113,
+            "chinese": "我们将会",
+            "english": "we will",
+            "soundmark": "/wi/ /wɪl/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.481Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 114,
+            "chinese": "我们将会一起解决这个麻烦",
+            "english": "we will solve the problem together",
+            "soundmark": "/wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.499Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 115,
+            "chinese": "在什么时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.519Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 116,
+            "chinese": "我们将会在什么时候一起解决这个麻烦",
+            "english": "when we will solve the problem together",
+            "soundmark": "/wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.612Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 117,
+            "chinese": "他疑惑我们将会在什么时候一起解决这个麻烦",
+            "english": "he wonders when we will solve the problem together",
+            "soundmark": "/hi/ /'wʌndɚz/ /wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.658Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 118,
+            "chinese": "如何",
+            "english": "how",
+            "soundmark": "/haʊ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.709Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 119,
+            "chinese": "我们将会如何一起解决这个问题",
+            "english": "how we will solve the problem together",
+            "soundmark": "/haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.748Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 120,
+            "chinese": "他疑惑我们将会如何一起解决这个麻烦",
+            "english": "he wonders how we will solve the problem together",
+            "soundmark": "/hi/ /'wʌndɚz/ /haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.753Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 121,
+            "chinese": "疑惑(ing形式)",
+            "english": "wondering",
+            "soundmark": "/'wʌndərɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.771Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 122,
+            "chinese": "是；赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.908Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 123,
+            "chinese": "正在疑惑",
+            "english": "be wondering",
+            "soundmark": "/bi/ /'wʌndərɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.931Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 124,
+            "chinese": "我(过去)正在疑惑",
+            "english": "I was wondering",
+            "soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:10.997Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 125,
+            "chinese": "是否我们可以一起解决这个麻烦",
+            "english": "if we can solve the problem together",
+            "soundmark": "/ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.045Z",
+            "updatedAt": "2024-04-28T12:26:53.986Z"
+        },
+        {
+            "order": 126,
+            "chinese": "我(过去)正在疑惑是否我们可以一起解决这个麻烦",
+            "english": "I was wondering if we can solve the problem together",
+            "soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/ /ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.074Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 127,
+            "chinese": "我(过去)正在疑惑",
+            "english": "I was wondering",
+            "soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.111Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 128,
+            "chinese": "为什么我们需要一起解决这个麻烦",
+            "english": "why we need to solve the problem together",
+            "soundmark": "/waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.187Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 129,
+            "chinese": "我(过去)正在疑惑为什么我们需要一起解决这个麻烦",
+            "english": "I was wondering why we need to solve the problem together",
+            "soundmark": "/aɪ/ /wəz/ /'wʌndərɪŋ/ /waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.205Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 130,
+            "chinese": "疑惑(ing形式)",
+            "english": "wondering",
+            "soundmark": "/'wʌndərɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.245Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 131,
+            "chinese": "是；赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.295Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 132,
+            "chinese": "正在疑惑",
+            "english": "be wondering",
+            "soundmark": "/bi/ /'wʌndərɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.374Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 133,
+            "chinese": "他",
+            "english": "he",
+            "soundmark": "/hi/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.385Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 134,
+            "chinese": "他(现在)正在疑惑",
+            "english": "he is wondering",
+            "soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.498Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 135,
+            "chinese": "我们将会在什么时候一起解决这个麻烦",
+            "english": "when we will solve the problem together",
+            "soundmark": "/wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.538Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 136,
+            "chinese": "他(现在)正在疑惑我们将会在什么时候一起解决这个麻烦",
+            "english": "he is wondering when we will solve the problem together",
+            "soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/ /wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.544Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 137,
+            "chinese": "如何",
+            "english": "how",
+            "soundmark": "/haʊ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.635Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 138,
+            "chinese": "我们将会如何一起解决这个问题",
+            "english": "how we will solve the problem together",
+            "soundmark": "/haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.706Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 139,
+            "chinese": "他(现在)正在疑惑",
+            "english": "he is wondering",
+            "soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.750Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 140,
+            "chinese": "他(现在)正在疑惑我们将会如何一起解决这个问题",
+            "english": "he is wondering how we will solve the problem together",
+            "soundmark": "/hi/ /ɪz/ /'wʌndərɪŋ/ /haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+            "courseId": "x1zuc09sa2xwsmuuydqhnz0i",
+            "createdAt": "2024-04-28T12:30:11.806Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        }
+    ]
+}

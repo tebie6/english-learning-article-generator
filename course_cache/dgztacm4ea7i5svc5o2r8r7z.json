@@ -1,0 +1,1227 @@
+{
+    "id": "dgztacm4ea7i5svc5o2r8r7z",
+    "title": "第二十一课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1L3411K7hU",
+    "order": 21,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:51.848Z",
+    "updatedAt": "2024-05-23T14:05:59.466Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "支付；付出",
+            "english": "to pay",
+            "soundmark": "/tə/ /pe/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:58.475Z",
+            "updatedAt": "2024-04-28T12:26:53.974Z"
+        },
+        {
+            "order": 2,
+            "chinese": "注意力",
+            "english": "attention",
+            "soundmark": "/ə'tɛnʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:58.541Z",
+            "updatedAt": "2024-04-28T12:26:53.974Z"
+        },
+        {
+            "order": 3,
+            "chinese": "需要",
+            "english": "need",
+            "soundmark": "/nid/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:58.603Z",
+            "updatedAt": "2024-04-28T12:26:53.974Z"
+        },
+        {
+            "order": 4,
+            "chinese": "你需要",
+            "english": "you need",
+            "soundmark": "/ju/ /nid/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:58.646Z",
+            "updatedAt": "2024-04-28T12:26:53.974Z"
+        },
+        {
+            "order": 5,
+            "chinese": "你需要注意",
+            "english": "you need to pay attention",
+            "soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:58.641Z",
+            "updatedAt": "2024-04-28T12:26:53.974Z"
+        },
+        {
+            "order": 6,
+            "chinese": "问题",
+            "english": "question",
+            "soundmark": "/'kwɛstʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:58.660Z",
+            "updatedAt": "2024-04-28T12:26:53.974Z"
+        },
+        {
+            "order": 7,
+            "chinese": "这个",
+            "english": "this",
+            "soundmark": "/ðɪs/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:58.736Z",
+            "updatedAt": "2024-04-28T12:26:53.974Z"
+        },
+        {
+            "order": 8,
+            "chinese": "这个问题",
+            "english": "this question",
+            "soundmark": "/ðɪs/ /'kwɛstʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:58.761Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 9,
+            "chinese": "注意",
+            "english": "to pay attention",
+            "soundmark": "/tə/ /pe/ /ə'tɛnʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:58.783Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 10,
+            "chinese": "注意这个问题",
+            "english": "to pay attention to this question",
+            "soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:58.788Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 11,
+            "chinese": "你需要",
+            "english": "you need",
+            "soundmark": "/ju/ /nid/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:58.922Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 12,
+            "chinese": "你需要注意这个问题",
+            "english": "you need to pay attention to this question",
+            "soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:58.993Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 13,
+            "chinese": "不",
+            "english": "don't",
+            "soundmark": "/dont/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.055Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 14,
+            "chinese": "你不需要注意这个问题",
+            "english": "you don't need to pay attention to this question",
+            "soundmark": "/ju/ /dont/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.130Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 15,
+            "chinese": "你(过去)需要注意这个问题",
+            "english": "you needed to pay attention to this question",
+            "soundmark": "/ju/ /nidɪd/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.145Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 16,
+            "chinese": "你(过去)不需要注意这个问题",
+            "english": "you didn't need to pay attention to this question",
+            "soundmark": "/ju/ /ˈdɪdnt/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.166Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 17,
+            "chinese": "你需要注意这个问题",
+            "english": "you need to pay attention to this question",
+            "soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.245Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 18,
+            "chinese": "信息",
+            "english": "information",
+            "soundmark": "/ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.273Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 19,
+            "chinese": "这个",
+            "english": "this",
+            "soundmark": "/ðɪs/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.276Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 20,
+            "chinese": "这个信息",
+            "english": "this information",
+            "soundmark": "/ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.298Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 21,
+            "chinese": "你需要注意这个信息",
+            "english": "you need to pay attention to this information",
+            "soundmark": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.363Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 22,
+            "chinese": "你注意这个信息",
+            "english": "you pay attention to this information",
+            "soundmark": "/ju/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.433Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 23,
+            "chinese": "不",
+            "english": "don't",
+            "soundmark": "/dont/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.511Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 24,
+            "chinese": "你没有注意这个信息",
+            "english": "you don't pay attention to this information",
+            "soundmark": "/ju/ /dont/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.577Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 25,
+            "chinese": "注意力",
+            "english": "attention",
+            "soundmark": "/ə'tɛnʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.596Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 26,
+            "chinese": "你(过去)注意这个信息",
+            "english": "you paid attention to this information",
+            "soundmark": "/ju/ /ped/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.670Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 27,
+            "chinese": "你(过去)没有注意这个信息",
+            "english": "you didn't pay attention to this information",
+            "soundmark": "/ju/ /ˈdɪdnt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.745Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 28,
+            "chinese": "应该",
+            "english": "should",
+            "soundmark": "/ʃʊd/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.768Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 29,
+            "chinese": "你应该",
+            "english": "you should",
+            "soundmark": "/ju/ /ʃʊd/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.778Z",
+            "updatedAt": "2024-04-28T12:26:53.975Z"
+        },
+        {
+            "order": 30,
+            "chinese": "你应该注意这个信息",
+            "english": "you should pay attention to this information",
+            "soundmark": "/ju/ /ʃʊd/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.794Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 31,
+            "chinese": "你不应该",
+            "english": "you should not",
+            "soundmark": "/ju/ /ʃʊd/ /nɑt/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.812Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 32,
+            "chinese": "你不应该注意这个信息",
+            "english": "you should not pay attention to this information",
+            "soundmark": "/ju/ /ʃʊd/ /nɑt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.878Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 33,
+            "chinese": "支付；付出(ing形式)",
+            "english": "paying",
+            "soundmark": "/peɪŋ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:29:59.961Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 34,
+            "chinese": "是；赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.020Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 35,
+            "chinese": "正在付出",
+            "english": "be paying",
+            "soundmark": "/bi/ /peɪŋ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.066Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 36,
+            "chinese": "注意力",
+            "english": "attention",
+            "soundmark": "/ə'tɛnʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.173Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 37,
+            "chinese": "正在注意(付出注意力)",
+            "english": "be paying attention",
+            "soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.247Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 38,
+            "chinese": "信息",
+            "english": "information",
+            "soundmark": "/ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.247Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 39,
+            "chinese": "这个信息",
+            "english": "this information",
+            "soundmark": "/ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.260Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 40,
+            "chinese": "正在注意这个信息",
+            "english": "be paying attention to this information",
+            "soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.287Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 41,
+            "chinese": "你",
+            "english": "you",
+            "soundmark": "/ju/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.320Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 42,
+            "chinese": "你(现在)正在注意这个信息",
+            "english": "you are paying attention to this information",
+            "soundmark": "/ju/ /ɚ/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.339Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 43,
+            "chinese": "我",
+            "english": "I",
+            "soundmark": "/aɪ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.472Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 44,
+            "chinese": "我(现在)正在注意这个信息",
+            "english": "I am paying attention to this information",
+            "soundmark": "/aɪ/ /æm/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.525Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 45,
+            "chinese": "他",
+            "english": "he",
+            "soundmark": "/hi/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.687Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 46,
+            "chinese": "他(现在)正在注意这个信息",
+            "english": "he is paying attention to this information",
+            "soundmark": "/hi/ /ɪz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.691Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 47,
+            "chinese": "不",
+            "english": "not",
+            "soundmark": "/nɑt/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.735Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 48,
+            "chinese": "他(现在)没有正在注意这个信息",
+            "english": "he is not paying attention to this information",
+            "soundmark": "/hi/ /ɪz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.762Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 49,
+            "chinese": "他(过去)正在注意这个信息",
+            "english": "he was paying attention to this information",
+            "soundmark": "/hi/ /wəz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.763Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 50,
+            "chinese": "不",
+            "english": "not",
+            "soundmark": "/nɑt/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.772Z",
+            "updatedAt": "2024-04-28T12:26:53.976Z"
+        },
+        {
+            "order": 51,
+            "chinese": "他(过去)没有正在注意这个信息",
+            "english": "he was not paying attention to this information",
+            "soundmark": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.786Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 52,
+            "chinese": "昨天",
+            "english": "yesterday",
+            "soundmark": "/'jɛstɚde/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.856Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 53,
+            "chinese": "在这个时候",
+            "english": "at this time",
+            "soundmark": "/ət/ /ðɪs/ /taɪm/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.960Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 54,
+            "chinese": "在昨天这个时候",
+            "english": "at this time yesterday",
+            "soundmark": "/ət/ /ðɪs/ /taɪm/ /'jɛstɚde/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:00.996Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 55,
+            "chinese": "他在昨天这个时候没有注意到这个信息",
+            "english": "he was not paying attention to this information at this time yesterday",
+            "soundmark": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /'jɛstɚde/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.141Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 56,
+            "chinese": "是；赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.186Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 57,
+            "chinese": "正在注意(付出注意力)",
+            "english": "be paying attention",
+            "soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.197Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 58,
+            "chinese": "正在注意这个信息",
+            "english": "be paying attention to this information",
+            "soundmark": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.216Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 59,
+            "chinese": "将会",
+            "english": "will",
+            "soundmark": "/wɪl/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.264Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 60,
+            "chinese": "他将会",
+            "english": "he will",
+            "soundmark": "/hi/ /wɪl/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.277Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 61,
+            "chinese": "他将会正在注意这个信息",
+            "english": "he will be paying attention to this information",
+            "soundmark": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.301Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 62,
+            "chinese": "明天",
+            "english": "tomorrow",
+            "soundmark": "/tə'mɔro/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.361Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 63,
+            "chinese": "在这个时候",
+            "english": "at this time",
+            "soundmark": "/ət/ /ðɪs/ /taɪm/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.404Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 64,
+            "chinese": "在明天这个时候",
+            "english": "at this time tomorrow",
+            "soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.446Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 65,
+            "chinese": "他在明天这个时候将会正在注意这个信息",
+            "english": "he will be paying attention to this information at this time tomorrow",
+            "soundmark": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.580Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 66,
+            "chinese": "细节",
+            "english": "the detail",
+            "soundmark": "/ðə/ /ˈditel/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.656Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 67,
+            "chinese": "细节(复数)",
+            "english": "the details",
+            "soundmark": "/ðə/ /ˈditelz/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.701Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 68,
+            "chinese": "所有的",
+            "english": "all",
+            "soundmark": "/ɔl/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.756Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 69,
+            "chinese": "所有的细节",
+            "english": "all the details",
+            "soundmark": "/ɔl/ /ðə/ /ˈditelz/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.777Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 70,
+            "chinese": "支付；付出",
+            "english": "to pay",
+            "soundmark": "/tə/ /pe/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.815Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 71,
+            "chinese": "注意力",
+            "english": "attention",
+            "soundmark": "/ə'tɛnʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.844Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 72,
+            "chinese": "注意(付出注意力)",
+            "english": "to pay attention",
+            "soundmark": "/tə/ /pe/ /ə'tɛnʃən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.873Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 73,
+            "chinese": "注意所有的细节",
+            "english": "to pay attention to all the details",
+            "soundmark": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.895Z",
+            "updatedAt": "2024-04-28T12:26:53.977Z"
+        },
+        {
+            "order": 74,
+            "chinese": "重要的",
+            "english": "important",
+            "soundmark": "/ɪm'pɔrtnt/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:01.962Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 75,
+            "chinese": "它",
+            "english": "it",
+            "soundmark": "/ɪt/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.020Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 76,
+            "chinese": "它是重要的",
+            "english": "it is important",
+            "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.108Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 77,
+            "chinese": "非常",
+            "english": "very",
+            "soundmark": "/ˈvɛri/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.204Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 78,
+            "chinese": "它是非常重要的",
+            "english": "it is very important",
+            "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.271Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 79,
+            "chinese": "注意所有的细节(它)是非常重要的",
+            "english": "it is very important to pay attention to all the details",
+            "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.279Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 80,
+            "chinese": "讨论",
+            "english": "to discuss",
+            "soundmark": "/tə/ /dɪ'skʌs/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.300Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 81,
+            "chinese": "某件事情",
+            "english": "something",
+            "soundmark": "/'sʌmθɪŋ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.322Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 82,
+            "chinese": "讨论某件事情",
+            "english": "to discuss something",
+            "soundmark": "/tə/ /dɪ'skʌs/ /'sʌmθɪŋ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.346Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 83,
+            "chinese": "想要(直接地)",
+            "english": "want",
+            "soundmark": "/wɑnt/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.375Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 84,
+            "chinese": "愿意;想要(委婉地)",
+            "english": "would like",
+            "soundmark": "/wʊd/ /laɪk/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.424Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 85,
+            "chinese": "我想要",
+            "english": "I would like",
+            "soundmark": "/aɪ/ /wʊd/ /laɪk/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.463Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 86,
+            "chinese": "我想要讨论某件事情",
+            "english": "I would like to discuss something",
+            "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.562Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 87,
+            "chinese": "重要的",
+            "english": "important",
+            "soundmark": "/ɪm'pɔrtnt/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.713Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 88,
+            "chinese": "重要的某件事情",
+            "english": "something important",
+            "soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.745Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 89,
+            "chinese": "我想要讨论重要的某件事情",
+            "english": "I would like to discuss something important",
+            "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.760Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 90,
+            "chinese": "和......一起",
+            "english": "with",
+            "soundmark": "/wɪð/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.795Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 91,
+            "chinese": "和你一起",
+            "english": "with you",
+            "soundmark": "/wɪð/ /ju/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.836Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 92,
+            "chinese": "我想要和你一起讨论重要的某件事情",
+            "english": "I would like to discuss something important with you",
+            "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/ /wɪð/ /ju/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.824Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 93,
+            "chinese": "我们",
+            "english": "we",
+            "soundmark": "/wi/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.873Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 94,
+            "chinese": "我们想要讨论重要的某件事情",
+            "english": "we would like to discuss something important",
+            "soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.902Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 95,
+            "chinese": "我们讨论",
+            "english": "we discuss",
+            "soundmark": "/wi/ /dɪ'skʌs/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:02.899Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 96,
+            "chinese": "可以",
+            "english": "can",
+            "soundmark": "/kən/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.022Z",
+            "updatedAt": "2024-04-28T12:26:53.978Z"
+        },
+        {
+            "order": 97,
+            "chinese": "我们可以讨论",
+            "english": "we can discuss",
+            "soundmark": "/wi/ /kən/ /dɪ'skʌs/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.200Z",
+            "updatedAt": "2024-04-28T12:26:53.979Z"
+        },
+        {
+            "order": 98,
+            "chinese": "所有的",
+            "english": "all",
+            "soundmark": "/ɔl/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.239Z",
+            "updatedAt": "2024-04-28T12:26:53.979Z"
+        },
+        {
+            "order": 99,
+            "chinese": "细节(复数)",
+            "english": "the details",
+            "soundmark": "/ðə/ /ˈditelz/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.267Z",
+            "updatedAt": "2024-04-28T12:26:53.979Z"
+        },
+        {
+            "order": 100,
+            "chinese": "所有的细节",
+            "english": "all the details",
+            "soundmark": "/ɔl/ /ðə/ /ˈditelz/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.276Z",
+            "updatedAt": "2024-04-28T12:26:53.979Z"
+        },
+        {
+            "order": 101,
+            "chinese": "我们可以讨论所有的细节",
+            "english": "we can discuss all the details",
+            "soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.299Z",
+            "updatedAt": "2024-04-28T12:26:53.979Z"
+        },
+        {
+            "order": 102,
+            "chinese": "这个计划",
+            "english": "the plan",
+            "soundmark": "/ðə/ /plæn/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.334Z",
+            "updatedAt": "2024-04-28T12:26:53.979Z"
+        },
+        {
+            "order": 103,
+            "chinese": "所有的细节",
+            "english": "all the details",
+            "soundmark": "/ɔl/ /ðə/ /ˈditelz/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.335Z",
+            "updatedAt": "2024-04-28T12:26:53.979Z"
+        },
+        {
+            "order": 104,
+            "chinese": "这个计划的所有的细节",
+            "english": "all the details of the plan",
+            "soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.439Z",
+            "updatedAt": "2024-04-28T12:26:53.979Z"
+        },
+        {
+            "order": 105,
+            "chinese": "我们可以讨论这个计划的所有的细节",
+            "english": "we can discuss all the details of the plan",
+            "soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.496Z",
+            "updatedAt": "2024-04-28T12:26:53.979Z"
+        },
+        {
+            "order": 106,
+            "chinese": "一起",
+            "english": "together",
+            "soundmark": "/tə'ɡɛðɚ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.686Z",
+            "updatedAt": "2024-04-28T12:26:53.980Z"
+        },
+        {
+            "order": 107,
+            "chinese": "我们可以一起讨论这个计划的所有的细节",
+            "english": "we can discuss all the details of the plan together",
+            "soundmark": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.687Z",
+            "updatedAt": "2024-04-28T12:26:53.980Z"
+        },
+        {
+            "order": 108,
+            "chinese": "将会",
+            "english": "will",
+            "soundmark": "/wɪl/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.756Z",
+            "updatedAt": "2024-04-28T12:26:53.980Z"
+        },
+        {
+            "order": 109,
+            "chinese": "我们将会一起讨论这个计划的所有的细节",
+            "english": "we will discuss all the details of the plan together",
+            "soundmark": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.785Z",
+            "updatedAt": "2024-04-28T12:26:53.980Z"
+        },
+        {
+            "order": 110,
+            "chinese": "明天",
+            "english": "tomorrow",
+            "soundmark": "/tə'mɔro/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.786Z",
+            "updatedAt": "2024-04-28T12:26:53.980Z"
+        },
+        {
+            "order": 111,
+            "chinese": "早上",
+            "english": "morning",
+            "soundmark": "/'mɔrnɪŋ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.803Z",
+            "updatedAt": "2024-04-28T12:26:53.980Z"
+        },
+        {
+            "order": 112,
+            "chinese": "明天早上",
+            "english": "tomorrow morning",
+            "soundmark": "/tə'mɔro/ /'mɔrnɪŋ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.849Z",
+            "updatedAt": "2024-04-28T12:26:53.980Z"
+        },
+        {
+            "order": 113,
+            "chinese": "我们明天早上将会一起讨论这个计划的所有的细节",
+            "english": "we will discuss all the details of the plan together tomorrow morning",
+            "soundmark": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /tə'mɔro/ /'mɔrnɪŋ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.880Z",
+            "updatedAt": "2024-04-28T12:26:53.980Z"
+        },
+        {
+            "order": 114,
+            "chinese": "讨论(ing形式)",
+            "english": "discussing",
+            "soundmark": "/dɪ'skʌsɪŋ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.969Z",
+            "updatedAt": "2024-04-28T12:26:53.980Z"
+        },
+        {
+            "order": 115,
+            "chinese": "是；赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:03.977Z",
+            "updatedAt": "2024-04-28T12:26:53.980Z"
+        },
+        {
+            "order": 116,
+            "chinese": "正在讨论",
+            "english": "be discussing",
+            "soundmark": "/bi/ /dɪ'skʌsɪŋ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.137Z",
+            "updatedAt": "2024-04-28T12:26:53.980Z"
+        },
+        {
+            "order": 117,
+            "chinese": "这个计划的所有的细节",
+            "english": "all the details of the plan",
+            "soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.157Z",
+            "updatedAt": "2024-04-28T12:26:53.980Z"
+        },
+        {
+            "order": 118,
+            "chinese": "正在讨论这个计划的所有细节",
+            "english": "be discussing all the details of the plan",
+            "soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.224Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 119,
+            "chinese": "一起",
+            "english": "together",
+            "soundmark": "/tə'ɡɛðɚ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.243Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 120,
+            "chinese": "正在一起讨论这个计划的所有细节",
+            "english": "be discussing all the details of the plan together",
+            "soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.280Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 121,
+            "chinese": "我们(现在)正在讨论",
+            "english": "we are discussing",
+            "soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.367Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 122,
+            "chinese": "这个计划的所有的细节",
+            "english": "all the details of the plan",
+            "soundmark": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.384Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 123,
+            "chinese": "我们(现在)正在讨论这个计划的所有的细节",
+            "english": "we are discussing all the details of the plan",
+            "soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.435Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 124,
+            "chinese": "一起",
+            "english": "together",
+            "soundmark": "/tə'ɡɛðɚ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.490Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 125,
+            "chinese": "我们(现在)正在一起讨论这个计划的所有的细节",
+            "english": "we are discussing all the details of the plan together",
+            "soundmark": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.594Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 126,
+            "chinese": "我们(过去)正在一起讨论这个计划的所有的细节",
+            "english": "we were discussing all the details of the plan together",
+            "soundmark": "/wi/ /wɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.601Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 127,
+            "chinese": "是；赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.646Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 128,
+            "chinese": "正在讨论",
+            "english": "be discussing",
+            "soundmark": "/bi/ /dɪ'skʌsɪŋ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.674Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 129,
+            "chinese": "正在一起讨论这个计划的所有细节",
+            "english": "be discussing all the details of the plan together",
+            "soundmark": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.680Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 130,
+            "chinese": "我们将会",
+            "english": "we will",
+            "soundmark": "/wi/ /wɪl/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.765Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 131,
+            "chinese": "我们将会正在一起讨论这个计划的所有的细节",
+            "english": "we will be discussing all the details of the plan together",
+            "soundmark": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.886Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 132,
+            "chinese": "明天",
+            "english": "tomorrow",
+            "soundmark": "/tə'mɔro/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.887Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 133,
+            "chinese": "在这个时候",
+            "english": "at this time",
+            "soundmark": "/ət/ /ðɪs/ /taɪm/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:04.913Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 134,
+            "chinese": "在明天这个时候",
+            "english": "at this time tomorrow",
+            "soundmark": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:05.007Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        },
+        {
+            "order": 135,
+            "chinese": "我们在明天这个时候将会正在一起讨论这个计划的所有的细节",
+            "english": "we will be discussing all the details of the plan together at this time tomorrow",
+            "soundmark": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+            "courseId": "dgztacm4ea7i5svc5o2r8r7z",
+            "createdAt": "2024-04-28T12:30:05.071Z",
+            "updatedAt": "2024-04-28T12:26:53.981Z"
+        }
+    ]
+}

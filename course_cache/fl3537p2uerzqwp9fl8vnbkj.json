@@ -1,0 +1,1407 @@
+{
+    "id": "fl3537p2uerzqwp9fl8vnbkj",
+    "title": "第四十一课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1mg4y1F7i7",
+    "order": 41,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:52.879Z",
+    "updatedAt": "2024-05-23T14:06:01.614Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "保持",
+            "english": "to keep",
+            "soundmark": "/tə/ /kip/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.020Z",
+            "updatedAt": "2024-04-28T12:26:54.108Z"
+        },
+        {
+            "order": 2,
+            "chinese": "他需要",
+            "english": "he needs",
+            "soundmark": "/hi/ /nidz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.143Z",
+            "updatedAt": "2024-04-28T12:26:54.108Z"
+        },
+        {
+            "order": 3,
+            "chinese": "他需要保持",
+            "english": "he needs to keep",
+            "soundmark": "/hi/ /nidz/ /tə/ /kip/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.166Z",
+            "updatedAt": "2024-04-28T12:26:54.108Z"
+        },
+        {
+            "order": 4,
+            "chinese": "练习",
+            "english": "to practice",
+            "soundmark": "/tə/ /ˈpræktɪs/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.179Z",
+            "updatedAt": "2024-04-28T12:26:54.108Z"
+        },
+        {
+            "order": 5,
+            "chinese": "练习(ing形式)",
+            "english": "practicing",
+            "soundmark": "/ˈpræktɪsɪŋ/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.194Z",
+            "updatedAt": "2024-04-28T12:26:54.108Z"
+        },
+        {
+            "order": 6,
+            "chinese": "他需要保持练习",
+            "english": "he needs to keep practicing",
+            "soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.203Z",
+            "updatedAt": "2024-04-28T12:26:54.108Z"
+        },
+        {
+            "order": 7,
+            "chinese": "技术",
+            "english": "skills",
+            "soundmark": "/'skɪlz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.254Z",
+            "updatedAt": "2024-04-28T12:26:54.108Z"
+        },
+        {
+            "order": 8,
+            "chinese": "他的技术",
+            "english": "his skills",
+            "soundmark": "/hɪz/ /'skɪlz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.348Z",
+            "updatedAt": "2024-04-28T12:26:54.108Z"
+        },
+        {
+            "order": 9,
+            "chinese": "提升",
+            "english": "to improve",
+            "soundmark": "/tə/ /ɪmˈpruv/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.348Z",
+            "updatedAt": "2024-04-28T12:26:54.108Z"
+        },
+        {
+            "order": 10,
+            "chinese": "提升他的技术",
+            "english": "to improve his skills",
+            "soundmark": "/tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.399Z",
+            "updatedAt": "2024-04-28T12:26:54.108Z"
+        },
+        {
+            "order": 11,
+            "chinese": "他需要保持练习",
+            "english": "he needs to keep practicing",
+            "soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.481Z",
+            "updatedAt": "2024-04-28T12:26:54.108Z"
+        },
+        {
+            "order": 12,
+            "chinese": "他需要保持练习来提升他的技术",
+            "english": "he needs to keep practicing to improve his skills",
+            "soundmark": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/ /tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.649Z",
+            "updatedAt": "2024-04-28T12:26:54.108Z"
+        },
+        {
+            "order": 13,
+            "chinese": "掌握",
+            "english": "to master",
+            "soundmark": "/'mæstɚ/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.650Z",
+            "updatedAt": "2024-04-28T12:26:54.108Z"
+        },
+        {
+            "order": 14,
+            "chinese": "你将会",
+            "english": "you will",
+            "soundmark": "/ju/ /wɪl/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.658Z",
+            "updatedAt": "2024-04-28T12:26:54.108Z"
+        },
+        {
+            "order": 15,
+            "chinese": "你将会掌握",
+            "english": "you will master",
+            "soundmark": "/ju/ /wɪl/ /'mæstɚ/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.669Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 16,
+            "chinese": "那个技术",
+            "english": "the skill",
+            "soundmark": "/ðə/ /'skɪl/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.693Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 17,
+            "chinese": "你将会掌握那个技术",
+            "english": "you will master the skill",
+            "soundmark": "/ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.760Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 18,
+            "chinese": "你保持",
+            "english": "you keep",
+            "soundmark": "/ju/ /kip/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.784Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 19,
+            "chinese": "练习",
+            "english": "to practice",
+            "soundmark": "/tə/ /ˈpræktɪs/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.804Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 20,
+            "chinese": "练习(ing形式)",
+            "english": "practicing",
+            "soundmark": "/ˈpræktɪsɪŋ/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.911Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 21,
+            "chinese": "你保持练习",
+            "english": "you keep practicing",
+            "soundmark": "/ju/ /kip/ /ˈpræktɪsɪŋ/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:20.936Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 22,
+            "chinese": "你保持练习那么你将会掌握那个技术",
+            "english": "you keep practicing and you will master the skill",
+            "soundmark": "/ju/ /kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.105Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 23,
+            "chinese": "保持练习那么你将会掌握那个技术",
+            "english": "keep practicing and you will master the skill",
+            "soundmark": "/kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.115Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 24,
+            "chinese": "新的",
+            "english": "new",
+            "soundmark": "/nu/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.165Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 25,
+            "chinese": "新的技术",
+            "english": "new skills",
+            "soundmark": "/nu/ /'skɪlz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.184Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 26,
+            "chinese": "学习",
+            "english": "to learn",
+            "soundmark": "/tə/ /lɝn/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.195Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 27,
+            "chinese": "学习新的技术",
+            "english": "to learn new skills",
+            "soundmark": "/tə/ /lɝn/ /nu/ /'skɪlz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.222Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 28,
+            "chinese": "学习新的技术(ing形式)",
+            "english": "learning new skills",
+            "soundmark": "/'lɝnɪŋ/ /nu/ /'skɪlz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.251Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 29,
+            "chinese": "保持",
+            "english": "to keep",
+            "soundmark": "/tə/ /kip/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.267Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 30,
+            "chinese": "她保持",
+            "english": "she keeps",
+            "soundmark": "/ʃi/ /kips/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.380Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 31,
+            "chinese": "她一直学习新的技术",
+            "english": "she keeps learning new skills",
+            "soundmark": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.413Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 32,
+            "chinese": "提升",
+            "english": "to improve",
+            "soundmark": "/tə/ /ɪmˈpruv/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.555Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 33,
+            "chinese": "她自己",
+            "english": "herself",
+            "soundmark": "/hɝ'sɛlf/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.557Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 34,
+            "chinese": "提升她自己",
+            "english": "to improve herself",
+            "soundmark": "/tə/ /ɪmˈpruv/ /hɝ'sɛlf/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.656Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 35,
+            "chinese": "她一直学习新的技术来提升她自己",
+            "english": "she keeps learning new skills to improve herself",
+            "soundmark": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/ /tə/ /ɪmˈpruv/ /hɝ'sɛlf/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.664Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 36,
+            "chinese": "锁",
+            "english": "to lock",
+            "soundmark": "/tə/ /lɑk/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.694Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 37,
+            "chinese": "门",
+            "english": "the door",
+            "soundmark": "/ðə/ /dɔr/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.702Z",
+            "updatedAt": "2024-04-28T12:26:54.109Z"
+        },
+        {
+            "order": 38,
+            "chinese": "锁门",
+            "english": "to lock the door",
+            "soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.702Z",
+            "updatedAt": "2024-04-28T12:26:54.110Z"
+        },
+        {
+            "order": 39,
+            "chinese": "忘记",
+            "english": "to forget",
+            "soundmark": "/tə/ /fɚ'ɡɛt/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.776Z",
+            "updatedAt": "2024-04-28T12:26:54.110Z"
+        },
+        {
+            "order": 40,
+            "chinese": "忘记锁门",
+            "english": "to forget to lock the door",
+            "soundmark": "/tə/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.826Z",
+            "updatedAt": "2024-04-28T12:26:54.110Z"
+        },
+        {
+            "order": 41,
+            "chinese": "忘记锁门(ing形式)",
+            "english": "forgetting to lock the door",
+            "soundmark": "/fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:21.908Z",
+            "updatedAt": "2024-04-28T12:26:54.110Z"
+        },
+        {
+            "order": 42,
+            "chinese": "保持",
+            "english": "to keep",
+            "soundmark": "/tə/ /kip/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.007Z",
+            "updatedAt": "2024-04-28T12:26:54.110Z"
+        },
+        {
+            "order": 43,
+            "chinese": "她保持",
+            "english": "she keeps",
+            "soundmark": "/ʃi/ /kips/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.016Z",
+            "updatedAt": "2024-04-28T12:26:54.110Z"
+        },
+        {
+            "order": 44,
+            "chinese": "她总是忘记锁门",
+            "english": "she keeps forgetting to lock the door",
+            "soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.098Z",
+            "updatedAt": "2024-04-28T12:26:54.110Z"
+        },
+        {
+            "order": 45,
+            "chinese": "离开",
+            "english": "to leave",
+            "soundmark": "/tə/ /liv/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.133Z",
+            "updatedAt": "2024-04-28T12:26:54.110Z"
+        },
+        {
+            "order": 46,
+            "chinese": "她离开",
+            "english": "she leaves",
+            "soundmark": "/ʃi/ /livz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.167Z",
+            "updatedAt": "2024-04-28T12:26:54.110Z"
+        },
+        {
+            "order": 47,
+            "chinese": "当......的时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.201Z",
+            "updatedAt": "2024-04-28T12:26:54.110Z"
+        },
+        {
+            "order": 48,
+            "chinese": "当她离开的时候",
+            "english": "when she leaves",
+            "soundmark": "/wɛn/ /ʃi/ /livz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.232Z",
+            "updatedAt": "2024-04-28T12:26:54.110Z"
+        },
+        {
+            "order": 49,
+            "chinese": "她总是忘记锁门",
+            "english": "she keeps forgetting to lock the door",
+            "soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.269Z",
+            "updatedAt": "2024-04-28T12:26:54.110Z"
+        },
+        {
+            "order": 50,
+            "chinese": "她总是忘记锁门当她离开的时候",
+            "english": "she keeps forgetting to lock the door when she leaves",
+            "soundmark": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ʃi/ /livz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.287Z",
+            "updatedAt": "2024-04-28T12:26:54.110Z"
+        },
+        {
+            "order": 51,
+            "chinese": "钥匙",
+            "english": "keys",
+            "soundmark": "/kiz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.407Z",
+            "updatedAt": "2024-04-28T12:26:54.110Z"
+        },
+        {
+            "order": 52,
+            "chinese": "他的钥匙",
+            "english": "his keys",
+            "soundmark": "/hɪz/ /kiz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.454Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 53,
+            "chinese": "忘记",
+            "english": "to forget",
+            "soundmark": "/tə/ /fɚ'ɡɛt/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.463Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 54,
+            "chinese": "忘记他的钥匙",
+            "english": "to forget his keys",
+            "soundmark": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.543Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 55,
+            "chinese": "家",
+            "english": "home",
+            "soundmark": "/hom/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.585Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 56,
+            "chinese": "在家",
+            "english": "at home",
+            "soundmark": "/ət/ /hom/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.674Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 57,
+            "chinese": "忘记他的钥匙在家里",
+            "english": "to forget his keys at home",
+            "soundmark": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/ /ət/ /hom/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.724Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 58,
+            "chinese": "忘记他的钥匙在家里(ing形式)",
+            "english": "forgetting his keys at home",
+            "soundmark": "/fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.725Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 59,
+            "chinese": "保持",
+            "english": "to keep",
+            "soundmark": "/tə/ /kip/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.742Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 60,
+            "chinese": "他保持",
+            "english": "he keeps",
+            "soundmark": "/hi/ /kips/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.789Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 61,
+            "chinese": "他总是忘记他的钥匙在家里",
+            "english": "he keeps forgetting his keys at home",
+            "soundmark": "/hi/ /kips/ /fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.906Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 62,
+            "chinese": "想法",
+            "english": "mind",
+            "soundmark": "/maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.933Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 63,
+            "chinese": "他的想法",
+            "english": "his mind",
+            "soundmark": "/hɪz/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.931Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 64,
+            "chinese": "改变",
+            "english": "to change",
+            "soundmark": "/tə/ /tʃendʒ/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:22.974Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 65,
+            "chinese": "改变他的想法",
+            "english": "to change his mind",
+            "soundmark": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.033Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 66,
+            "chinese": "改变他的想法(ing形式)",
+            "english": "changing his mind",
+            "soundmark": "/'tʃendʒɪŋ/ /hɪz/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.180Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 67,
+            "chinese": "保持",
+            "english": "to keep",
+            "soundmark": "/tə/ /kip/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.218Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 68,
+            "chinese": "他保持",
+            "english": "he keeps",
+            "soundmark": "/hi/ /kips/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.263Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 69,
+            "chinese": "他总是改变他的想法",
+            "english": "he keeps changing his mind",
+            "soundmark": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.295Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 70,
+            "chinese": "时间",
+            "english": "time",
+            "soundmark": "/taɪm/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.349Z",
+            "updatedAt": "2024-04-28T12:26:54.111Z"
+        },
+        {
+            "order": 71,
+            "chinese": "所有的时间",
+            "english": "all the time",
+            "soundmark": "/ɔl/ /ðə/ /taɪm/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.373Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 72,
+            "chinese": "他(一直)总是改变他的想法",
+            "english": "he keeps changing his mind all the time",
+            "soundmark": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ɔl/ /ðə/ /taɪm/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.430Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 73,
+            "chinese": "想法",
+            "english": "mind",
+            "soundmark": "/maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.448Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 74,
+            "chinese": "介意",
+            "english": "to mind",
+            "soundmark": "/tə/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.508Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 75,
+            "chinese": "我介意",
+            "english": "I mind",
+            "soundmark": "/aɪ/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.507Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 76,
+            "chinese": "打开",
+            "english": "to open",
+            "soundmark": "/tə/ /'opən/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.628Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 77,
+            "chinese": "这个窗户",
+            "english": "the window",
+            "soundmark": "/ðə/ /'wɪndo/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.716Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 78,
+            "chinese": "打开这个窗户",
+            "english": "to open the window",
+            "soundmark": "/tə/ /'opən/ /ðə/ /'wɪndo/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.793Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 79,
+            "chinese": "打开这个窗户(ing形式)",
+            "english": "opening the window",
+            "soundmark": "/'opənɪŋ/ /ðə/ /'wɪndo/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.802Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 80,
+            "chinese": "我介意打开这个窗户",
+            "english": "I mind opening the window",
+            "soundmark": "/aɪ/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.834Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 81,
+            "chinese": "我不介意打开这个窗户",
+            "english": "I don't mind opening the window",
+            "soundmark": "/aɪ/ /dont/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.866Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 82,
+            "chinese": "支付",
+            "english": "to pay",
+            "soundmark": "/tə/ /pe/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.943Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 83,
+            "chinese": "账单",
+            "english": "the bill",
+            "soundmark": "/ðə/ /bɪl/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:23.957Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 84,
+            "chinese": "支付账单",
+            "english": "to pay the bill",
+            "soundmark": "/tə/ /pe/ /ðə/ /bɪl/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.024Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 85,
+            "chinese": "支付账单(ing形式)",
+            "english": "paying the bill",
+            "soundmark": "/'peɪŋ/ /ðə/ /bɪl/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.072Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 86,
+            "chinese": "介意",
+            "english": "to mind",
+            "soundmark": "/tə/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.074Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 87,
+            "chinese": "他介意",
+            "english": "he minds",
+            "soundmark": "/hi/ /maɪndz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.213Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 88,
+            "chinese": "他介意支付账单",
+            "english": "he minds paying the bill",
+            "soundmark": "/hi/ /maɪndz/ /'peɪŋ/ /ðə/ /bɪl/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.257Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 89,
+            "chinese": "他不介意支付账单",
+            "english": "he doesn't mind paying the bill",
+            "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'peɪŋ/ /ðə/ /bɪl/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.280Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 90,
+            "chinese": "玩具",
+            "english": "toy",
+            "soundmark": "/tɔɪ/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.287Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 91,
+            "chinese": "他的玩具",
+            "english": "his toys",
+            "soundmark": "/hɪz/ /tɔɪz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.298Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 92,
+            "chinese": "分享",
+            "english": "to share",
+            "soundmark": "/tə/ /ʃɛr/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.406Z",
+            "updatedAt": "2024-04-28T12:26:54.112Z"
+        },
+        {
+            "order": 93,
+            "chinese": "分享他的玩具",
+            "english": "to share his toys",
+            "soundmark": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.438Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 94,
+            "chinese": "朋友",
+            "english": "friend",
+            "soundmark": "/frɛnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.519Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 95,
+            "chinese": "他的朋友们",
+            "english": "his friends",
+            "soundmark": "/hɪz/ /frɛndz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.529Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 96,
+            "chinese": "和",
+            "english": "with",
+            "soundmark": "/wɪð/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.588Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 97,
+            "chinese": "和他的朋友们",
+            "english": "with his friends",
+            "soundmark": "/wɪð/ /hɪz/ /frɛndz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.705Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 98,
+            "chinese": "和他的朋友们分享他的玩具",
+            "english": "to share his toys with his friends",
+            "soundmark": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.704Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 99,
+            "chinese": "和他的朋友们分享他的玩具（ing 形式）",
+            "english": "sharing his toys with his friends",
+            "soundmark": "/'ʃɛriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.734Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 100,
+            "chinese": "他介意",
+            "english": "he minds",
+            "soundmark": "/hi/ /maɪndz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.735Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 101,
+            "chinese": "他介意和他的朋友们分享他的玩具",
+            "english": "he minds sharing his toys with his friends",
+            "soundmark": "/hi/ /maɪndz/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.777Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 102,
+            "chinese": "他不介意和他的朋友们分享他的玩具",
+            "english": "he doesn't mind sharing his toys with his friends",
+            "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.853Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 103,
+            "chinese": "他不介意",
+            "english": "he doesn't mind",
+            "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.957Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 104,
+            "chinese": "他的食物",
+            "english": "his food",
+            "soundmark": "/hɪz/ /fud/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:24.964Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 105,
+            "chinese": "分享",
+            "english": "to share",
+            "soundmark": "/tə/ /ʃɛr/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.035Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 106,
+            "chinese": "分享他的食物",
+            "english": "to share his food",
+            "soundmark": "/tə/ /ʃɛr/ /hɪz/ /fud/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.088Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 107,
+            "chinese": "别人",
+            "english": "others",
+            "soundmark": "/'ʌðɚz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.150Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 108,
+            "chinese": "和",
+            "english": "with",
+            "soundmark": "/wɪð/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.194Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 109,
+            "chinese": "和别人",
+            "english": "with others",
+            "soundmark": "/wɪð/ /'ʌðɚz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.202Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 110,
+            "chinese": "和别人分享他的食物",
+            "english": "to share his food with others",
+            "soundmark": "/tə/ /ʃɛr/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.204Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 111,
+            "chinese": "和别人分享他的食物(ing形式)",
+            "english": "sharing his food with others",
+            "soundmark": "/'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.282Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 112,
+            "chinese": "介意",
+            "english": "to mind",
+            "soundmark": "/tə/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.293Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 113,
+            "chinese": "他介意",
+            "english": "he minds",
+            "soundmark": "/hi/ /maɪndz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.408Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 114,
+            "chinese": "他不介意",
+            "english": "he doesn't mind",
+            "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.455Z",
+            "updatedAt": "2024-04-28T12:26:54.113Z"
+        },
+        {
+            "order": 115,
+            "chinese": "他不介意和别人分享他的食物",
+            "english": "he doesn't mind sharing his food with others",
+            "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.525Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 116,
+            "chinese": "等",
+            "english": "to wait",
+            "soundmark": "/tə/ /wet/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.594Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 117,
+            "chinese": "她",
+            "english": "her",
+            "soundmark": "/hɚ/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.601Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 118,
+            "chinese": "等她",
+            "english": "to wait for her",
+            "soundmark": "/tə/ /wet/ /fɚ/ /hɚ/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.632Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 119,
+            "chinese": "机场",
+            "english": "airport",
+            "soundmark": "/'ɛrpɔrt/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.652Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 120,
+            "chinese": "在机场",
+            "english": "at the airport",
+            "soundmark": "/ət/ /ði/ /'ɛrpɔrt/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.701Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 121,
+            "chinese": "在机场等她",
+            "english": "to wait for her at the airport",
+            "soundmark": "/tə/ /wet/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.747Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 122,
+            "chinese": "在机场等她(ing形式)",
+            "english": "waiting for her at the airport",
+            "soundmark": "/'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.784Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 123,
+            "chinese": "他不介意",
+            "english": "he doesn't mind",
+            "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.858Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 124,
+            "chinese": "他不介意在机场等她",
+            "english": "he doesn't mind waiting for her at the airport",
+            "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:25.949Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 125,
+            "chinese": "介意",
+            "english": "to mind",
+            "soundmark": "/tə/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.054Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 126,
+            "chinese": "他们介意",
+            "english": "they mind",
+            "soundmark": "/ðe/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.084Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 127,
+            "chinese": "秘密",
+            "english": "secret",
+            "soundmark": "/'sikrət/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.113Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 128,
+            "chinese": "他们的秘密",
+            "english": "their secrets",
+            "soundmark": "/ðɛr/ /'sikrəts/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.111Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 129,
+            "chinese": "分享",
+            "english": "to share",
+            "soundmark": "/tə/ /ʃɛr/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.195Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 130,
+            "chinese": "分享他们的秘密",
+            "english": "to share their secrets",
+            "soundmark": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.203Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 131,
+            "chinese": "任何人",
+            "english": "anyone",
+            "soundmark": "/'ɛnɪwʌn/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.303Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 132,
+            "chinese": "和",
+            "english": "with",
+            "soundmark": "/wɪð/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.322Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 133,
+            "chinese": "和任何人",
+            "english": "with anyone",
+            "soundmark": "/wɪð/ /'ɛnɪwʌn/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.374Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 134,
+            "chinese": "和任何人分享他们的秘密",
+            "english": "to share their secrets with anyone",
+            "soundmark": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.453Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 135,
+            "chinese": "和任何人分享他们的秘密(ing形式)",
+            "english": "sharing their secrets with anyone",
+            "soundmark": "/'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.500Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 136,
+            "chinese": "他们介意",
+            "english": "they mind",
+            "soundmark": "/ðe/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.524Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 137,
+            "chinese": "他们不介意",
+            "english": "they don't mind",
+            "soundmark": "/ðe/ /dont/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.555Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 138,
+            "chinese": "他们不介意和任何人分享他们的秘密",
+            "english": "they don't mind sharing their secrets with anyone",
+            "soundmark": "/ðe/ /dont/ /maɪnd/ /'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.642Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 139,
+            "chinese": "他介意",
+            "english": "he minds",
+            "soundmark": "/hi/ /maɪndz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.641Z",
+            "updatedAt": "2024-04-28T12:26:54.114Z"
+        },
+        {
+            "order": 140,
+            "chinese": "建议",
+            "english": "advice",
+            "soundmark": "/əd'vaɪs/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.700Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 141,
+            "chinese": "一些",
+            "english": "some",
+            "soundmark": "/səm/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.769Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 142,
+            "chinese": "一些建议",
+            "english": "some advice",
+            "soundmark": "/səm/ /əd'vaɪs/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.799Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 143,
+            "chinese": "问题",
+            "english": "problem",
+            "soundmark": "/'prɑbləm/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.949Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 144,
+            "chinese": "这个问题",
+            "english": "this problem",
+            "soundmark": "/ðɪs/ /'prɑbləm/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.955Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 145,
+            "chinese": "关于",
+            "english": "about",
+            "soundmark": "/ə'baʊt/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:26.956Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 146,
+            "chinese": "关于这个问题",
+            "english": "about this problem",
+            "soundmark": "/ə'baʊt/ /ðɪs/ /'prɑbləm/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:27.098Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 147,
+            "chinese": "关于这个问题的一些建议",
+            "english": "some advice about this problem",
+            "soundmark": "/səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:27.141Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 148,
+            "chinese": "给",
+            "english": "to give",
+            "soundmark": "/tə/ /ɡɪv/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:27.193Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 149,
+            "chinese": "给我",
+            "english": "to give me",
+            "soundmark": "/tə/ /ɡɪv/ /mi/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:27.204Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 150,
+            "chinese": "给我一些建议",
+            "english": "to give me some advice",
+            "soundmark": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:27.215Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 151,
+            "chinese": "给我关于这个问题的一些建议",
+            "english": "to give me some advice about this problem",
+            "soundmark": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:27.293Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 152,
+            "chinese": "给我关于这个问题的一些建议（ing 形式）",
+            "english": "giving me some advice about this problem",
+            "soundmark": "/ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:27.311Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 153,
+            "chinese": "他介意",
+            "english": "he minds",
+            "soundmark": "/hi/ /maɪndz/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:27.388Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 154,
+            "chinese": "他不介意",
+            "english": "he doesn't mind",
+            "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:27.392Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 155,
+            "chinese": "他不介意给我关于这个问题的一些建议",
+            "english": "he doesn't mind giving me some advice about this problem",
+            "soundmark": "/hi/ /ˈdʌznt/ /maɪnd/ /ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+            "courseId": "fl3537p2uerzqwp9fl8vnbkj",
+            "createdAt": "2024-04-28T12:32:27.457Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        }
+    ]
+}

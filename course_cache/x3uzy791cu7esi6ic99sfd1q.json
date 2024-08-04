@@ -1,0 +1,1344 @@
+{
+    "id": "x3uzy791cu7esi6ic99sfd1q",
+    "title": "第四十二课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1so4y1M7Q7",
+    "order": 42,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:52.918Z",
+    "updatedAt": "2024-05-23T14:06:01.678Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "阅读",
+            "english": "to read",
+            "soundmark": "/tə/ /rid/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:27.547Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 2,
+            "chinese": "这本书",
+            "english": "the book",
+            "soundmark": "/ðə/ /bʊk/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:27.663Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 3,
+            "chinese": "阅读这本书",
+            "english": "to read the book",
+            "soundmark": "/tə/ /rid/ /ðə/ /bʊk/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:27.673Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 4,
+            "chinese": "阅读这本书(ing形式)",
+            "english": "reading the book",
+            "soundmark": "/'ridɪŋ/ /ðə/ /bʊk/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:27.704Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 5,
+            "chinese": "完成",
+            "english": "to finish",
+            "soundmark": "/tə/ /'fɪnɪʃ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:27.709Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 6,
+            "chinese": "他完成",
+            "english": "he finishes",
+            "soundmark": "/hi/ /'fɪnɪʃɪz/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:27.758Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 7,
+            "chinese": "他(过去)完成",
+            "english": "he finished",
+            "soundmark": "/hi/ /'fɪnɪʃt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:27.790Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 8,
+            "chinese": "他(过去)完成阅读这本书",
+            "english": "he finished reading the book",
+            "soundmark": "/hi/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /bʊk/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:27.845Z",
+            "updatedAt": "2024-04-28T12:26:54.115Z"
+        },
+        {
+            "order": 9,
+            "chinese": "天",
+            "english": "day",
+            "soundmark": "/de/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:27.844Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 10,
+            "chinese": "一天",
+            "english": "one day",
+            "soundmark": "/wʌn/ /de/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:27.964Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 11,
+            "chinese": "在一天内",
+            "english": "in one day",
+            "soundmark": "/ɪn/ /wʌn/ /de/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:27.988Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 12,
+            "chinese": "他在一天内完成了阅读这本书",
+            "english": "he finished reading the book in one day",
+            "soundmark": "/hi/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /bʊk/ /ɪn/ /wʌn/ /de/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.127Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 13,
+            "chinese": "晚上",
+            "english": "night",
+            "soundmark": "/naɪt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.171Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 14,
+            "chinese": "在一个晚上内",
+            "english": "in one night",
+            "soundmark": "/ɪn/ /wʌn/ /naɪt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.214Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 15,
+            "chinese": "他在一个晚上内完成了阅读这本书",
+            "english": "he finished reading the book in one night",
+            "soundmark": "/hi/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /bʊk/ /ɪn/ /wʌn/ /naɪt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.218Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 16,
+            "chinese": "洗",
+            "english": "to wash",
+            "soundmark": "/tə/ /wɔʃ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.229Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 17,
+            "chinese": "碟",
+            "english": "dish",
+            "soundmark": "/dɪʃ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.286Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 18,
+            "chinese": "那些碗碟",
+            "english": "the dishes",
+            "soundmark": "/ðə/ /dɪʃɪz/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.289Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 19,
+            "chinese": "洗那些碗碟",
+            "english": "to wash the dishes",
+            "soundmark": "/tə/ /wɔʃ/ /ðə/ /dɪʃɪz/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.305Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 20,
+            "chinese": "洗那些碗碟(ing形式)",
+            "english": "washing the dishes",
+            "soundmark": "/'wɑʃɪŋ/ /ðə/ /dɪʃɪz/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.441Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 21,
+            "chinese": "晚饭",
+            "english": "dinner",
+            "soundmark": "/'dɪnɚ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.464Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 22,
+            "chinese": "在......之后",
+            "english": "after",
+            "soundmark": "/'æftɚ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.589Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 23,
+            "chinese": "在晚饭之后",
+            "english": "after dinner",
+            "soundmark": "/'æftɚ/ /'dɪnɚ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.666Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 24,
+            "chinese": "在晚饭之后洗那些碗碟(ing形式)",
+            "english": "washing the dishes after dinner",
+            "soundmark": "/'wɑʃɪŋ/ /ðə/ /dɪʃɪz/ /'æftɚ/ /'dɪnɚ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.680Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 25,
+            "chinese": "他(过去)完成",
+            "english": "he finished",
+            "soundmark": "/hi/ /'fɪnɪʃt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.715Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 26,
+            "chinese": "他在晚饭之后完成了洗碗",
+            "english": "he finished washing the dishes after dinner",
+            "soundmark": "/hi/ /'fɪnɪʃt/ /'wɑʃɪŋ/ /ðə/ /dɪʃɪz/ /'æftɚ/ /'dɪnɚ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.721Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 27,
+            "chinese": "作画",
+            "english": "to paint",
+            "soundmark": "/tə/ /pent/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.727Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 28,
+            "chinese": "墙",
+            "english": "the wall",
+            "soundmark": "/ðə/ /wɔl/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.748Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 29,
+            "chinese": "刷墙",
+            "english": "to paint the wall",
+            "soundmark": "/tə/ /pent/ /ðə/ /wɔl/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.793Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 30,
+            "chinese": "刷墙(ing形式)",
+            "english": "painting the wall",
+            "soundmark": "/'pentɪŋ/ /ðə/ /wɔl/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.892Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 31,
+            "chinese": "完成",
+            "english": "to finish",
+            "soundmark": "/tə/ /'fɪnɪʃ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:28.976Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 32,
+            "chinese": "他们完成",
+            "english": "they finish",
+            "soundmark": "/ðe/ /'fɪnɪʃ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.035Z",
+            "updatedAt": "2024-04-28T12:26:54.116Z"
+        },
+        {
+            "order": 33,
+            "chinese": "他们(过去)完成",
+            "english": "they finished",
+            "soundmark": "/ðe/ /'fɪnɪʃt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.126Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 34,
+            "chinese": "他们完成了刷墙",
+            "english": "they finished painting the wall",
+            "soundmark": "/ðe/ /'fɪnɪʃt/ /'pentɪŋ/ /ðə/ /wɔl/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.163Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 35,
+            "chinese": "太阳",
+            "english": "sun",
+            "soundmark": "/sʌn/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.201Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 36,
+            "chinese": "日落",
+            "english": "sunset",
+            "soundmark": "/'sʌnsɛt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.208Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 37,
+            "chinese": "在......之前",
+            "english": "before",
+            "soundmark": "/bɪ'fɔr/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.231Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 38,
+            "chinese": "在日落之前",
+            "english": "before sunset",
+            "soundmark": "/bɪ'fɔr/ /'sʌnsɛt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.254Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 39,
+            "chinese": "他们在落日之前完成了刷墙",
+            "english": "they finished painting the wall before sunset",
+            "soundmark": "/ðe/ /'fɪnɪʃt/ /'pentɪŋ/ /ðə/ /wɔl/ /bɪ'fɔr/ /'sʌnsɛt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.294Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 40,
+            "chinese": "清理",
+            "english": "to clean",
+            "soundmark": "/tə/ /klin/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.348Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 41,
+            "chinese": "这个房子",
+            "english": "the house",
+            "soundmark": "/ðə/ /haʊs/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.484Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 42,
+            "chinese": "清理这个房子",
+            "english": "to clean the house",
+            "soundmark": "/tə/ /klin/ /ðə/ /haʊs/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.484Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 43,
+            "chinese": "清理这个房子(ing形式)",
+            "english": "cleaning the house",
+            "soundmark": "/'klinɪŋ/ /ðə/ /haʊs/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.575Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 44,
+            "chinese": "完成",
+            "english": "to finish",
+            "soundmark": "/tə/ /'fɪnɪʃ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.598Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 45,
+            "chinese": "你(过去)完成",
+            "english": "you finished",
+            "soundmark": "/ju/ /'fɪnɪʃt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.650Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 46,
+            "chinese": "你完成了清理这个房子",
+            "english": "you finished cleaning the house",
+            "soundmark": "/ju/ /'fɪnɪʃt/ /'klinɪŋ/ /ðə/ /haʊs/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.707Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 47,
+            "chinese": "你自己",
+            "english": "yourself",
+            "soundmark": "/jɔr'sɛlf/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.738Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 48,
+            "chinese": "通过你自己",
+            "english": "by yourself",
+            "soundmark": "/baɪ/ /jɔr'sɛlf/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.774Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 49,
+            "chinese": "你自己一个人完成了清理这个房子",
+            "english": "you finished cleaning the house by yourself",
+            "soundmark": "/ju/ /'fɪnɪʃt/ /'klinɪŋ/ /ðə/ /haʊs/ /baɪ/ /jɔr'sɛlf/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.783Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 50,
+            "chinese": "打破",
+            "english": "to break",
+            "soundmark": "/tə/ /brek/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.800Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 51,
+            "chinese": "那个窗户",
+            "english": "the window",
+            "soundmark": "/ðə/ /'wɪndo/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:29.931Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 52,
+            "chinese": "打破那个窗户",
+            "english": "to break the window",
+            "soundmark": "/tə/ /brek/ /ðə/ /'wɪndo/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.034Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 53,
+            "chinese": "一个石头",
+            "english": "a stone",
+            "soundmark": "/ə/ /ston/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.040Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 54,
+            "chinese": "和......一起",
+            "english": "with",
+            "soundmark": "/wɪð/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.094Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 55,
+            "chinese": "和一个石头一起",
+            "english": "with a stone",
+            "soundmark": "/wɪð/ /ə/ /ston/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.220Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 56,
+            "chinese": "用一个石头打破那个窗户",
+            "english": "to break the window with a stone",
+            "soundmark": "/tə/ /brek/ /ðə/ /'wɪndo/ /wɪð/ /ə/ /ston/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.249Z",
+            "updatedAt": "2024-04-28T12:26:54.117Z"
+        },
+        {
+            "order": 57,
+            "chinese": "用一个石头打破那个窗户(ing形式)",
+            "english": "breaking the window with a stone",
+            "soundmark": "/'brekɪŋ/ /ðə/ /'wɪndo/ /wɪð/ /ə/ /ston/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.249Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 58,
+            "chinese": "否认",
+            "english": "to deny",
+            "soundmark": "/tə/ /dɪ'naɪ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.275Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 59,
+            "chinese": "他们否认",
+            "english": "they deny",
+            "soundmark": "/ðe/ /dɪ'naɪ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.277Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 60,
+            "chinese": "他们(过去)否认",
+            "english": "they denied",
+            "soundmark": "/ðe/ /dɪ'naɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.401Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 61,
+            "chinese": "他们(过去)否认用一个石头打破那个窗户",
+            "english": "they denied breaking the window with a stone",
+            "soundmark": "/ðe/ /dɪ'naɪd/ /'brekɪŋ/ /ðə/ /'wɪndo/ /wɪð/ /ə/ /ston/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.478Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 62,
+            "chinese": "他(过去)否认",
+            "english": "he denied",
+            "soundmark": "/hi/ /dɪ'naɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.492Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 63,
+            "chinese": "改变",
+            "english": "to change",
+            "soundmark": "/tə/ /tʃendʒ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.536Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 64,
+            "chinese": "想法",
+            "english": "mind",
+            "soundmark": "/maɪnd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.579Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 65,
+            "chinese": "他的想法",
+            "english": "his mind",
+            "soundmark": "/hɪz/ /maɪnd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.693Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 66,
+            "chinese": "改变他的想法",
+            "english": "to change his mind",
+            "soundmark": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.736Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 67,
+            "chinese": "分钟",
+            "english": "minute",
+            "soundmark": "/'mɪnɪt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.738Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 68,
+            "chinese": "最后",
+            "english": "last",
+            "soundmark": "/læst/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.783Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 69,
+            "chinese": "最后一分钟",
+            "english": "the last minute",
+            "soundmark": "/ðə/ /læst/ /'mɪnɪt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.784Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 70,
+            "chinese": "在最后一个刻",
+            "english": "at the last minute",
+            "soundmark": "/ət/ /ðə/ /læst/ /'mɪnɪt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.847Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 71,
+            "chinese": "在最后一刻改变他的想法",
+            "english": "to change his mind at the last minute",
+            "soundmark": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/ /ət/ /ðə/ /læst/ /'mɪnɪt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.919Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 72,
+            "chinese": "在最后一刻改变他的想法(ing形式)",
+            "english": "changing his mind at the last minute",
+            "soundmark": "/'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ət/ /ðə/ /læst/ /'mɪnɪt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.940Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 73,
+            "chinese": "他(过去)否认",
+            "english": "he denied",
+            "soundmark": "/hi/ /dɪ'naɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:30.995Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 74,
+            "chinese": "他(过去)否认在最后一刻改变他的想法",
+            "english": "he denied changing his mind at the last minute",
+            "soundmark": "/hi/ /dɪ'naɪd/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ət/ /ðə/ /læst/ /'mɪnɪt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.072Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 75,
+            "chinese": "父母",
+            "english": "parents",
+            "soundmark": "/'pɛrənts/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.148Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 76,
+            "chinese": "他的父母",
+            "english": "his parents",
+            "soundmark": "/hɪz/ /'pɛrənts/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.251Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 77,
+            "chinese": "撒谎",
+            "english": "to lie",
+            "soundmark": "/tə/ /laɪ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.251Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 78,
+            "chinese": "向他的父母撒谎",
+            "english": "to lie to his parents",
+            "soundmark": "/tə/ /laɪ/ /tə/ /hɪz/ /'pɛrənts/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.285Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 79,
+            "chinese": "撒谎(ing形式)",
+            "english": "lying",
+            "soundmark": "/'laɪɪŋ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.300Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 80,
+            "chinese": "向他的父母撒谎(ing形式)",
+            "english": "lying to his parents",
+            "soundmark": "/'laɪɪŋ/ /tə/ /hɪz/ /'pɛrənts/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.298Z",
+            "updatedAt": "2024-04-28T12:26:54.118Z"
+        },
+        {
+            "order": 81,
+            "chinese": "否认",
+            "english": "to deny",
+            "soundmark": "/tə/ /dɪ'naɪ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.375Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 82,
+            "chinese": "他(过去)否认",
+            "english": "he denied",
+            "soundmark": "/hi/ /dɪ'naɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.398Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 83,
+            "chinese": "他(过去)否认向他的父母撒谎",
+            "english": "he denied lying to his parents",
+            "soundmark": "/hi/ /dɪ'naɪd/ /'laɪɪŋ/ /tə/ /hɪz/ /'pɛrənts/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.435Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 84,
+            "chinese": "有病的",
+            "english": "sick",
+            "soundmark": "/sɪk/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.592Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 85,
+            "chinese": "他是有病的",
+            "english": "he is sick",
+            "soundmark": "/hi/ /ɪz/ /sɪk/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.595Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 86,
+            "chinese": "假装",
+            "english": "to pretend",
+            "soundmark": "/tə/ /prɪ'tɛnd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.764Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 87,
+            "chinese": "假装是有病的",
+            "english": "to pretend to be sick",
+            "soundmark": "/tə/ /prɪ'tɛnd/ /tə/ /bi/ /sɪk/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.780Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 88,
+            "chinese": "假装是有病的(ing形式)",
+            "english": "pretending to be sick",
+            "soundmark": "/prɪ'tɛndɪŋ/ /tə/ /bi/ /sɪk/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.791Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 89,
+            "chinese": "否认",
+            "english": "to deny",
+            "soundmark": "/tə/ /dɪ'naɪ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.800Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 90,
+            "chinese": "他(过去)否认",
+            "english": "he denied",
+            "soundmark": "/hi/ /dɪ'naɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.815Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 91,
+            "chinese": "他(过去)否认假装是有病的",
+            "english": "he denied pretending to be sick",
+            "soundmark": "/hi/ /dɪ'naɪd/ /prɪ'tɛndɪŋ/ /tə/ /bi/ /sɪk/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.850Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 92,
+            "chinese": "监狱",
+            "english": "prison",
+            "soundmark": "/'prɪzn/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:31.874Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 93,
+            "chinese": "从监狱",
+            "english": "from prison",
+            "soundmark": "/frʌm/ /'prɪzn/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.036Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 94,
+            "chinese": "逃跑",
+            "english": "to escape",
+            "soundmark": "/tə/ /ɪ'skep/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.080Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 95,
+            "chinese": "越狱",
+            "english": "to escape from prison",
+            "soundmark": "/tə/ /ɪ'skep/ /frʌm/ /'prɪzn/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.098Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 96,
+            "chinese": "计划",
+            "english": "to plan",
+            "soundmark": "/tə/ /plæn/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.228Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 97,
+            "chinese": "计划越狱",
+            "english": "to plan to escape from prison",
+            "soundmark": "/tə/ /plæn/ /tə/ /ɪ'skep/ /frʌm/ /'prɪzn/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.247Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 98,
+            "chinese": "计划越狱(ing形式)",
+            "english": "planning to escape from prison",
+            "soundmark": "/'plænɪŋ/ /tə/ /ɪ'skep/ /frʌm/ /'prɪzn/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.263Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 99,
+            "chinese": "否认",
+            "english": "to deny",
+            "soundmark": "/tə/ /dɪ'naɪ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.298Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 100,
+            "chinese": "他们(过去)否认",
+            "english": "they denied",
+            "soundmark": "/ðe/ /dɪ'naɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.299Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 101,
+            "chinese": "他们(过去)否认计划越狱",
+            "english": "they denied planning to escape from prison",
+            "soundmark": "/ðe/ /dɪ'naɪd/ /'plænɪŋ/ /tə/ /ɪ'skep/ /frʌm/ /'prɪzn/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.305Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 102,
+            "chinese": "偷",
+            "english": "to steal",
+            "soundmark": "/tə/ /stil/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.317Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 103,
+            "chinese": "钱",
+            "english": "the money",
+            "soundmark": "/ðə/ /'mʌni/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.475Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 104,
+            "chinese": "偷钱",
+            "english": "to steal the money",
+            "soundmark": "/tə/ /stil/ /ðə/ /'mʌni/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.603Z",
+            "updatedAt": "2024-04-28T12:26:54.119Z"
+        },
+        {
+            "order": 105,
+            "chinese": "偷钱(ing形式)",
+            "english": "stealing the money",
+            "soundmark": "/stilɪŋ/ /ðə/ /'mʌni/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.673Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 106,
+            "chinese": "银行",
+            "english": "the bank",
+            "soundmark": "/ðə/ /bæŋk/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.678Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 107,
+            "chinese": "从银行",
+            "english": "from the bank",
+            "soundmark": "/frʌm/ /ðə/ /bæŋk/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.744Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 108,
+            "chinese": "从银行偷钱(ing形式)",
+            "english": "stealing the money from the bank",
+            "soundmark": "/stilɪŋ/ /ðə/ /'mʌni/ /frʌm/ /ðə/ /bæŋk/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.757Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 109,
+            "chinese": "否认",
+            "english": "to deny",
+            "soundmark": "/tə/ /dɪ'naɪ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.760Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 110,
+            "chinese": "他(过去)否认",
+            "english": "he denied",
+            "soundmark": "/hi/ /dɪ'naɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.808Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 111,
+            "chinese": "他(过去)否认从银行偷钱",
+            "english": "he denied stealing the money from the bank",
+            "soundmark": "/hi/ /dɪ'naɪd/ /stilɪŋ/ /ðə/ /'mʌni/ /frʌm/ /ðə/ /bæŋk/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.817Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 112,
+            "chinese": "接受",
+            "english": "to accept",
+            "soundmark": "/tə/ /ək'sɛpt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.896Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 113,
+            "chinese": "接受(过去分词)",
+            "english": "accepted",
+            "soundmark": "/ək'sɛptɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:32.952Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 114,
+            "chinese": "被接受了",
+            "english": "be accepted",
+            "soundmark": "/bi/ /ək'sɛptɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.104Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 115,
+            "chinese": "他被接受了",
+            "english": "he is accepted",
+            "soundmark": "/hi/ /ɪz/ /ək'sɛptɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.121Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 116,
+            "chinese": "他(过去)被接受了",
+            "english": "he was accepted",
+            "soundmark": "/hi/ /wəz/ /ək'sɛptɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.119Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 117,
+            "chinese": "大学",
+            "english": "the university",
+            "soundmark": "/ðə/ /ˌjunɪ'vɝsəti/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.187Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 118,
+            "chinese": "通过大学",
+            "english": "by the university",
+            "soundmark": "/baɪ/ /ðə/ /ˌjunɪ'vɝsəti/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.210Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 119,
+            "chinese": "他(过去)被大学录取了",
+            "english": "he was accepted by the university",
+            "soundmark": "/hi/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ˌjunɪ'vɝsəti/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.255Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 120,
+            "chinese": "那个",
+            "english": "that",
+            "soundmark": "/ðæt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.305Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 121,
+            "chinese": "那个他(过去)被大学录取了",
+            "english": "that he was accepted by the university",
+            "soundmark": "/ðæt/ /hi/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ˌjunɪ'vɝsəti/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.329Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 122,
+            "chinese": "他(过去)否认",
+            "english": "he denied",
+            "soundmark": "/hi/ /dɪ'naɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.398Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 123,
+            "chinese": "他(过去)否认(那个)他(过去)被大学录取了",
+            "english": "he denied that he was accepted by the university",
+            "soundmark": "/hi/ /dɪ'naɪd/ /ðæt/ /hi/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ˌjunɪ'vɝsəti/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.402Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 124,
+            "chinese": "他(过去)否认(那个)",
+            "english": "he denied that",
+            "soundmark": "/hi/ /dɪ'naɪd/ /ðæt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.555Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 125,
+            "chinese": "他们(过去)否认(那个)",
+            "english": "they denied that",
+            "soundmark": "/ðe/ /dɪ'naɪd/ /ðæt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.563Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 126,
+            "chinese": "邀请",
+            "english": "to invite",
+            "soundmark": "/tə/ /ɪn'vaɪt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.606Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 127,
+            "chinese": "邀请(过去分词)",
+            "english": "invited",
+            "soundmark": "/ɪn'vaɪtɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.644Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 128,
+            "chinese": "被邀请",
+            "english": "be invited",
+            "soundmark": "/bi/ /ɪn'vaɪtɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.658Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 129,
+            "chinese": "他们被邀请",
+            "english": "they are invited",
+            "soundmark": "/ðe/ /ɚ/ /ɪn'vaɪtɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.760Z",
+            "updatedAt": "2024-04-28T12:26:54.120Z"
+        },
+        {
+            "order": 130,
+            "chinese": "他们(过去)被邀请",
+            "english": "they were invited",
+            "soundmark": "/ðe/ /wɚ/ /ɪn'vaɪtɪd/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.811Z",
+            "updatedAt": "2024-04-28T12:26:54.121Z"
+        },
+        {
+            "order": 131,
+            "chinese": "总统",
+            "english": "the president",
+            "soundmark": "/ðə/ /'prɛzɪdənt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.836Z",
+            "updatedAt": "2024-04-28T12:26:54.121Z"
+        },
+        {
+            "order": 132,
+            "chinese": "通过总统",
+            "english": "by the president",
+            "soundmark": "/baɪ/ /ðə/ /'prɛzɪdənt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.842Z",
+            "updatedAt": "2024-04-28T12:26:54.121Z"
+        },
+        {
+            "order": 133,
+            "chinese": "他们(过去)被总统邀请",
+            "english": "they were invited by the president",
+            "soundmark": "/ðe/ /wɚ/ /ɪn'vaɪtɪd/ /baɪ/ /ðə/ /'prɛzɪdənt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.891Z",
+            "updatedAt": "2024-04-28T12:26:54.121Z"
+        },
+        {
+            "order": 134,
+            "chinese": "他们(过去)否认(那个)",
+            "english": "they denied that",
+            "soundmark": "/ðe/ /dɪ'naɪd/ /ðæt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:33.984Z",
+            "updatedAt": "2024-04-28T12:26:54.121Z"
+        },
+        {
+            "order": 135,
+            "chinese": "他们(过去)否认(那个)他们(过去)被总统邀请",
+            "english": "they denied that they were invited by the president",
+            "soundmark": "/ðe/ /dɪ'naɪd/ /ðæt/ /ðe/ /wɚ/ /ɪn'vaɪtɪd/ /baɪ/ /ðə/ /'prɛzɪdənt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:34.010Z",
+            "updatedAt": "2024-04-28T12:26:54.121Z"
+        },
+        {
+            "order": 136,
+            "chinese": "教",
+            "english": "to teach",
+            "soundmark": "/tə/ /titʃ/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:34.090Z",
+            "updatedAt": "2024-04-28T12:26:54.121Z"
+        },
+        {
+            "order": 137,
+            "chinese": "教(过去分词)",
+            "english": "taught",
+            "soundmark": "/tɔt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:34.099Z",
+            "updatedAt": "2024-04-28T12:26:54.121Z"
+        },
+        {
+            "order": 138,
+            "chinese": "被教",
+            "english": "be taught",
+            "soundmark": "/bi/ /tɔt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:34.100Z",
+            "updatedAt": "2024-04-28T12:26:54.121Z"
+        },
+        {
+            "order": 139,
+            "chinese": "他们被教",
+            "english": "they are taught",
+            "soundmark": "/ðe/ /ɚ/ /tɔt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:34.252Z",
+            "updatedAt": "2024-04-28T12:26:54.121Z"
+        },
+        {
+            "order": 140,
+            "chinese": "他们(过去)被教",
+            "english": "they were taught",
+            "soundmark": "/ðe/ /wɚ/ /tɔt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:34.301Z",
+            "updatedAt": "2024-04-28T12:26:54.121Z"
+        },
+        {
+            "order": 141,
+            "chinese": "教授",
+            "english": "professor",
+            "soundmark": "/prə'fɛsər/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:34.318Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 142,
+            "chinese": "有名的",
+            "english": "famous",
+            "soundmark": "/'feməs/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:34.349Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 143,
+            "chinese": "一个有名的教授",
+            "english": "a famous professor",
+            "soundmark": "/ə/ /'feməs/ /prə'fɛsər/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:34.377Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 144,
+            "chinese": "通过一个有名的教授",
+            "english": "by a famous professor",
+            "soundmark": "/baɪ/ /ə/ /'feməs/ /prə'fɛsər/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:34.419Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 145,
+            "chinese": "他们(过去)被教",
+            "english": "they were taught",
+            "soundmark": "/ðe/ /wɚ/ /tɔt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:34.461Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 146,
+            "chinese": "他们(过去)被一个有名的教授所教",
+            "english": "they were taught by a famous professor",
+            "soundmark": "/ðe/ /wɚ/ /tɔt/ /baɪ/ /ə/ /'feməs/ /prə'fɛsər/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:34.535Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 147,
+            "chinese": "他们(过去)否认(那个)",
+            "english": "they denied that",
+            "soundmark": "/ðe/ /dɪ'naɪd/ /ðæt/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:34.540Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 148,
+            "chinese": "他们(过去)否认(那个)他们(过去)被一个有名的教授所教",
+            "english": "they denied that they were taught by a famous professor",
+            "soundmark": "/ðe/ /dɪ'naɪd/ /ðæt/ /ðe/ /wɚ/ /tɔt/ /baɪ/ /ə/ /'feməs/ /prə'fɛsər/",
+            "courseId": "x3uzy791cu7esi6ic99sfd1q",
+            "createdAt": "2024-04-28T12:32:34.589Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        }
+    ]
+}

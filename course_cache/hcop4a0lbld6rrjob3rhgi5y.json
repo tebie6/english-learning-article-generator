@@ -1,0 +1,1731 @@
+{
+    "id": "hcop4a0lbld6rrjob3rhgi5y",
+    "title": "第十一课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1ca411k7rE",
+    "order": 11,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:50.366Z",
+    "updatedAt": "2024-05-23T14:05:58.450Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "告诉",
+            "english": "to tell",
+            "soundmark": "/tə/ /tɛl/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.272Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 2,
+            "chinese": "你",
+            "english": "you",
+            "soundmark": "/ju/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.379Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 3,
+            "chinese": "告诉你",
+            "english": "to tell you",
+            "soundmark": "/tə/ /tɛl/ /ju/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.392Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 4,
+            "chinese": "某些事情；某些东西",
+            "english": "something",
+            "soundmark": "/'sʌmθɪŋ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.391Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 5,
+            "chinese": "重要的",
+            "english": "important",
+            "soundmark": "/ɪm'pɔrtnt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.473Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 6,
+            "chinese": "重要的某些事情",
+            "english": "something important",
+            "soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.482Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 7,
+            "chinese": "告诉你重要的某些事情",
+            "english": "to tell you something important",
+            "soundmark": "/tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.480Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 8,
+            "chinese": "想要",
+            "english": "want",
+            "soundmark": "/wɑnt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.560Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 9,
+            "chinese": "我想要告诉你重要的某些事情",
+            "english": "I want to tell you something important",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.582Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 10,
+            "chinese": "教",
+            "english": "to teach",
+            "soundmark": "/tə/ /titʃ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.589Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 11,
+            "chinese": "某些事情；某些东西",
+            "english": "something",
+            "soundmark": "/'sʌmθɪŋ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.798Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 12,
+            "chinese": "重要的某些东西",
+            "english": "something important",
+            "soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.824Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 13,
+            "chinese": "我想要教你重要的某些东西",
+            "english": "I want to teach you something important",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /titʃ/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.898Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 14,
+            "chinese": "任何东西",
+            "english": "anything",
+            "soundmark": "/'ɛnɪθɪŋ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.908Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 15,
+            "chinese": "任何重要的东西",
+            "english": "anything important",
+            "soundmark": "/'ɛnɪθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.945Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 16,
+            "chinese": "我不想教你任何重要的东西",
+            "english": "I don't want to teach you anything important",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /titʃ/ /ju/ /'ɛnɪθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:28.978Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 17,
+            "chinese": "一堂课",
+            "english": "a lesson",
+            "soundmark": "/ə/ /'lɛsn/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:29.005Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 18,
+            "chinese": "我想要教你一堂课",
+            "english": "I want to teach you a lesson",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /titʃ/ /ju/ /ə/ /'lɛsn/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:29.023Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 19,
+            "chinese": "我必须给你上一课",
+            "english": "I have to teach you a lesson",
+            "soundmark": "/aɪ/ /hæv/ /tə/ /titʃ/ /ju/ /ə/ /'lɛsn/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:29.031Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 20,
+            "chinese": "我将会给你上一课",
+            "english": "I will teach you a lesson",
+            "soundmark": "/aɪ/ /wɪl/ /tə/ /titʃ/ /ju/ /ə/ /'lɛsn/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:29.048Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 21,
+            "chinese": "教他",
+            "english": "to teach him",
+            "soundmark": "/tə/ /titʃ/ /hɪm/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:29.403Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 22,
+            "chinese": "你必须教他一堂课",
+            "english": "you have to teach him a lesson",
+            "soundmark": "/ju/ /hæv/ /tə/ /titʃ/ /hɪm/ /ə/ /'lɛsn/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:29.414Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 23,
+            "chinese": "使用",
+            "english": "to use",
+            "soundmark": "/tə/ /juz/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:29.494Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 24,
+            "chinese": "字典",
+            "english": "the dictionary",
+            "soundmark": "/ðə/ /'dɪkʃənɛri/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:29.508Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 25,
+            "chinese": "使用字典",
+            "english": "to use the dictionary",
+            "soundmark": "/tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:29.569Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 26,
+            "chinese": "如何",
+            "english": "how",
+            "soundmark": "/haʊ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:29.742Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 27,
+            "chinese": "如何使用字典",
+            "english": "how to use the dictionary",
+            "soundmark": "/haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:29.782Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 28,
+            "chinese": "你必须教我",
+            "english": "you have to teach me",
+            "soundmark": "/ju/ /hæv/ /tə/ /titʃ/ /mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:29.796Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 29,
+            "chinese": "你必须教我如何使用字典",
+            "english": "you have to teach me how to use the dictionary",
+            "soundmark": "/ju/ /hæv/ /tə/ /titʃ/ /mi/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:29.852Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 30,
+            "chinese": "你不必教我如何使用字典",
+            "english": "you don't have to teach me how to use the dictionary",
+            "soundmark": "/ju/ /dont/ /hæv/ /tə/ /titʃ/ /mi/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:29.942Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 31,
+            "chinese": "网络",
+            "english": "the internet",
+            "soundmark": "/ði/ /ˈɪntərnɛt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:29.995Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 32,
+            "chinese": "使用网络",
+            "english": "to use the internet",
+            "soundmark": "/tə/ /juz/ /ði/ /ˈɪntərnɛt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.006Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 33,
+            "chinese": "如何使用网络",
+            "english": "how to use the internet",
+            "soundmark": "/haʊ/ /tə/ /juz/ /ði/ /ˈɪntərnɛt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.064Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 34,
+            "chinese": "你必须教我如何使用网络",
+            "english": "you have to teach me how to use the internet",
+            "soundmark": "/ju/ /hæv/ /tə/ /titʃ/ /mi/ /haʊ/ /tə/ /juz/ /ði/ /ˈɪntərnɛt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.186Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 35,
+            "chinese": "你不必教我如何使用网络",
+            "english": "you don't have to teach me how to use the internet",
+            "soundmark": "/ju/ /dont/ /hæv/ /tə/ /titʃ/ /mi/ /haʊ/ /tə/ /juz/ /ði/ /ˈɪntərnɛt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.211Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 36,
+            "chinese": "做饭",
+            "english": "to cook",
+            "soundmark": "/tə/ /kʊk/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.216Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 37,
+            "chinese": "如何做饭",
+            "english": "how to cook",
+            "soundmark": "/haʊ/ /tə/ /kʊk/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.284Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 38,
+            "chinese": "你需要教我如何做饭",
+            "english": "you need to teach me how to cook",
+            "soundmark": "/ju/ /nid/ /tə/ /titʃ/ /mi/ /haʊ/ /tə/ /kʊk/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.295Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 39,
+            "chinese": "不需要",
+            "english": "don't need",
+            "soundmark": "/dont/ /nid/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.300Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 40,
+            "chinese": "你不需要教我如何做饭",
+            "english": "you don't need to teach me how to cook",
+            "soundmark": "/ju/ /dont/ /nid/ /tə/ /titʃ/ /mi/ /haʊ/ /tə/ /kʊk/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.374Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 41,
+            "chinese": "我想要你",
+            "english": "I want you",
+            "soundmark": "/aɪ/ /wɑnt/ /ju/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.443Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 42,
+            "chinese": "教我如何做饭",
+            "english": "to teach me how to cook",
+            "soundmark": "/tə/ /titʃ/ /mi/ /haʊ/ /tə/ /kʊk/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.494Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 43,
+            "chinese": "我想要你教我如何做饭",
+            "english": "I want you to teach me how to cook",
+            "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /titʃ/ /mi/ /haʊ/ /tə/ /kʊk/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.555Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 44,
+            "chinese": "到达",
+            "english": "to get",
+            "soundmark": "/tə/ /ɡɛt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.628Z",
+            "updatedAt": "2024-04-28T12:26:53.891Z"
+        },
+        {
+            "order": 45,
+            "chinese": "那里",
+            "english": "there",
+            "soundmark": "/ðɛr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.796Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 46,
+            "chinese": "到达那里",
+            "english": "to get there",
+            "soundmark": "/tə/ /ɡɛt/ /ðɛr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.811Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 47,
+            "chinese": "如何到达那里",
+            "english": "how to get there",
+            "soundmark": "/haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.895Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 48,
+            "chinese": "我想要你",
+            "english": "I want you",
+            "soundmark": "/aɪ/ /wɑnt/ /ju/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.903Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 49,
+            "chinese": "教我",
+            "english": "to teach me",
+            "soundmark": "/tə/ /titʃ/ /mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:30.994Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 50,
+            "chinese": "我想要你教我如何到达那里",
+            "english": "I want you to teach me how to get there",
+            "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /titʃ/ /mi/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.029Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 51,
+            "chinese": "展示",
+            "english": "to show",
+            "soundmark": "/tə/ /ʃo/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.046Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 52,
+            "chinese": "展示给你",
+            "english": "to show you",
+            "soundmark": "/tə/ /ʃo/ /ju/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.053Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 53,
+            "chinese": "某些东西",
+            "english": "something",
+            "soundmark": "/'sʌmθɪŋ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.067Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 54,
+            "chinese": "展示给你某些东西",
+            "english": "to show you something",
+            "soundmark": "/tə/ /ʃo/ /ju/ /'sʌmθɪŋ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.105Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 55,
+            "chinese": "我想要展示给你某些东西",
+            "english": "I want to show you something",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /ʃo/ /ju/ /'sʌmθɪŋ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.248Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 56,
+            "chinese": "重要的",
+            "english": "important",
+            "soundmark": "/ɪm'pɔrtnt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.308Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 57,
+            "chinese": "我想要展示给你重要的某些东西",
+            "english": "I want to show you something important",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /ʃo/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.434Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 58,
+            "chinese": "任何东西",
+            "english": "anything",
+            "soundmark": "/'ɛnɪθɪŋ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.424Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 59,
+            "chinese": "我不想展示给你任何东西",
+            "english": "I don't want to show you anything",
+            "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /ʃo/ /ju/ /'ɛnɪθɪŋ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.493Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 60,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.500Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 61,
+            "chinese": "展示给我",
+            "english": "to show me",
+            "soundmark": "/tə/ /ʃo/ /mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.595Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 62,
+            "chinese": "你必须展示给我",
+            "english": "you have to show me",
+            "soundmark": "/ju/ /hæv/ /tə/ /ʃo/ /mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.601Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 63,
+            "chinese": "如何",
+            "english": "how",
+            "soundmark": "/haʊ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.604Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 64,
+            "chinese": "使用字典",
+            "english": "to use the dictionary",
+            "soundmark": "/tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.611Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 65,
+            "chinese": "如何使用字典",
+            "english": "how to use the dictionary",
+            "soundmark": "/haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.712Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 66,
+            "chinese": "你必须展示给我如何使用字典",
+            "english": "you have to show me how to use the dictionary",
+            "soundmark": "/ju/ /hæv/ /tə/ /ʃo/ /mi/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.853Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 67,
+            "chinese": "使用网络",
+            "english": "to use the internet",
+            "soundmark": "/tə/ /juz/ /ði/ /ˈɪntərnɛt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.867Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 68,
+            "chinese": "如何使用网络",
+            "english": "how to use the internet",
+            "soundmark": "/haʊ/ /tə/ /juz/ /ði/ /ˈɪntərnɛt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.873Z",
+            "updatedAt": "2024-04-28T12:26:53.892Z"
+        },
+        {
+            "order": 69,
+            "chinese": "你必须展示给我如何使用网络",
+            "english": "you have to show me how to use the internet",
+            "soundmark": "/ju/ /hæv/ /tə/ /ʃo/ /mi/ /haʊ/ /tə/ /juz/ /ði/ /ˈɪntərnɛt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.944Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 70,
+            "chinese": "做这件事",
+            "english": "to do it",
+            "soundmark": "/tə/ /du/ /ɪt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:31.993Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 71,
+            "chinese": "如何做这件事",
+            "english": "how to do it",
+            "soundmark": "/haʊ/ /tə/ /du/ /ɪt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.056Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 72,
+            "chinese": "展示给我们",
+            "english": "to show us",
+            "soundmark": "/tə/ /ʃo/ /ʌs/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.097Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 73,
+            "chinese": "你需要展示给我们如何做这件事",
+            "english": "you need to show us how to do it",
+            "soundmark": "/ju/ /nid/ /tə/ /ʃo/ /ʌs/ /haʊ/ /tə/ /du/ /ɪt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.096Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 74,
+            "chinese": "你不需要展示给我们如何做这件事",
+            "english": "you don't need to show us how to do it",
+            "soundmark": "/ju/ /dont/ /nid/ /tə/ /ʃo/ /ʌs/ /haʊ/ /tə/ /du/ /ɪt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.118Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 75,
+            "chinese": "房子",
+            "english": "house",
+            "soundmark": "/haʊs/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.165Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 76,
+            "chinese": "新的",
+            "english": "new",
+            "soundmark": "/nu/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.306Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 77,
+            "chinese": "新房子",
+            "english": "new house",
+            "soundmark": "/nu/ /haʊs/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.312Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 78,
+            "chinese": "你的",
+            "english": "your",
+            "soundmark": "/jʊr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.363Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 79,
+            "chinese": "你的新房子",
+            "english": "your new house",
+            "soundmark": "/jʊr/ /nu/ /haʊs/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.395Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 80,
+            "chinese": "你必须展示给我",
+            "english": "you have to show me",
+            "soundmark": "/ju/ /hæv/ /tə/ /ʃo/ /mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.513Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 81,
+            "chinese": "你必须展示给我你的新房子",
+            "english": "you have to show me your new house",
+            "soundmark": "/ju/ /hæv/ /tə/ /ʃo/ /mi/ /jʊr/ /nu/ /haʊs/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.512Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 82,
+            "chinese": "你不必展示给我你的新房子",
+            "english": "you don't have to show me your new house",
+            "soundmark": "/ju/ /dont/ /hæv/ /tə/ /ʃo/ /mi/ /jʊr/ /nu/ /haʊs/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.584Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 83,
+            "chinese": "手（复数）",
+            "english": "hands",
+            "soundmark": "/hændz/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.591Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 84,
+            "chinese": "你的手",
+            "english": "your hands",
+            "soundmark": "/jʊr/ /hændz/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.597Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 85,
+            "chinese": "展示给我你的手",
+            "english": "to show me your hands",
+            "soundmark": "/tə/ /ʃo/ /mi/ /jʊr/ /hændz/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.629Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 86,
+            "chinese": "你必须展示给我你的手",
+            "english": "you have to show me your hands",
+            "soundmark": "/ju/ /hæv/ /tə/ /ʃo/ /mi/ /jʊr/ /hændz/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.747Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 87,
+            "chinese": "让",
+            "english": "to let",
+            "soundmark": "/tə/ /lɛt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.765Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 88,
+            "chinese": "你",
+            "english": "you",
+            "soundmark": "/ju/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.846Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 89,
+            "chinese": "让你",
+            "english": "to let you",
+            "soundmark": "/tə/ /lɛt/ /ju/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.866Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 90,
+            "chinese": "知道",
+            "english": "to know",
+            "soundmark": "/tə/ /no/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:32.959Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 91,
+            "chinese": "让你知道",
+            "english": "to let you know",
+            "soundmark": "/tə/ /lɛt/ /ju/ /no/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.007Z",
+            "updatedAt": "2024-04-28T12:26:53.893Z"
+        },
+        {
+            "order": 92,
+            "chinese": "我想要让你知道",
+            "english": "I want to let you know",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /no/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.046Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 93,
+            "chinese": "事实",
+            "english": "the truth",
+            "soundmark": "/ðə/ /trʊθ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.076Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 94,
+            "chinese": "我想要让你知道事实",
+            "english": "I want to let you know the truth",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.089Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 95,
+            "chinese": "关于",
+            "english": "about",
+            "soundmark": "/ə'baʊt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.142Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 96,
+            "chinese": "关于我",
+            "english": "about me",
+            "soundmark": "/ə'baʊt/ /mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.194Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 97,
+            "chinese": "我想要让你知道关于我的事实",
+            "english": "I want to let you know the truth about me",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/ /ə'baʊt/ /mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.231Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 98,
+            "chinese": "我将会",
+            "english": "I will",
+            "soundmark": "/aɪ/ /wɪl/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.293Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 99,
+            "chinese": "让你知道",
+            "english": "to let you know",
+            "soundmark": "/tə/ /lɛt/ /ju/ /no/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.375Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 100,
+            "chinese": "我将会让你知道",
+            "english": "I will let you know",
+            "soundmark": "/aɪ/ /wɪl/ /lɛt/ /ju/ /no/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.423Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 101,
+            "chinese": "我将会让你知道关于我的事实",
+            "english": "I will let you know the truth about me",
+            "soundmark": "/aɪ/ /wɪl/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/ /ə'baʊt/ /mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.509Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 102,
+            "chinese": "下一个",
+            "english": "next",
+            "soundmark": "/nɛkst/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.574Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 103,
+            "chinese": "周",
+            "english": "week",
+            "soundmark": "/wik/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.596Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 104,
+            "chinese": "下周",
+            "english": "next week",
+            "soundmark": "/nɛkst/ /wik/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.637Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 105,
+            "chinese": "我下周将会让你知道关于我的事实",
+            "english": "I will let you know the truth about me next week",
+            "soundmark": "/aɪ/ /wɪl/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/ /ə'baʊt/ /mi/ /nɛkst/ /wik/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.655Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 106,
+            "chinese": "去",
+            "english": "to go",
+            "soundmark": "/tə/ /ɡo/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.734Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 107,
+            "chinese": "外面",
+            "english": "out",
+            "soundmark": "/aʊt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.750Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 108,
+            "chinese": "去外面",
+            "english": "to go out",
+            "soundmark": "/tə/ /ɡo/ /aʊt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.876Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 109,
+            "chinese": "我想要去外面",
+            "english": "I want to go out",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /aʊt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.900Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 110,
+            "chinese": "让你",
+            "english": "to let you",
+            "soundmark": "/tə/ /lɛt/ /ju/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:33.929Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 111,
+            "chinese": "让你去外面",
+            "english": "to let you go out",
+            "soundmark": "/tə/ /lɛt/ /ju/ /ɡo/ /aʊt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.008Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 112,
+            "chinese": "我想要让你去外面",
+            "english": "I want to let you go out",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.083Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 113,
+            "chinese": "我不想让你去外面",
+            "english": "I don't want to let you go out",
+            "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.082Z",
+            "updatedAt": "2024-04-28T12:26:53.894Z"
+        },
+        {
+            "order": 114,
+            "chinese": "在晚上",
+            "english": "at night",
+            "soundmark": "/ət/ /naɪt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.099Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 115,
+            "chinese": "我不想让你在晚上去外面",
+            "english": "I don't want to let you go out at night",
+            "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/ /ət/ /naɪt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.176Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 116,
+            "chinese": "因为",
+            "english": "because",
+            "soundmark": "/bɪ'kɔz/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.175Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 117,
+            "chinese": "危险的",
+            "english": "dangerous",
+            "soundmark": "/'dendʒərəs/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.208Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 118,
+            "chinese": "非常",
+            "english": "very",
+            "soundmark": "/ˈvɛri/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.324Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 119,
+            "chinese": "这件事是非常危险的",
+            "english": "it is very dangerous",
+            "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.378Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 120,
+            "chinese": "因为这件事是非常危险的",
+            "english": "because it is very dangerous",
+            "soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.394Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 121,
+            "chinese": "我不想让你在晚上去外面因为这件事是非常危险的",
+            "english": "I don't want to let you go out at night because it is very dangerous",
+            "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/ /ət/ /naɪt/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.507Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 122,
+            "chinese": "待在",
+            "english": "to stay",
+            "soundmark": "/tə/ /ste/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.529Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 123,
+            "chinese": "这里",
+            "english": "here",
+            "soundmark": "/hɪr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.575Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 124,
+            "chinese": "待在这里",
+            "english": "to stay here",
+            "soundmark": "/tə/ /ste/ /hɪr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.597Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 125,
+            "chinese": "需要",
+            "english": "need",
+            "soundmark": "/nid/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.609Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 126,
+            "chinese": "我需要你待在这里",
+            "english": "I need you to stay here",
+            "soundmark": "/aɪ/ /nid/ /tə/ /ste/ /hɪr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.669Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 127,
+            "chinese": "而且",
+            "english": "and",
+            "soundmark": "/ənd/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.711Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 128,
+            "chinese": "而且我需要你待在这里",
+            "english": "and I need you to stay here",
+            "soundmark": "/ənd/ /aɪ/ /nid/ /tə/ /ste/ /hɪr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.775Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 129,
+            "chinese": "我不想让你在晚上去外面因为这件事是非常危险的而且我需要你待在这里",
+            "english": "I don't want to let you go out at night because it is very dangerous and I need you to stay here",
+            "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/ /ət/ /naɪt/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/ /ənd/ /aɪ/ /nid/ /tə/ /ste/ /hɪr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.819Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 130,
+            "chinese": "父亲",
+            "english": "father",
+            "soundmark": "/'fɑðɚ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.910Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 131,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:34.972Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 132,
+            "chinese": "我的父亲",
+            "english": "my father",
+            "soundmark": "/maɪ/ /'fɑðɚ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.009Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 133,
+            "chinese": "打电话给",
+            "english": "to call",
+            "soundmark": "/tə/ /kɔl/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.060Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 134,
+            "chinese": "打电话给我的父亲",
+            "english": "to call my father",
+            "soundmark": "/tə/ /kɔl/ /maɪ/ /'fɑðɚ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.074Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 135,
+            "chinese": "让我",
+            "english": "to let me",
+            "soundmark": "/tə/ /lɛt/ /mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.090Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 136,
+            "chinese": "让我打电话给我的父亲",
+            "english": "to let me call my father",
+            "soundmark": "/tə/ /lɛt/ /mi/ /kɔl/ /maɪ/ /'fɑðɚ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.230Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 137,
+            "chinese": "记得",
+            "english": "to remember",
+            "soundmark": "/tə/ /rɪ'mɛmbɚ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.229Z",
+            "updatedAt": "2024-04-28T12:26:53.895Z"
+        },
+        {
+            "order": 138,
+            "chinese": "你必须记得",
+            "english": "you have to remember",
+            "soundmark": "/ju/ /hæv/ /tə/ /rɪ'mɛmbɚ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.257Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 139,
+            "chinese": "你必须记得让我打电话给我的父亲",
+            "english": "you have to remember to let me call my father",
+            "soundmark": "/ju/ /hæv/ /tə/ /rɪ'mɛmbɚ/ /tə/ /lɛt/ /mi/ /kɔl/ /maɪ/ /'fɑðɚ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.426Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 140,
+            "chinese": "到达",
+            "english": "to get",
+            "soundmark": "/tə/ /ɡɛt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.446Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 141,
+            "chinese": "那里",
+            "english": "there",
+            "soundmark": "/ðɛr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.450Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 142,
+            "chinese": "到达那里",
+            "english": "to get there",
+            "soundmark": "/tə/ /ɡɛt/ /ðɛr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.491Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 143,
+            "chinese": "我们到达那里",
+            "english": "we get there",
+            "soundmark": "/wi/ /ɡɛt/ /ðɛr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.509Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 144,
+            "chinese": "当......时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.577Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 145,
+            "chinese": "当我们到达那里的时候",
+            "english": "when we get there",
+            "soundmark": "/wɛn/ /wi/ /ɡɛt/ /ðɛr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.589Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 146,
+            "chinese": "你必须记得当我们到达那里的时候让我打电话给我的父亲",
+            "english": "you have to remember to let me call my father when we get there",
+            "soundmark": "/ju/ /hæv/ /tə/ /rɪ'mɛmbɚ/ /tə/ /lɛt/ /mi/ /kɔl/ /maɪ/ /'fɑðɚ/ /wɛn/ /wi/ /ɡɛt/ /ðɛr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.694Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 147,
+            "chinese": "让",
+            "english": "to let",
+            "soundmark": "/tə/ /lɛt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.712Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 148,
+            "chinese": "我们",
+            "english": "us",
+            "soundmark": "/ʌs/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.768Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 149,
+            "chinese": "让我们",
+            "english": "to let us",
+            "soundmark": "/tə/ /lɛt/ /ʌs/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.888Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 150,
+            "chinese": "去",
+            "english": "to go",
+            "soundmark": "/tə/ /ɡo/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.901Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 151,
+            "chinese": "让我们去",
+            "english": "to let us go",
+            "soundmark": "/tə/ /lɛt/ /ʌs/ /ɡo/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.931Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 152,
+            "chinese": "你必须让我们去",
+            "english": "you have to let us go",
+            "soundmark": "/ju/ /hæv/ /tə/ /lɛt/ /ʌs/ /ɡo/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:35.957Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 153,
+            "chinese": "让我们去",
+            "english": "let us go",
+            "soundmark": "/lɛt/ /ʌs/ /ɡo/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.017Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 154,
+            "chinese": "里面；进去",
+            "english": "in",
+            "soundmark": "/ɪn/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.076Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 155,
+            "chinese": "让我们进去",
+            "english": "let us in",
+            "soundmark": "/lɛt/ /ʌs/ /ɪn/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.091Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 156,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.159Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 157,
+            "chinese": "让我进去",
+            "english": "let me in",
+            "soundmark": "/lɛt/ /mi/ /ɪn/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.163Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 158,
+            "chinese": "门",
+            "english": "the door",
+            "soundmark": "/ðə/ /dɔr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.290Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 159,
+            "chinese": "开门",
+            "english": "open the door",
+            "soundmark": "/'opən/ /ðə/ /dɔr/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.337Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 160,
+            "chinese": "开门  让我进去",
+            "english": "open the door let me in",
+            "soundmark": "/'opən/ /ðə/ /dɔr/ /lɛt/ /mi/ /ɪn/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.353Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 161,
+            "chinese": "外面；出去",
+            "english": "out",
+            "soundmark": "/aʊt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.375Z",
+            "updatedAt": "2024-04-28T12:26:53.896Z"
+        },
+        {
+            "order": 162,
+            "chinese": "让我出去",
+            "english": "let me out",
+            "soundmark": "/lɛt/ /mi/ /aʊt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.453Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 163,
+            "chinese": "开门  让我出去",
+            "english": "open the door let me out",
+            "soundmark": "/'opən/ /ðə/ /dɔr/ /lɛt/ /mi/ /aʊt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.512Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 164,
+            "chinese": "告诉你",
+            "english": "to tell you",
+            "soundmark": "/tə/ /tɛl/ /ju/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.571Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 165,
+            "chinese": "让我",
+            "english": "let me",
+            "soundmark": "/lɛt/ /mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.594Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 166,
+            "chinese": "让我告诉你",
+            "english": "let me tell you",
+            "soundmark": "/lɛt/ /mi/ /tɛl/ /ju/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.600Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 167,
+            "chinese": "某些事情；某些东西",
+            "english": "something",
+            "soundmark": "/'sʌmθɪŋ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.616Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 168,
+            "chinese": "让我告诉你某些事情",
+            "english": "let me tell you something",
+            "soundmark": "/lɛt/ /mi/ /tɛl/ /ju/ /'sʌmθɪŋ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.777Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 169,
+            "chinese": "关于",
+            "english": "about",
+            "soundmark": "/ə'baʊt/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.800Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 170,
+            "chinese": "你的工作",
+            "english": "your work",
+            "soundmark": "/jʊr/ /wɝk/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.819Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 171,
+            "chinese": "关于你的工作",
+            "english": "about your work",
+            "soundmark": "/ə'baʊt/ /jʊr/ /wɝk/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.821Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 172,
+            "chinese": "让我告诉你关于你的工作的某些事情",
+            "english": "let me tell you something about your work",
+            "soundmark": "/lɛt/ /mi/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ə'baʊt/ /jʊr/ /wɝk/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:36.952Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 173,
+            "chinese": "一个问题",
+            "english": "a question",
+            "soundmark": "/ə/ /'kwɛstʃən/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.014Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 174,
+            "chinese": "问",
+            "english": "to ask",
+            "soundmark": "/tə/ /æsk/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.051Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 175,
+            "chinese": "问你一个问题",
+            "english": "to ask you a question",
+            "soundmark": "/tə/ /æsk/ /ju/ /ə/ /'kwɛstʃən/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.066Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 176,
+            "chinese": "让我",
+            "english": "let me",
+            "soundmark": "/lɛt/ /mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.072Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 177,
+            "chinese": "让我问你一个问题",
+            "english": "let me ask you a question",
+            "soundmark": "/lɛt/ /mi/ /æsk/ /ju/ /ə/ /'kwɛstʃən/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.097Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 178,
+            "chinese": "事实",
+            "english": "the truth",
+            "soundmark": "/ðə/ /trʊθ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.231Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 179,
+            "chinese": "告诉你事实",
+            "english": "to tell you the truth",
+            "soundmark": "/tə/ /tɛl/ /ju/ /ðə/ /trʊθ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.254Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 180,
+            "chinese": "让我",
+            "english": "let me",
+            "soundmark": "/lɛt/ /mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.288Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 181,
+            "chinese": "让我告诉你事实",
+            "english": "let me tell you the truth",
+            "soundmark": "/lɛt/ /mi/ /tɛl/ /ju/ /ðə/ /trʊθ/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.309Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 182,
+            "chinese": "一个故事",
+            "english": "a story",
+            "soundmark": "/ə/ /'stɔri/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.464Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 183,
+            "chinese": "让我告诉你一个故事",
+            "english": "let me tell you a story",
+            "soundmark": "/lɛt/ /mi/ /tɛl/ /ju/ /ə/ /'stɔri/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.509Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 184,
+            "chinese": "解释",
+            "english": "to explain",
+            "soundmark": "/tə/ /ɪk'splen/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.510Z",
+            "updatedAt": "2024-04-28T12:26:53.897Z"
+        },
+        {
+            "order": 185,
+            "chinese": "让我",
+            "english": "let me",
+            "soundmark": "/lɛt/ /mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.525Z",
+            "updatedAt": "2024-04-28T12:26:53.898Z"
+        },
+        {
+            "order": 186,
+            "chinese": "让我解释",
+            "english": "let me explain",
+            "soundmark": "/lɛt/ /mi/ /ɪk'splen/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.566Z",
+            "updatedAt": "2024-04-28T12:26:53.898Z"
+        },
+        {
+            "order": 187,
+            "chinese": "你的手",
+            "english": "your hands",
+            "soundmark": "/jʊr/ /hændz/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.590Z",
+            "updatedAt": "2024-04-28T12:26:53.898Z"
+        },
+        {
+            "order": 188,
+            "chinese": "看到",
+            "english": "to see",
+            "soundmark": "/tə/ /si/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.679Z",
+            "updatedAt": "2024-04-28T12:26:53.898Z"
+        },
+        {
+            "order": 189,
+            "chinese": "看到你的手",
+            "english": "to see your hands",
+            "soundmark": "/tə/ /si/ /jʊr/ /hændz/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.699Z",
+            "updatedAt": "2024-04-28T12:26:53.898Z"
+        },
+        {
+            "order": 190,
+            "chinese": "让我",
+            "english": "let me",
+            "soundmark": "/lɛt/ /mi/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.733Z",
+            "updatedAt": "2024-04-28T12:26:53.898Z"
+        },
+        {
+            "order": 191,
+            "chinese": "让我看到你的手",
+            "english": "let me see your hands",
+            "soundmark": "/lɛt/ /mi/ /si/ /jʊr/ /hændz/",
+            "courseId": "hcop4a0lbld6rrjob3rhgi5y",
+            "createdAt": "2024-04-28T12:28:37.832Z",
+            "updatedAt": "2024-04-28T12:26:53.898Z"
+        }
+    ]
+}

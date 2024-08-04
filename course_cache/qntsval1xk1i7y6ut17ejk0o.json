@@ -1,0 +1,1362 @@
+{
+    "id": "qntsval1xk1i7y6ut17ejk0o",
+    "title": "第二十八课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1uK411f7TW",
+    "order": 28,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:52.206Z",
+    "updatedAt": "2024-05-23T14:06:00.171Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "手",
+            "english": "hand",
+            "soundmark": "/hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:44.570Z",
+            "updatedAt": "2024-04-28T12:26:54.017Z"
+        },
+        {
+            "order": 2,
+            "chinese": "递给",
+            "english": "to hand",
+            "soundmark": "/tə/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:44.615Z",
+            "updatedAt": "2024-04-28T12:26:54.017Z"
+        },
+        {
+            "order": 3,
+            "chinese": "握；牵",
+            "english": "to hold",
+            "soundmark": "/tə/ /hold/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:44.665Z",
+            "updatedAt": "2024-04-28T12:26:54.017Z"
+        },
+        {
+            "order": 4,
+            "chinese": "手",
+            "english": "hand",
+            "soundmark": "/hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:44.684Z",
+            "updatedAt": "2024-04-28T12:26:54.017Z"
+        },
+        {
+            "order": 5,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:44.751Z",
+            "updatedAt": "2024-04-28T12:26:54.017Z"
+        },
+        {
+            "order": 6,
+            "chinese": "我的手",
+            "english": "my hand",
+            "soundmark": "/maɪ/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:44.752Z",
+            "updatedAt": "2024-04-28T12:26:54.017Z"
+        },
+        {
+            "order": 7,
+            "chinese": "牵我的手",
+            "english": "to hold my hand",
+            "soundmark": "/tə/ /hold/ /maɪ/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:44.767Z",
+            "updatedAt": "2024-04-28T12:26:54.017Z"
+        },
+        {
+            "order": 8,
+            "chinese": "想要",
+            "english": "want",
+            "soundmark": "/wɑnt/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:44.816Z",
+            "updatedAt": "2024-04-28T12:26:54.017Z"
+        },
+        {
+            "order": 9,
+            "chinese": "我想要你",
+            "english": "I want you",
+            "soundmark": "/aɪ/ /wɑnt/ /ju/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:44.965Z",
+            "updatedAt": "2024-04-28T12:26:54.017Z"
+        },
+        {
+            "order": 10,
+            "chinese": "牵我的手",
+            "english": "to hold my hand",
+            "soundmark": "/tə/ /hold/ /maɪ/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.015Z",
+            "updatedAt": "2024-04-28T12:26:54.017Z"
+        },
+        {
+            "order": 11,
+            "chinese": "我想要你牵我的手",
+            "english": "I want you to hold my hand",
+            "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hold/ /maɪ/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.016Z",
+            "updatedAt": "2024-04-28T12:26:54.017Z"
+        },
+        {
+            "order": 12,
+            "chinese": "握；牵",
+            "english": "to hold",
+            "soundmark": "/tə/ /hold/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.114Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 13,
+            "chinese": "牵（ing形式）",
+            "english": "holding",
+            "soundmark": "/'holdɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.187Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 14,
+            "chinese": "是；赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.191Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 15,
+            "chinese": "正在牵着",
+            "english": "be holding",
+            "soundmark": "/bi/ /'holdɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.194Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 16,
+            "chinese": "我",
+            "english": "I",
+            "soundmark": "/aɪ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.219Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 17,
+            "chinese": "我（现在）正在牵着",
+            "english": "I am holding",
+            "soundmark": "/aɪ/ /æm/ /'holdɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.256Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 18,
+            "chinese": "你的",
+            "english": "your",
+            "soundmark": "/jʊr/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.267Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 19,
+            "chinese": "你的手",
+            "english": "your hand",
+            "soundmark": "/jʊr/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.397Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 20,
+            "chinese": "我（现在）正在牵着你的手",
+            "english": "I am holding your hand",
+            "soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /jʊr/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.459Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 21,
+            "chinese": "刀",
+            "english": "knife",
+            "soundmark": "/naɪf/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.510Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 22,
+            "chinese": "我（现在）正在握着",
+            "english": "I am holding",
+            "soundmark": "/aɪ/ /æm/ /'holdɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.643Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 23,
+            "chinese": "我（现在）正在握着一把刀",
+            "english": "I am holding a knife",
+            "soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.668Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 24,
+            "chinese": "我的手",
+            "english": "my hand",
+            "soundmark": "/maɪ/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.694Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 25,
+            "chinese": "在......里",
+            "english": "in",
+            "soundmark": "/ɪn/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.702Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 26,
+            "chinese": "在我的手里",
+            "english": "in my hand",
+            "soundmark": "/ɪn/ /maɪ/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.699Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 27,
+            "chinese": "我（现在）正在在我的手里握着一把刀",
+            "english": "I am holding a knife in my hand",
+            "soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.786Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 28,
+            "chinese": "右",
+            "english": "right",
+            "soundmark": "/raɪt/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.833Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 29,
+            "chinese": "右手",
+            "english": "right hand",
+            "soundmark": "/raɪt/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.899Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 30,
+            "chinese": "在我的右手里",
+            "english": "in my right hand",
+            "soundmark": "/ɪn/ /maɪ/ /raɪt/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:45.918Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 31,
+            "chinese": "我（现在）正在握着一把刀",
+            "english": "I am holding a knife",
+            "soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.031Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 32,
+            "chinese": "我（现在）正在在我的右手里握着一把刀",
+            "english": "I am holding a knife in my right hand",
+            "soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /raɪt/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.105Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 33,
+            "chinese": "叉子",
+            "english": "fork",
+            "soundmark": "/fɔrk/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.122Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 34,
+            "chinese": "我（现在）正在握着",
+            "english": "I am holding",
+            "soundmark": "/aɪ/ /æm/ /'holdɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.153Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 35,
+            "chinese": "我（现在）正在握着一把叉子",
+            "english": "I am holding a fork",
+            "soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.200Z",
+            "updatedAt": "2024-04-28T12:26:54.018Z"
+        },
+        {
+            "order": 36,
+            "chinese": "在我的手里",
+            "english": "in my hand",
+            "soundmark": "/ɪn/ /maɪ/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.216Z",
+            "updatedAt": "2024-04-28T12:26:54.019Z"
+        },
+        {
+            "order": 37,
+            "chinese": "左",
+            "english": "left",
+            "soundmark": "/lɛft/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.271Z",
+            "updatedAt": "2024-04-28T12:26:54.019Z"
+        },
+        {
+            "order": 38,
+            "chinese": "在我的左手里",
+            "english": "in my left hand",
+            "soundmark": "/ɪn/ /maɪ/ /lɛft/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.317Z",
+            "updatedAt": "2024-04-28T12:26:54.019Z"
+        },
+        {
+            "order": 39,
+            "chinese": "我（现在）正在握着一把叉子",
+            "english": "I am holding a fork",
+            "soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.357Z",
+            "updatedAt": "2024-04-28T12:26:54.019Z"
+        },
+        {
+            "order": 40,
+            "chinese": "我（现在）正在在我的左手里握着一把叉子",
+            "english": "I am holding a fork in my left hand",
+            "soundmark": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/ /ɪn/ /maɪ/ /lɛft/ /hænd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.395Z",
+            "updatedAt": "2024-04-28T12:26:54.019Z"
+        },
+        {
+            "order": 41,
+            "chinese": "人",
+            "english": "people",
+            "soundmark": "/'pipl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.526Z",
+            "updatedAt": "2024-04-28T12:26:54.019Z"
+        },
+        {
+            "order": 42,
+            "chinese": "四个",
+            "english": "four",
+            "soundmark": "/fɔr/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.558Z",
+            "updatedAt": "2024-04-28T12:26:54.019Z"
+        },
+        {
+            "order": 43,
+            "chinese": "四个人",
+            "english": "four people",
+            "soundmark": "/fɔr/ /'pipl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.570Z",
+            "updatedAt": "2024-04-28T12:26:54.019Z"
+        },
+        {
+            "order": 44,
+            "chinese": "汽车",
+            "english": "car",
+            "soundmark": "/kɑr/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.598Z",
+            "updatedAt": "2024-04-28T12:26:54.019Z"
+        },
+        {
+            "order": 45,
+            "chinese": "这辆车",
+            "english": "this car",
+            "soundmark": "/ðɪs/ /kɑr/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.701Z",
+            "updatedAt": "2024-04-28T12:26:54.019Z"
+        },
+        {
+            "order": 46,
+            "chinese": "握；容纳",
+            "english": "to hold",
+            "soundmark": "/tə/ /hold/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.704Z",
+            "updatedAt": "2024-04-28T12:26:54.019Z"
+        },
+        {
+            "order": 47,
+            "chinese": "容纳四个人",
+            "english": "to hold four people",
+            "soundmark": "/tə/ /hold/ /fɔr/ /'pipl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.806Z",
+            "updatedAt": "2024-04-28T12:26:54.019Z"
+        },
+        {
+            "order": 48,
+            "chinese": "可以",
+            "english": "can",
+            "soundmark": "/kæn/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.832Z",
+            "updatedAt": "2024-04-28T12:26:54.019Z"
+        },
+        {
+            "order": 49,
+            "chinese": "这辆汽车可以容纳四个人",
+            "english": "this car can hold four people",
+            "soundmark": "/ðɪs/ /kɑr/ /kæn/ /hold/ /fɔr/ /'pipl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:46.909Z",
+            "updatedAt": "2024-04-28T12:26:54.019Z"
+        },
+        {
+            "order": 50,
+            "chinese": "不可以",
+            "english": "can't",
+            "soundmark": "/kænt/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.012Z",
+            "updatedAt": "2024-04-28T12:26:54.019Z"
+        },
+        {
+            "order": 51,
+            "chinese": "这辆汽车不可以容纳四个人",
+            "english": "this car can't hold four people",
+            "soundmark": "/ðɪs/ /kɑr/ /kænt/ /hold/ /fɔr/ /'pipl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.018Z",
+            "updatedAt": "2024-04-28T12:26:54.020Z"
+        },
+        {
+            "order": 52,
+            "chinese": "人",
+            "english": "people",
+            "soundmark": "/'pipl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.016Z",
+            "updatedAt": "2024-04-28T12:26:54.020Z"
+        },
+        {
+            "order": 53,
+            "chinese": "十个",
+            "english": "ten",
+            "soundmark": "/tɛn/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.020Z",
+            "updatedAt": "2024-04-28T12:26:54.020Z"
+        },
+        {
+            "order": 54,
+            "chinese": "十个人",
+            "english": "ten people",
+            "soundmark": "/tɛn/ /'pipl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.040Z",
+            "updatedAt": "2024-04-28T12:26:54.020Z"
+        },
+        {
+            "order": 55,
+            "chinese": "握；容纳",
+            "english": "to hold",
+            "soundmark": "/tə/ /hold/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.138Z",
+            "updatedAt": "2024-04-28T12:26:54.020Z"
+        },
+        {
+            "order": 56,
+            "chinese": "容纳十个人",
+            "english": "to hold ten people",
+            "soundmark": "/tə/ /hold/ /tɛn/ /'pipl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.202Z",
+            "updatedAt": "2024-04-28T12:26:54.020Z"
+        },
+        {
+            "order": 57,
+            "chinese": "房间",
+            "english": "room",
+            "soundmark": "/rum/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.244Z",
+            "updatedAt": "2024-04-28T12:26:54.020Z"
+        },
+        {
+            "order": 58,
+            "chinese": "这个房间",
+            "english": "this room",
+            "soundmark": "/ðɪs/ /rum/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.350Z",
+            "updatedAt": "2024-04-28T12:26:54.020Z"
+        },
+        {
+            "order": 59,
+            "chinese": "可以",
+            "english": "can",
+            "soundmark": "/kæn/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.409Z",
+            "updatedAt": "2024-04-28T12:26:54.020Z"
+        },
+        {
+            "order": 60,
+            "chinese": "这个房间可以容纳十个人",
+            "english": "this room can hold ten people",
+            "soundmark": "/ðɪs/ /rum/ /kæn/ /hold/ /tɛn/ /'pipl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.456Z",
+            "updatedAt": "2024-04-28T12:26:54.020Z"
+        },
+        {
+            "order": 61,
+            "chinese": "不可以",
+            "english": "can't",
+            "soundmark": "/kænt/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.473Z",
+            "updatedAt": "2024-04-28T12:26:54.020Z"
+        },
+        {
+            "order": 62,
+            "chinese": "这个房间不可以容纳十个人",
+            "english": "this room can't hold ten people",
+            "soundmark": "/ðɪs/ /rum/ /kænt/ /hold/ /tɛn/ /'pipl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.479Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 63,
+            "chinese": "这个房间",
+            "english": "this room",
+            "soundmark": "/ðɪs/ /rum/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.523Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 64,
+            "chinese": "大的",
+            "english": "big",
+            "soundmark": "/bɪɡ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.522Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 65,
+            "chinese": "是",
+            "english": "is",
+            "soundmark": "/ɪz/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.583Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 66,
+            "chinese": "这个房间是大的",
+            "english": "this room is big",
+            "soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.698Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 67,
+            "chinese": "容纳十个人",
+            "english": "to hold ten people",
+            "soundmark": "/tə/ /hold/ /tɛn/ /'pipl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.859Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 68,
+            "chinese": "足够",
+            "english": "enough",
+            "soundmark": "/ɪ'nʌf/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.912Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 69,
+            "chinese": "足够容纳十个人",
+            "english": "enough to hold ten people",
+            "soundmark": "/ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.911Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 70,
+            "chinese": "这个房间是大的",
+            "english": "this room is big",
+            "soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.923Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 71,
+            "chinese": "这个房间是大的（大到）足够容纳十个人",
+            "english": "this room is big enough to hold ten people",
+            "soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:47.937Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 72,
+            "chinese": "这个房间是足够大的",
+            "english": "this room is big enough",
+            "soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.015Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 73,
+            "chinese": "我们",
+            "english": "us",
+            "soundmark": "/ʌs/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.016Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 74,
+            "chinese": "对......来说",
+            "english": "for",
+            "soundmark": "/fɝ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.034Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 75,
+            "chinese": "对我们来说",
+            "english": "for us",
+            "soundmark": "/fɝ/ /ʌs/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.022Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 76,
+            "chinese": "这个房间是足够大的对我们来说",
+            "english": "this room is big enough for us",
+            "soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /fɝ/ /ʌs/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.151Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 77,
+            "chinese": "遇见；碰面",
+            "english": "to meet",
+            "soundmark": "/tə/ /mit/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.363Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 78,
+            "chinese": "碰面（ing形式）",
+            "english": "meeting",
+            "soundmark": "/'mitɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.380Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 79,
+            "chinese": "会议",
+            "english": "meeting",
+            "soundmark": "/'mitɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.383Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 80,
+            "chinese": "握；容纳；举行",
+            "english": "to hold",
+            "soundmark": "/tə/ /hold/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.384Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 81,
+            "chinese": "举行一次会议",
+            "english": "to hold a meeting",
+            "soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.418Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 82,
+            "chinese": "决定",
+            "english": "to decide",
+            "soundmark": "/tə/ /dɪ'saɪd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.453Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 83,
+            "chinese": "我们",
+            "english": "we",
+            "soundmark": "/wi/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.508Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 84,
+            "chinese": "我们决定",
+            "english": "we decide",
+            "soundmark": "/wi/ /dɪ'saɪd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.525Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 85,
+            "chinese": "我们决定举行一次会议",
+            "english": "we decide to hold a meeting",
+            "soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.530Z",
+            "updatedAt": "2024-04-28T12:26:54.021Z"
+        },
+        {
+            "order": 86,
+            "chinese": "在......里",
+            "english": "in",
+            "soundmark": "/ɪn/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.606Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 87,
+            "chinese": "这个房间",
+            "english": "this room",
+            "soundmark": "/ðɪs/ /rum/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.817Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 88,
+            "chinese": "在这个房间里",
+            "english": "in this room",
+            "soundmark": "/ɪn/ /ðɪs/ /rum/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.836Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 89,
+            "chinese": "我们决定在这个房间里举行一次会议",
+            "english": "we decide to hold a meeting in this room",
+            "soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.835Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 90,
+            "chinese": "明天",
+            "english": "tomorrow",
+            "soundmark": "/tə'mɔro/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.892Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 91,
+            "chinese": "早上",
+            "english": "morning",
+            "soundmark": "/'mɔrnɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.889Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 92,
+            "chinese": "明天早上",
+            "english": "tomorrow morning",
+            "soundmark": "/tə'mɔro/ /'mɔrnɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:48.925Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 93,
+            "chinese": "我们决定明天早上在这个房间里举行一次会议",
+            "english": "we decide to hold a meeting in this room tomorrow morning",
+            "soundmark": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.010Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 94,
+            "chinese": "将会",
+            "english": "will",
+            "soundmark": "/wɪl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.025Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 95,
+            "chinese": "我们将会举行一次会议",
+            "english": "we will hold a meeting",
+            "soundmark": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.024Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 96,
+            "chinese": "明天早上我们将会在这个房间里举行一次会议",
+            "english": "we will hold a meeting in this room tomorrow morning",
+            "soundmark": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.065Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 97,
+            "chinese": "大的",
+            "english": "big",
+            "soundmark": "/bɪɡ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.266Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 98,
+            "chinese": "这个房间",
+            "english": "this room",
+            "soundmark": "/ðɪs/ /rum/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.286Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 99,
+            "chinese": "这个房间是大的",
+            "english": "this room is big",
+            "soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.313Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 100,
+            "chinese": "足够",
+            "english": "enough",
+            "soundmark": "/ɪ'nʌf/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.319Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 101,
+            "chinese": "举行一次会议",
+            "english": "to hold a meeting",
+            "soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.399Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 102,
+            "chinese": "足够举行一次会议",
+            "english": "enough to hold a meeting",
+            "soundmark": "/ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.423Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 103,
+            "chinese": "这个房间是大的（大到）足够举行一次会议",
+            "english": "this room is big enough to hold a meeting",
+            "soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.504Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 104,
+            "chinese": "这个房间是足够大的",
+            "english": "this room is big enough",
+            "soundmark": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.521Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 105,
+            "chinese": "小的",
+            "english": "small",
+            "soundmark": "/smɔl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.527Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 106,
+            "chinese": "这个房间是小的",
+            "english": "this room is small",
+            "soundmark": "/ðɪs/ /rum/ /ɪz/ /smɔl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.730Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 107,
+            "chinese": "非常",
+            "english": "very",
+            "soundmark": "/ˈvɛri/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.738Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 108,
+            "chinese": "这个房间是非常小的",
+            "english": "this room is very small",
+            "soundmark": "/ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.750Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 109,
+            "chinese": "因为",
+            "english": "because",
+            "soundmark": "/bɪ'kɔz/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.767Z",
+            "updatedAt": "2024-04-28T12:26:54.022Z"
+        },
+        {
+            "order": 110,
+            "chinese": "因为这个房间是非常小的",
+            "english": "because this room is very small",
+            "soundmark": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.834Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 111,
+            "chinese": "会议",
+            "english": "meeting",
+            "soundmark": "/'mitɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.916Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 112,
+            "chinese": "握；容纳；举行",
+            "english": "to hold",
+            "soundmark": "/tə/ /hold/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:49.954Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 113,
+            "chinese": "举行一次会议",
+            "english": "to hold a meeting",
+            "soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.034Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 114,
+            "chinese": "在......里",
+            "english": "in",
+            "soundmark": "/ɪn/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.041Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 115,
+            "chinese": "这个房间",
+            "english": "this room",
+            "soundmark": "/ðɪs/ /rum/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.181Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 116,
+            "chinese": "在这个房间里",
+            "english": "in this room",
+            "soundmark": "/ɪn/ /ðɪs/ /rum/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.185Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 117,
+            "chinese": "在这个房间里举行一次会议",
+            "english": "to hold a meeting in this room",
+            "soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.196Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 118,
+            "chinese": "不可能的",
+            "english": "impossible",
+            "soundmark": "/ɪm'pɑsəbl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.210Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 119,
+            "chinese": "它；这件事情",
+            "english": "it",
+            "soundmark": "/ɪt/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.213Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 120,
+            "chinese": "它是不可能的",
+            "english": "it is impossible",
+            "soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.335Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 121,
+            "chinese": "在这个房间里举行一次会议是不可能的",
+            "english": "it is impossible to hold a meeting in this room",
+            "soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.399Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 122,
+            "chinese": "因为这个房间是非常小的",
+            "english": "because this room is very small",
+            "soundmark": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.437Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 123,
+            "chinese": "在这个房间里举行一次会议是不可能的因为这个房间是非常小的",
+            "english": "it is impossible to hold a meeting in this room because this room is very small",
+            "soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.530Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 124,
+            "chinese": "握；容纳；举行",
+            "english": "to hold",
+            "soundmark": "/tə/ /hold/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.542Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 125,
+            "chinese": "举行一次会议",
+            "english": "to hold a meeting",
+            "soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.621Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 126,
+            "chinese": "决定",
+            "english": "to decide",
+            "soundmark": "/tə/ /dɪ'saɪd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.631Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 127,
+            "chinese": "他们",
+            "english": "they",
+            "soundmark": "/ðe/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.642Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 128,
+            "chinese": "他们（过去）决定",
+            "english": "they decided",
+            "soundmark": "/ðe/ /dɪ'saɪdɪd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.665Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 129,
+            "chinese": "他们（过去）决定举行一次会议",
+            "english": "they decided to hold a meeting",
+            "soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.725Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 130,
+            "chinese": "脸",
+            "english": "face",
+            "soundmark": "/fes/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.830Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 131,
+            "chinese": "面对",
+            "english": "to face",
+            "soundmark": "/tə/ /fes/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.848Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 132,
+            "chinese": "面对(ing形式)",
+            "english": "facing",
+            "soundmark": "/'fesɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:50.955Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 133,
+            "chinese": "是；赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.032Z",
+            "updatedAt": "2024-04-28T12:26:54.023Z"
+        },
+        {
+            "order": 134,
+            "chinese": "正在面对",
+            "english": "be facing",
+            "soundmark": "/bi/ /'fesɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.048Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 135,
+            "chinese": "他们",
+            "english": "they",
+            "soundmark": "/ðe/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.051Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 136,
+            "chinese": "他们(现在)正在面对",
+            "english": "they are facing",
+            "soundmark": "/ðe/ /ɚ/ /'fesɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.072Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 137,
+            "chinese": "那个问题",
+            "english": "the problem",
+            "soundmark": "/ðə/ /'prɑbləm/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.087Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 138,
+            "chinese": "他们(现在)正在面对的那个问题",
+            "english": "the problem they are facing",
+            "soundmark": "/ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.114Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 139,
+            "chinese": "解决",
+            "english": "to solve",
+            "soundmark": "/tə/ /sɔlv/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.234Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 140,
+            "chinese": "那个问题",
+            "english": "the problem",
+            "soundmark": "/ðə/ /'prɑbləm/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.287Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 141,
+            "chinese": "解决那个问题",
+            "english": "to solve the problem",
+            "soundmark": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.335Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 142,
+            "chinese": "解决他们（现在）正在面对的那个问题",
+            "english": "to solve the problem they are facing",
+            "soundmark": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.472Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 143,
+            "chinese": "如何",
+            "english": "how",
+            "soundmark": "/haʊ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.501Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 144,
+            "chinese": "如何解决他们（现在）正在面对的那个问题",
+            "english": "how to solve the problem they are facing",
+            "soundmark": "/haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.514Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 145,
+            "chinese": "讨论",
+            "english": "to discuss",
+            "soundmark": "/tə/ /dɪ'skʌs/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.531Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 146,
+            "chinese": "讨论如何解决他们（现在）正在面对的那个问题",
+            "english": "to discuss how to solve the problem they are facing",
+            "soundmark": "/tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.533Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 147,
+            "chinese": "举行一次会议",
+            "english": "to hold a meeting",
+            "soundmark": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.556Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 148,
+            "chinese": "他们（过去）决定",
+            "english": "they decided",
+            "soundmark": "/ðe/ /dɪ'saɪdɪd/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.567Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 149,
+            "chinese": "他们（过去）决定举行一次会议",
+            "english": "they decided to hold a meeting",
+            "soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.731Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 150,
+            "chinese": "他们（过去）决定举行一次会议讨论如何解决他们（现在）正在面对的那个问题",
+            "english": "they decided to hold a meeting to discuss how to solve the problem they are facing",
+            "soundmark": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+            "courseId": "qntsval1xk1i7y6ut17ejk0o",
+            "createdAt": "2024-04-28T12:30:51.757Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        }
+    ]
+}

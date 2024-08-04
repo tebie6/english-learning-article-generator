@@ -1,0 +1,1380 @@
+{
+    "id": "wnhoujkh7id8o449q91g5l15",
+    "title": "第二十五课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV183411w7ma",
+    "order": 25,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:52.074Z",
+    "updatedAt": "2024-05-23T14:05:59.887Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "工作",
+            "english": "job",
+            "soundmark": "/dʒɑb/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:23.330Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 2,
+            "chinese": "工作；付出劳动",
+            "english": "to work",
+            "soundmark": "/tə/ /wɝk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:23.469Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 3,
+            "chinese": "需要",
+            "english": "need",
+            "soundmark": "/nid/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:23.519Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 4,
+            "chinese": "他",
+            "english": "he",
+            "soundmark": "/hi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:23.564Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 5,
+            "chinese": "他需要",
+            "english": "he needs",
+            "soundmark": "/hi/ /nidz/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:23.571Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 6,
+            "chinese": "他需要工作",
+            "english": "he needs to work",
+            "soundmark": "/hi/ /nidz/ /tə/ /wɝk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:23.692Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 7,
+            "chinese": "家",
+            "english": "home",
+            "soundmark": "/hom/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:23.712Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 8,
+            "chinese": "家庭作业",
+            "english": "homework",
+            "soundmark": "/'homwɝk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:23.746Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 9,
+            "chinese": "他的",
+            "english": "his",
+            "soundmark": "/hɪz/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:23.753Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 10,
+            "chinese": "他的家庭作业",
+            "english": "his homework",
+            "soundmark": "/hɪz/ /'homwɝk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:23.778Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 11,
+            "chinese": "在......上",
+            "english": "on",
+            "soundmark": "/ɑn/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:23.801Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 12,
+            "chinese": "在他的家庭作业上",
+            "english": "on his homework",
+            "soundmark": "/ɑn/ /hɪz/ /'homwɝk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:23.962Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 13,
+            "chinese": "他需要在他的家庭作业上工作",
+            "english": "he needs to work on his homework",
+            "soundmark": "/hi/ /nidz/ /tə/ /wɝk/ /ɑn/ /hɪz/ /'homwɝk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:23.981Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 14,
+            "chinese": "他在他的家庭作业上工作",
+            "english": "he works on his homework",
+            "soundmark": "/hi/ /wɝks/ /ɑn/ /hɪz/ /'homwɝk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.071Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 15,
+            "chinese": "工作(ing形式)",
+            "english": "working",
+            "soundmark": "/'wɝkɪŋ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.081Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 16,
+            "chinese": "是；赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.151Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 17,
+            "chinese": "正在工作",
+            "english": "be working",
+            "soundmark": "/bi/ /'wɝkɪŋ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.203Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 18,
+            "chinese": "他(现在)正在工作",
+            "english": "he is working",
+            "soundmark": "/hi/ /ɪz/ /'wɝkɪŋ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.205Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 19,
+            "chinese": "在他的家庭作业上",
+            "english": "on his homework",
+            "soundmark": "/ɑn/ /hɪz/ /'homwɝk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.232Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 20,
+            "chinese": "他(现在)正在在他的家庭作业上工作",
+            "english": "he is working on his homework",
+            "soundmark": "/hi/ /ɪz/ /'wɝkɪŋ/ /ɑn/ /hɪz/ /'homwɝk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.245Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 21,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.265Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 22,
+            "chinese": "我的家庭作业",
+            "english": "my homework",
+            "soundmark": "/maɪ/ /'homwɝk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.408Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 23,
+            "chinese": "正在工作",
+            "english": "be working",
+            "soundmark": "/bi/ /'wɝkɪŋ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.492Z",
+            "updatedAt": "2024-04-28T12:26:53.998Z"
+        },
+        {
+            "order": 24,
+            "chinese": "我(现在)正在工作",
+            "english": "I am working",
+            "soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.584Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 25,
+            "chinese": "在......上",
+            "english": "on",
+            "soundmark": "/ɑn/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.599Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 26,
+            "chinese": "我(现在)正在在我的家庭作业上工作",
+            "english": "I am working on my homework",
+            "soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /maɪ/ /'homwɝk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.605Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 27,
+            "chinese": "它；那件事",
+            "english": "it",
+            "soundmark": "/ɪt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.655Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 28,
+            "chinese": "我(现在)正在在那件事上工作",
+            "english": "I am working on it",
+            "soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.723Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 29,
+            "chinese": "仍然",
+            "english": "still",
+            "soundmark": "/stɪl/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.722Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 30,
+            "chinese": "我(现在)仍然正在在那件事上工作",
+            "english": "I am still working on it",
+            "soundmark": "/aɪ/ /æm/ /stɪl/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.724Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 31,
+            "chinese": "我们",
+            "english": "we",
+            "soundmark": "/wi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.760Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 32,
+            "chinese": "我们(现在)正在在那件事上工作",
+            "english": "we are working on it",
+            "soundmark": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.852Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 33,
+            "chinese": "项目",
+            "english": "project",
+            "soundmark": "/ˈprɑdʒɛkt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:24.988Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 34,
+            "chinese": "新的",
+            "english": "new",
+            "soundmark": "/nu/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.039Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 35,
+            "chinese": "一个新的项目",
+            "english": "a new project",
+            "soundmark": "/ə/ /nu/ /ˈprɑdʒɛkt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.086Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 36,
+            "chinese": "我们(现在)正在在一个新的项目上工作",
+            "english": "we are working on a new project",
+            "soundmark": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.093Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 37,
+            "chinese": "将会",
+            "english": "will",
+            "soundmark": "/wɪl/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.105Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 38,
+            "chinese": "正在工作",
+            "english": "be working",
+            "soundmark": "/bi/ /'wɝkɪŋ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.171Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 39,
+            "chinese": "将会正在工作",
+            "english": "will be working",
+            "soundmark": "/wɪl/ /bi/ /'wɝkɪŋ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.174Z",
+            "updatedAt": "2024-04-28T12:26:53.999Z"
+        },
+        {
+            "order": 40,
+            "chinese": "一个新的项目",
+            "english": "a new project",
+            "soundmark": "/ə/ /nu/ /ˈprɑdʒɛkt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.240Z",
+            "updatedAt": "2024-04-28T12:26:54.000Z"
+        },
+        {
+            "order": 41,
+            "chinese": "我们将会正在在一个新的项目上工作",
+            "english": "we will be working on a new project",
+            "soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.267Z",
+            "updatedAt": "2024-04-28T12:26:54.000Z"
+        },
+        {
+            "order": 42,
+            "chinese": "周；星期",
+            "english": "week",
+            "soundmark": "/wik/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.305Z",
+            "updatedAt": "2024-04-28T12:26:54.000Z"
+        },
+        {
+            "order": 43,
+            "chinese": "下一个",
+            "english": "next",
+            "soundmark": "/nɛkst/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.485Z",
+            "updatedAt": "2024-04-28T12:26:54.000Z"
+        },
+        {
+            "order": 44,
+            "chinese": "下周",
+            "english": "next week",
+            "soundmark": "/nɛkst/ /wik/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.496Z",
+            "updatedAt": "2024-04-28T12:26:54.000Z"
+        },
+        {
+            "order": 45,
+            "chinese": "我们下周将会正在在一个新的项目上工作",
+            "english": "we will be working on a new project next week",
+            "soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/ /nɛkst/ /wik/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.537Z",
+            "updatedAt": "2024-04-28T12:26:54.000Z"
+        },
+        {
+            "order": 46,
+            "chinese": "它；那件事",
+            "english": "it",
+            "soundmark": "/ɪt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.583Z",
+            "updatedAt": "2024-04-28T12:26:54.000Z"
+        },
+        {
+            "order": 47,
+            "chinese": "我们下周将会正在在那件事上工作",
+            "english": "we will be working on it next week",
+            "soundmark": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ɪt/ /nɛkst/ /wik/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.613Z",
+            "updatedAt": "2024-04-28T12:26:54.000Z"
+        },
+        {
+            "order": 48,
+            "chinese": "我(现在)正在在那件事上工作",
+            "english": "I am working on it",
+            "soundmark": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.640Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 49,
+            "chinese": "寻找",
+            "english": "to look for",
+            "soundmark": "/tə/ /lʊk/ /fɝ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.640Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 50,
+            "chinese": "寻找(ing形式)",
+            "english": "looking for",
+            "soundmark": "/ˈlʊkɪŋ/ /fɝ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.750Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 51,
+            "chinese": "是；赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.750Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 52,
+            "chinese": "正在寻找",
+            "english": "be looking for",
+            "soundmark": "/bi/ /ˈlʊkɪŋ/ /fɝ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.762Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 53,
+            "chinese": "她",
+            "english": "she",
+            "soundmark": "/ʃi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.917Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 54,
+            "chinese": "她(现在)正在寻找",
+            "english": "she is looking for",
+            "soundmark": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.981Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 55,
+            "chinese": "她的",
+            "english": "her",
+            "soundmark": "/hɚ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:25.998Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 56,
+            "chinese": "玩具",
+            "english": "toy",
+            "soundmark": "/tɔɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.114Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 57,
+            "chinese": "她的玩具",
+            "english": "her toy",
+            "soundmark": "/hɚ/ /tɔɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.114Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 58,
+            "chinese": "她(现在)正在寻找她的玩具",
+            "english": "she is looking for her toy",
+            "soundmark": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.118Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 59,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.139Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 60,
+            "chinese": "女儿",
+            "english": "daughter",
+            "soundmark": "/'dɔtɚ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.199Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 61,
+            "chinese": "我的女儿",
+            "english": "my daughter",
+            "soundmark": "/maɪ/ /'dɔtɚ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.262Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 62,
+            "chinese": "我的女儿(现在)正在寻找她的玩具",
+            "english": "my daughter is looking for her toy",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.263Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 63,
+            "chinese": "找到",
+            "english": "to find",
+            "soundmark": "/tə/ /faɪnd/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.363Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 64,
+            "chinese": "她的玩具",
+            "english": "her toy",
+            "soundmark": "/hɚ/ /tɔɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.430Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 65,
+            "chinese": "找到她的玩具",
+            "english": "to find her toy",
+            "soundmark": "/tə/ /faɪnd/ /hɚ/ /tɔɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.499Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 66,
+            "chinese": "我的女儿",
+            "english": "my daughter",
+            "soundmark": "/maɪ/ /'dɔtɚ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.562Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 67,
+            "chinese": "我的女儿找到她的玩具",
+            "english": "my daughter finds her toy",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /faɪndz/ /hɚ/ /tɔɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.566Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 68,
+            "chinese": "能",
+            "english": "can",
+            "soundmark": "/kæn/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.629Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 69,
+            "chinese": "我的女儿可以找到她的玩具",
+            "english": "my daughter can find her toy",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /kæn/ /faɪnd/ /hɚ/ /tɔɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.641Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 70,
+            "chinese": "不能",
+            "english": "can't",
+            "soundmark": "/kænt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.659Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 71,
+            "chinese": "我的女儿不能找到她的玩具",
+            "english": "my daughter can't find her toy",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.765Z",
+            "updatedAt": "2024-04-28T12:26:54.001Z"
+        },
+        {
+            "order": 72,
+            "chinese": "但是",
+            "english": "but",
+            "soundmark": "/bʌt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.783Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 73,
+            "chinese": "但是我的女儿不能找到她的玩具",
+            "english": "but my daughter can't find her toy",
+            "soundmark": "/bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.804Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 74,
+            "chinese": "我的女儿(现在)正在寻找她的玩具",
+            "english": "my daughter is looking for her toy",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:26.878Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 75,
+            "chinese": "我的女儿(现在)正在寻找她的玩具但是我的女儿不能找到她的玩具",
+            "english": "my daughter is looking for her toy but my daughter can't find her toy",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.006Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 76,
+            "chinese": "她",
+            "english": "she",
+            "soundmark": "/ʃi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.040Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 77,
+            "chinese": "它",
+            "english": "it",
+            "soundmark": "/ɪt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.039Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 78,
+            "chinese": "但是她不能找到它",
+            "english": "but she can't find it",
+            "soundmark": "/bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.116Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 79,
+            "chinese": "我的女儿(现在)正在寻找她的玩具但是她不能找到它",
+            "english": "my daughter is looking for her toy but she can't find it",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.128Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 80,
+            "chinese": "我的女儿(过去)正在寻找她的玩具",
+            "english": "my daughter was looking for her toy",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.150Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 81,
+            "chinese": "但是她(过去)不能找到它",
+            "english": "but she couldn't find it",
+            "soundmark": "/bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.270Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 82,
+            "chinese": "我的女儿(过去)正在寻找她的玩具但是她(过去)不能找到它",
+            "english": "my daughter was looking for her toy but she couldn't find it",
+            "soundmark": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.281Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 83,
+            "chinese": "听见；听说",
+            "english": "to hear",
+            "soundmark": "/tə/ /hɪr/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.305Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 84,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.320Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 85,
+            "chinese": "听见我",
+            "english": "to hear me",
+            "soundmark": "/tə/ /hɪr/ /mi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.484Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 86,
+            "chinese": "你",
+            "english": "you",
+            "soundmark": "/ju/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.485Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 87,
+            "chinese": "你听见我",
+            "english": "you hear me",
+            "soundmark": "/ju/ /hɪr/ /mi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.505Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 88,
+            "chinese": "可以",
+            "english": "can",
+            "soundmark": "/kæn/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.563Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 89,
+            "chinese": "你可以听见我",
+            "english": "you can hear me",
+            "soundmark": "/ju/ /kæn/ /hɪr/ /mi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.634Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 90,
+            "chinese": "是否",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.648Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 91,
+            "chinese": "是否你可以听见我",
+            "english": "if you can hear me",
+            "soundmark": "/ɪf/ /ju/ /kæn/ /hɪr/ /mi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.701Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 92,
+            "chinese": "我想要",
+            "english": "I want",
+            "soundmark": "/aɪ/ /wɑnt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.763Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 93,
+            "chinese": "知道",
+            "english": "to know",
+            "soundmark": "/tə/ /no/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.779Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 94,
+            "chinese": "我想要知道",
+            "english": "I want to know",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.814Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 95,
+            "chinese": "我想要知道是否你可以听见我",
+            "english": "I want to know if you can hear me",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /hɪr/ /mi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.933Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 96,
+            "chinese": "我知道",
+            "english": "I know",
+            "soundmark": "/aɪ/ /no/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:27.946Z",
+            "updatedAt": "2024-04-28T12:26:54.002Z"
+        },
+        {
+            "order": 97,
+            "chinese": "我知道你可以听见我",
+            "english": "I know you can hear me",
+            "soundmark": "/aɪ/ /no/ /ju/ /kæn/ /hɪr/ /mi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.018Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 98,
+            "chinese": "你可以听见我",
+            "english": "you can hear me",
+            "soundmark": "/ju/ /kæn/ /hɪr/ /mi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.017Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 99,
+            "chinese": "你可以听见我吗？",
+            "english": "can you hear me",
+            "soundmark": "/kæn/ /ju/ /hɪr/ /mi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.146Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 100,
+            "chinese": "音乐",
+            "english": "music",
+            "soundmark": "/'mjuzɪk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.147Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 101,
+            "chinese": "你可以听见音乐",
+            "english": "you can hear music",
+            "soundmark": "/ju/ /kæn/ /hɪr/ /'mjuzɪk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.156Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 102,
+            "chinese": "一些",
+            "english": "some",
+            "soundmark": "/səm/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.212Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 103,
+            "chinese": "你可以听见一些音乐",
+            "english": "you can hear some music",
+            "soundmark": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.296Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 104,
+            "chinese": "听",
+            "english": "to listen",
+            "soundmark": "/tə/ /'lɪsn/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.365Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 105,
+            "chinese": "我想要",
+            "english": "I want",
+            "soundmark": "/aɪ/ /wɑnt/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.399Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 106,
+            "chinese": "我想要听",
+            "english": "I want to listen",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /'lɪsn/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.412Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 107,
+            "chinese": "我听",
+            "english": "I listen",
+            "soundmark": "/aɪ/ /'lɪsn/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.478Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 108,
+            "chinese": "听(ing形式)",
+            "english": "listening",
+            "soundmark": "/ˈlɪsnɪŋ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.520Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 109,
+            "chinese": "我(现在)正在听",
+            "english": "I am listening",
+            "soundmark": "/aɪ/ /æm/ /ˈlɪsnɪŋ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.595Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 110,
+            "chinese": "音乐",
+            "english": "music",
+            "soundmark": "/'mjuzɪk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.652Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 111,
+            "chinese": "我(现在)正在听音乐",
+            "english": "I am listening to music",
+            "soundmark": "/aɪ/ /æm/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.656Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 112,
+            "chinese": "她",
+            "english": "she",
+            "soundmark": "/ʃi/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.665Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 113,
+            "chinese": "她(现在)正在听音乐",
+            "english": "she is listening to music",
+            "soundmark": "/ʃi/ /ɪz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.820Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 114,
+            "chinese": "她(过去)正在听音乐",
+            "english": "she was listening to music",
+            "soundmark": "/ʃi/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.856Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 115,
+            "chinese": "我",
+            "english": "I",
+            "soundmark": "/aɪ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.869Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 116,
+            "chinese": "我(过去)正在听音乐",
+            "english": "I was listening to music",
+            "soundmark": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.881Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 117,
+            "chinese": "一些",
+            "english": "some",
+            "soundmark": "/səm/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:28.928Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 118,
+            "chinese": "我(过去)正在听一些音乐",
+            "english": "I was listening to some music",
+            "soundmark": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /səm/ /'mjuzɪk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.031Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 119,
+            "chinese": "你(现在)正在听",
+            "english": "you are listening",
+            "soundmark": "/ju/ /ɚ/ /ˈlɪsnɪŋ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.028Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 120,
+            "chinese": "你(现在)正在听音乐",
+            "english": "you are listening to music",
+            "soundmark": "/ju/ /ɚ/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.106Z",
+            "updatedAt": "2024-04-28T12:26:54.003Z"
+        },
+        {
+            "order": 121,
+            "chinese": "你听",
+            "english": "you listen",
+            "soundmark": "/ju/ /'lɪsn/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.150Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 122,
+            "chinese": "认真地",
+            "english": "carefully",
+            "soundmark": "/'kɛrfəli/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.157Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 123,
+            "chinese": "你认真地听",
+            "english": "you listen carefully",
+            "soundmark": "/ju/ /'lɪsn/ /'kɛrfəli/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.299Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 124,
+            "chinese": "如果",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.315Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 125,
+            "chinese": "如果你认真地听",
+            "english": "if you listen carefully",
+            "soundmark": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.335Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 126,
+            "chinese": "你可以听到一些音乐",
+            "english": "you can hear some music",
+            "soundmark": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.379Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 127,
+            "chinese": "如果你认真地听你可以听到一些音乐",
+            "english": "if you listen carefully you can hear some music",
+            "soundmark": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.380Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 128,
+            "chinese": "这段音乐",
+            "english": "the music",
+            "soundmark": "/ðə/ /'mjuzɪk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.462Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 129,
+            "chinese": "如果你认真地听这段音乐",
+            "english": "if you listen to the music carefully",
+            "soundmark": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.523Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 130,
+            "chinese": "吉他",
+            "english": "guitar",
+            "soundmark": "/ɡɪ'tɑr/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.572Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 131,
+            "chinese": "一把吉他",
+            "english": "a guitar",
+            "soundmark": "/ə/ /ɡɪ'tɑr/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.650Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 132,
+            "chinese": "你可以听见",
+            "english": "you can hear",
+            "soundmark": "/ju/ /kæn/ /hɪr/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.666Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 133,
+            "chinese": "你可以听见一把吉他",
+            "english": "you can hear a guitar",
+            "soundmark": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.744Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 134,
+            "chinese": "后面的",
+            "english": "back",
+            "soundmark": "/bæk/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.781Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 135,
+            "chinese": "场地",
+            "english": "ground",
+            "soundmark": "/ɡraʊnd/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.815Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 136,
+            "chinese": "背景",
+            "english": "background",
+            "soundmark": "/'bækɡraʊnd/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.836Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 137,
+            "chinese": "在背景里",
+            "english": "in the background",
+            "soundmark": "/ɪn/ /ðə/ /'bækɡraʊnd/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.896Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 138,
+            "chinese": "你可以听见一把吉他在背景里",
+            "english": "you can hear a guitar in the background",
+            "soundmark": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /background/ /'bækɡraʊnd/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:29.898Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 139,
+            "chinese": "如果你认真地听这段音乐你可以听见一把吉他在背景里",
+            "english": "if you listen to the music carefully you can hear a guitar in the background",
+            "soundmark": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /'bækɡraʊnd/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:30.027Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 140,
+            "chinese": "你认真地听",
+            "english": "you listen carefully",
+            "soundmark": "/ju/ /'lɪsn/ /'kɛrfəli/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:30.027Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 141,
+            "chinese": "不",
+            "english": "don't",
+            "soundmark": "/dont/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:30.153Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 142,
+            "chinese": "你不认真地听",
+            "english": "you don't listen carefully",
+            "soundmark": "/ju/ /dont/ /'lɪsn/ /'kɛrfəli/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:30.158Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 143,
+            "chinese": "如果",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:30.187Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 144,
+            "chinese": "如果你不认真地听",
+            "english": "if you don't listen carefully",
+            "soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:30.234Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 145,
+            "chinese": "听见",
+            "english": "to hear",
+            "soundmark": "/tə/ /hɪr/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:30.303Z",
+            "updatedAt": "2024-04-28T12:26:54.004Z"
+        },
+        {
+            "order": 146,
+            "chinese": "你",
+            "english": "you",
+            "soundmark": "/ju/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:30.317Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 147,
+            "chinese": "你将会听见",
+            "english": "you will hear",
+            "soundmark": "/ju/ /wɪl/ /hɪr/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:30.327Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 148,
+            "chinese": "东西",
+            "english": "thing",
+            "soundmark": "/θɪŋ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:30.404Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 149,
+            "chinese": "没有东西",
+            "english": "nothing",
+            "soundmark": "/'nʌθɪŋ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:30.468Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 150,
+            "chinese": "你将会听见没有东西",
+            "english": "you will hear nothing",
+            "soundmark": "/ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:30.522Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 151,
+            "chinese": "如果你不认真地听",
+            "english": "if you don't listen carefully",
+            "soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:30.636Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 152,
+            "chinese": "如果你不认真地听你将会什么都听不到",
+            "english": "if you don't listen carefully you will hear nothing",
+            "soundmark": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/ /ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/",
+            "courseId": "wnhoujkh7id8o449q91g5l15",
+            "createdAt": "2024-04-28T12:30:30.649Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        }
+    ]
+}

@@ -1,0 +1,1155 @@
+{
+    "id": "estmtjvj63tbrmhqs94ukbcl",
+    "title": "第二十九课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1rt4y1L7RG",
+    "order": 29,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:52.251Z",
+    "updatedAt": "2024-05-23T14:06:00.249Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "去",
+            "english": "to go",
+            "soundmark": "/tə/ /ɡo/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:51.836Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 2,
+            "chinese": "外面",
+            "english": "out",
+            "soundmark": "/aʊt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:51.940Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 3,
+            "chinese": "去外面",
+            "english": "to go out",
+            "soundmark": "/tə/ /ɡo/ /aʊt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:51.976Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 4,
+            "chinese": "晚上",
+            "english": "night",
+            "soundmark": "/naɪt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:51.979Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 5,
+            "chinese": "在",
+            "english": "at",
+            "soundmark": "/ət/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:51.987Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 6,
+            "chinese": "在晚上",
+            "english": "at night",
+            "soundmark": "/ət/ /naɪt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.030Z",
+            "updatedAt": "2024-04-28T12:26:54.024Z"
+        },
+        {
+            "order": 7,
+            "chinese": "在晚上去外面",
+            "english": "to go out at night",
+            "soundmark": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.062Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 8,
+            "chinese": "和......一起",
+            "english": "with",
+            "soundmark": "/wɪð/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.187Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 9,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.264Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 10,
+            "chinese": "和我一起",
+            "english": "with me",
+            "soundmark": "/wɪð/ /mi/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.326Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 11,
+            "chinese": "和我一起在晚上去外面",
+            "english": "to go out at night with me",
+            "soundmark": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /mi/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.375Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 12,
+            "chinese": "和......一起",
+            "english": "with",
+            "soundmark": "/wɪð/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.419Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 13,
+            "chinese": "外面",
+            "english": "out",
+            "soundmark": "/aʊt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.429Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 14,
+            "chinese": "不和......一起",
+            "english": "without",
+            "soundmark": "/wɪ'θaʊt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.475Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 15,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.499Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 16,
+            "chinese": "不和我一起",
+            "english": "without me",
+            "soundmark": "/wɪ'θaʊt/ /mi/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.556Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 17,
+            "chinese": "不和我一起在晚上去外面",
+            "english": "to go out at night without me",
+            "soundmark": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪ'θaʊt/ /mi/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.631Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 18,
+            "chinese": "父母",
+            "english": "parents",
+            "soundmark": "/'pɛrənts/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.757Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 19,
+            "chinese": "你的",
+            "english": "your",
+            "soundmark": "/jʊr/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.805Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 20,
+            "chinese": "你的父母",
+            "english": "your parents",
+            "soundmark": "/jʊr/ /'pɛrənts/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.830Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 21,
+            "chinese": "和......一起",
+            "english": "with",
+            "soundmark": "/wɪð/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.857Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 22,
+            "chinese": "和你的父母一起",
+            "english": "with your parents",
+            "soundmark": "/wɪð/ /jʊr/ /'pɛrənts/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.879Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 23,
+            "chinese": "在晚上去外面",
+            "english": "to go out at night",
+            "soundmark": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.923Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 24,
+            "chinese": "和你的父母一起在晚上去外面",
+            "english": "to go out at night with your parents",
+            "soundmark": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:52.935Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 25,
+            "chinese": "可以",
+            "english": "can",
+            "soundmark": "/kæn/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.009Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 26,
+            "chinese": "你可以",
+            "english": "you can",
+            "soundmark": "/ju/ /kæn/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.055Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 27,
+            "chinese": "你可以和你父母一起在晚上去外面",
+            "english": "you can go out at night with your parents",
+            "soundmark": "/ju/ /kæn/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.070Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 28,
+            "chinese": "和......一起",
+            "english": "with",
+            "soundmark": "/wɪð/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.247Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 29,
+            "chinese": "外面",
+            "english": "out",
+            "soundmark": "/aʊt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.258Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 30,
+            "chinese": "不和......一起",
+            "english": "without",
+            "soundmark": "/wɪ'θaʊt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.299Z",
+            "updatedAt": "2024-04-28T12:26:54.025Z"
+        },
+        {
+            "order": 31,
+            "chinese": "不和你的父母一起",
+            "english": "without your parents",
+            "soundmark": "/wɪ'θaʊt/ /jʊr/ /'pɛrənts/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.324Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 32,
+            "chinese": "不和你的父母一起在晚上去外面",
+            "english": "to go out at night without your parents",
+            "soundmark": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪ'θaʊt/ /jʊr/ /'pɛrənts/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.337Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 33,
+            "chinese": "你可以",
+            "english": "you can",
+            "soundmark": "/ju/ /kæn/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.381Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 34,
+            "chinese": "你不可以",
+            "english": "you can't",
+            "soundmark": "/ju/ /kænt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.447Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 35,
+            "chinese": "你不可以不和你的父母一起在晚上去外面",
+            "english": "you can't go out at night without your parents",
+            "soundmark": "/ju/ /kænt/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.513Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 36,
+            "chinese": "成年人",
+            "english": "adult",
+            "soundmark": "/əˈdʌlt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.524Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 37,
+            "chinese": "一个成年人",
+            "english": "an adult",
+            "soundmark": "/ən/ /əˈdʌlt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.683Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 38,
+            "chinese": "我是",
+            "english": "I am",
+            "soundmark": "/aɪ/ /æm/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.740Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 39,
+            "chinese": "我是一个成年人",
+            "english": "I am an adult",
+            "soundmark": "/aɪ/ /æm/ /ən/ /əˈdʌlt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.772Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 40,
+            "chinese": "你是",
+            "english": "you are",
+            "soundmark": "/ju/ /ɚ/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.841Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 41,
+            "chinese": "你是一个成年人",
+            "english": "you are an adult",
+            "soundmark": "/ju/ /ɚ/ /ən/ /əˈdʌlt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.848Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 42,
+            "chinese": "你不是一个成年人",
+            "english": "you are not an adult",
+            "soundmark": "/ju/ /ɚ/ /nɑt/ /ən/ /əˈdʌlt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.863Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 43,
+            "chinese": "如果",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.941Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 44,
+            "chinese": "如果你不是一个成年人",
+            "english": "if you are not an adult",
+            "soundmark": "/ɪf/ /ju/ /ɚ/ /nɑt/ /ən/ /əˈdʌlt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:53.957Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 45,
+            "chinese": "你不可以不和你的父母一起在晚上去外面",
+            "english": "you can't go out at night without your parents",
+            "soundmark": "/ju/ /kænt/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.031Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 46,
+            "chinese": "你不可以不和你的父母一起在晚上去外面如果你不是一个成年人",
+            "english": "you can't go out at night without your parents if you are not an adult",
+            "soundmark": "/ju/ /kænt/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/ /ɪf/ /ju/ /ɚ/ /nɑt/ /ən/ /əˈdʌlt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.052Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 47,
+            "chinese": "你可以不和你的父母一起在晚上去外面",
+            "english": "you can go out at night without your parents",
+            "soundmark": "/ju/ /kæn/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.116Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 48,
+            "chinese": "你是一个成年人",
+            "english": "you are an adult",
+            "soundmark": "/ju/ /ɚ/ /ən/ /əˈdʌlt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.180Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 49,
+            "chinese": "如果你是一个成年人",
+            "english": "if you are an adult",
+            "soundmark": "/ɪf/ /ju/ /ɚ/ /ən/ /əˈdʌlt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.220Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 50,
+            "chinese": "你可以不和你的父母一起在晚上去外面如果你是一个成年人",
+            "english": "you can go out at night without your parents if you are an adult",
+            "soundmark": "/ju/ /kæn/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/ /ɪf/ /ju/ /ɚ/ /ən/ /əˈdʌlt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.300Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 51,
+            "chinese": "驾驶；开车",
+            "english": "to drive",
+            "soundmark": "/tə/ /draɪv/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.347Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 52,
+            "chinese": "你可以",
+            "english": "you can",
+            "soundmark": "/ju/ /kæn/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.370Z",
+            "updatedAt": "2024-04-28T12:26:54.026Z"
+        },
+        {
+            "order": 53,
+            "chinese": "你可以开车",
+            "english": "you can drive",
+            "soundmark": "/ju/ /kæn/ /draɪv/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.398Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 54,
+            "chinese": "不可以",
+            "english": "can't",
+            "soundmark": "/kænt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.446Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 55,
+            "chinese": "你不可以开车",
+            "english": "you can't drive",
+            "soundmark": "/ju/ /kænt/ /draɪv/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.548Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 56,
+            "chinese": "驾驶员",
+            "english": "driver",
+            "soundmark": "/'draɪvɚ/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.566Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 57,
+            "chinese": "执照",
+            "english": "license",
+            "soundmark": "/'laɪsns/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.566Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 58,
+            "chinese": "驾照",
+            "english": "driver's license",
+            "soundmark": "/'draɪvɚz/ /'laɪsns/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.626Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 59,
+            "chinese": "一个驾照",
+            "english": "a driver's license",
+            "soundmark": "/ə/ /'draɪvɚz/ /'laɪsns/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.670Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 60,
+            "chinese": "不和......在一起；没有......",
+            "english": "without",
+            "soundmark": "/wɪ'θaʊt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.755Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 61,
+            "chinese": "没有一个驾照",
+            "english": "without a driver's license",
+            "soundmark": "/wɪ'θaʊt/ /ə/ /'draɪvɚz/ /'laɪsns/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.847Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 62,
+            "chinese": "没有一个驾照你不可以开车",
+            "english": "you can't drive without a driver's license",
+            "soundmark": "/ju/ /kænt/ /draɪv/ /wɪ'θaʊt/ /ə/ /'draɪvɚz/ /'laɪsns/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.851Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 63,
+            "chinese": "应该",
+            "english": "should",
+            "soundmark": "/ʃʊd/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.872Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 64,
+            "chinese": "不应该",
+            "english": "should not",
+            "soundmark": "/ʃʊd/ /nɑt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.950Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 65,
+            "chinese": "没有一个驾照你不应该开车",
+            "english": "you should not drive without a driver's license",
+            "soundmark": "/ju/ /ʃʊd/ /nɑt/ /draɪv/ /wɪ'θaʊt/ /ə/ /'draɪvɚz/ /'laɪsns/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:54.998Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 66,
+            "chinese": "朋友",
+            "english": "friend",
+            "soundmark": "/frɛnd/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.056Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 67,
+            "chinese": "老的",
+            "english": "old",
+            "soundmark": "/old/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.064Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 68,
+            "chinese": "老朋友",
+            "english": "old friend",
+            "soundmark": "/old/ /frɛnd/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.069Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 69,
+            "chinese": "一个老朋友",
+            "english": "an old friend",
+            "soundmark": "/ən/ /old/ /frɛnd/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.122Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 70,
+            "chinese": "老的；年龄大的",
+            "english": "old",
+            "soundmark": "/old/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.215Z",
+            "updatedAt": "2024-04-28T12:26:54.027Z"
+        },
+        {
+            "order": 71,
+            "chinese": "她",
+            "english": "she",
+            "soundmark": "/ʃi/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.291Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 72,
+            "chinese": "她是年龄大的",
+            "english": "she is old",
+            "soundmark": "/ʃi/ /ɪz/ /old/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.347Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 73,
+            "chinese": "足够",
+            "english": "enough",
+            "soundmark": "/ɪ'nʌf/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.370Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 74,
+            "chinese": "她是足够年龄大的",
+            "english": "she is old enough",
+            "soundmark": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.434Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 75,
+            "chinese": "开车",
+            "english": "to drive",
+            "soundmark": "/tə/ /draɪv/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.508Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 76,
+            "chinese": "她是年龄大的足够开车",
+            "english": "she is old enough to drive",
+            "soundmark": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /draɪv/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.567Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 77,
+            "chinese": "不",
+            "english": "not",
+            "soundmark": "/nɑt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.568Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 78,
+            "chinese": "她不是年龄大的足够开车",
+            "english": "she is not old enough to drive",
+            "soundmark": "/ʃi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /draɪv/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.578Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 79,
+            "chinese": "认为",
+            "english": "to think",
+            "soundmark": "/tə/ /θɪŋk/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.665Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 80,
+            "chinese": "我认为",
+            "english": "I think",
+            "soundmark": "/aɪ/ /θɪŋk/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.677Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 81,
+            "chinese": "我认为她年龄不够开车",
+            "english": "I think she is not old enough to drive",
+            "soundmark": "/aɪ/ /θɪŋk/ /ʃi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /draɪv/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.734Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 82,
+            "chinese": "我不认为她足够年龄开车",
+            "english": "I don't think she is old enough to drive",
+            "soundmark": "/aɪ/ /dont/ /θɪŋk/ /ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /draɪv/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.850Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 83,
+            "chinese": "为了",
+            "english": "for",
+            "soundmark": "/fɝ/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.867Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 84,
+            "chinese": "她",
+            "english": "her",
+            "soundmark": "/hɚ/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.868Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 85,
+            "chinese": "自己",
+            "english": "self",
+            "soundmark": "/sɛlf/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:55.963Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 86,
+            "chinese": "她自己",
+            "english": "herself",
+            "soundmark": "/hɝ'sɛlf/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.022Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 87,
+            "chinese": "为了她自己",
+            "english": "for herself",
+            "soundmark": "/fɝ/ /hɝ'sɛlf/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.056Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 88,
+            "chinese": "决定",
+            "english": "to decide",
+            "soundmark": "/tə/ /dɪ'saɪd/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.083Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 89,
+            "chinese": "为了她自己决定",
+            "english": "to decide for herself",
+            "soundmark": "/tə/ /dɪ'saɪd/ /fɝ/ /hɝ'sɛlf/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.114Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 90,
+            "chinese": "她是年龄大的",
+            "english": "she is old",
+            "soundmark": "/ʃi/ /ɪz/ /old/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.183Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 91,
+            "chinese": "足够",
+            "english": "enough",
+            "soundmark": "/ɪ'nʌf/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.198Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 92,
+            "chinese": "她是足够年龄大的",
+            "english": "she is old enough",
+            "soundmark": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.309Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 93,
+            "chinese": "她是年龄大的足够决定",
+            "english": "she is old enough to decide",
+            "soundmark": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /dɪ'saɪd/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.366Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 94,
+            "chinese": "为了她自己决定",
+            "english": "to decide for herself",
+            "soundmark": "/tə/ /dɪ'saɪd/ /fɝ/ /hɝ'sɛlf/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.381Z",
+            "updatedAt": "2024-04-28T12:26:54.028Z"
+        },
+        {
+            "order": 95,
+            "chinese": "她是年龄大的足够为了她自己决定",
+            "english": "she is old enough to decide for herself",
+            "soundmark": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /dɪ'saɪd/ /fɝ/ /hɝ'sɛlf/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.407Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 96,
+            "chinese": "外面",
+            "english": "out",
+            "soundmark": "/aʊt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.468Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 97,
+            "chinese": "去",
+            "english": "to go",
+            "soundmark": "/tə/ /ɡo/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.564Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 98,
+            "chinese": "去外面",
+            "english": "to go out",
+            "soundmark": "/tə/ /ɡo/ /aʊt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.567Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 99,
+            "chinese": "我想要",
+            "english": "I want",
+            "soundmark": "/aɪ/ /wɑnt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.593Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 100,
+            "chinese": "我想要去外面",
+            "english": "I want to go out",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /aʊt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.638Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 101,
+            "chinese": "家",
+            "english": "home",
+            "soundmark": "/hom/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.677Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 102,
+            "chinese": "去家",
+            "english": "to go home",
+            "soundmark": "/tə/ /ɡo/ /hom/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.756Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 103,
+            "chinese": "我想要去家",
+            "english": "I want to go home",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /hom/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.858Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 104,
+            "chinese": "学校",
+            "english": "school",
+            "soundmark": "/skul/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.892Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 105,
+            "chinese": "去",
+            "english": "to go",
+            "soundmark": "/tə/ /ɡo/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:56.916Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 106,
+            "chinese": "去上学",
+            "english": "to go to school",
+            "soundmark": "/tə/ /ɡo/ /tə/ /skul/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.015Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 107,
+            "chinese": "我想要",
+            "english": "I want",
+            "soundmark": "/aɪ/ /wɑnt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.077Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 108,
+            "chinese": "我想去上学",
+            "english": "I want to go to school",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /tə/ /skul/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.081Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 109,
+            "chinese": "老的；年龄大的",
+            "english": "old",
+            "soundmark": "/old/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.119Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 110,
+            "chinese": "他",
+            "english": "he",
+            "soundmark": "/hi/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.168Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 111,
+            "chinese": "他是年龄大的",
+            "english": "he is old",
+            "soundmark": "/hi/ /ɪz/ /old/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.169Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 112,
+            "chinese": "足够",
+            "english": "enough",
+            "soundmark": "/ɪ'nʌf/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.188Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 113,
+            "chinese": "他是足够年龄大的",
+            "english": "he is old enough",
+            "soundmark": "/hi/ /ɪz/ /old/ /ɪ'nʌf/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.305Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 114,
+            "chinese": "去上学",
+            "english": "to go to school",
+            "soundmark": "/tə/ /ɡo/ /tə/ /skul/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.363Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 115,
+            "chinese": "他是年龄大的足够去上学",
+            "english": "he is old enough to go to school",
+            "soundmark": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.486Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 116,
+            "chinese": "买",
+            "english": "to buy",
+            "soundmark": "/tə/ /baɪ/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.540Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 117,
+            "chinese": "酒",
+            "english": "alcohol",
+            "soundmark": "/'ælkəhɔl/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.572Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 118,
+            "chinese": "买酒",
+            "english": "to buy alcohol",
+            "soundmark": "/tə/ /baɪ/ /'ælkəhɔl/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.633Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 119,
+            "chinese": "他是足够年龄大的",
+            "english": "he is old enough",
+            "soundmark": "/hi/ /ɪz/ /old/ /ɪ'nʌf/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.637Z",
+            "updatedAt": "2024-04-28T12:26:54.029Z"
+        },
+        {
+            "order": 120,
+            "chinese": "不",
+            "english": "not",
+            "soundmark": "/nɑt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.673Z",
+            "updatedAt": "2024-04-28T12:26:54.030Z"
+        },
+        {
+            "order": 121,
+            "chinese": "他不是足够年龄大的",
+            "english": "he is not old enough",
+            "soundmark": "/hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.676Z",
+            "updatedAt": "2024-04-28T12:26:54.030Z"
+        },
+        {
+            "order": 122,
+            "chinese": "他不是年龄大的足够去买酒",
+            "english": "he is not old enough to buy alcohol",
+            "soundmark": "/hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.747Z",
+            "updatedAt": "2024-04-28T12:26:54.030Z"
+        },
+        {
+            "order": 123,
+            "chinese": "但是",
+            "english": "but",
+            "soundmark": "/bʌt/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.816Z",
+            "updatedAt": "2024-04-28T12:26:54.030Z"
+        },
+        {
+            "order": 124,
+            "chinese": "但是他不是年龄大的足够去买酒",
+            "english": "but he is not old enough to buy alcohol",
+            "soundmark": "/bʌt/ /hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.936Z",
+            "updatedAt": "2024-04-28T12:26:54.030Z"
+        },
+        {
+            "order": 125,
+            "chinese": "他是年龄大的足够去上学",
+            "english": "he is old enough to go to school",
+            "soundmark": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.980Z",
+            "updatedAt": "2024-04-28T12:26:54.030Z"
+        },
+        {
+            "order": 126,
+            "chinese": "他是年龄大的足够去上学但是他不是年龄大的足够去买酒",
+            "english": "he is old enough to go to school but he is not old enough to buy alcohol",
+            "soundmark": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/ /bʌt/ /hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:57.986Z",
+            "updatedAt": "2024-04-28T12:26:54.030Z"
+        },
+        {
+            "order": 127,
+            "chinese": "他是年龄大的足够去上学但是不是年龄大的足够去买酒",
+            "english": "he is old enough to go to school but not old enough to buy alcohol",
+            "soundmark": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/ /bʌt/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/",
+            "courseId": "estmtjvj63tbrmhqs94ukbcl",
+            "createdAt": "2024-04-28T12:30:58.066Z",
+            "updatedAt": "2024-04-28T12:26:54.030Z"
+        }
+    ]
+}

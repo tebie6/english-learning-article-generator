@@ -1,0 +1,1263 @@
+{
+    "id": "huvigkxm1hdhjmfsdut9ocoq",
+    "title": "第三十六课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1v24y1G7hH",
+    "order": 36,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:52.534Z",
+    "updatedAt": "2024-05-23T14:06:01.063Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "重要的",
+            "english": "important",
+            "soundmark": "/ɪm'pɔrtnt/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:40.846Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 2,
+            "chinese": "更",
+            "english": "more",
+            "soundmark": "/mɔr/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:40.915Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 3,
+            "chinese": "更重要的",
+            "english": "more important",
+            "soundmark": "/mɔr/ /ɪm'pɔrtnt/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.013Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 4,
+            "chinese": "比",
+            "english": "than",
+            "soundmark": "/ðæn/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.053Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 5,
+            "chinese": "困难的",
+            "english": "difficult",
+            "soundmark": "/'dɪfɪkəlt/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.052Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 6,
+            "chinese": "中文",
+            "english": "Chinese",
+            "soundmark": "/tʃaɪˈniz/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.132Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 7,
+            "chinese": "英文",
+            "english": "English",
+            "soundmark": "/ˈɪŋɡlɪʃ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.207Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 8,
+            "chinese": "中文比英文是更难的",
+            "english": "Chinese is more difficult than English",
+            "soundmark": "/tʃaɪˈniz/ /ɪz/ /mɔr/ /'dɪfɪkəlt/ /ðæn/ /ˈɪŋɡlɪʃ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.218Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 9,
+            "chinese": "更困难的",
+            "english": "more difficult",
+            "soundmark": "/mɔr/ /'dɪfɪkəlt/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.225Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 10,
+            "chinese": "最",
+            "english": "the most",
+            "soundmark": "/ðə/ /most/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.261Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 11,
+            "chinese": "最困难的",
+            "english": "the most difficult",
+            "soundmark": "/ðə/ /most/ /'dɪfɪkəlt/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.349Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 12,
+            "chinese": "语言",
+            "english": "language",
+            "soundmark": "/'læŋɡwɪdʒ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.408Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 13,
+            "chinese": "最难的语言",
+            "english": "the most difficult language",
+            "soundmark": "/ðə/ /most/ /'dɪfɪkəlt/ /'læŋɡwɪdʒ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.470Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 14,
+            "chinese": "中文",
+            "english": "Chinese",
+            "soundmark": "/tʃaɪˈniz/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.494Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 15,
+            "chinese": "中文是最难的语言",
+            "english": "Chinese is the most difficult language",
+            "soundmark": "/tʃaɪˈniz/ /ɪz/ /ðə/ /most/ /'dɪfɪkəlt/ /'læŋɡwɪdʒ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.553Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 16,
+            "chinese": "世界",
+            "english": "the world",
+            "soundmark": "/ðə/ /wɝld/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.569Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 17,
+            "chinese": "在世界上",
+            "english": "in the world",
+            "soundmark": "/ɪn/ /ðə/ /wɝld/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.664Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 18,
+            "chinese": "中文是世界上最难的语言",
+            "english": "Chinese is the most difficult language in the world",
+            "soundmark": "/tʃaɪˈniz/ /ɪz/ /ðə/ /most/ /'dɪfɪkəlt/ /'læŋɡwɪdʒ/ /ɪn/ /ðə/ /wɝld/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.705Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 19,
+            "chinese": "问题",
+            "english": "problem",
+            "soundmark": "/'prɑbləm/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.720Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 20,
+            "chinese": "最困难的",
+            "english": "the most difficult",
+            "soundmark": "/ðə/ /most/ /'dɪfɪkəlt/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.724Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 21,
+            "chinese": "最困难的问题",
+            "english": "the most difficult problem",
+            "soundmark": "/ðə/ /most/ /'dɪfɪkəlt/ /'prɑbləm/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.854Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 22,
+            "chinese": "这是最困难的问题",
+            "english": "this is the most difficult problem",
+            "soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /'dɪfɪkəlt/ /'prɑbləm/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.909Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 23,
+            "chinese": "在世界上",
+            "english": "in the world",
+            "soundmark": "/ɪn/ /ðə/ /wɝld/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.932Z",
+            "updatedAt": "2024-04-28T12:26:54.070Z"
+        },
+        {
+            "order": 24,
+            "chinese": "这是在世界上最困难的问题",
+            "english": "this is the most difficult problem in the world",
+            "soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /'dɪfɪkəlt/ /'prɑbləm/ /ɪn/ /ðə/ /wɝld/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:41.950Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 25,
+            "chinese": "最",
+            "english": "the most",
+            "soundmark": "/ðə/ /most/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.006Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 26,
+            "chinese": "危险的",
+            "english": "dangerous",
+            "soundmark": "/ˈdendʒərəs/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.050Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 27,
+            "chinese": "最危险的",
+            "english": "the most dangerous",
+            "soundmark": "/ðə/ /most/ /ˈdendʒərəs/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.122Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 28,
+            "chinese": "人",
+            "english": "man",
+            "soundmark": "/mæn/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.154Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 29,
+            "chinese": "最危险的人",
+            "english": "the most dangerous man",
+            "soundmark": "/ðə/ /most/ /ˈdendʒərəs/ /mæn/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.220Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 30,
+            "chinese": "他是最危险的人",
+            "english": "he is the most dangerous man",
+            "soundmark": "/hi/ /ɪz/ /ðə/ /most/ /ˈdendʒərəs/ /mæn/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.235Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 31,
+            "chinese": "在世界上",
+            "english": "in the world",
+            "soundmark": "/ɪn/ /ðə/ /wɝld/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.357Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 32,
+            "chinese": "他是在世界上最危险的人",
+            "english": "he is the most dangerous man in the world",
+            "soundmark": "/hi/ /ɪz/ /ðə/ /most/ /ˈdendʒərəs/ /mæn/ /ɪn/ /ðə/ /wɝld/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.380Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 33,
+            "chinese": "他们是",
+            "english": "they are",
+            "soundmark": "/ðe/ /ɚ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.404Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 34,
+            "chinese": "他们是危险的",
+            "english": "they are dangerous",
+            "soundmark": "/ðe/ /ɚ/ /ˈdendʒərəs/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.413Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 35,
+            "chinese": "以为",
+            "english": "to think",
+            "soundmark": "/tə/ /θɪŋk/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.441Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 36,
+            "chinese": "你以为",
+            "english": "you think",
+            "soundmark": "/ju/ /θɪŋk/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.541Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 37,
+            "chinese": "你以为他们是危险的",
+            "english": "you think they are dangerous",
+            "soundmark": "/ju/ /θɪŋk/ /ðe/ /ɚ/ /ˈdendʒərəs/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.563Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 38,
+            "chinese": "更",
+            "english": "more",
+            "soundmark": "/mɔr/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.600Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 39,
+            "chinese": "更危险的",
+            "english": "more dangerous",
+            "soundmark": "/mɔr/ /ˈdendʒərəs/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.717Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 40,
+            "chinese": "他们是更危险的",
+            "english": "they are more dangerous",
+            "soundmark": "/ðe/ /ɚ/ /mɔr/ /ˈdendʒərəs/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.737Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 41,
+            "chinese": "比",
+            "english": "than",
+            "soundmark": "/ðæn/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.828Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 42,
+            "chinese": "你以为",
+            "english": "you think",
+            "soundmark": "/ju/ /θɪŋk/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.858Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 43,
+            "chinese": "比你以为",
+            "english": "than you think",
+            "soundmark": "/ðæn/ /ju/ /θɪŋk/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.882Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 44,
+            "chinese": "他们是比你以为的更危险的",
+            "english": "they are more dangerous than you think",
+            "soundmark": "/ðe/ /ɚ/ /mɔr/ /ˈdendʒərəs/ /ðæn/ /ju/ /θɪŋk/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:42.907Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 45,
+            "chinese": "宝贵的",
+            "english": "valuable",
+            "soundmark": "/'væljuəbl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.018Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 46,
+            "chinese": "最",
+            "english": "the most",
+            "soundmark": "/ðə/ /most/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.052Z",
+            "updatedAt": "2024-04-28T12:26:54.071Z"
+        },
+        {
+            "order": 47,
+            "chinese": "最宝贵的",
+            "english": "the most valuable",
+            "soundmark": "/ðə/ /most/ /'væljuəbl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.054Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 48,
+            "chinese": "东西",
+            "english": "thing",
+            "soundmark": "/θɪŋ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.143Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 49,
+            "chinese": "最宝贵的东西",
+            "english": "the most valuable thing",
+            "soundmark": "/ðə/ /most/ /'væljuəbl/ /θɪŋ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.221Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 50,
+            "chinese": "时间",
+            "english": "time",
+            "soundmark": "/taɪm/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.251Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 51,
+            "chinese": "时间是最宝贵的东西",
+            "english": "time is the most valuable thing",
+            "soundmark": "/taɪm/ /ɪz/ /ðə/ /most/ /'væljuəbl/ /θɪŋ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.284Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 52,
+            "chinese": "拥有",
+            "english": "to have",
+            "soundmark": "/tə/ /hæv/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.309Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 53,
+            "chinese": "我们",
+            "english": "we",
+            "soundmark": "/wi/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.318Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 54,
+            "chinese": "我们拥有",
+            "english": "we have",
+            "soundmark": "/wi/ /hæv/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.416Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 55,
+            "chinese": "那个东西",
+            "english": "the thing",
+            "soundmark": "/ðə/ /θɪŋ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.467Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 56,
+            "chinese": "我们拥有那个东西",
+            "english": "we have the thing",
+            "soundmark": "/wi/ /hæv/ /ðə/ /θɪŋ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.499Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 57,
+            "chinese": "我们拥有的那个东西",
+            "english": "the thing we have",
+            "soundmark": "/ðə/ /θɪŋ/ /wi/ /hæv/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.546Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 58,
+            "chinese": "最宝贵的东西",
+            "english": "the most valuable thing",
+            "soundmark": "/ðə/ /most/ /'væljuəbl/ /θɪŋ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.648Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 59,
+            "chinese": "我们拥有的最宝贵的东西",
+            "english": "the most valuable thing we have",
+            "soundmark": "/ðə/ /most/ /'væljuəbl/ /θɪŋ/ /wi/ /hæv/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.718Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 60,
+            "chinese": "时间是我们拥有的最宝贵的东西",
+            "english": "time is the most valuable thing we have",
+            "soundmark": "/taɪm/ /ɪz/ /ðə/ /most/ /'væljuəbl/ /θɪŋ/ /wi/ /hæv/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.733Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 61,
+            "chinese": "宝贵的",
+            "english": "valuable",
+            "soundmark": "/'væljuəbl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.758Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 62,
+            "chinese": "更",
+            "english": "more",
+            "soundmark": "/mɔr/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.758Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 63,
+            "chinese": "更宝贵的",
+            "english": "more valuable",
+            "soundmark": "/mɔr/ /'væljuəbl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.758Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 64,
+            "chinese": "时间",
+            "english": "time",
+            "soundmark": "/taɪm/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.910Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 65,
+            "chinese": "时间是更宝贵的",
+            "english": "time is more valuable",
+            "soundmark": "/taɪm/ /ɪz/ /mɔr/ /'væljuəbl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.910Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 66,
+            "chinese": "金钱",
+            "english": "money",
+            "soundmark": "/ˈmʌni/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:43.944Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 67,
+            "chinese": "比",
+            "english": "than",
+            "soundmark": "/ðæn/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.045Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 68,
+            "chinese": "比金钱",
+            "english": "than money",
+            "soundmark": "/ðæn/ /ˈmʌni/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.152Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 69,
+            "chinese": "时间比金钱是更宝贵的",
+            "english": "time is more valuable than money",
+            "soundmark": "/taɪm/ /ɪz/ /mɔr/ /'væljuəbl/ /ðæn/ /ˈmʌni/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.197Z",
+            "updatedAt": "2024-04-28T12:26:54.072Z"
+        },
+        {
+            "order": 70,
+            "chinese": "车",
+            "english": "car",
+            "soundmark": "/kɑr/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.200Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 71,
+            "chinese": "新的",
+            "english": "new",
+            "soundmark": "/nu/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.207Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 72,
+            "chinese": "一辆新车",
+            "english": "a new car",
+            "soundmark": "/ə/ /nu/ /kɑr/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.222Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 73,
+            "chinese": "昂贵的",
+            "english": "expensive",
+            "soundmark": "/ɪk'spɛnsɪv/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.281Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 74,
+            "chinese": "一辆新车是昂贵的",
+            "english": "a new car is expensive",
+            "soundmark": "/ə/ /nu/ /kɑr/ /ɪz/ /ɪk'spɛnsɪv/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.353Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 75,
+            "chinese": "更",
+            "english": "more",
+            "soundmark": "/mɔr/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.397Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 76,
+            "chinese": "更贵的",
+            "english": "more expensive",
+            "soundmark": "/mɔr/ /ɪk'spɛnsɪv/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.405Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 77,
+            "chinese": "一辆新车是更贵的",
+            "english": "a new car is more expensive",
+            "soundmark": "/ə/ /nu/ /kɑr/ /ɪz/ /mɔr/ /ɪk'spɛnsɪv/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.549Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 78,
+            "chinese": "使用",
+            "english": "to use",
+            "soundmark": "/tə/ /juz/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.641Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 79,
+            "chinese": "用过的",
+            "english": "used",
+            "soundmark": "/juzd/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.651Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 80,
+            "chinese": "一辆旧车",
+            "english": "a used car",
+            "soundmark": "/ə/ /juzd/ /kɑr/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.656Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 81,
+            "chinese": "比",
+            "english": "than",
+            "soundmark": "/ðæn/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.667Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 82,
+            "chinese": "比一辆旧车",
+            "english": "than a used car",
+            "soundmark": "/ðæn/ /ə/ /juzd/ /kɑr/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.703Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 83,
+            "chinese": "一辆新车比一辆旧车是更贵的",
+            "english": "a new car is more expensive than a used car",
+            "soundmark": "/ə/ /nu/ /kɑr/ /ɪz/ /mɔr/ /ɪk'spɛnsɪv/ /ðæn/ /ə/ /juzd/ /kɑr/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.792Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 84,
+            "chinese": "昂贵的",
+            "english": "expensive",
+            "soundmark": "/ɪk'spɛnsɪv/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.797Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 85,
+            "chinese": "礼物",
+            "english": "gift",
+            "soundmark": "/ɡɪft/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.868Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 86,
+            "chinese": "这个礼物是昂贵的",
+            "english": "the gift is expensive",
+            "soundmark": "/ðə/ /ɡɪft/ /ɪz/ /ɪk'spɛnsɪv/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:44.900Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 87,
+            "chinese": "最",
+            "english": "the most",
+            "soundmark": "/ðə/ /most/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.039Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 88,
+            "chinese": "最贵的",
+            "english": "the most expensive",
+            "soundmark": "/ðə/ /most/ /ɪk'spɛnsɪv/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.087Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 89,
+            "chinese": "礼物",
+            "english": "gift",
+            "soundmark": "/ɡɪft/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.100Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 90,
+            "chinese": "最贵的礼物",
+            "english": "the most expensive gift",
+            "soundmark": "/ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.132Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 91,
+            "chinese": "找到",
+            "english": "to find",
+            "soundmark": "/tə/ /faɪnd/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.153Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 92,
+            "chinese": "你可以",
+            "english": "you can",
+            "soundmark": "/ju/ /kən/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.207Z",
+            "updatedAt": "2024-04-28T12:26:54.073Z"
+        },
+        {
+            "order": 93,
+            "chinese": "你可以找到",
+            "english": "you can find",
+            "soundmark": "/ju/ /kən/ /faɪnd/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.236Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 94,
+            "chinese": "你可以找到最贵的礼物",
+            "english": "you can find the most expensive gift",
+            "soundmark": "/ju/ /kən/ /faɪnd/ /ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.305Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 95,
+            "chinese": "你可以找到的最贵的礼物",
+            "english": "the most expensive gift you can find",
+            "soundmark": "/ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/ /ju/ /kən/ /faɪnd/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.316Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 96,
+            "chinese": "你应该",
+            "english": "you should",
+            "soundmark": "/ju/ /ʃʊd/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.401Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 97,
+            "chinese": "买",
+            "english": "to buy",
+            "soundmark": "/tə/ /baɪ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.536Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 98,
+            "chinese": "你应该买",
+            "english": "you should buy",
+            "soundmark": "/ju/ /ʃʊd/ /baɪ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.552Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 99,
+            "chinese": "你可以找到的最贵的礼物",
+            "english": "the most expensive gift you can find",
+            "soundmark": "/ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/ /ju/ /kən/ /faɪnd/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.560Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 100,
+            "chinese": "你应该买你可以找到的最贵的礼物",
+            "english": "you should buy the most expensive gift you can find",
+            "soundmark": "/ju/ /ʃʊd/ /baɪ/ /ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/ /ju/ /kən/ /faɪnd/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.584Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 101,
+            "chinese": "你的女儿",
+            "english": "your daughter",
+            "soundmark": "/jʊr/ /'dɔtɚ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.649Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 102,
+            "chinese": "你应该买",
+            "english": "you should buy",
+            "soundmark": "/ju/ /ʃʊd/ /baɪ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.691Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 103,
+            "chinese": "你应该买给你的女儿",
+            "english": "you should buy your daughter",
+            "soundmark": "/ju/ /ʃʊd/ /baɪ/ /jʊr/ /'dɔtɚ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.727Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 104,
+            "chinese": "你可以找到的最贵的礼物",
+            "english": "the most expensive gift you can find",
+            "soundmark": "/ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/ /ju/ /kən/ /faɪnd/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.759Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 105,
+            "chinese": "你应该买给你的女儿你可以找到的最贵的礼物",
+            "english": "you should buy your daughter the most expensive gift you can find",
+            "soundmark": "/ju/ /ʃʊd/ /baɪ/ /jʊr/ /'dɔtɚ/ /ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/ /ju/ /kən/ /faɪnd/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.819Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 106,
+            "chinese": "最贵的",
+            "english": "the most expensive",
+            "soundmark": "/ðə/ /most/ /ɪk'spɛnsɪv/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.888Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 107,
+            "chinese": "旅馆",
+            "english": "hotel",
+            "soundmark": "/ho'tɛl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:45.967Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 108,
+            "chinese": "最贵的旅馆",
+            "english": "the most expensive hotel",
+            "soundmark": "/ðə/ /most/ /ɪk'spɛnsɪv/ /ho'tɛl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.008Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 109,
+            "chinese": "这是最贵的旅馆",
+            "english": "this is the most expensive hotel",
+            "soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /ɪk'spɛnsɪv/ /ho'tɛl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.037Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 110,
+            "chinese": "这个城市",
+            "english": "the city",
+            "soundmark": "/ðə/ /'sɪti/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.062Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 111,
+            "chinese": "在这个城市里",
+            "english": "in the city",
+            "soundmark": "/ɪn/ /ðə/ /'sɪti/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.131Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 112,
+            "chinese": "这是在这个城市里最贵的旅馆",
+            "english": "this is the most expensive hotel in the city",
+            "soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /ɪk'spɛnsɪv/ /ho'tɛl/ /ɪn/ /ðə/ /'sɪti/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.154Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 113,
+            "chinese": "漂亮的",
+            "english": "beautiful",
+            "soundmark": "/'bjʊtəfəl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.216Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 114,
+            "chinese": "最",
+            "english": "the most",
+            "soundmark": "/ðə/ /most/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.225Z",
+            "updatedAt": "2024-04-28T12:26:54.074Z"
+        },
+        {
+            "order": 115,
+            "chinese": "最漂亮的",
+            "english": "the most beautiful",
+            "soundmark": "/ðə/ /most/ /'bjʊtəfəl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.325Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 116,
+            "chinese": "女孩",
+            "english": "girl",
+            "soundmark": "/ɡɝl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.387Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 117,
+            "chinese": "最漂亮的女孩",
+            "english": "the most beautiful girl",
+            "soundmark": "/ðə/ /most/ /'bjʊtəfəl/ /ɡɝl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.406Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 118,
+            "chinese": "你是",
+            "english": "you are",
+            "soundmark": "/ju/ /ɚ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.453Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 119,
+            "chinese": "你是最漂亮的女孩",
+            "english": "you are the most beautiful girl",
+            "soundmark": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /ɡɝl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.492Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 120,
+            "chinese": "在世界上",
+            "english": "in the world",
+            "soundmark": "/ɪn/ /ðə/ /wɝld/ /C40/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.582Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 121,
+            "chinese": "你是世界上最漂亮的女孩",
+            "english": "you are the most beautiful girl in the world",
+            "soundmark": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /ɡɝl/ /ɪn/ /ðə/ /wɝld/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.584Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 122,
+            "chinese": "漂亮的",
+            "english": "beautiful",
+            "soundmark": "/'bjʊtəfəl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.654Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 123,
+            "chinese": "更",
+            "english": "more",
+            "soundmark": "/mɔr/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.663Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 124,
+            "chinese": "更漂亮的",
+            "english": "more beautiful",
+            "soundmark": "/mɔr/ /'bjʊtəfəl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.722Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 125,
+            "chinese": "你是",
+            "english": "you are",
+            "soundmark": "/ju/ /ɚ/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.839Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 126,
+            "chinese": "你是更漂亮的",
+            "english": "you are more beautiful",
+            "soundmark": "/ju/ /ɚ/ /mɔr/ /'bjʊtəfəl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.841Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 127,
+            "chinese": "笑",
+            "english": "to smile",
+            "soundmark": "/tə/ /smaɪl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.880Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 128,
+            "chinese": "你笑",
+            "english": "you smile",
+            "soundmark": "/ju/ /smaɪl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.894Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 129,
+            "chinese": "当......的时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:46.938Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 130,
+            "chinese": "当你笑的时候",
+            "english": "when you smile",
+            "soundmark": "/wɛn/ /ju/ /smaɪl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:47.028Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 131,
+            "chinese": "当你笑的时候你是更漂亮的",
+            "english": "you are more beautiful when you smile",
+            "soundmark": "/ju/ /ɚ/ /mɔr/ /'bjʊtəfəl/ /wɛn/ /ju/ /smaɪl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:47.092Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 132,
+            "chinese": "看",
+            "english": "to look",
+            "soundmark": "/tə/ /lʊk/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:47.103Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 133,
+            "chinese": "你看起来更漂亮",
+            "english": "you look more beautiful",
+            "soundmark": "/ju/ /lʊk/ /mɔr/ /'bjʊtəfəl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:47.169Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 134,
+            "chinese": "当你笑的时候",
+            "english": "when you smile",
+            "soundmark": "/wɛn/ /ju/ /smaɪl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:47.219Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 135,
+            "chinese": "你看起来是更漂亮的当你笑的时候",
+            "english": "you look more beautiful when you smile",
+            "soundmark": "/ju/ /lʊk/ /mɔr/ /'bjʊtəfəl/ /wɛn/ /ju/ /smaɪl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:47.287Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 136,
+            "chinese": "但是",
+            "english": "but",
+            "soundmark": "/bʌt/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:47.349Z",
+            "updatedAt": "2024-04-28T12:26:54.075Z"
+        },
+        {
+            "order": 137,
+            "chinese": "但是你看起来是更漂亮的当你笑的时候",
+            "english": "but you look more beautiful when you smile",
+            "soundmark": "/bʌt/ /ju/ /lʊk/ /mɔr/ /'bjʊtəfəl/ /wɛn/ /ju/ /smaɪl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:47.350Z",
+            "updatedAt": "2024-04-28T12:26:54.076Z"
+        },
+        {
+            "order": 138,
+            "chinese": "你是世界上最漂亮的女孩",
+            "english": "you are the most beautiful girl in the world",
+            "soundmark": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /ɡɝl/ /ɪn/ /ðə/ /wɝld/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:47.373Z",
+            "updatedAt": "2024-04-28T12:26:54.076Z"
+        },
+        {
+            "order": 139,
+            "chinese": "你是世界上最漂亮的女孩但是当你笑的时候你看起来是更漂亮的",
+            "english": "you are the most beautiful girl in the world but you look more beautiful when you smile",
+            "soundmark": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /ɡɝl/ /ɪn/ /ðə/ /wɝld/ /bʌt/ /ju/ /lʊk/ /mɔr/ /'bjʊtəfəl/ /wɛn/ /ju/ /smaɪl/",
+            "courseId": "huvigkxm1hdhjmfsdut9ocoq",
+            "createdAt": "2024-04-28T12:31:47.396Z",
+            "updatedAt": "2024-04-28T12:26:54.076Z"
+        }
+    ]
+}

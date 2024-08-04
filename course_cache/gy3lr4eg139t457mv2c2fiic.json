@@ -1,0 +1,1173 @@
+{
+    "id": "gy3lr4eg139t457mv2c2fiic",
+    "title": "第二十三课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1WY4y1V72t",
+    "order": 23,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:51.986Z",
+    "updatedAt": "2024-05-23T14:05:59.626Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "手",
+            "english": "hand",
+            "soundmark": "/hænd/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:11.808Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 2,
+            "chinese": "手（复数）",
+            "english": "hands",
+            "soundmark": "/hændz/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:11.829Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 3,
+            "chinese": "递给",
+            "english": "to hand",
+            "soundmark": "/tə/ /hænd/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:11.908Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 4,
+            "chinese": "他",
+            "english": "him",
+            "soundmark": "/hɪm/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:11.986Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 5,
+            "chinese": "递给他",
+            "english": "to hand him",
+            "soundmark": "/tə/ /hænd/ /hɪm/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.005Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 6,
+            "chinese": "香蕉",
+            "english": "banana",
+            "soundmark": "/bə'nænə/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.075Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 7,
+            "chinese": "一个香蕉",
+            "english": "a banana",
+            "soundmark": "/ə/ /bə'nænə/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.202Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 8,
+            "chinese": "递给他一个香蕉",
+            "english": "to hand him a banana",
+            "soundmark": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.243Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 9,
+            "chinese": "他",
+            "english": "he",
+            "soundmark": "/hi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.255Z",
+            "updatedAt": "2024-04-28T12:26:53.987Z"
+        },
+        {
+            "order": 10,
+            "chinese": "想要",
+            "english": "want",
+            "soundmark": "/wɑnt/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.284Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 11,
+            "chinese": "他想要",
+            "english": "he wants",
+            "soundmark": "/hi/ /wɑnts/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.331Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 12,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.331Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 13,
+            "chinese": "他想要我",
+            "english": "he wants me",
+            "soundmark": "/hi/ /wɑnts/ /mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.364Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 14,
+            "chinese": "递给他一个香蕉",
+            "english": "to hand him a banana",
+            "soundmark": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.435Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 15,
+            "chinese": "他想要我递给他一个香蕉",
+            "english": "he wants me to hand him a banana",
+            "soundmark": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.514Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 16,
+            "chinese": "手机",
+            "english": "phone",
+            "soundmark": "/fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.537Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 17,
+            "chinese": "他的",
+            "english": "his",
+            "soundmark": "/hɪz/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.696Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 18,
+            "chinese": "他的手机",
+            "english": "his phone",
+            "soundmark": "/hɪz/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.699Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 19,
+            "chinese": "递给他",
+            "english": "to hand him",
+            "soundmark": "/tə/ /hænd/ /hɪm/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.726Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 20,
+            "chinese": "递给他他的手机",
+            "english": "to hand him his phone",
+            "soundmark": "/tə/ /hænd/ /hɪm/ /hɪz/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.818Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 21,
+            "chinese": "他想要我",
+            "english": "he wants me",
+            "soundmark": "/hi/ /wɑnts/ /mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.829Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 22,
+            "chinese": "他想要我递给他他的手机",
+            "english": "he wants me to hand him his phone",
+            "soundmark": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /hɪz/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.853Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 23,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.884Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 24,
+            "chinese": "递给我",
+            "english": "to hand me",
+            "soundmark": "/tə/ /hænd/ /mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:12.987Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 25,
+            "chinese": "包",
+            "english": "bag",
+            "soundmark": "/bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.013Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 26,
+            "chinese": "你的",
+            "english": "your",
+            "soundmark": "/jʊr/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.065Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 27,
+            "chinese": "你的包",
+            "english": "your bag",
+            "soundmark": "/jʊr/ /bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.128Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 28,
+            "chinese": "递给我你的包",
+            "english": "to hand me your bag",
+            "soundmark": "/tə/ /hænd/ /mi/ /jʊr/ /bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.183Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 29,
+            "chinese": "想要",
+            "english": "want",
+            "soundmark": "/wɑnt/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.201Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 30,
+            "chinese": "我想要你",
+            "english": "I want you",
+            "soundmark": "/aɪ/ /wɑnt/ /ju/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.265Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 31,
+            "chinese": "我想要你递给我你的包",
+            "english": "I want you to hand me your bag",
+            "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.320Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 32,
+            "chinese": "学校",
+            "english": "school",
+            "soundmark": "/skul/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.330Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 33,
+            "chinese": "包",
+            "english": "bag",
+            "soundmark": "/bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.372Z",
+            "updatedAt": "2024-04-28T12:26:53.988Z"
+        },
+        {
+            "order": 34,
+            "chinese": "书包",
+            "english": "school bag",
+            "soundmark": "/skul/ /bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.428Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 35,
+            "chinese": "你的",
+            "english": "your",
+            "soundmark": "/jʊr/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.515Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 36,
+            "chinese": "你的书包",
+            "english": "your school bag",
+            "soundmark": "/jʊr/ /skul/ /bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.564Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 37,
+            "chinese": "递给我",
+            "english": "to hand me",
+            "soundmark": "/tə/ /hænd/ /mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.560Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 38,
+            "chinese": "递给我你的书包",
+            "english": "to hand me your school bag",
+            "soundmark": "/tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.631Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 39,
+            "chinese": "我想要你",
+            "english": "I want you",
+            "soundmark": "/aɪ/ /wɑnt/ /ju/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.698Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 40,
+            "chinese": "我想要你递给我你的书包",
+            "english": "I want you to hand me your school bag",
+            "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.715Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 41,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.780Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 42,
+            "chinese": "我的书包",
+            "english": "my school bag",
+            "soundmark": "/maɪ/ /skul/ /bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.869Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 43,
+            "chinese": "递给我我的书包",
+            "english": "to hand me my school bag",
+            "soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.888Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 44,
+            "chinese": "我想要你",
+            "english": "I want you",
+            "soundmark": "/aɪ/ /wɑnt/ /ju/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:13.998Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 45,
+            "chinese": "我想要你递给我我的书包",
+            "english": "I want you to hand me my school bag",
+            "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.014Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 46,
+            "chinese": "手机",
+            "english": "phone",
+            "soundmark": "/fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.079Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 47,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.116Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 48,
+            "chinese": "我的手机",
+            "english": "my phone",
+            "soundmark": "/maɪ/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.159Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 49,
+            "chinese": "递给我",
+            "english": "to hand me",
+            "soundmark": "/tə/ /hænd/ /mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.202Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 50,
+            "chinese": "递给我我的手机",
+            "english": "to hand me my phone",
+            "soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.242Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 51,
+            "chinese": "我想要你",
+            "english": "I want you",
+            "soundmark": "/aɪ/ /wɑnt/ /ju/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.331Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 52,
+            "chinese": "我想要你递给我我的手机",
+            "english": "I want you to hand me my phone",
+            "soundmark": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.374Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 53,
+            "chinese": "需要",
+            "english": "need",
+            "soundmark": "/nid/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.397Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 54,
+            "chinese": "你需要",
+            "english": "you need",
+            "soundmark": "/ju/ /nid/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.433Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 55,
+            "chinese": "递给我我的手机",
+            "english": "to hand me my phone",
+            "soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.524Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 56,
+            "chinese": "你需要递给我我的手机",
+            "english": "you need to hand me my phone",
+            "soundmark": "/ju/ /nid/ /tə/ /hænd/ /mi/ /maɪ/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.524Z",
+            "updatedAt": "2024-04-28T12:26:53.989Z"
+        },
+        {
+            "order": 57,
+            "chinese": "你递给我我的手机",
+            "english": "you hand me my phone",
+            "soundmark": "/ju/ /hænd/ /mi/ /maɪ/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.608Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 58,
+            "chinese": "递给我我的手机",
+            "english": "hand me my phone",
+            "soundmark": "/hænd/ /mi/ /maɪ/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.616Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 59,
+            "chinese": "一个香蕉",
+            "english": "a banana",
+            "soundmark": "/ə/ /bə'nænə/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.708Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 60,
+            "chinese": "递给我一个香蕉",
+            "english": "hand me a banana",
+            "soundmark": "/hænd/ /mi/ /ə/ /bə'nænə/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.710Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 61,
+            "chinese": "我的包",
+            "english": "my bag",
+            "soundmark": "/maɪ/ /bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.773Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 62,
+            "chinese": "递给我我的包",
+            "english": "hand me my bag",
+            "soundmark": "/hænd/ /mi/ /maɪ/ /bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.882Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 63,
+            "chinese": "请求麻烦一下",
+            "english": "please",
+            "soundmark": "/pliz/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.936Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 64,
+            "chinese": "麻烦一下递给我我的包",
+            "english": "please hand me my bag",
+            "soundmark": "/pliz/ /hænd/ /mi/ /maɪ/ /bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:14.972Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 65,
+            "chinese": "麻烦一下递给我一个香蕉",
+            "english": "please hand me a banana",
+            "soundmark": "/pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.018Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 66,
+            "chinese": "麻烦一下递给我我的手机",
+            "english": "please hand me my phone",
+            "soundmark": "/pliz/ /hænd/ /mi/ /maɪ/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.077Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 67,
+            "chinese": "可以",
+            "english": "can",
+            "soundmark": "/kən/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.116Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 68,
+            "chinese": "你可以",
+            "english": "you can",
+            "soundmark": "/ju/ /kən/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.169Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 69,
+            "chinese": "递给我我的手机",
+            "english": "to hand me my phone",
+            "soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.169Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 70,
+            "chinese": "你可以递给我我的手机",
+            "english": "you can hand me my phone",
+            "soundmark": "/ju/ /kən/ /hænd/ /mi/ /maɪ/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.217Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 71,
+            "chinese": "你可以递给我我的手机吗？",
+            "english": "can you hand me my phone",
+            "soundmark": "/kən/ /ju/ /hænd/ /mi/ /maɪ/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.232Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 72,
+            "chinese": "你可以......吗？",
+            "english": "can you",
+            "soundmark": "/kən/ /ju/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.342Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 73,
+            "chinese": "一个香蕉",
+            "english": "a banana",
+            "soundmark": "/ə/ /bə'nænə/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.423Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 74,
+            "chinese": "递给我",
+            "english": "to hand me",
+            "soundmark": "/tə/ /hænd/ /mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.452Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 75,
+            "chinese": "递给我一个香蕉",
+            "english": "to hand me a banana",
+            "soundmark": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.515Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 76,
+            "chinese": "你可以递给我一个香蕉吗？",
+            "english": "can you hand me a banana",
+            "soundmark": "/kən/ /ju/ /hænd/ /mi/ /ə/ /bə'nænə/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.547Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 77,
+            "chinese": "请求麻烦一下",
+            "english": "please",
+            "soundmark": "/pliz/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.612Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 78,
+            "chinese": "你可以麻烦一下递给我我的手机吗？",
+            "english": "can you please hand me my phone",
+            "soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.623Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 79,
+            "chinese": "你可以麻烦一下......吗？",
+            "english": "can you please",
+            "soundmark": "/kən/ /ju/ /pliz/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.659Z",
+            "updatedAt": "2024-04-28T12:26:53.990Z"
+        },
+        {
+            "order": 80,
+            "chinese": "递给我一个香蕉",
+            "english": "to hand me a banana",
+            "soundmark": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.662Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 81,
+            "chinese": "你可以麻烦一下递给我一个香蕉吗？",
+            "english": "can you please hand me a banana",
+            "soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.734Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 82,
+            "chinese": "可以",
+            "english": "can",
+            "soundmark": "/kən/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.775Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 83,
+            "chinese": "可以（礼貌版）",
+            "english": "could",
+            "soundmark": "/kʊd/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.873Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 84,
+            "chinese": "你可以麻烦一下递给我一个香蕉吗？",
+            "english": "can you please hand me a banana",
+            "soundmark": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:15.964Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 85,
+            "chinese": "你可以（礼貌版）麻烦一下递给我一个香蕉吗？",
+            "english": "could you please hand me a banana",
+            "soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.004Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 86,
+            "chinese": "你可以（礼貌版）麻烦一下......吗？",
+            "english": "could you please",
+            "soundmark": "/kʊd/ /ju/ /pliz/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.019Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 87,
+            "chinese": "递给我我的手机",
+            "english": "to hand me my phone",
+            "soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.079Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 88,
+            "chinese": "你可以（礼貌版）麻烦一下递给我我的手机吗？",
+            "english": "could you please hand me my phone",
+            "soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.117Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 89,
+            "chinese": "你可以（礼貌版）麻烦一下......吗？",
+            "english": "could you please",
+            "soundmark": "/kʊd/ /ju/ /pliz/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.126Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 90,
+            "chinese": "递给我我的书包",
+            "english": "to hand me my school bag",
+            "soundmark": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.168Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 91,
+            "chinese": "你可以（礼貌版）麻烦一下递给我我的书包吗？",
+            "english": "could you please hand me my school bag",
+            "soundmark": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.226Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 92,
+            "chinese": "你可以（礼貌版）麻烦一下......吗？",
+            "english": "could you please",
+            "soundmark": "/kʊd/ /ju/ /pliz/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.250Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 93,
+            "chinese": "帮助",
+            "english": "to help",
+            "soundmark": "/tə/ /hɛlp/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.328Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 94,
+            "chinese": "帮助我",
+            "english": "to help me",
+            "soundmark": "/tə/ /hɛlp/ /mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.469Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 95,
+            "chinese": "你可以（礼貌版）麻烦一下帮助我吗？",
+            "english": "could you please help me",
+            "soundmark": "/kʊd/ /ju/ /pliz/ /hɛlp/ /mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.481Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 96,
+            "chinese": "告诉",
+            "english": "to tell",
+            "soundmark": "/tə/ /tɛl/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.530Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 97,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.540Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 98,
+            "chinese": "告诉我",
+            "english": "to tell me",
+            "soundmark": "/tə/ /tɛl/ /mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.569Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 99,
+            "chinese": "事实；真相",
+            "english": "the truth",
+            "soundmark": "/ðə/ /trʊθ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.642Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 100,
+            "chinese": "告诉我真相",
+            "english": "to tell me the truth",
+            "soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.655Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 101,
+            "chinese": "请问你可以......吗？",
+            "english": "could you please",
+            "soundmark": "/kʊd/ /ju/ /pliz/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.685Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 102,
+            "chinese": "请问你可以告诉我真相吗？",
+            "english": "could you please tell me the truth",
+            "soundmark": "/kʊd/ /ju/ /pliz/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.741Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 103,
+            "chinese": "离开",
+            "english": "to leave",
+            "soundmark": "/tə/ /liv/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.781Z",
+            "updatedAt": "2024-04-28T12:26:53.991Z"
+        },
+        {
+            "order": 104,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.916Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 105,
+            "chinese": "离开我",
+            "english": "to leave me",
+            "soundmark": "/tə/ /liv/ /mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:16.986Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 106,
+            "chinese": "单独；一个人",
+            "english": "alone",
+            "soundmark": "/ə'lon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.001Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 107,
+            "chinese": "离开我（让我变成）单独一个人",
+            "english": "to leave me alone",
+            "soundmark": "/tə/ /liv/ /mi/ /ə'lon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.036Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 108,
+            "chinese": "请问你可以......吗？",
+            "english": "could you please",
+            "soundmark": "/kʊd/ /ju/ /pliz/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.054Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 109,
+            "chinese": "请问你可以走开别烦我吗？",
+            "english": "could you please leave me alone",
+            "soundmark": "/kʊd/ /ju/ /pliz/ /tə/ /liv/ /mi/ /ə'lon/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.121Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 110,
+            "chinese": "打电话",
+            "english": "to call",
+            "soundmark": "/tə/ /kɔl/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.136Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 111,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.155Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 112,
+            "chinese": "打电话给我",
+            "english": "to call me",
+            "soundmark": "/tə/ /kɔl/ /mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.222Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 113,
+            "chinese": "今晚",
+            "english": "tonight",
+            "soundmark": "/tə'naɪt/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.236Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 114,
+            "chinese": "今晚打电话给我",
+            "english": "to call me tonight",
+            "soundmark": "/tə/ /kɔl/ /mi/ /tə'naɪt/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.365Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 115,
+            "chinese": "请问你可以......吗？",
+            "english": "could you please",
+            "soundmark": "/kʊd/ /ju/ /pliz/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.441Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 116,
+            "chinese": "请问你可以今晚打电话给我吗？",
+            "english": "could you please call me tonight",
+            "soundmark": "/kʊd/ /ju/ /pliz/ /kɔl/ /mi/ /tə'naɪt/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.480Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 117,
+            "chinese": "给",
+            "english": "to give",
+            "soundmark": "/tə/ /ɡɪv/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.514Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 118,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.550Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 119,
+            "chinese": "给我",
+            "english": "to give me",
+            "soundmark": "/tə/ /ɡɪv/ /mi/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.551Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 120,
+            "chinese": "手",
+            "english": "hand",
+            "soundmark": "/hænd/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.650Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 121,
+            "chinese": "一只手",
+            "english": "a hand",
+            "soundmark": "/ə/ /hænd/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.668Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 122,
+            "chinese": "给我帮把手",
+            "english": "to give me a hand",
+            "soundmark": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.817Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 123,
+            "chinese": "请问你可以......吗？",
+            "english": "could you please",
+            "soundmark": "/kʊd/ /ju/ /pliz/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.895Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 124,
+            "chinese": "请问你可以给我帮把手吗？",
+            "english": "could you please give me a hand",
+            "soundmark": "/kʊd/ /ju/ /pliz/ /ɡɪv/ /mi/ /ə/ /hænd/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.927Z",
+            "updatedAt": "2024-04-28T12:26:53.992Z"
+        },
+        {
+            "order": 125,
+            "chinese": "打开",
+            "english": "to open",
+            "soundmark": "/tə/ /'opən/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.954Z",
+            "updatedAt": "2024-04-28T12:26:53.993Z"
+        },
+        {
+            "order": 126,
+            "chinese": "门",
+            "english": "the door",
+            "soundmark": "/ðə/ /dɔr/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:17.991Z",
+            "updatedAt": "2024-04-28T12:26:53.993Z"
+        },
+        {
+            "order": 127,
+            "chinese": "打开门",
+            "english": "to open the door",
+            "soundmark": "/tə/ /'opən/ /ðə/ /dɔr/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:18.031Z",
+            "updatedAt": "2024-04-28T12:26:53.993Z"
+        },
+        {
+            "order": 128,
+            "chinese": "请问你可以......吗？",
+            "english": "could you please",
+            "soundmark": "/kʊd/ /ju/ /pliz/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:18.033Z",
+            "updatedAt": "2024-04-28T12:26:53.993Z"
+        },
+        {
+            "order": 129,
+            "chinese": "请问你可以打开门吗",
+            "english": "could you please open the door",
+            "soundmark": "/kʊd/ /ju/ /pliz/ /'opən/ /ðə/ /dɔr/",
+            "courseId": "gy3lr4eg139t457mv2c2fiic",
+            "createdAt": "2024-04-28T12:30:18.044Z",
+            "updatedAt": "2024-04-28T12:26:53.993Z"
+        }
+    ]
+}

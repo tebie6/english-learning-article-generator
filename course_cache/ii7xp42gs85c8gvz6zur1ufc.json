@@ -1,0 +1,1542 @@
+{
+    "id": "ii7xp42gs85c8gvz6zur1ufc",
+    "title": "第十课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV15r4y1D778",
+    "order": 10,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:51.144Z",
+    "updatedAt": "2024-05-23T14:05:58.218Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "到达",
+            "english": "to get",
+            "soundmark": "/tə/ /ɡɛt/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.063Z",
+            "updatedAt": "2024-04-28T12:26:53.882Z"
+        },
+        {
+            "order": 2,
+            "chinese": "那里",
+            "english": "there",
+            "soundmark": "/ðɛr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.071Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 3,
+            "chinese": "到达那里",
+            "english": "to get there",
+            "soundmark": "/tə/ /ɡɛt/ /ðɛr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.106Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 4,
+            "chinese": "需要",
+            "english": "need",
+            "soundmark": "/nid/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.121Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 5,
+            "chinese": "我需要到达那里",
+            "english": "I need to get there",
+            "soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.147Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 6,
+            "chinese": "我不需要到达那里",
+            "english": "I don't need to get there",
+            "soundmark": "/aɪ/ /dont/ /nid/ /tə/ /ɡɛt/ /ðɛr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.156Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 7,
+            "chinese": "很快；马上",
+            "english": "soon",
+            "soundmark": "/sun/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.327Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 8,
+            "chinese": "我需要马上到达那里",
+            "english": "I need to get there soon",
+            "soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /sun/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.458Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 9,
+            "chinese": "可能",
+            "english": "possible",
+            "soundmark": "/'pɑsəbl/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.468Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 10,
+            "chinese": "尽快；尽可能地快",
+            "english": "as soon as possible",
+            "soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.478Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 11,
+            "chinese": "我需要尽快到达那里",
+            "english": "I need to get there as soon as possible",
+            "soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /əz/ /sun/ /əz/ /'pɑsəbl/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.506Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 12,
+            "chinese": "如何",
+            "english": "how",
+            "soundmark": "/haʊ/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.574Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 13,
+            "chinese": "如何到达那里",
+            "english": "how to get there",
+            "soundmark": "/haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.622Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 14,
+            "chinese": "知道",
+            "english": "to know",
+            "soundmark": "/tə/ /no/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.621Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 15,
+            "chinese": "知道如何到达那里",
+            "english": "to know how to get there",
+            "soundmark": "/tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.651Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 16,
+            "chinese": "想要",
+            "english": "want",
+            "soundmark": "/wɑnt/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.668Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 17,
+            "chinese": "我想要知道如何到达那里",
+            "english": "I want to know how to get there",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.793Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 18,
+            "chinese": "只是",
+            "english": "just",
+            "soundmark": "/dʒʌst/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.913Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 19,
+            "chinese": "我只是想要知道如何到达那里",
+            "english": "I just want to know how to get there",
+            "soundmark": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.916Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 20,
+            "chinese": "时间",
+            "english": "time",
+            "soundmark": "/taɪm/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.925Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 21,
+            "chinese": "准时",
+            "english": "on time",
+            "soundmark": "/ɑn/ /taɪm/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:20.974Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 22,
+            "chinese": "我只是想要知道如何准时到达那里",
+            "english": "I just want to know how to get there on time",
+            "soundmark": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.062Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 23,
+            "chinese": "你必须到达那里",
+            "english": "you have to get there",
+            "soundmark": "/ju/ /hæv/ /tə/ /ɡɛt/ /ðɛr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.137Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 24,
+            "chinese": "今晚",
+            "english": "tonight",
+            "soundmark": "/tə'naɪt/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.148Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 25,
+            "chinese": "你必须今晚到达那里",
+            "english": "you have to get there tonight",
+            "soundmark": "/ju/ /hæv/ /tə/ /ɡɛt/ /ðɛr/ /tə'naɪt/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.164Z",
+            "updatedAt": "2024-04-28T12:26:53.883Z"
+        },
+        {
+            "order": 26,
+            "chinese": "你不必今晚到达那里",
+            "english": "you don't have to get there tonight",
+            "soundmark": "/ju/ /dont/ /hæv/ /tə/ /ɡɛt/ /ðɛr/ /tə'naɪt/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.167Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 27,
+            "chinese": "可以",
+            "english": "can",
+            "soundmark": "/kæn/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.245Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 28,
+            "chinese": "我们可以",
+            "english": "we can",
+            "soundmark": "/wi/ /kæn/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.358Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 29,
+            "chinese": "到达那里",
+            "english": "to get there",
+            "soundmark": "/tə/ /ɡɛt/ /ðɛr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.373Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 30,
+            "chinese": "我们可以到达那里",
+            "english": "we can get there",
+            "soundmark": "/wi/ /kæn/ /tə/ /ɡɛt/ /ðɛr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.374Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 31,
+            "chinese": "准时",
+            "english": "on time",
+            "soundmark": "/ɑn/ /taɪm/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.433Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 32,
+            "chinese": "我们可以准时到达那里",
+            "english": "we can get there on time",
+            "soundmark": "/wi/ /kæn/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.556Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 33,
+            "chinese": "我们不可以准时到达那里",
+            "english": "we can not get there on time",
+            "soundmark": "/wi/ /kæn/ /nɑt/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.644Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 34,
+            "chinese": "我们准时到达那里",
+            "english": "we get there on time",
+            "soundmark": "/wi/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.662Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 35,
+            "chinese": "她准时到达那里",
+            "english": "she gets there on time",
+            "soundmark": "/ʃi/ /ɡɛts/ /ðɛr/ /ɑn/ /taɪm/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.666Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 36,
+            "chinese": "我准时到达那里",
+            "english": "I get there on time",
+            "soundmark": "/aɪ/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.667Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 37,
+            "chinese": "你准时到达那里",
+            "english": "you get there on time",
+            "soundmark": "/ju/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.695Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 38,
+            "chinese": "忘记",
+            "english": "to forget",
+            "soundmark": "/tə/ /fɚ'ɡɛt/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.798Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 39,
+            "chinese": "你忘记",
+            "english": "you forget",
+            "soundmark": "/ju/ /fɚ'ɡɛt/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.825Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 40,
+            "chinese": "锁",
+            "english": "to lock",
+            "soundmark": "/tə/ /lɑk/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.835Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 41,
+            "chinese": "门",
+            "english": "the door",
+            "soundmark": "/ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:21.876Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 42,
+            "chinese": "锁门",
+            "english": "to lock the door",
+            "soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.058Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 43,
+            "chinese": "你忘记锁门",
+            "english": "you forget to lock the door",
+            "soundmark": "/ju/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.140Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 44,
+            "chinese": "你不要忘记锁门",
+            "english": "you don't forget to lock the door",
+            "soundmark": "/ju/ /dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.140Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 45,
+            "chinese": "不要忘记锁门",
+            "english": "don't forget to lock the door",
+            "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.163Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 46,
+            "chinese": "离开",
+            "english": "to leave",
+            "soundmark": "/tə/ /liv/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.160Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 47,
+            "chinese": "房子；家",
+            "english": "the house",
+            "soundmark": "/ðə/ /haʊs/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.170Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 48,
+            "chinese": "离开家",
+            "english": "to leave the house",
+            "soundmark": "/tə/ /liv/ /ðə/ /haʊs/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.241Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 49,
+            "chinese": "你离开家",
+            "english": "you leave the house",
+            "soundmark": "/ju/ /liv/ /ðə/ /haʊs/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.268Z",
+            "updatedAt": "2024-04-28T12:26:53.884Z"
+        },
+        {
+            "order": 50,
+            "chinese": "当......的时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.282Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 51,
+            "chinese": "当你离开家的时候",
+            "english": "when you leave the house",
+            "soundmark": "/wɛn/ /ju/ /liv/ /ðə/ /haʊs/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.319Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 52,
+            "chinese": "不要忘记锁门当你离开家的时候",
+            "english": "don't forget to lock the door when you leave the house",
+            "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.545Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 53,
+            "chinese": "记得",
+            "english": "to remember",
+            "soundmark": "/tə/ /rɪ'mɛmbɚ/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.591Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 54,
+            "chinese": "锁门",
+            "english": "to lock the door",
+            "soundmark": "/tə/ /lɑk/ /ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.648Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 55,
+            "chinese": "你记得锁门",
+            "english": "you remember to lock the door",
+            "soundmark": "/ju/ /rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.656Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 56,
+            "chinese": "记得锁门",
+            "english": "remember to lock the door",
+            "soundmark": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.666Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 57,
+            "chinese": "记得锁门当你离开家的时候",
+            "english": "remember to lock the door when you leave the house",
+            "soundmark": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.675Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 58,
+            "chinese": "告诉",
+            "english": "to tell",
+            "soundmark": "/tə/ /tɛl/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.689Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 59,
+            "chinese": "告诉她",
+            "english": "to tell her",
+            "soundmark": "/tə/ /tɛl/ /hɚ/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.712Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 60,
+            "chinese": "事实",
+            "english": "the truth",
+            "soundmark": "/ðə/ /trʊθ/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.737Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 61,
+            "chinese": "告诉她事实",
+            "english": "to tell her the truth",
+            "soundmark": "/tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:22.763Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 62,
+            "chinese": "记得告诉她事实",
+            "english": "remember to tell her the truth",
+            "soundmark": "/rɪ'mɛmbɚ/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.035Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 63,
+            "chinese": "这里",
+            "english": "here",
+            "soundmark": "/hɪr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.038Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 64,
+            "chinese": "到达这里",
+            "english": "to get here",
+            "soundmark": "/tə/ /ɡɛt/ /hɪr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.110Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 65,
+            "chinese": "我到达这里",
+            "english": "I get here",
+            "soundmark": "/aɪ/ /ɡɛt/ /hɪr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.147Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 66,
+            "chinese": "她到达这里",
+            "english": "she gets here",
+            "soundmark": "/ʃi/ /ɡɛts/ /hɪr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.148Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 67,
+            "chinese": "当......的时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.157Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 68,
+            "chinese": "当她到达这里的时候",
+            "english": "when she gets here",
+            "soundmark": "/wɛn/ /ʃi/ /ɡɛts/ /hɪr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.162Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 69,
+            "chinese": "记得告诉她事实当她到达这里的时候",
+            "english": "remember to tell her the truth when she gets here",
+            "soundmark": "/rɪ'mɛmbɚ/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/ /wɛn/ /ʃi/ /ɡɛts/ /hɪr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.185Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 70,
+            "chinese": "不要忘记告诉她事实当她到达这里的时候",
+            "english": "don't forget to tell her the truth when she gets here",
+            "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/ /wɛn/ /ʃi/ /ɡɛts/ /hɪr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.197Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 71,
+            "chinese": "支付",
+            "english": "to pay",
+            "soundmark": "/tə/ /pe/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.205Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 72,
+            "chinese": "账单",
+            "english": "the bill",
+            "soundmark": "/ðə/ /bɪl/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.501Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 73,
+            "chinese": "支付账单",
+            "english": "to pay the bill",
+            "soundmark": "/tə/ /pe/ /ðə/ /bɪl/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.544Z",
+            "updatedAt": "2024-04-28T12:26:53.885Z"
+        },
+        {
+            "order": 74,
+            "chinese": "记得支付账单",
+            "english": "remember to pay the bill",
+            "soundmark": "/rɪ'mɛmbɚ/ /tə/ /pe/ /ðə/ /bɪl/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.605Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 75,
+            "chinese": "不要忘记支付账单",
+            "english": "don't forget to pay the bill",
+            "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /pe/ /ðə/ /bɪl/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.636Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 76,
+            "chinese": "当......的时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.654Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 77,
+            "chinese": "当你离开的时候",
+            "english": "when you leave",
+            "soundmark": "/wɛn/ /ju/ /liv/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.664Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 78,
+            "chinese": "不要忘记支付账单当你离开的时候",
+            "english": "don't forget to pay the bill when you leave",
+            "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /pe/ /ðə/ /bɪl/ /wɛn/ /ju/ /liv/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.666Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 79,
+            "chinese": "记得支付账单当你离开的时候",
+            "english": "remember to pay the bill when you leave",
+            "soundmark": "/rɪ'mɛmbɚ/ /tə/ /pe/ /ðə/ /bɪl/ /wɛn/ /ju/ /liv/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.675Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 80,
+            "chinese": "做",
+            "english": "to do",
+            "soundmark": "/tə/ /du/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.712Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 81,
+            "chinese": "家务",
+            "english": "the housework",
+            "soundmark": "/ðə/ /'haʊswɝk/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.847Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 82,
+            "chinese": "做家务",
+            "english": "to do the housework",
+            "soundmark": "/tə/ /du/ /ðə/ /'haʊswɝk/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.954Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 83,
+            "chinese": "不要忘记做家务",
+            "english": "don't forget to do the housework",
+            "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:23.987Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 84,
+            "chinese": "记得做家务",
+            "english": "remember to do the housework",
+            "soundmark": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.065Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 85,
+            "chinese": "家",
+            "english": "home",
+            "soundmark": "/hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.087Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 86,
+            "chinese": "在家里",
+            "english": "at home",
+            "soundmark": "/ət/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.105Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 87,
+            "chinese": "你",
+            "english": "you",
+            "soundmark": "/ju/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.156Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 88,
+            "chinese": "你在家里",
+            "english": "you are at home",
+            "soundmark": "/ju/ /ɚ/ /ət/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.171Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 89,
+            "chinese": "当......的时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.184Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 90,
+            "chinese": "当你在家里的时候",
+            "english": "when you are at home",
+            "soundmark": "/wɛn/ /ju/ /ɚ/ /ət/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.243Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 91,
+            "chinese": "记得做家务当你在家里的时候",
+            "english": "remember to do the housework when you are at home",
+            "soundmark": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.344Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 92,
+            "chinese": "不要忘记做家务当你在家里的时候",
+            "english": "don't forget to do the housework when you are at home",
+            "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.399Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 93,
+            "chinese": "手",
+            "english": "hand",
+            "soundmark": "/hænd/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.421Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 94,
+            "chinese": "手（复数）",
+            "english": "hands",
+            "soundmark": "/hændz/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.515Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 95,
+            "chinese": "你的手",
+            "english": "your hands",
+            "soundmark": "/jʊr/ /hænds/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.527Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 96,
+            "chinese": "洗",
+            "english": "to wash",
+            "soundmark": "/tə/ /wɑʃ/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.554Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 97,
+            "chinese": "洗你的手",
+            "english": "to wash your hands",
+            "soundmark": "/tə/ /wɑʃ/ /jʊr/ /hænds/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.654Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 98,
+            "chinese": "不要忘记",
+            "english": "don't forget",
+            "soundmark": "/dont/ /fɚ'ɡɛt/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.664Z",
+            "updatedAt": "2024-04-28T12:26:53.886Z"
+        },
+        {
+            "order": 99,
+            "chinese": "不要忘记洗你的手",
+            "english": "don't forget to wash your hands",
+            "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /wɑʃ/ /jʊr/ /hænds/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.691Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 100,
+            "chinese": "吃",
+            "english": "to eat",
+            "soundmark": "/tə/ /it/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.755Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 101,
+            "chinese": "食物",
+            "english": "the food",
+            "soundmark": "/ðə/ /fud/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.843Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 102,
+            "chinese": "吃食物",
+            "english": "to eat the food",
+            "soundmark": "/tə/ /it/ /ðə/ /fud/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.858Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 103,
+            "chinese": "你可以吃食物",
+            "english": "you can eat the food",
+            "soundmark": "/ju/ /kæn/ /it/ /ðə/ /fud/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.856Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 104,
+            "chinese": "你吃食物",
+            "english": "you eat the food",
+            "soundmark": "/ju/ /it/ /ðə/ /fud/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.974Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 105,
+            "chinese": "在......之前",
+            "english": "before",
+            "soundmark": "/bɪ'fɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.977Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 106,
+            "chinese": "在你吃食物之前",
+            "english": "before you eat the food",
+            "soundmark": "/bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:24.997Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 107,
+            "chinese": "不要忘记洗你的手在你吃食物之前",
+            "english": "don't forget to wash your hands before you eat the food",
+            "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /wɑʃ/ /jʊr/ /hænds/ /bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.148Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 108,
+            "chinese": "记得洗你的手在你吃食物之前",
+            "english": "remember to wash your hands before you eat the food",
+            "soundmark": "/rɪ'mɛmbɚ/ /tə/ /wɑʃ/ /jʊr/ /hænds/ /bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.159Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 109,
+            "chinese": "到达",
+            "english": "to get",
+            "soundmark": "/tə/ /ɡɛt/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.191Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 110,
+            "chinese": "到达家；回到家",
+            "english": "to get home",
+            "soundmark": "/tə/ /ɡɛt/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.269Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 111,
+            "chinese": "需要",
+            "english": "need",
+            "soundmark": "/nid/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.289Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 112,
+            "chinese": "我需要回家",
+            "english": "I need to get home",
+            "soundmark": "/aɪ/ /nid/ /tə/ /ɡɛt/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.311Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 113,
+            "chinese": "应该",
+            "english": "should",
+            "soundmark": "/ʃʊd/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.350Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 114,
+            "chinese": "我应该回家",
+            "english": "I should get home",
+            "soundmark": "/aɪ/ /ʃʊd/ /ɡɛt/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.416Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 115,
+            "chinese": "我回家",
+            "english": "I get home",
+            "soundmark": "/aɪ/ /ɡɛt/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.423Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 116,
+            "chinese": "你回家",
+            "english": "you get home",
+            "soundmark": "/ju/ /ɡɛt/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.451Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 117,
+            "chinese": "打电话",
+            "english": "to call",
+            "soundmark": "/tə/ /kɔl/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.658Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 118,
+            "chinese": "给我打电话",
+            "english": "to call me",
+            "soundmark": "/tə/ /kɔl/ /mi/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.696Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 119,
+            "chinese": "记得给我打电话",
+            "english": "remember to call me",
+            "soundmark": "/rɪ'mɛmbɚ/ /tə/ /kɔl/ /mi/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.726Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 120,
+            "chinese": "当......的时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.766Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 121,
+            "chinese": "当你回到家的时候",
+            "english": "when you get home",
+            "soundmark": "/wɛn/ /ju/ /ɡɛt/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.782Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 122,
+            "chinese": "记得给我打电话当你回到家的时候",
+            "english": "remember to call me when you get home",
+            "soundmark": "/rɪ'mɛmbɚ/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.866Z",
+            "updatedAt": "2024-04-28T12:26:53.887Z"
+        },
+        {
+            "order": 123,
+            "chinese": "不要忘记",
+            "english": "don't forget",
+            "soundmark": "/dont/ /fɚ'ɡɛt/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.864Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 124,
+            "chinese": "不要忘记给我打电话当你回到家的时候",
+            "english": "don't forget to call me when you get home",
+            "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.873Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 125,
+            "chinese": "清理；打扫",
+            "english": "to clean",
+            "soundmark": "/tə/ /klin/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.902Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 126,
+            "chinese": "房间",
+            "english": "the room",
+            "soundmark": "/ðə/ /rum/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:25.942Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 127,
+            "chinese": "打扫房间",
+            "english": "to clean the room",
+            "soundmark": "/tə/ /klin/ /ðə/ /rum/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.161Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 128,
+            "chinese": "不要忘记打扫房间",
+            "english": "don't forget to clean the room",
+            "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /klin/ /ðə/ /rum/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.171Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 129,
+            "chinese": "当你回到家的时候",
+            "english": "when you get home",
+            "soundmark": "/wɛn/ /ju/ /ɡɛt/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.196Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 130,
+            "chinese": "不要忘记打扫房间当你回到家的时候",
+            "english": "don't forget to clean the room when you get home",
+            "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /klin/ /ðə/ /rum/ /wɛn/ /ju/ /ɡɛt/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.219Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 131,
+            "chinese": "记得打扫房间当你回到家的时候",
+            "english": "remember to clean the room when you get home",
+            "soundmark": "/rɪ'mɛmbɚ/ /tə/ /klin/ /ðə/ /rum/ /wɛn/ /ju/ /ɡɛt/ /hom/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.313Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 132,
+            "chinese": "找到",
+            "english": "to find",
+            "soundmark": "/tə/ /faɪnd/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.316Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 133,
+            "chinese": "钥匙",
+            "english": "the key",
+            "soundmark": "/ðə/ /ki/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.322Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 134,
+            "chinese": "找到钥匙",
+            "english": "to find the key",
+            "soundmark": "/tə/ /faɪnd/ /ðə/ /ki/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.348Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 135,
+            "chinese": "我需要",
+            "english": "I need",
+            "soundmark": "/aɪ/ /nid/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.375Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 136,
+            "chinese": "我需要找到钥匙",
+            "english": "I need to find the key",
+            "soundmark": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.441Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 137,
+            "chinese": "门",
+            "english": "the door",
+            "soundmark": "/ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.614Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 138,
+            "chinese": "门的钥匙",
+            "english": "the key to the door",
+            "soundmark": "/ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.666Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 139,
+            "chinese": "房子",
+            "english": "the house",
+            "soundmark": "/ðə/ /haʊs/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.757Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 140,
+            "chinese": "房子的钥匙",
+            "english": "the key to the house",
+            "soundmark": "/ðə/ /ki/ /tə/ /ðə/ /haʊs/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.767Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 141,
+            "chinese": "我需要找到门的钥匙",
+            "english": "I need to find the key to the door",
+            "soundmark": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.789Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 142,
+            "chinese": "我必须找到房子的钥匙",
+            "english": "I have to find the key to the house",
+            "soundmark": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /haʊs/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.833Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 143,
+            "chinese": "可以；能",
+            "english": "can",
+            "soundmark": "/kæn/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.874Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 144,
+            "chinese": "我能找到门的钥匙",
+            "english": "I can find the key to the door",
+            "soundmark": "/aɪ/ /kæn/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.933Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 145,
+            "chinese": "我不能找到门的钥匙",
+            "english": "I can not find the key to the door",
+            "soundmark": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.955Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 146,
+            "chinese": "我不能找到房子的钥匙",
+            "english": "I can not find the key to the house",
+            "soundmark": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /haʊs/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:26.981Z",
+            "updatedAt": "2024-04-28T12:26:53.888Z"
+        },
+        {
+            "order": 147,
+            "chinese": "弄丢了",
+            "english": "lost",
+            "soundmark": "/lɔst/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.047Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 148,
+            "chinese": "我弄丢了钥匙",
+            "english": "I lost the key",
+            "soundmark": "/aɪ/ /lɔst/ /ðə/ /ki/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.130Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 149,
+            "chinese": "门的钥匙",
+            "english": "the key to the door",
+            "soundmark": "/ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.205Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 150,
+            "chinese": "我弄丢了门的钥匙",
+            "english": "I lost the key to the door",
+            "soundmark": "/aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.224Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 151,
+            "chinese": "我觉得；我认为",
+            "english": "I think",
+            "soundmark": "/aɪ/ /θɪŋk/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.240Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 152,
+            "chinese": "我觉得我丢掉了门的钥匙",
+            "english": "I think I lost the key to the door",
+            "soundmark": "/aɪ/ /θɪŋk/ /aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.352Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 153,
+            "chinese": "因为",
+            "english": "because",
+            "soundmark": "/bɪ'kɔz/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.373Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 154,
+            "chinese": "我不能找到它",
+            "english": "I can not find it",
+            "soundmark": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ɪt/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.426Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 155,
+            "chinese": "我觉得我丢掉了门的钥匙因为我不能找到它",
+            "english": "I think I lost the key to the door because I can not find it",
+            "soundmark": "/aɪ/ /θɪŋk/ /aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/ /bɪ'kɔz/ /aɪ/ /kæn/ /nɑt/ /faɪnd/ /ɪt/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.458Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 156,
+            "chinese": "关闭",
+            "english": "to close",
+            "soundmark": "/tə/ /kloz/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.484Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 157,
+            "chinese": "窗户",
+            "english": "the window",
+            "soundmark": "/ðə/ /'wɪndo/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.487Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 158,
+            "chinese": "关闭窗户",
+            "english": "to close the window",
+            "soundmark": "/tə/ /kloz/ /ðə/ /'wɪndo/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.574Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 159,
+            "chinese": "我想要关闭窗户",
+            "english": "I want to close the window",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /kloz/ /ðə/ /'wɪndo/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.655Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 160,
+            "chinese": "记得",
+            "english": "to remember",
+            "soundmark": "/tə/ /rɪ'mɛmbɚ/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.672Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 161,
+            "chinese": "你记得关闭窗户",
+            "english": "you remember to close the window",
+            "soundmark": "/ju/ /rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.693Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 162,
+            "chinese": "记得关闭窗户",
+            "english": "remember to close the window",
+            "soundmark": "/rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.866Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 163,
+            "chinese": "不要忘记",
+            "english": "don't forget",
+            "soundmark": "/dont/ /fɚ'ɡɛt/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.883Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 164,
+            "chinese": "不要忘记关闭窗户",
+            "english": "don't forget to close the window",
+            "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kloz/ /ðə/ /'wɪndo/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.921Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 165,
+            "chinese": "当......的时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.962Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 166,
+            "chinese": "当你离开的时候",
+            "english": "when you leave",
+            "soundmark": "/wɛn/ /ju/ /liv/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:27.979Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 167,
+            "chinese": "房间",
+            "english": "the room",
+            "soundmark": "/ðə/ /rum/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:28.021Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 168,
+            "chinese": "当你离开房间的时候",
+            "english": "when you leave the room",
+            "soundmark": "/wɛn/ /ju/ /liv/ /ðə/ /rum/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:28.095Z",
+            "updatedAt": "2024-04-28T12:26:53.889Z"
+        },
+        {
+            "order": 169,
+            "chinese": "不要忘记关闭窗户当你离开房间的时候",
+            "english": "don't forget to close the window when you leave the room",
+            "soundmark": "/dont/ /fɚ'ɡɛt/ /tə/ /kloz/ /ðə/ /'wɪndo/ /wɛn/ /ju/ /liv/ /ðə/ /rum/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:28.122Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        },
+        {
+            "order": 170,
+            "chinese": "记得关闭窗户当你离开房间的时候",
+            "english": "remember to close the window when you leave the room",
+            "soundmark": "/rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/ /wɛn/ /ju/ /liv/ /ðə/ /rum/",
+            "courseId": "ii7xp42gs85c8gvz6zur1ufc",
+            "createdAt": "2024-04-28T12:28:28.142Z",
+            "updatedAt": "2024-04-28T12:26:53.890Z"
+        }
+    ]
+}

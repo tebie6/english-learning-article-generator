@@ -1,0 +1,1398 @@
+{
+    "id": "apwg0odmtfnk1nhu4fgo3q0r",
+    "title": "第三十一课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1mW4y1v7XL",
+    "order": 31,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:52.366Z",
+    "updatedAt": "2024-05-23T14:06:00.561Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "递",
+            "english": "to hand",
+            "soundmark": "/tə/ /hænd/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:06.481Z",
+            "updatedAt": "2024-04-28T12:26:54.037Z"
+        },
+        {
+            "order": 2,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:06.500Z",
+            "updatedAt": "2024-04-28T12:26:54.037Z"
+        },
+        {
+            "order": 3,
+            "chinese": "递给我",
+            "english": "to hand me",
+            "soundmark": "/tə/ /hænd/ /mi/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:06.664Z",
+            "updatedAt": "2024-04-28T12:26:54.037Z"
+        },
+        {
+            "order": 4,
+            "chinese": "钥匙",
+            "english": "key",
+            "soundmark": "/ki/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:06.744Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 5,
+            "chinese": "那个钥匙",
+            "english": "the key",
+            "soundmark": "/ðə/ /ki/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:06.746Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 6,
+            "chinese": "递给我那个钥匙",
+            "english": "to hand me the key",
+            "soundmark": "/tə/ /hænd/ /mi/ /ðə/ /ki/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:06.852Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 7,
+            "chinese": "你",
+            "english": "you",
+            "soundmark": "/ju/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:06.866Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 8,
+            "chinese": "你递给我那个钥匙",
+            "english": "you hand me the key",
+            "soundmark": "/ju/ /hænd/ /mi/ /ðə/ /ki/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:06.866Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 9,
+            "chinese": "你递那个钥匙",
+            "english": "you hand the key",
+            "soundmark": "/ju/ /hænd/ /ðə/ /ki/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:06.871Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 10,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:06.914Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 11,
+            "chinese": "你递那个钥匙给我",
+            "english": "you hand the key to me",
+            "soundmark": "/ju/ /hænd/ /ðə/ /ki/ /tə/ /mi/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:06.968Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 12,
+            "chinese": "给",
+            "english": "to give",
+            "soundmark": "/tə/ /ɡɪv/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.030Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 13,
+            "chinese": "你把那个钥匙给我",
+            "english": "you give the key to me",
+            "soundmark": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.178Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 14,
+            "chinese": "你给我那个钥匙",
+            "english": "you give me the key",
+            "soundmark": "/ju/ /ɡɪv/ /mi/ /ðə/ /ki/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.186Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 15,
+            "chinese": "你把那个钥匙给我",
+            "english": "you give the key to me",
+            "soundmark": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.259Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 16,
+            "chinese": "钱",
+            "english": "the money",
+            "soundmark": "/ðə/ /'mʌni/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.334Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 17,
+            "chinese": "你给我钱",
+            "english": "you give me the money",
+            "soundmark": "/ju/ /ɡɪv/ /mi/ /ðə/ /'mʌni/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.332Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 18,
+            "chinese": "你把钱给我",
+            "english": "you give the money to me",
+            "soundmark": "/ju/ /ɡɪv/ /ðə/ /'mʌni/ /tə/ /mi/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.331Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 19,
+            "chinese": "它",
+            "english": "it",
+            "soundmark": "/ɪt/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.360Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 20,
+            "chinese": "你把它给我",
+            "english": "you give it to me",
+            "soundmark": "/ju/ /ɡɪv/ /ɪt/ /tə/ /mi/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.408Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 21,
+            "chinese": "往回",
+            "english": "back",
+            "soundmark": "/bæk/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.434Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 22,
+            "chinese": "你把它还给我",
+            "english": "you give it back to me",
+            "soundmark": "/ju/ /ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.525Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 23,
+            "chinese": "把它还给我",
+            "english": "give it back to me",
+            "soundmark": "/ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.628Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 24,
+            "chinese": "读",
+            "english": "to read",
+            "soundmark": "/tə/ /rid/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.683Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 25,
+            "chinese": "她",
+            "english": "her",
+            "soundmark": "/hɚ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.762Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 26,
+            "chinese": "读给她",
+            "english": "to read her",
+            "soundmark": "/tə/ /rid/ /hɚ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.785Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 27,
+            "chinese": "一个故事",
+            "english": "a story",
+            "soundmark": "/ə/ /'stɔri/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.780Z",
+            "updatedAt": "2024-04-28T12:26:54.038Z"
+        },
+        {
+            "order": 28,
+            "chinese": "读给她一个故事",
+            "english": "to read her a story",
+            "soundmark": "/tə/ /rid/ /hɚ/ /ə/ /'stɔri/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.784Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 29,
+            "chinese": "我",
+            "english": "I",
+            "soundmark": "/aɪ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.846Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 30,
+            "chinese": "我读给她一个故事",
+            "english": "I read her a story",
+            "soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.865Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 31,
+            "chinese": "晚上",
+            "english": "night",
+            "soundmark": "/naɪt/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:07.932Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 32,
+            "chinese": "每一个",
+            "english": "every",
+            "soundmark": "/'ɛvri/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.022Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 33,
+            "chinese": "每天晚上",
+            "english": "every night",
+            "soundmark": "/'ɛvri/ /naɪt/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.069Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 34,
+            "chinese": "我每天晚上读给她一个故事",
+            "english": "I read her a story every night",
+            "soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/ /'ɛvri/ /naɪt/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.181Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 35,
+            "chinese": "我读一个故事",
+            "english": "I read a story",
+            "soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.197Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 36,
+            "chinese": "给她",
+            "english": "to her",
+            "soundmark": "/tə/ /hɚ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.234Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 37,
+            "chinese": "我给她读一个故事",
+            "english": "I read a story to her",
+            "soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.244Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 38,
+            "chinese": "每天晚上",
+            "english": "every night",
+            "soundmark": "/'ɛvri/ /naɪt/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.286Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 39,
+            "chinese": "我每天晚上为她读一个故事",
+            "english": "I read a story to her every night",
+            "soundmark": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.298Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 40,
+            "chinese": "就寝时间",
+            "english": "bedtime",
+            "soundmark": "/'bɛdtaɪm/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.366Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 41,
+            "chinese": "睡前故事",
+            "english": "bedtime story",
+            "soundmark": "/'bɛdtaɪm/ /'stɔri/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.441Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 42,
+            "chinese": "我每天晚上给她读一个睡前故事",
+            "english": "I read a bedtime story to her every night",
+            "soundmark": "/aɪ/ /rid/ /ə/ /'bɛdtaɪm/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.509Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 43,
+            "chinese": "我每天晚上读给她一个睡前故事",
+            "english": "I read her a bedtime story every night",
+            "soundmark": "/aɪ/ /rid/ /hɚ/ /ə/ /'bɛdtaɪm/ /'stɔri/ /'ɛvri/ /naɪt/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.520Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 44,
+            "chinese": "买",
+            "english": "to buy",
+            "soundmark": "/tə/ /baɪ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.630Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 45,
+            "chinese": "他",
+            "english": "him",
+            "soundmark": "/hɪm/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.678Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 46,
+            "chinese": "买给他",
+            "english": "to buy him",
+            "soundmark": "/tə/ /baɪ/ /hɪm/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.680Z",
+            "updatedAt": "2024-04-28T12:26:54.039Z"
+        },
+        {
+            "order": 47,
+            "chinese": "玩具",
+            "english": "toy",
+            "soundmark": "/tɔɪ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.699Z",
+            "updatedAt": "2024-04-28T12:26:54.040Z"
+        },
+        {
+            "order": 48,
+            "chinese": "一个玩具",
+            "english": "a toy",
+            "soundmark": "/ə/ /tɔɪ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.726Z",
+            "updatedAt": "2024-04-28T12:26:54.040Z"
+        },
+        {
+            "order": 49,
+            "chinese": "汽车",
+            "english": "car",
+            "soundmark": "/kɑr/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.805Z",
+            "updatedAt": "2024-04-28T12:26:54.040Z"
+        },
+        {
+            "order": 50,
+            "chinese": "一个玩具车",
+            "english": "a toy car",
+            "soundmark": "/ə/ /tɔɪ/ /kɑr/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.864Z",
+            "updatedAt": "2024-04-28T12:26:54.040Z"
+        },
+        {
+            "order": 51,
+            "chinese": "买给他一个玩具车",
+            "english": "to buy him a toy car",
+            "soundmark": "/tə/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.938Z",
+            "updatedAt": "2024-04-28T12:26:54.040Z"
+        },
+        {
+            "order": 52,
+            "chinese": "我将会",
+            "english": "I will",
+            "soundmark": "/aɪ/ /wɪl/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:08.950Z",
+            "updatedAt": "2024-04-28T12:26:54.040Z"
+        },
+        {
+            "order": 53,
+            "chinese": "我将会买给他一个玩具车",
+            "english": "I will buy him a toy car",
+            "soundmark": "/aɪ/ /wɪl/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.025Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 54,
+            "chinese": "我将会买一个玩具车",
+            "english": "I will buy a toy car",
+            "soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.066Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 55,
+            "chinese": "为他",
+            "english": "for him",
+            "soundmark": "/fɝ/ /hɪm/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.134Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 56,
+            "chinese": "我将会为他买一个玩具车",
+            "english": "I will buy a toy car for him",
+            "soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.163Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 57,
+            "chinese": "明天",
+            "english": "tomorrow",
+            "soundmark": "/tə'mɔro/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.173Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 58,
+            "chinese": "我明天将会为他买一个玩具车",
+            "english": "I will buy a toy car for him tomorrow",
+            "soundmark": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/ /tə'mɔro/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.174Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 59,
+            "chinese": "出生",
+            "english": "birth",
+            "soundmark": "/bɝθ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.309Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 60,
+            "chinese": "日",
+            "english": "day",
+            "soundmark": "/de/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.359Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 61,
+            "chinese": "生日",
+            "english": "birthday",
+            "soundmark": "/'bɝθde/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.399Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 62,
+            "chinese": "蛋糕",
+            "english": "cake",
+            "soundmark": "/kek/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.431Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 63,
+            "chinese": "生日蛋糕",
+            "english": "birthday cake",
+            "soundmark": "/'bɝθde/ /kek/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.497Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 64,
+            "chinese": "一个生日蛋糕",
+            "english": "a birthday cake",
+            "soundmark": "/ə/ /'bɝθde/ /kek/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.518Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 65,
+            "chinese": "做",
+            "english": "to make",
+            "soundmark": "/tə/ /mek/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.578Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 66,
+            "chinese": "做一个生日蛋糕",
+            "english": "to make a birthday cake",
+            "soundmark": "/tə/ /mek/ /ə/ /'bɝθde/ /kek/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.631Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 67,
+            "chinese": "我们将会",
+            "english": "we will",
+            "soundmark": "/wi/ /wɪl/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.635Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 68,
+            "chinese": "我们将会做一个生日蛋糕",
+            "english": "we will make a birthday cake",
+            "soundmark": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.698Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 69,
+            "chinese": "她",
+            "english": "her",
+            "soundmark": "/hɚ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.803Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 70,
+            "chinese": "我们将会做给她一个生日蛋糕",
+            "english": "we will make her a birthday cake",
+            "soundmark": "/wi/ /wɪl/ /mek/ /hɚ/ /ə/ /'bɝθde/ /kek/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.845Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 71,
+            "chinese": "为她",
+            "english": "for her",
+            "soundmark": "/fɚ/ /hɚ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.855Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 72,
+            "chinese": "我们将会为她做一个生日蛋糕",
+            "english": "we will make a birthday cake for her",
+            "soundmark": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.947Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 73,
+            "chinese": "做（ing形式）",
+            "english": "making",
+            "soundmark": "/'mekɪŋ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:09.954Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 74,
+            "chinese": "是;赋值(原型)",
+            "english": "be",
+            "soundmark": "/bi/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.024Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 75,
+            "chinese": "正在做",
+            "english": "be making",
+            "soundmark": "/bi/ /'mekɪŋ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.055Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 76,
+            "chinese": "我们正在做",
+            "english": "we are making",
+            "soundmark": "/wi/ /ɚ/ /'mekɪŋ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.071Z",
+            "updatedAt": "2024-04-28T12:26:54.041Z"
+        },
+        {
+            "order": 77,
+            "chinese": "一个生日蛋糕",
+            "english": "a birthday cake",
+            "soundmark": "/ə/ /'bɝθde/ /kek/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.082Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 78,
+            "chinese": "我们正在做一个生日蛋糕",
+            "english": "we are making a birthday cake",
+            "soundmark": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.196Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 79,
+            "chinese": "为她",
+            "english": "for her",
+            "soundmark": "/fɚ/ /hɚ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.290Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 80,
+            "chinese": "我们正在为她做一个生日蛋糕",
+            "english": "we are making a birthday cake for her",
+            "soundmark": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.315Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 81,
+            "chinese": "做",
+            "english": "to make",
+            "soundmark": "/tə/ /mek/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.353Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 82,
+            "chinese": "钱",
+            "english": "money",
+            "soundmark": "/'mʌni/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.382Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 83,
+            "chinese": "赚钱",
+            "english": "to make money",
+            "soundmark": "/tə/ /mek/ /'mʌni/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.465Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 84,
+            "chinese": "身体",
+            "english": "body",
+            "soundmark": "/'bɑdi/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.503Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 85,
+            "chinese": "每一个",
+            "english": "every",
+            "soundmark": "/'ɛvri/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.509Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 86,
+            "chinese": "每个人",
+            "english": "everybody",
+            "soundmark": "/'ɛvrɪbɑdi/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.514Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 87,
+            "chinese": "想要",
+            "english": "want",
+            "soundmark": "/wɑnt/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.739Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 88,
+            "chinese": "每个人想要",
+            "english": "everybody wants",
+            "soundmark": "/'ɛvrɪbɑdi/ /wɑnts/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.815Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 89,
+            "chinese": "每个人想要赚钱",
+            "english": "everybody wants to make money",
+            "soundmark": "/'ɛvrɪbɑdi/ /wɑnts/ /tə/ /mek/ /'mʌni/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.831Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 90,
+            "chinese": "需要",
+            "english": "need",
+            "soundmark": "/nid/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.831Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 91,
+            "chinese": "每个人需要赚钱",
+            "english": "everybody needs to make money",
+            "soundmark": "/'ɛvrɪbɑdi/ /nidz/ /tə/ /mek/ /'mʌni/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.871Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 92,
+            "chinese": "做",
+            "english": "to make",
+            "soundmark": "/tə/ /mek/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.948Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 93,
+            "chinese": "打电话",
+            "english": "to call",
+            "soundmark": "/tə/ /kɔl/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.956Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 94,
+            "chinese": "呼叫",
+            "english": "call",
+            "soundmark": "/kɔl/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.967Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 95,
+            "chinese": "一个呼叫",
+            "english": "a call",
+            "soundmark": "/ə/ /kɔl/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:10.975Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 96,
+            "chinese": "打一个电话",
+            "english": "to make a call",
+            "soundmark": "/tə/ /mek/ /ə/ /kɔl/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.028Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 97,
+            "chinese": "视频",
+            "english": "video",
+            "soundmark": "/'vɪdɪo/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.181Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 98,
+            "chinese": "打一个视频电话",
+            "english": "to make a video call",
+            "soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.249Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 99,
+            "chinese": "朋友",
+            "english": "friend",
+            "soundmark": "/frɛnd/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.282Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 100,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.341Z",
+            "updatedAt": "2024-04-28T12:26:54.042Z"
+        },
+        {
+            "order": 101,
+            "chinese": "我的朋友",
+            "english": "my friend",
+            "soundmark": "/maɪ/ /frɛnd/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.368Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 102,
+            "chinese": "最好的",
+            "english": "best",
+            "soundmark": "/bɛst/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.391Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 103,
+            "chinese": "我最好的朋友",
+            "english": "my best friend",
+            "soundmark": "/maɪ/ /bɛst/ /frɛnd/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.397Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 104,
+            "chinese": "打一个视频电话",
+            "english": "to make a video call",
+            "soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.471Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 105,
+            "chinese": "打一个视频电话给我最好的朋友",
+            "english": "to make a video call to my best friend",
+            "soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.504Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 106,
+            "chinese": "我想要",
+            "english": "I want",
+            "soundmark": "/aɪ/ /wɑnt/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.524Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 107,
+            "chinese": "我想要打一个视频电话",
+            "english": "I want to make a video call",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.629Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 108,
+            "chinese": "我想要打一个视频电话给我最好的朋友",
+            "english": "I want to make a video call to my best friend",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.713Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 109,
+            "chinese": "做",
+            "english": "to make",
+            "soundmark": "/tə/ /mek/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.749Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 110,
+            "chinese": "一个视频",
+            "english": "a video",
+            "soundmark": "/ə/ /'vɪdɪo/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.847Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 111,
+            "chinese": "做一个视频",
+            "english": "to make a video",
+            "soundmark": "/tə/ /mek/ /ə/ /'vɪdɪo/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.853Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 112,
+            "chinese": "我想要做一个视频",
+            "english": "I want to make a video",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.868Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 113,
+            "chinese": "如何",
+            "english": "how",
+            "soundmark": "/haʊ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.917Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 114,
+            "chinese": "学习",
+            "english": "to learn",
+            "soundmark": "/tə/ /lɝn/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:11.979Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 115,
+            "chinese": "如何学习",
+            "english": "how to learn",
+            "soundmark": "/haʊ/ /tə/ /lɝn/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.014Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 116,
+            "chinese": "英语",
+            "english": "English",
+            "soundmark": "/ˈɪŋɡlɪʃ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.023Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 117,
+            "chinese": "如何学习英语",
+            "english": "how to learn English",
+            "soundmark": "/haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.099Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 118,
+            "chinese": "关于",
+            "english": "about",
+            "soundmark": "/ə'baʊt/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.148Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 119,
+            "chinese": "关于如何学习英语",
+            "english": "about how to learn English",
+            "soundmark": "/ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.200Z",
+            "updatedAt": "2024-04-28T12:26:54.043Z"
+        },
+        {
+            "order": 120,
+            "chinese": "我想要做一个视频",
+            "english": "I want to make a video",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.299Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 121,
+            "chinese": "我想要做一个关于如何学习英语的视频",
+            "english": "I want to make a video about how to learn English",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.301Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 122,
+            "chinese": "改变",
+            "english": "to change",
+            "soundmark": "/tə/ /tʃendʒ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.389Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 123,
+            "chinese": "改变",
+            "english": "change",
+            "soundmark": "/tʃendʒ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.422Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 124,
+            "chinese": "做",
+            "english": "to make",
+            "soundmark": "/tə/ /mek/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.471Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 125,
+            "chinese": "做改变",
+            "english": "to make a change",
+            "soundmark": "/tə/ /mek/ /ə/ /tʃendʒ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.513Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 126,
+            "chinese": "决定",
+            "english": "to decide",
+            "soundmark": "/tə/ /dɪ'saɪd/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.518Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 127,
+            "chinese": "决定做改变",
+            "english": "to decide to make a change",
+            "soundmark": "/tə/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.541Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 128,
+            "chinese": "我们",
+            "english": "we",
+            "soundmark": "/wi/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.584Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 129,
+            "chinese": "我们决定做改变",
+            "english": "we decide to make a change",
+            "soundmark": "/wi/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.650Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 130,
+            "chinese": "我们（过去）决定做改变",
+            "english": "we decided to make a change",
+            "soundmark": "/wi/ /dɪ'saɪdɪd/ /tə/ /mek/ /ə/ /tʃendʒ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.752Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 131,
+            "chinese": "决定",
+            "english": "to decide",
+            "soundmark": "/tə/ /dɪ'saɪd/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.758Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 132,
+            "chinese": "决定",
+            "english": "decision",
+            "soundmark": "/dɪ'sɪʒn/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.895Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 133,
+            "chinese": "做",
+            "english": "to make",
+            "soundmark": "/tə/ /mek/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.925Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 134,
+            "chinese": "做决定",
+            "english": "to make a decision",
+            "soundmark": "/tə/ /mek/ /ə/ /dɪ'sɪʒn/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.969Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 135,
+            "chinese": "我们需要",
+            "english": "we need",
+            "soundmark": "/wi/ /nid/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:12.987Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 136,
+            "chinese": "我们需要做决定",
+            "english": "we need to make a decision",
+            "soundmark": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.020Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 137,
+            "chinese": "现在",
+            "english": "now",
+            "soundmark": "/naʊ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.020Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 138,
+            "chinese": "我们现在需要做决定",
+            "english": "we need to make a decision now",
+            "soundmark": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.128Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 139,
+            "chinese": "我认为",
+            "english": "I think",
+            "soundmark": "/aɪ/ /θɪŋk/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.199Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 140,
+            "chinese": "我认为我们现在需要做决定",
+            "english": "I think we need to make a decision now",
+            "soundmark": "/aɪ/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.214Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 141,
+            "chinese": "不",
+            "english": "don't",
+            "soundmark": "/dont/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.352Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 142,
+            "chinese": "我不认为我们现在需要做决定",
+            "english": "I don't think we need to make a decision now",
+            "soundmark": "/aɪ/ /dont/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.417Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 143,
+            "chinese": "朋友",
+            "english": "friends",
+            "soundmark": "/frɛndz/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.421Z",
+            "updatedAt": "2024-04-28T12:26:54.044Z"
+        },
+        {
+            "order": 144,
+            "chinese": "做",
+            "english": "to make",
+            "soundmark": "/tə/ /mek/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.434Z",
+            "updatedAt": "2024-04-28T12:26:54.045Z"
+        },
+        {
+            "order": 145,
+            "chinese": "交朋友",
+            "english": "to make friends",
+            "soundmark": "/tə/ /mek/ /frɛndz/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.481Z",
+            "updatedAt": "2024-04-28T12:26:54.045Z"
+        },
+        {
+            "order": 146,
+            "chinese": "你",
+            "english": "you",
+            "soundmark": "/ju/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.524Z",
+            "updatedAt": "2024-04-28T12:26:54.045Z"
+        },
+        {
+            "order": 147,
+            "chinese": "你可以",
+            "english": "you can",
+            "soundmark": "/ju/ /kæn/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.578Z",
+            "updatedAt": "2024-04-28T12:26:54.045Z"
+        },
+        {
+            "order": 148,
+            "chinese": "你可以交朋友",
+            "english": "you can make friends",
+            "soundmark": "/ju/ /kæn/ /mek/ /frɛndz/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.658Z",
+            "updatedAt": "2024-04-28T12:26:54.045Z"
+        },
+        {
+            "order": 149,
+            "chinese": "和",
+            "english": "with",
+            "soundmark": "/wɪð/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.683Z",
+            "updatedAt": "2024-04-28T12:26:54.045Z"
+        },
+        {
+            "order": 150,
+            "chinese": "他们",
+            "english": "them",
+            "soundmark": "/ðəm/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.799Z",
+            "updatedAt": "2024-04-28T12:26:54.045Z"
+        },
+        {
+            "order": 151,
+            "chinese": "和他们",
+            "english": "with them",
+            "soundmark": "/wɪð/ /ðəm/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.864Z",
+            "updatedAt": "2024-04-28T12:26:54.045Z"
+        },
+        {
+            "order": 152,
+            "chinese": "你可以和他们交朋友",
+            "english": "you can make friends with them",
+            "soundmark": "/ju/ /kæn/ /mek/ /frɛndz/ /wɪð/ /ðəm/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.879Z",
+            "updatedAt": "2024-04-28T12:26:54.045Z"
+        },
+        {
+            "order": 153,
+            "chinese": "不可以",
+            "english": "can't",
+            "soundmark": "/kænt/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.919Z",
+            "updatedAt": "2024-04-28T12:26:54.045Z"
+        },
+        {
+            "order": 154,
+            "chinese": "你不可以和他们交朋友",
+            "english": "you can't make friends with them",
+            "soundmark": "/ju/ /kænt/ /mek/ /frɛndz/ /wɪð/ /ðəm/",
+            "courseId": "apwg0odmtfnk1nhu4fgo3q0r",
+            "createdAt": "2024-04-28T12:31:13.920Z",
+            "updatedAt": "2024-04-28T12:26:54.045Z"
+        }
+    ]
+}

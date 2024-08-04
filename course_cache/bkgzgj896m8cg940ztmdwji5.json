@@ -1,0 +1,1992 @@
+{
+    "id": "bkgzgj896m8cg940ztmdwji5",
+    "title": "第八课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1Zh41147LX",
+    "order": 8,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:51.155Z",
+    "updatedAt": "2024-05-23T14:05:58.097Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "我想要",
+            "english": "I want",
+            "soundmark": "/aɪ/ /wɑnt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:58.789Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 2,
+            "chinese": "待着；留下",
+            "english": "to stay",
+            "soundmark": "/tə/ /ste/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:58.876Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 3,
+            "chinese": "我想要待着",
+            "english": "I want to stay",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /ste/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:58.891Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 4,
+            "chinese": "这里",
+            "english": "here",
+            "soundmark": "/hɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:58.920Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 5,
+            "chinese": "我想要待在这里",
+            "english": "I want to stay here",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /ste/ /hɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:58.937Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 6,
+            "chinese": "和你一起",
+            "english": "with you",
+            "soundmark": "/wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.046Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 7,
+            "chinese": "我想要和你一起待在这里",
+            "english": "I want to stay here with you",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.092Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 8,
+            "chinese": "我不想和你一起待在这里",
+            "english": "I don't want to stay here with you",
+            "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.102Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 9,
+            "chinese": "计划；打算",
+            "english": "plan",
+            "soundmark": "/plæn/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.184Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 10,
+            "chinese": "我打算",
+            "english": "I plan",
+            "soundmark": "/aɪ/ /plæn/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.256Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 11,
+            "chinese": "我打算待在这里",
+            "english": "I plan to stay here",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.305Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 12,
+            "chinese": "和你一起",
+            "english": "with you",
+            "soundmark": "/wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.344Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 13,
+            "chinese": "我打算和你一起待在这里",
+            "english": "I plan to stay here with you",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.361Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 14,
+            "chinese": "我不打算和你一起待在这里",
+            "english": "I don't plan to stay here with you",
+            "soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.457Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 15,
+            "chinese": "知道",
+            "english": "to know",
+            "soundmark": "/tə/ /no/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.543Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 16,
+            "chinese": "想要知道",
+            "english": "want to know",
+            "soundmark": "/wɑnt/ /tə/ /no/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.596Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 17,
+            "chinese": "他们想要知道",
+            "english": "they want to know",
+            "soundmark": "/ðe/ /wɑnt/ /tə/ /no/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.638Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 18,
+            "chinese": "只是；仅仅",
+            "english": "just",
+            "soundmark": "/dʒʌst/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.747Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 19,
+            "chinese": "他们只是想要知道",
+            "english": "they just want to know",
+            "soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.768Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 20,
+            "chinese": "是否",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.785Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 21,
+            "chinese": "他们只是想要知道是否我打算和你一起待在这里",
+            "english": "they just want to know if I plan to stay here with you",
+            "soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.816Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 22,
+            "chinese": "原因",
+            "english": "the reason",
+            "soundmark": "/ðə/ /ˈrizən/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.815Z",
+            "updatedAt": "2024-04-28T12:26:53.862Z"
+        },
+        {
+            "order": 23,
+            "chinese": "他们只是想要知道原因",
+            "english": "they just want to know the reason",
+            "soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.889Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 24,
+            "chinese": "为什么",
+            "english": "why",
+            "soundmark": "/waɪ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.971Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 25,
+            "chinese": "他们只是想要知道原因为什么我不打算和你一起待在这里",
+            "english": "they just want to know the reason why I don't plan to stay here with you",
+            "soundmark": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/ /waɪ/ /aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:27:59.988Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 26,
+            "chinese": "你打算",
+            "english": "you plan",
+            "soundmark": "/ju/ /plæn/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.088Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 27,
+            "chinese": "你打算待在这里",
+            "english": "you plan to stay here",
+            "soundmark": "/ju/ /plæn/ /tə/ /ste/ /hɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.103Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 28,
+            "chinese": "和我一起",
+            "english": "with me",
+            "soundmark": "/wɪð/ /mi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.187Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 29,
+            "chinese": "你打算和我一起待在这里",
+            "english": "you plan to stay here with me",
+            "soundmark": "/ju/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.236Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 30,
+            "chinese": "你不打算和我一起待在这里",
+            "english": "you don't plan to stay here with me",
+            "soundmark": "/ju/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.272Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 31,
+            "chinese": "和他一起",
+            "english": "with him",
+            "soundmark": "/wɪð/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.299Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 32,
+            "chinese": "你打算和他一起待在这里",
+            "english": "you plan to stay here with him",
+            "soundmark": "/ju/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.309Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 33,
+            "chinese": "你不打算和他一起待在这里",
+            "english": "you don't plan to stay here with him",
+            "soundmark": "/ju/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.384Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 34,
+            "chinese": "我们",
+            "english": "we",
+            "soundmark": "/wi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.439Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 35,
+            "chinese": "我们打算和他一起待在这里",
+            "english": "we plan to stay here with him",
+            "soundmark": "/wi/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.474Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 36,
+            "chinese": "我们不打算和他一起待在这里",
+            "english": "we don't plan to stay here with him",
+            "soundmark": "/wi/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.536Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 37,
+            "chinese": "他们",
+            "english": "they",
+            "soundmark": "/ðe/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.608Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 38,
+            "chinese": "他们打算和他一起待在这里",
+            "english": "they plan to stay here with him",
+            "soundmark": "/ðe/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.618Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 39,
+            "chinese": "他们不打算和他一起待在这里",
+            "english": "they don't plan to stay here with him",
+            "soundmark": "/ðe/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/ /him/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.692Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 40,
+            "chinese": "和我们一起",
+            "english": "with us",
+            "soundmark": "/wɪð/ /ʌs/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.714Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 41,
+            "chinese": "他们打算和我们一起待在这里",
+            "english": "they plan to stay here with us",
+            "soundmark": "/ðe/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.815Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 42,
+            "chinese": "他们不打算和我们一起待在这里",
+            "english": "they don't plan to stay here with us",
+            "soundmark": "/ðe/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.892Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 43,
+            "chinese": "他打算",
+            "english": "he plans",
+            "soundmark": "/hi/ /plænz/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.895Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 44,
+            "chinese": "他打算和我们一起待在这里",
+            "english": "he plans to stay here with us",
+            "soundmark": "/hi/ /plænz/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.976Z",
+            "updatedAt": "2024-04-28T12:26:53.863Z"
+        },
+        {
+            "order": 45,
+            "chinese": "他不打算和我们一起待在这里",
+            "english": "he doesn't plan to stay here with us",
+            "soundmark": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:00.987Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 46,
+            "chinese": "和他们一起",
+            "english": "with them",
+            "soundmark": "/wɪð/ /ðəm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.052Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 47,
+            "chinese": "他打算和他们一起待在这里",
+            "english": "he plans to stay here with them",
+            "soundmark": "/hi/ /plænz/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.109Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 48,
+            "chinese": "他不打算和他们一起待在这里",
+            "english": "he doesn't plan to stay here with them",
+            "soundmark": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.125Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 49,
+            "chinese": "她打算",
+            "english": "she plans",
+            "soundmark": "/ʃi/ /plænz/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.139Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 50,
+            "chinese": "她打算和他们一起待在这里",
+            "english": "she plans to stay here with them",
+            "soundmark": "/ʃi/ /plænz/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.173Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 51,
+            "chinese": "她不打算和他们一起待在这里",
+            "english": "she doesn't plan to stay here with them",
+            "soundmark": "/ʃi/ /ˈdʌznt/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.337Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 52,
+            "chinese": "星荣打算",
+            "english": "Xingrong plans",
+            "soundmark": "/plænz/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.357Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 53,
+            "chinese": "星荣打算和小月亮待在这里",
+            "english": "Xingrong plans to stay here with Xiaoyueliang",
+            "soundmark": "/plænz/ /tə/ /ste/ /hɪr/ /wɪð/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.403Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 54,
+            "chinese": "离开",
+            "english": "to leave",
+            "soundmark": "/tə/ /liv/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.430Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 55,
+            "chinese": "想要",
+            "english": "want",
+            "soundmark": "/wɑnt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.479Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 56,
+            "chinese": "我想要离开",
+            "english": "I want to leave",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /liv/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.511Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 57,
+            "chinese": "我不想离开",
+            "english": "I don't want to leave",
+            "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /liv/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.592Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 58,
+            "chinese": "打算；计划",
+            "english": "plan",
+            "soundmark": "/plæn/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.638Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 59,
+            "chinese": "我打算离开",
+            "english": "I plan to leave",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /liv/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.626Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 60,
+            "chinese": "这里",
+            "english": "here",
+            "soundmark": "/hɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.626Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 61,
+            "chinese": "我打算离开这里",
+            "english": "I plan to leave here",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /liv/ /hɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.810Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 62,
+            "chinese": "明天",
+            "english": "tomorrow",
+            "soundmark": "/tə'mɔro/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.878Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 63,
+            "chinese": "我打算明天离开这里",
+            "english": "I plan to leave here tomorrow",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /liv/ /hɪr/ /tə'mɔro/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.899Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 64,
+            "chinese": "晚上",
+            "english": "night",
+            "soundmark": "/naɪt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:01.941Z",
+            "updatedAt": "2024-04-28T12:26:53.864Z"
+        },
+        {
+            "order": 65,
+            "chinese": "我打算明天晚上离开这里",
+            "english": "I plan to leave here tomorrow night",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /liv/ /hɪr/ /tə'mɔro/ /naɪt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.036Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 66,
+            "chinese": "我不打算明天晚上离开这里",
+            "english": "I don't plan to leave here tomorrow night",
+            "soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /liv/ /hɪr/ /tə'mɔro/ /naɪt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.077Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 67,
+            "chinese": "离开",
+            "english": "to leave",
+            "soundmark": "/tə/ /liv/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.110Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 68,
+            "chinese": "这座城市",
+            "english": "the city",
+            "soundmark": "/ðə/ /'sɪti/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.127Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 69,
+            "chinese": "离开这座城市",
+            "english": "to leave the city",
+            "soundmark": "/tə/ /liv/ /ðə/ /'sɪti/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.153Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 70,
+            "chinese": "你打算",
+            "english": "you plan",
+            "soundmark": "/ju/ /plæn/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.254Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 71,
+            "chinese": "你打算离开这座城市",
+            "english": "you plan to leave the city",
+            "soundmark": "/ju/ /plæn/ /tə/ /liv/ /ðə/ /'sɪti/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.277Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 72,
+            "chinese": "下一个",
+            "english": "next",
+            "soundmark": "/nɛkst/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.322Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 73,
+            "chinese": "周；星期",
+            "english": "week",
+            "soundmark": "/wik/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.374Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 74,
+            "chinese": "下周",
+            "english": "next week",
+            "soundmark": "/nɛkst/ /wik/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.402Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 75,
+            "chinese": "你打算下周离开这座城市",
+            "english": "you plan to leave the city next week",
+            "soundmark": "/ju/ /plæn/ /tə/ /liv/ /ðə/ /'sɪti/ /nɛkst/ /wik/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.478Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 76,
+            "chinese": "你不打算下周离开这座城市",
+            "english": "you don't plan to leave the city next week",
+            "soundmark": "/ju/ /dont/ /plæn/ /tə/ /liv/ /ðə/ /'sɪti/ /nɛkst/ /wik/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.517Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 77,
+            "chinese": "她打算",
+            "english": "she plans",
+            "soundmark": "/ʃi/ /plænz/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.600Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 78,
+            "chinese": "离开",
+            "english": "to leave",
+            "soundmark": "/tə/ /liv/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.625Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 79,
+            "chinese": "这个国家",
+            "english": "the country",
+            "soundmark": "/ðə/ /'kʌntri/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.678Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 80,
+            "chinese": "离开这个国家",
+            "english": "to leave the country",
+            "soundmark": "/tə/ /liv/ /ðə/ /'kʌntri/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.715Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 81,
+            "chinese": "她打算离开这个国家",
+            "english": "she plans to leave the country",
+            "soundmark": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.771Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 82,
+            "chinese": "下一个",
+            "english": "next",
+            "soundmark": "/nɛkst/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.777Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 83,
+            "chinese": "月",
+            "english": "month",
+            "soundmark": "/mʌnθ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.811Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 84,
+            "chinese": "下个月",
+            "english": "next month",
+            "soundmark": "/nɛkst/ /mʌnθ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.904Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 85,
+            "chinese": "她打算下个月离开这个国家",
+            "english": "she plans to leave the country next month",
+            "soundmark": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.946Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 86,
+            "chinese": "她不打算下个月离开这个国家",
+            "english": "she doesn't plan to leave the country next month",
+            "soundmark": "/ʃi/ /ˈdʌznt/ /plæn/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:02.958Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 87,
+            "chinese": "我们打算",
+            "english": "we plan",
+            "soundmark": "/wi/ /plæn/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.101Z",
+            "updatedAt": "2024-04-28T12:26:53.865Z"
+        },
+        {
+            "order": 88,
+            "chinese": "离开这里",
+            "english": "to leave here",
+            "soundmark": "/tə/ /liv/ /hɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.139Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 89,
+            "chinese": "我们打算离开这里",
+            "english": "we plan to leave here",
+            "soundmark": "/wi/ /plæn/ /tə/ /liv/ /hɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.186Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 90,
+            "chinese": "我们不打算离开这里",
+            "english": "we don't plan to leave here",
+            "soundmark": "/wi/ /dont/ /plæn/ /tə/ /liv/ /hɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.205Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 91,
+            "chinese": "早点",
+            "english": "early",
+            "soundmark": "/ˈɚli/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.226Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 92,
+            "chinese": "我们打算早点离开这里",
+            "english": "we plan to leave here early",
+            "soundmark": "/wi/ /plæn/ /tə/ /liv/ /hɪr/ /ˈɚli/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.265Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 93,
+            "chinese": "可能",
+            "english": "possible",
+            "soundmark": "/'pɑsəbl/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.313Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 94,
+            "chinese": "尽早；尽可能地早",
+            "english": "as early as possible",
+            "soundmark": "/əz/ /ˈɚli/ /əz/ /'pɑsəbl/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.406Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 95,
+            "chinese": "我们打算尽早离开这里",
+            "english": "we plan to leave here as early as possible",
+            "soundmark": "/wi/ /plæn/ /tə/ /liv/ /hɪr/ /əz/ /ˈɚli/ /əz/ /'pɑsəbl/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.407Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 96,
+            "chinese": "支付",
+            "english": "to pay",
+            "soundmark": "/tə/ /pe/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.431Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 97,
+            "chinese": "账单",
+            "english": "the bill",
+            "soundmark": "/ðə/ /bɪl/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.619Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 98,
+            "chinese": "支付账单",
+            "english": "to pay the bill",
+            "soundmark": "/tə/ /pe/ /ðə/ /bɪl/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.638Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 99,
+            "chinese": "我需要",
+            "english": "I need",
+            "soundmark": "/aɪ/ /nid/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.640Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 100,
+            "chinese": "我需要支付账单",
+            "english": "I need to pay the bill",
+            "soundmark": "/aɪ/ /nid/ /tə/ /pe/ /ðə/ /bɪl/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.671Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 101,
+            "chinese": "我不需要支付账单",
+            "english": "I don't need to pay the bill",
+            "soundmark": "/aɪ/ /dont/ /nid/ /tə/ /pe/ /ðə/ /bɪl/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.717Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 102,
+            "chinese": "我打算",
+            "english": "I plan",
+            "soundmark": "/aɪ/ /plæn/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.738Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 103,
+            "chinese": "我打算支付账单",
+            "english": "I plan to pay the bill",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.824Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 104,
+            "chinese": "为你",
+            "english": "for you",
+            "soundmark": "/fɝ/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.860Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 105,
+            "chinese": "我打算为你支付账单",
+            "english": "I plan to pay the bill for you",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.880Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 106,
+            "chinese": "我不打算为你支付账单",
+            "english": "I don't plan to pay the bill for you",
+            "soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:03.915Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 107,
+            "chinese": "你打算支付账单",
+            "english": "you plan to pay the bill",
+            "soundmark": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.090Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 108,
+            "chinese": "为我",
+            "english": "for me",
+            "soundmark": "/fɝ/ /mi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.122Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 109,
+            "chinese": "你打算为我支付账单",
+            "english": "you plan to pay the bill for me",
+            "soundmark": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.121Z",
+            "updatedAt": "2024-04-28T12:26:53.866Z"
+        },
+        {
+            "order": 110,
+            "chinese": "你不打算为我支付账单",
+            "english": "you don't plan to pay the bill for me",
+            "soundmark": "/ju/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.128Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 111,
+            "chinese": "我想要",
+            "english": "I want",
+            "soundmark": "/aɪ/ /wɑnt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.146Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 112,
+            "chinese": "知道",
+            "english": "to know",
+            "soundmark": "/tə/ /no/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.251Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 113,
+            "chinese": "我想要知道",
+            "english": "I want to know",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.312Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 114,
+            "chinese": "是否",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.325Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 115,
+            "chinese": "我想要知道是否你打算为我支付账单",
+            "english": "I want to know if you plan to pay the bill for me",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.330Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 116,
+            "chinese": "他打算",
+            "english": "he plans",
+            "soundmark": "/hi/ /plænz/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.405Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 117,
+            "chinese": "他打算为我支付账单",
+            "english": "he plans to pay the bill for me",
+            "soundmark": "/hi/ /plænz/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.540Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 118,
+            "chinese": "他不打算为我支付账单",
+            "english": "he doesn't plan to pay the bill for me",
+            "soundmark": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.565Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 119,
+            "chinese": "为他",
+            "english": "for him",
+            "soundmark": "/fɝ/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.579Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 120,
+            "chinese": "我打算为他支付账单",
+            "english": "I plan to pay the bill for him",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.621Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 121,
+            "chinese": "我不打算为他支付账单",
+            "english": "I don't plan to pay the bill for him",
+            "soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.641Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 122,
+            "chinese": "重要的",
+            "english": "important",
+            "soundmark": "/ɪm'pɔrtnt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.754Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 123,
+            "chinese": "这件事是重要的",
+            "english": "it is important",
+            "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.771Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 124,
+            "chinese": "非常",
+            "english": "very",
+            "soundmark": "/ˈvɛri/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.769Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 125,
+            "chinese": "这件事是非常重要的",
+            "english": "it is very important",
+            "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.826Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 126,
+            "chinese": "因为",
+            "english": "because",
+            "soundmark": "/bɪ'kɔz/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.920Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 127,
+            "chinese": "因为这件事是非常重要的",
+            "english": "because it is very important",
+            "soundmark": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:04.993Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 128,
+            "chinese": "我打算为他支付账单因为这件事是非常重要的",
+            "english": "I plan to pay the bill for him because it is very important",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.020Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 129,
+            "chinese": "我需要",
+            "english": "I need",
+            "soundmark": "/aɪ/ /nid/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.037Z",
+            "updatedAt": "2024-04-28T12:26:53.867Z"
+        },
+        {
+            "order": 130,
+            "chinese": "做这件事",
+            "english": "to do it",
+            "soundmark": "/tə/ /du/ /ɪt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.121Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 131,
+            "chinese": "我需要做这件事",
+            "english": "I need to do it",
+            "soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.140Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 132,
+            "chinese": "而且",
+            "english": "and",
+            "soundmark": "/ənd/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.197Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 133,
+            "chinese": "而且我需要做这件事",
+            "english": "and I need to do it",
+            "soundmark": "/ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.213Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 134,
+            "chinese": "我打算为他支付账单因为这件事是非常重要的而且我需要做这件事",
+            "english": "I plan to pay the bill for him because it is very important and I need to do it",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.296Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 135,
+            "chinese": "为她",
+            "english": "for her",
+            "soundmark": "/fɝ/ /hɚ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.324Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 136,
+            "chinese": "他打算为她支付账单",
+            "english": "he plans to pay the bill for her",
+            "soundmark": "/hi/ /plænz/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.420Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 137,
+            "chinese": "他不打算为她支付账单",
+            "english": "he doesn't plan to pay the bill for her",
+            "soundmark": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.453Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 138,
+            "chinese": "我们打算",
+            "english": "we plan",
+            "soundmark": "/wi/ /plæn/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.469Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 139,
+            "chinese": "我们打算为她支付账单",
+            "english": "we plan to pay the bill for her",
+            "soundmark": "/wi/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.493Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 140,
+            "chinese": "我们不打算为她支付账单",
+            "english": "we don't plan to pay the bill for her",
+            "soundmark": "/wi/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.604Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 141,
+            "chinese": "为他们",
+            "english": "for them",
+            "soundmark": "/fɝ/ /ðəm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.635Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 142,
+            "chinese": "我们打算为他们支付账单",
+            "english": "we plan to pay the bill for them",
+            "soundmark": "/wi/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.638Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 143,
+            "chinese": "我们不打算为他们支付账单",
+            "english": "we don't plan to pay the bill for them",
+            "soundmark": "/wi/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.656Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 144,
+            "chinese": "旅行",
+            "english": "to travel",
+            "soundmark": "/tə/ /'trævl/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.814Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 145,
+            "chinese": "世界",
+            "english": "the world",
+            "soundmark": "/ðə/ /wɝld/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.828Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 146,
+            "chinese": "周游世界",
+            "english": "to travel the world",
+            "soundmark": "/tə/ /'trævl/ /ðə/ /wɝld/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.917Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 147,
+            "chinese": "我打算",
+            "english": "I plan",
+            "soundmark": "/aɪ/ /plæn/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.914Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 148,
+            "chinese": "我打算周游世界",
+            "english": "I plan to travel the world",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.921Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 149,
+            "chinese": "和你一起",
+            "english": "with you",
+            "soundmark": "/wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:05.952Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 150,
+            "chinese": "我打算和你一起周游世界",
+            "english": "I plan to travel the world with you",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.114Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 151,
+            "chinese": "下一个",
+            "english": "next",
+            "soundmark": "/nɛkst/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.121Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 152,
+            "chinese": "年",
+            "english": "year",
+            "soundmark": "/jɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.131Z",
+            "updatedAt": "2024-04-28T12:26:53.868Z"
+        },
+        {
+            "order": 153,
+            "chinese": "明年",
+            "english": "next year",
+            "soundmark": "/nɛkst/ /jɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.183Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 154,
+            "chinese": "我打算明年和你一起周游世界",
+            "english": "I plan to travel the world with you next year",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /ju/ /nɛkst/ /jɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.339Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 155,
+            "chinese": "我不打算明年和你一起周游世界",
+            "english": "I don't plan to travel the world with you next year",
+            "soundmark": "/aɪ/ /dont/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /ju/ /nɛkst/ /jɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.352Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 156,
+            "chinese": "和我一起",
+            "english": "with me",
+            "soundmark": "/wɪð/ /mi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.356Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 157,
+            "chinese": "你打算明年和我一起周游世界",
+            "english": "you plan to travel the world with me next year",
+            "soundmark": "/ju/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /mi/ /nɛkst/ /jɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.373Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 158,
+            "chinese": "你不打算明年和我一起周游世界",
+            "english": "you don't plan to travel the world with me next year",
+            "soundmark": "/ju/ /dont/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /mi/ /nɛkst/ /jɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.418Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 159,
+            "chinese": "他打算",
+            "english": "he plans",
+            "soundmark": "/hi/ /plænz/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.432Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 160,
+            "chinese": "和她一起",
+            "english": "with her",
+            "soundmark": "/wɪð/ /hɚ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.561Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 161,
+            "chinese": "他打算明年和她一起周游世界",
+            "english": "he plans to travel the world with her next year",
+            "soundmark": "/hi/ /plænz/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /nɛkst/ /jɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.588Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 162,
+            "chinese": "他不打算明年和她一起周游世界",
+            "english": "he doesn't plan to travel the world with her next year",
+            "soundmark": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /nɛkst/ /jɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.624Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 163,
+            "chinese": "想要",
+            "english": "want",
+            "soundmark": "/wɑnt/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.694Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 164,
+            "chinese": "愿意；委婉地想要",
+            "english": "would like",
+            "soundmark": "/wʊd/ /laɪk/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.789Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 165,
+            "chinese": "待着；留下",
+            "english": "to stay",
+            "soundmark": "/tə/ /ste/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.830Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 166,
+            "chinese": "待在这里",
+            "english": "to stay here",
+            "soundmark": "/tə/ /ste/ /hɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.840Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 167,
+            "chinese": "我愿意待在这里",
+            "english": "I would like to stay here",
+            "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.868Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 168,
+            "chinese": "和你一起",
+            "english": "with you",
+            "soundmark": "/wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.871Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 169,
+            "chinese": "我愿意和你一起待在这里",
+            "english": "I would like to stay here with you",
+            "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:06.925Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 170,
+            "chinese": "我不愿意和你一起待在这里",
+            "english": "I would not like to stay here with you",
+            "soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.008Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 171,
+            "chinese": "和我一起",
+            "english": "with me",
+            "soundmark": "/wɪð/ /mi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.027Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 172,
+            "chinese": "你愿意和我一起待在这里",
+            "english": "you would like to stay here with me",
+            "soundmark": "/ju/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.108Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 173,
+            "chinese": "你不愿意和我一起待在这里",
+            "english": "you would not like to stay here with me",
+            "soundmark": "/ju/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.210Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 174,
+            "chinese": "和他一起",
+            "english": "with him",
+            "soundmark": "/wɪð/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.223Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 175,
+            "chinese": "你愿意和他一起待在这里",
+            "english": "you would like to stay here with him",
+            "soundmark": "/ju/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.275Z",
+            "updatedAt": "2024-04-28T12:26:53.869Z"
+        },
+        {
+            "order": 176,
+            "chinese": "你不愿意和他一起待在这里",
+            "english": "you would not like to stay here with him",
+            "soundmark": "/ju/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.312Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 177,
+            "chinese": "我们愿意和他一起待在这里",
+            "english": "we would like to stay here with him",
+            "soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.345Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 178,
+            "chinese": "我们不愿意和他一起待在这里",
+            "english": "we would not like to stay here with him",
+            "soundmark": "/wi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.384Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 179,
+            "chinese": "和她一起",
+            "english": "with her",
+            "soundmark": "/wɪð/ /hɚ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.424Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 180,
+            "chinese": "我们愿意和她一起待在这里",
+            "english": "we would like to stay here with her",
+            "soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.449Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 181,
+            "chinese": "我们不愿意和她一起待在这里",
+            "english": "we would not like to stay here with her",
+            "soundmark": "/wi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.473Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 182,
+            "chinese": "和他们一起",
+            "english": "with them",
+            "soundmark": "/wɪð/ /ðəm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.670Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 183,
+            "chinese": "我们愿意和他们一起待在这里",
+            "english": "we would like to stay here with them",
+            "soundmark": "/wi/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.715Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 184,
+            "chinese": "我们不愿意和他们一起待在这里",
+            "english": "we would not like to stay here with them",
+            "soundmark": "/wi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.721Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 185,
+            "chinese": "他们愿意和她一起待在这里",
+            "english": "they would like to stay here with her",
+            "soundmark": "/ðe/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.762Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 186,
+            "chinese": "他们不愿意和她一起待在这里",
+            "english": "they would not like to stay here with her",
+            "soundmark": "/ðe/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.835Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 187,
+            "chinese": "和我们一起",
+            "english": "with us",
+            "soundmark": "/wɪð/ /ʌs/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.904Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 188,
+            "chinese": "他们愿意和我们一起待在这里",
+            "english": "they would like to stay here with us",
+            "soundmark": "/ðe/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.909Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 189,
+            "chinese": "他们不愿意和我们一起待在这里",
+            "english": "they would not like to stay here with us",
+            "soundmark": "/ðe/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.911Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 190,
+            "chinese": "旅行",
+            "english": "to travel",
+            "soundmark": "/tə/ /'trævl/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.924Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 191,
+            "chinese": "世界",
+            "english": "the world",
+            "soundmark": "/ðə/ /wɝld/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:07.924Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 192,
+            "chinese": "环游世界",
+            "english": "to travel the world",
+            "soundmark": "/tə/ /'trævl/ /ðə/ /wɝld/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.105Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 193,
+            "chinese": "我愿意环游世界",
+            "english": "I would like to travel the world",
+            "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.169Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 194,
+            "chinese": "和她一起",
+            "english": "with her",
+            "soundmark": "/wɪð/ /hɚ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.206Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 195,
+            "chinese": "我愿意和她一起环游世界",
+            "english": "I would like to travel the world with her",
+            "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.223Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 196,
+            "chinese": "我不愿意和她一起环游世界",
+            "english": "I would not like to travel the world with her",
+            "soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.333Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 197,
+            "chinese": "我打算",
+            "english": "I plan",
+            "soundmark": "/aɪ/ /plæn/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.347Z",
+            "updatedAt": "2024-04-28T12:26:53.870Z"
+        },
+        {
+            "order": 198,
+            "chinese": "我打算待在这里",
+            "english": "I plan to stay here",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.365Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 199,
+            "chinese": "和你一起",
+            "english": "with you",
+            "soundmark": "/wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.405Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 200,
+            "chinese": "我打算和你一起待在这里",
+            "english": "I plan to stay here with you",
+            "soundmark": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.438Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 201,
+            "chinese": "因为",
+            "english": "because",
+            "soundmark": "/bɪ'kɔz/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.439Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 202,
+            "chinese": "因为我打算和你一起待在这里",
+            "english": "because I plan to stay here with you",
+            "soundmark": "/bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.557Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 203,
+            "chinese": "我不愿意和她一起环游世界因为我打算和你一起待在这里",
+            "english": "I would not like to travel the world with her because I plan to stay here with you",
+            "soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.641Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 204,
+            "chinese": "她",
+            "english": "she",
+            "soundmark": "/ʃi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.660Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 205,
+            "chinese": "她愿意环游世界",
+            "english": "she would like to travel the world",
+            "soundmark": "/ʃi/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.747Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 206,
+            "chinese": "和他一起",
+            "english": "with him",
+            "soundmark": "/wɪð/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.796Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 207,
+            "chinese": "她愿意和他一起环游世界",
+            "english": "she would like to travel the world with him",
+            "soundmark": "/ʃi/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.820Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 208,
+            "chinese": "她不愿意和他一起环游世界",
+            "english": "she would not like to travel the world with him",
+            "soundmark": "/ʃi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɪm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.846Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 209,
+            "chinese": "支付",
+            "english": "to pay",
+            "soundmark": "/tə/ /pe/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.908Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 210,
+            "chinese": "账单",
+            "english": "the bill",
+            "soundmark": "/ðə/ /bɪl/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.943Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 211,
+            "chinese": "支付账单",
+            "english": "to pay the bill",
+            "soundmark": "/tə/ /pe/ /ðə/ /bɪl/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:08.972Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 212,
+            "chinese": "我愿意支付账单",
+            "english": "I would like to pay the bill",
+            "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:09.009Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 213,
+            "chinese": "为他们",
+            "english": "for them",
+            "soundmark": "/fɝ/ /ðəm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:09.085Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 214,
+            "chinese": "我愿意为他们支付账单",
+            "english": "I would like to pay the bill for them",
+            "soundmark": "/aɪ/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:09.113Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 215,
+            "chinese": "我不愿意为他们支付账单",
+            "english": "I would not like to pay the bill for them",
+            "soundmark": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:09.245Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 216,
+            "chinese": "他",
+            "english": "he",
+            "soundmark": "/hi/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:09.244Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 217,
+            "chinese": "他愿意支付账单",
+            "english": "he would like to pay the bill",
+            "soundmark": "/hi/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:09.263Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 218,
+            "chinese": "为我们",
+            "english": "for us",
+            "soundmark": "/fɝ/ /ʌs/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:09.336Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 219,
+            "chinese": "他愿意为我们支付账单",
+            "english": "he would like to pay the bill for us",
+            "soundmark": "/hi/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ʌs/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:09.414Z",
+            "updatedAt": "2024-04-28T12:26:53.871Z"
+        },
+        {
+            "order": 220,
+            "chinese": "他不愿意为我们支付账单",
+            "english": "he would not like to pay the bill for us",
+            "soundmark": "/hi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ʌs/",
+            "courseId": "bkgzgj896m8cg940ztmdwji5",
+            "createdAt": "2024-04-28T12:28:09.441Z",
+            "updatedAt": "2024-04-28T12:26:53.872Z"
+        }
+    ]
+}

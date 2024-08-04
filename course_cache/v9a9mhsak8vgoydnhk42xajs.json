@@ -1,0 +1,1497 @@
+{
+    "id": "v9a9mhsak8vgoydnhk42xajs",
+    "title": "第二课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV14u411Z7gY",
+    "order": 2,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:51.292Z",
+    "updatedAt": "2024-05-23T14:05:57.460Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "好的；棒的",
+            "english": "good",
+            "soundmark": "/ɡʊd/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.089Z",
+            "updatedAt": "2024-04-28T12:26:53.783Z"
+        },
+        {
+            "order": 2,
+            "chinese": "它；这件事情",
+            "english": "It",
+            "soundmark": "/ɪt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.189Z",
+            "updatedAt": "2024-04-28T12:26:53.783Z"
+        },
+        {
+            "order": 3,
+            "chinese": "它是",
+            "english": "It is",
+            "soundmark": "/ɪt/ /ɪz/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.236Z",
+            "updatedAt": "2024-04-28T12:26:53.783Z"
+        },
+        {
+            "order": 4,
+            "chinese": "它是好的",
+            "english": "It is good",
+            "soundmark": "/ɪt/ /ɪz/ /ɡʊd/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.336Z",
+            "updatedAt": "2024-04-28T12:26:53.783Z"
+        },
+        {
+            "order": 5,
+            "chinese": "重要的",
+            "english": "important",
+            "soundmark": "/ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.351Z",
+            "updatedAt": "2024-04-28T12:26:53.783Z"
+        },
+        {
+            "order": 6,
+            "chinese": "它是重要的",
+            "english": "It is important",
+            "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.352Z",
+            "updatedAt": "2024-04-28T12:26:53.783Z"
+        },
+        {
+            "order": 7,
+            "chinese": "我",
+            "english": "I",
+            "soundmark": "/aɪ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.418Z",
+            "updatedAt": "2024-04-28T12:26:53.783Z"
+        },
+        {
+            "order": 8,
+            "chinese": "我是",
+            "english": "I am",
+            "soundmark": "/aɪ/ /æm/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.440Z",
+            "updatedAt": "2024-04-28T12:26:53.783Z"
+        },
+        {
+            "order": 9,
+            "chinese": "我是重要的",
+            "english": "I am important",
+            "soundmark": "/aɪ/ /æm/ /ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.459Z",
+            "updatedAt": "2024-04-28T12:26:53.783Z"
+        },
+        {
+            "order": 10,
+            "chinese": "想要",
+            "english": "want",
+            "soundmark": "/wɑnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.479Z",
+            "updatedAt": "2024-04-28T12:26:53.783Z"
+        },
+        {
+            "order": 11,
+            "chinese": "知道",
+            "english": "to know",
+            "soundmark": "/tə/ /no/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.582Z",
+            "updatedAt": "2024-04-28T12:26:53.783Z"
+        },
+        {
+            "order": 12,
+            "chinese": "我想要知道",
+            "english": "I want to know",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.625Z",
+            "updatedAt": "2024-04-28T12:26:53.783Z"
+        },
+        {
+            "order": 13,
+            "chinese": "是否",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.669Z",
+            "updatedAt": "2024-04-28T12:26:53.783Z"
+        },
+        {
+            "order": 14,
+            "chinese": "我想要知道是否我是重要的",
+            "english": "I want to know if I am important",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.784Z",
+            "updatedAt": "2024-04-28T12:26:53.783Z"
+        },
+        {
+            "order": 15,
+            "chinese": "需要知道",
+            "english": "need to know",
+            "soundmark": "/nid/ /tə/ /no/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.852Z",
+            "updatedAt": "2024-04-28T12:26:53.783Z"
+        },
+        {
+            "order": 16,
+            "chinese": "我需要知道是否我是重要的",
+            "english": "I need to know if I am important",
+            "soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.882Z",
+            "updatedAt": "2024-04-28T12:26:53.784Z"
+        },
+        {
+            "order": 17,
+            "chinese": "完美的",
+            "english": "perfect",
+            "soundmark": "/'pɝfɪkt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.884Z",
+            "updatedAt": "2024-04-28T12:26:53.784Z"
+        },
+        {
+            "order": 18,
+            "chinese": "我是完美的",
+            "english": "I am perfect",
+            "soundmark": "/aɪ/ /æm/ /'pɝfɪkt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.891Z",
+            "updatedAt": "2024-04-28T12:26:53.784Z"
+        },
+        {
+            "order": 19,
+            "chinese": "我需要知道是否我是完美的",
+            "english": "I need to know if I am perfect",
+            "soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /'pɝfɪkt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.950Z",
+            "updatedAt": "2024-04-28T12:26:53.784Z"
+        },
+        {
+            "order": 20,
+            "chinese": "必须知道",
+            "english": "have to know",
+            "soundmark": "/hæv/ /tə/ /no/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:05.973Z",
+            "updatedAt": "2024-04-28T12:26:53.784Z"
+        },
+        {
+            "order": 21,
+            "chinese": "我必须知道是否我是完美的",
+            "english": "I have to know if I am perfect",
+            "soundmark": "/aɪ/ /hæv/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /'pɝfɪkt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.072Z",
+            "updatedAt": "2024-04-28T12:26:53.784Z"
+        },
+        {
+            "order": 22,
+            "chinese": "健康的",
+            "english": "healthy",
+            "soundmark": "/'hɛlθi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.077Z",
+            "updatedAt": "2024-04-28T12:26:53.784Z"
+        },
+        {
+            "order": 23,
+            "chinese": "我是健康的",
+            "english": "I am healthy",
+            "soundmark": "/aɪ/ /æm/ /'hɛlθi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.110Z",
+            "updatedAt": "2024-04-28T12:26:53.784Z"
+        },
+        {
+            "order": 24,
+            "chinese": "我必须知道是否我是健康的",
+            "english": "I have to know if I am healthy",
+            "soundmark": "/aɪ/ /hæv/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /'hɛlθi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.259Z",
+            "updatedAt": "2024-04-28T12:26:53.784Z"
+        },
+        {
+            "order": 25,
+            "chinese": "我是",
+            "english": "I am",
+            "soundmark": "/aɪ/ /æm/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.340Z",
+            "updatedAt": "2024-04-28T12:26:53.784Z"
+        },
+        {
+            "order": 26,
+            "chinese": "星荣",
+            "english": "Xingrong",
+            "soundmark": "/Xingrong/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.345Z",
+            "updatedAt": "2024-04-28T12:26:53.784Z"
+        },
+        {
+            "order": 27,
+            "chinese": "我是星荣",
+            "english": "I am Xingrong",
+            "soundmark": "/aɪ/ /æm/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.359Z",
+            "updatedAt": "2024-04-28T12:26:53.784Z"
+        },
+        {
+            "order": 28,
+            "chinese": "这里",
+            "english": "here",
+            "soundmark": "/hɪr/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.417Z",
+            "updatedAt": "2024-04-28T12:26:53.784Z"
+        },
+        {
+            "order": 29,
+            "chinese": "我在这里",
+            "english": "I am here",
+            "soundmark": "/aɪ/ /æm/ /hɪr/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.498Z",
+            "updatedAt": "2024-04-28T12:26:53.784Z"
+        },
+        {
+            "order": 30,
+            "chinese": "我18岁",
+            "english": "I am 18",
+            "soundmark": "/aɪ/ /æm/ /e'tin/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.496Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 31,
+            "chinese": "你",
+            "english": "you",
+            "soundmark": "/ju/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.511Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 32,
+            "chinese": "你是",
+            "english": "you are",
+            "soundmark": "/ju/ /ɚ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.551Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 33,
+            "chinese": "重要的",
+            "english": "important",
+            "soundmark": "/ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.585Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 34,
+            "chinese": "你是重要的",
+            "english": "You are important",
+            "soundmark": "/ju/ /ɚ/ /ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.721Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 35,
+            "chinese": "非常",
+            "english": "very",
+            "soundmark": "/ˈvɛri/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.793Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 36,
+            "chinese": "你是非常重要的",
+            "english": "You are very important",
+            "soundmark": "/ju/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.795Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 37,
+            "chinese": "完美的",
+            "english": "perfect",
+            "soundmark": "/'pɝfɪkt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.861Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 38,
+            "chinese": "你是完美的",
+            "english": "You are perfect",
+            "soundmark": "/ju/ /ɚ/ /'pɝfɪkt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.953Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 39,
+            "chinese": "健康的",
+            "english": "healthy",
+            "soundmark": "/'hɛlθi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.968Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 40,
+            "chinese": "你是健康的",
+            "english": "You are healthy",
+            "soundmark": "/ju/ /ɚ/ /'hɛlθi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.989Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 41,
+            "chinese": "周杰伦",
+            "english": "Jay Chou",
+            "soundmark": "/dʒe/ /tʃo/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:06.994Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 42,
+            "chinese": "你是周杰伦",
+            "english": "You are Jay Chou",
+            "soundmark": "/ju/ /ɚ/ /dʒe/ /tʃo/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.005Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 43,
+            "chinese": "想要知道",
+            "english": "want to know",
+            "soundmark": "/wɑnt/ /tə/ /no/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.078Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 44,
+            "chinese": "是否",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.166Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 45,
+            "chinese": "我想要知道是否你是周杰伦",
+            "english": "I want to know if you are Jay Chou",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /ɚ/ /dʒe/ /tʃo/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.237Z",
+            "updatedAt": "2024-04-28T12:26:53.785Z"
+        },
+        {
+            "order": 46,
+            "chinese": "需要知道",
+            "english": "need to know",
+            "soundmark": "/nid/ /tə/ /no/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.246Z",
+            "updatedAt": "2024-04-28T12:26:53.786Z"
+        },
+        {
+            "order": 47,
+            "chinese": "你是健康的",
+            "english": "You are healthy",
+            "soundmark": "/ju/ /ɚ/ /'hɛlθi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.363Z",
+            "updatedAt": "2024-04-28T12:26:53.786Z"
+        },
+        {
+            "order": 48,
+            "chinese": "我需要知道是否你是健康的",
+            "english": "I need to know if you are healthy",
+            "soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /ju/ /ɚ/ /'hɛlθi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.391Z",
+            "updatedAt": "2024-04-28T12:26:53.786Z"
+        },
+        {
+            "order": 49,
+            "chinese": "必须知道",
+            "english": "have to know",
+            "soundmark": "/hæv/ /tə/ /no/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.423Z",
+            "updatedAt": "2024-04-28T12:26:53.786Z"
+        },
+        {
+            "order": 50,
+            "chinese": "你是完美的",
+            "english": "You are perfect",
+            "soundmark": "/ju/ /ɚ/ /'pɝfɪkt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.472Z",
+            "updatedAt": "2024-04-28T12:26:53.786Z"
+        },
+        {
+            "order": 51,
+            "chinese": "我必须知道是否你是完美的",
+            "english": "I have to know if you are perfect",
+            "soundmark": "/aɪ/ /hæv/ /tə/ /no/ /ɪf/ /ju/ /ɚ/ /'pɝfɪkt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.504Z",
+            "updatedAt": "2024-04-28T12:26:53.786Z"
+        },
+        {
+            "order": 52,
+            "chinese": "富有的",
+            "english": "rich",
+            "soundmark": "/rɪtʃ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.508Z",
+            "updatedAt": "2024-04-28T12:26:53.786Z"
+        },
+        {
+            "order": 53,
+            "chinese": "他是",
+            "english": "he is",
+            "soundmark": "/hi/ /ɪz/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.572Z",
+            "updatedAt": "2024-04-28T12:26:53.786Z"
+        },
+        {
+            "order": 54,
+            "chinese": "他是富有的",
+            "english": "He is rich",
+            "soundmark": "/hi/ /ɪz/ /rɪtʃ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.611Z",
+            "updatedAt": "2024-04-28T12:26:53.786Z"
+        },
+        {
+            "order": 55,
+            "chinese": "她是",
+            "english": "she is",
+            "soundmark": "/ʃi/ /ɪz/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.691Z",
+            "updatedAt": "2024-04-28T12:26:53.786Z"
+        },
+        {
+            "order": 56,
+            "chinese": "她是富有的",
+            "english": "She is rich",
+            "soundmark": "/ʃi/ /ɪz/ /rɪtʃ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.712Z",
+            "updatedAt": "2024-04-28T12:26:53.786Z"
+        },
+        {
+            "order": 57,
+            "chinese": "完美的",
+            "english": "perfect",
+            "soundmark": "/'pɝfɪkt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.828Z",
+            "updatedAt": "2024-04-28T12:26:53.786Z"
+        },
+        {
+            "order": 58,
+            "chinese": "她是完美的",
+            "english": "She is perfect",
+            "soundmark": "/ʃi/ /ɪz/ /'pɝfɪkt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.855Z",
+            "updatedAt": "2024-04-28T12:26:53.786Z"
+        },
+        {
+            "order": 59,
+            "chinese": "它是",
+            "english": "it is",
+            "soundmark": "/ɪt/ /ɪz/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.986Z",
+            "updatedAt": "2024-04-28T12:26:53.786Z"
+        },
+        {
+            "order": 60,
+            "chinese": "重要的",
+            "english": "important",
+            "soundmark": "/ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:07.991Z",
+            "updatedAt": "2024-04-28T12:26:53.787Z"
+        },
+        {
+            "order": 61,
+            "chinese": "它是重要的",
+            "english": "It is important",
+            "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.007Z",
+            "updatedAt": "2024-04-28T12:26:53.787Z"
+        },
+        {
+            "order": 62,
+            "chinese": "富有的",
+            "english": "rich",
+            "soundmark": "/rɪtʃ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.072Z",
+            "updatedAt": "2024-04-28T12:26:53.787Z"
+        },
+        {
+            "order": 63,
+            "chinese": "我是",
+            "english": "I am",
+            "soundmark": "/aɪ/ /æm/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.075Z",
+            "updatedAt": "2024-04-28T12:26:53.787Z"
+        },
+        {
+            "order": 64,
+            "chinese": "我是富有的",
+            "english": "I am rich",
+            "soundmark": "/aɪ/ /æm/ /rɪtʃ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.136Z",
+            "updatedAt": "2024-04-28T12:26:53.787Z"
+        },
+        {
+            "order": 65,
+            "chinese": "非常",
+            "english": "very",
+            "soundmark": "/ˈvɛri/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.169Z",
+            "updatedAt": "2024-04-28T12:26:53.787Z"
+        },
+        {
+            "order": 66,
+            "chinese": "我是非常富有的",
+            "english": "I am very rich",
+            "soundmark": "/aɪ/ /æm/ /ˈvɛri/ /rɪtʃ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.176Z",
+            "updatedAt": "2024-04-28T12:26:53.787Z"
+        },
+        {
+            "order": 67,
+            "chinese": "完美的",
+            "english": "perfect",
+            "soundmark": "/'pɝfɪkt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.270Z",
+            "updatedAt": "2024-04-28T12:26:53.787Z"
+        },
+        {
+            "order": 68,
+            "chinese": "你是",
+            "english": "you are",
+            "soundmark": "/ju/ /ɚ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.284Z",
+            "updatedAt": "2024-04-28T12:26:53.787Z"
+        },
+        {
+            "order": 69,
+            "chinese": "你是完美的",
+            "english": "You are perfect",
+            "soundmark": "/ju/ /ɚ/ /'pɝfɪkt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.491Z",
+            "updatedAt": "2024-04-28T12:26:53.787Z"
+        },
+        {
+            "order": 70,
+            "chinese": "漂亮的",
+            "english": "pretty",
+            "soundmark": "/'prɪti/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.506Z",
+            "updatedAt": "2024-04-28T12:26:53.787Z"
+        },
+        {
+            "order": 71,
+            "chinese": "你是漂亮的",
+            "english": "You are pretty",
+            "soundmark": "/ju/ /ɚ/ /'prɪti/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.516Z",
+            "updatedAt": "2024-04-28T12:26:53.787Z"
+        },
+        {
+            "order": 72,
+            "chinese": "他是漂亮的",
+            "english": "He is pretty",
+            "soundmark": "/hi/ /ɪz/ /'prɪti/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.518Z",
+            "updatedAt": "2024-04-28T12:26:53.787Z"
+        },
+        {
+            "order": 73,
+            "chinese": "她是漂亮的",
+            "english": "She is pretty",
+            "soundmark": "/ʃi/ /ɪz/ /'prɪti/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.569Z",
+            "updatedAt": "2024-04-28T12:26:53.787Z"
+        },
+        {
+            "order": 74,
+            "chinese": "它是漂亮的",
+            "english": "It is pretty",
+            "soundmark": "/ɪt/ /ɪz/ /'prɪti/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.578Z",
+            "updatedAt": "2024-04-28T12:26:53.787Z"
+        },
+        {
+            "order": 75,
+            "chinese": "我是漂亮的",
+            "english": "I am pretty",
+            "soundmark": "/aɪ/ /æm/ /'prɪti/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.642Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 76,
+            "chinese": "这里",
+            "english": "here",
+            "soundmark": "/hɪr/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.682Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 77,
+            "chinese": "在这里",
+            "english": "to be here",
+            "soundmark": "/tə/ /bi/ /hɪr/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.713Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 78,
+            "chinese": "你想要在这里",
+            "english": "You want to be here",
+            "soundmark": "/ju/ /wɑnt/ /tə/ /bi/ /hɪr/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.725Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 79,
+            "chinese": "明天",
+            "english": "tomorrow",
+            "soundmark": "/tə'mɔro/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:08.967Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 80,
+            "chinese": "你明天想要在这里",
+            "english": "You want to be here tomorrow",
+            "soundmark": "/ju/ /wɑnt/ /tə/ /bi/ /hɪr/ /tə'mɔro/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.002Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 81,
+            "chinese": "见到",
+            "english": "to see",
+            "soundmark": "/tə/ /si/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.007Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 82,
+            "chinese": "见到我",
+            "english": "to see me",
+            "soundmark": "/tə/ /si/ /mi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.021Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 83,
+            "chinese": "你想要见到我",
+            "english": "You want to see me",
+            "soundmark": "/ju/ /wɑnt/ /tə/ /si/ /mi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.025Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 84,
+            "chinese": "今天",
+            "english": "today",
+            "soundmark": "/tə'de/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.075Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 85,
+            "chinese": "你想要今天见到我",
+            "english": "You want to see me today",
+            "soundmark": "/ju/ /wɑnt/ /tə/ /si/ /mi/ /tə'de/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.093Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 86,
+            "chinese": "说话",
+            "english": "to talk",
+            "soundmark": "/tə/ /tɔk/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.166Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 87,
+            "chinese": "和",
+            "english": "with",
+            "soundmark": "/wɪð/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.165Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 88,
+            "chinese": "和我",
+            "english": "with me",
+            "soundmark": "/wɪð/ /mi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.187Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 89,
+            "chinese": "和我说话",
+            "english": "to talk with me",
+            "soundmark": "/tə/ /tɔk/ /wɪð/ /mi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.437Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 90,
+            "chinese": "你想要和我说话",
+            "english": "You want to talk with me",
+            "soundmark": "/ju/ /wɑnt/ /tə/ /tɔk/ /wɪð/ /mi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.473Z",
+            "updatedAt": "2024-04-28T12:26:53.788Z"
+        },
+        {
+            "order": 91,
+            "chinese": "现在",
+            "english": "now",
+            "soundmark": "/naʊ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.503Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 92,
+            "chinese": "你想要现在和我说话",
+            "english": "You want to talk with me now",
+            "soundmark": "/ju/ /wɑnt/ /tə/ /tɔk/ /wɪð/ /mi/ /naʊ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.526Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 93,
+            "chinese": "必须做",
+            "english": "have to do",
+            "soundmark": "/hæv/ /tə/ /du/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.542Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 94,
+            "chinese": "你必须做这件事情",
+            "english": "You have to do it",
+            "soundmark": "/ju/ /hæv/ /tə/ /du/ /ɪt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.543Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 95,
+            "chinese": "每天",
+            "english": "every day",
+            "soundmark": "/'ɛvri/ /de/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.585Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 96,
+            "chinese": "你必须每天做这件事情",
+            "english": "You have to do it every day",
+            "soundmark": "/ju/ /hæv/ /tə/ /du/ /ɪt/ /'ɛvri/ /de/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.597Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 97,
+            "chinese": "帮助",
+            "english": "to help",
+            "soundmark": "/tə/ /hɛlp/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.618Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 98,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.690Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 99,
+            "chinese": "帮助我",
+            "english": "to help me",
+            "soundmark": "/tə/ /hɛlp/ /mi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.881Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 100,
+            "chinese": "你必须帮助我",
+            "english": "You have to help me",
+            "soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.917Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 101,
+            "chinese": "你必须现在帮助我",
+            "english": "You have to help me now",
+            "soundmark": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/ /naʊ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.985Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 102,
+            "chinese": "相信",
+            "english": "to believe",
+            "soundmark": "/tə/ /bɪ'liv/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:09.999Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 103,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.039Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 104,
+            "chinese": "相信我",
+            "english": "to believe me",
+            "soundmark": "/tə/ /bɪ'liv/ /mi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.039Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 105,
+            "chinese": "你必须相信我",
+            "english": "You have to believe me",
+            "soundmark": "/ju/ /hæv/ /tə/ /bɪ'liv/ /mi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.048Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 106,
+            "chinese": "这个食物",
+            "english": "the food",
+            "soundmark": "/ðə/ /fud/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.057Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 107,
+            "chinese": "吃",
+            "english": "to eat",
+            "soundmark": "/tə/ /it/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.089Z",
+            "updatedAt": "2024-04-28T12:26:53.789Z"
+        },
+        {
+            "order": 108,
+            "chinese": "吃这个食物",
+            "english": "to eat the food",
+            "soundmark": "/tə/ /it/ /ðə/ /fud/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.190Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 109,
+            "chinese": "你需要吃这个食物",
+            "english": "You need to eat the food",
+            "soundmark": "/ju/ /nid/ /tə/ /it/ /ðə/ /fud/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.325Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 110,
+            "chinese": "你需要现在吃这个食物",
+            "english": "You need to eat the food now",
+            "soundmark": "/ju/ /nid/ /tə/ /it/ /ðə/ /fud/ /naʊ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.373Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 111,
+            "chinese": "告诉",
+            "english": "to tell",
+            "soundmark": "/tə/ /tɛl/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.437Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 112,
+            "chinese": "告诉我",
+            "english": "to tell me",
+            "soundmark": "/tə/ /tɛl/ /mi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.485Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 113,
+            "chinese": "事实",
+            "english": "the truth",
+            "soundmark": "/ðə/ /trʊθ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.495Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 114,
+            "chinese": "告诉我事实",
+            "english": "to tell me the truth",
+            "soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.501Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 115,
+            "chinese": "你需要告诉我事实",
+            "english": "You need to tell me the truth",
+            "soundmark": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.567Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 116,
+            "chinese": "知道；认识",
+            "english": "to know",
+            "soundmark": "/tə/ /no/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.572Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 117,
+            "chinese": "事实",
+            "english": "the truth",
+            "soundmark": "/ðə/ /trʊθ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.582Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 118,
+            "chinese": "知道事实",
+            "english": "to know the truth",
+            "soundmark": "/tə/ /no/ /ðə/ /trʊθ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.693Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 119,
+            "chinese": "你需要知道事实",
+            "english": "You need to know the truth",
+            "soundmark": "/ju/ /nid/ /tə/ /no/ /ðə/ /trʊθ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.768Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 120,
+            "chinese": "和我说话",
+            "english": "to talk with me",
+            "soundmark": "/tə/ /tɔk/ /wɪð/ /mi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.818Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 121,
+            "chinese": "你喜欢和我说话",
+            "english": "You like to talk with me",
+            "soundmark": "/ju/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.884Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 122,
+            "chinese": "每天",
+            "english": "every day",
+            "soundmark": "/'ɛvri/ /de/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.927Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 123,
+            "chinese": "你喜欢每天和我说话",
+            "english": "You like to talk with me every day",
+            "soundmark": "/ju/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/ /'ɛvri/ /de/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.945Z",
+            "updatedAt": "2024-04-28T12:26:53.790Z"
+        },
+        {
+            "order": 124,
+            "chinese": "在这里",
+            "english": "to be here",
+            "soundmark": "/tə/ /bi/ /hɪr/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:10.980Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 125,
+            "chinese": "你喜欢在这里",
+            "english": "You like to be here",
+            "soundmark": "/ju/ /laɪk/ /tə/ /bi/ /hɪr/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.081Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 126,
+            "chinese": "每天",
+            "english": "every day",
+            "soundmark": "/'ɛvri/ /de/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.080Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 127,
+            "chinese": "你喜欢每天在这里",
+            "english": "You like to be here every day",
+            "soundmark": "/ju/ /laɪk/ /tə/ /bi/ /hɪr/ /'ɛvri/ /de/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.097Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 128,
+            "chinese": "学习",
+            "english": "to study",
+            "soundmark": "/tə/ /'stʌdi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.185Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 129,
+            "chinese": "你喜欢学习",
+            "english": "You like to study",
+            "soundmark": "/ju/ /laɪk/ /tə/ /'stʌdi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.219Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 130,
+            "chinese": "你喜欢每天学习",
+            "english": "You like to study every day",
+            "soundmark": "/ju/ /laɪk/ /tə/ /'stʌdi/ /'ɛvri/ /de/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.273Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 131,
+            "chinese": "告诉",
+            "english": "to tell",
+            "soundmark": "/tə/ /tɛl/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.329Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 132,
+            "chinese": "告诉我",
+            "english": "to tell me",
+            "soundmark": "/tə/ /tɛl/ /mi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.358Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 133,
+            "chinese": "事实",
+            "english": "the truth",
+            "soundmark": "/ðə/ /trʊθ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.395Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 134,
+            "chinese": "告诉我事实",
+            "english": "to tell me the truth",
+            "soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.473Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 135,
+            "chinese": "你想要告诉我事实",
+            "english": "You want to tell me the truth",
+            "soundmark": "/ju/ /wɑnt/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.573Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 136,
+            "chinese": "你必须告诉我事实",
+            "english": "You have to tell me the truth",
+            "soundmark": "/ju/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.595Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 137,
+            "chinese": "重要的",
+            "english": "important",
+            "soundmark": "/ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.595Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 138,
+            "chinese": "它是重要的",
+            "english": "It is important",
+            "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.674Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 139,
+            "chinese": "因为",
+            "english": "because",
+            "soundmark": "/bɪ'kɔz/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.689Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 140,
+            "chinese": "你必须告诉我事实因为它是重要的",
+            "english": "You have to tell me the truth because it is important",
+            "soundmark": "/ju/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.718Z",
+            "updatedAt": "2024-04-28T12:26:53.791Z"
+        },
+        {
+            "order": 141,
+            "chinese": "知道；认识",
+            "english": "to know",
+            "soundmark": "/tə/ /no/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.789Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 142,
+            "chinese": "你想要知道",
+            "english": "You want to know",
+            "soundmark": "/ju/ /wɑnt/ /tə/ /no/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.790Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 143,
+            "chinese": "是否",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.839Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 144,
+            "chinese": "它是重要的",
+            "english": "It is important",
+            "soundmark": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:11.968Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 145,
+            "chinese": "你想要知道是否它是重要的",
+            "english": "You want to know if it is important",
+            "soundmark": "/ju/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.072Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 146,
+            "chinese": "它是可能的",
+            "english": "it is possible",
+            "soundmark": "/ɪt/ /ɪz/ /'pɑsəbl/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.121Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 147,
+            "chinese": "你想要知道是否它是可能的",
+            "english": "You want to know if it is possible",
+            "soundmark": "/ju/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /'pɑsəbl/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.125Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 148,
+            "chinese": "好的",
+            "english": "good",
+            "soundmark": "/ɡʊd/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.184Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 149,
+            "chinese": "重要的",
+            "english": "important",
+            "soundmark": "/ɪm'pɔrtnt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.203Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 150,
+            "chinese": "完美的",
+            "english": "perfect",
+            "soundmark": "/'pɝfɪkt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.220Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 151,
+            "chinese": "富有的",
+            "english": "rich",
+            "soundmark": "/rɪtʃ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.238Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 152,
+            "chinese": "我是",
+            "english": "I am",
+            "soundmark": "/aɪ/ /æm/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.303Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 153,
+            "chinese": "你是",
+            "english": "you are",
+            "soundmark": "/ju/ /ɚ/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.396Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 154,
+            "chinese": "它是",
+            "english": "it is",
+            "soundmark": "/ɪt/ /ɪz/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.457Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 155,
+            "chinese": "他是",
+            "english": "he is",
+            "soundmark": "/hi/ /ɪz/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.586Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 156,
+            "chinese": "她是",
+            "english": "she is",
+            "soundmark": "/ʃi/ /ɪz/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.585Z",
+            "updatedAt": "2024-04-28T12:26:53.792Z"
+        },
+        {
+            "order": 157,
+            "chinese": "你喜欢做这件事",
+            "english": "you like to do it",
+            "soundmark": "/ju/ /laɪk/ /tə/ /du/ /ɪt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.627Z",
+            "updatedAt": "2024-04-28T12:26:53.793Z"
+        },
+        {
+            "order": 158,
+            "chinese": "你需要做这件事",
+            "english": "you need to do it",
+            "soundmark": "/ju/ /nid/ /tə/ /du/ /ɪt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.636Z",
+            "updatedAt": "2024-04-28T12:26:53.793Z"
+        },
+        {
+            "order": 159,
+            "chinese": "你必须做这件事情",
+            "english": "you have to do it",
+            "soundmark": "/ju/ /hæv/ /tə/ /du/ /ɪt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.658Z",
+            "updatedAt": "2024-04-28T12:26:53.793Z"
+        },
+        {
+            "order": 160,
+            "chinese": "你想要做这件事",
+            "english": "you want to do it",
+            "soundmark": "/ju/ /wɑnt/ /tə/ /du/ /ɪt/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.694Z",
+            "updatedAt": "2024-04-28T12:26:53.793Z"
+        },
+        {
+            "order": 161,
+            "chinese": "帮助",
+            "english": "to help",
+            "soundmark": "/tə/ /hɛlp/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.714Z",
+            "updatedAt": "2024-04-28T12:26:53.793Z"
+        },
+        {
+            "order": 162,
+            "chinese": "相信",
+            "english": "to believe",
+            "soundmark": "/tə/ /bɪ'liv/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.755Z",
+            "updatedAt": "2024-04-28T12:26:53.793Z"
+        },
+        {
+            "order": 163,
+            "chinese": "说话",
+            "english": "to talk",
+            "soundmark": "/tə/ /tɔk/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.914Z",
+            "updatedAt": "2024-04-28T12:26:53.793Z"
+        },
+        {
+            "order": 164,
+            "chinese": "学习",
+            "english": "to study",
+            "soundmark": "/tə/ /'stʌdi/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:12.953Z",
+            "updatedAt": "2024-04-28T12:26:53.793Z"
+        },
+        {
+            "order": 165,
+            "chinese": "告诉",
+            "english": "to tell",
+            "soundmark": "/tə/ /tɛl/",
+            "courseId": "v9a9mhsak8vgoydnhk42xajs",
+            "createdAt": "2024-04-28T12:27:13.031Z",
+            "updatedAt": "2024-04-28T12:26:53.794Z"
+        }
+    ]
+}

@@ -1,0 +1,1227 @@
+{
+    "id": "xcum6kj6x3s9geirh9nhambd",
+    "title": "第十六课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV18P4y1F7ga",
+    "order": 16,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:51.639Z",
+    "updatedAt": "2024-05-23T14:05:58.984Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "聚会",
+            "english": "the party",
+            "soundmark": "/ðə/ /'pɑrti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:25.950Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 2,
+            "chinese": "参加；加入",
+            "english": "to join",
+            "soundmark": "/tə/ /dʒɔɪn/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.011Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 3,
+            "chinese": "参加聚会",
+            "english": "to join the party",
+            "soundmark": "/tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.110Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 4,
+            "chinese": "邀请",
+            "english": "to invite",
+            "soundmark": "/tə/ /'ɪnvaɪt/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.151Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 5,
+            "chinese": "她",
+            "english": "her",
+            "soundmark": "/hɚ/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.153Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 6,
+            "chinese": "邀请她",
+            "english": "to invite her",
+            "soundmark": "/tə/ /'ɪnvaɪt/ /hɚ/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.216Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 7,
+            "chinese": "参加聚会",
+            "english": "to join the party",
+            "soundmark": "/tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.226Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 8,
+            "chinese": "邀请她参加聚会",
+            "english": "to invite her to join the party",
+            "soundmark": "/tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.235Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 9,
+            "chinese": "我们想要",
+            "english": "we want",
+            "soundmark": "/wi/ /wɑnt/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.281Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 10,
+            "chinese": "我们想要邀请她参加聚会",
+            "english": "we want to invite her to join the party",
+            "soundmark": "/wi/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.294Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 11,
+            "chinese": "我们不想邀请她参加聚会",
+            "english": "we don't want to invite her to join the party",
+            "soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.452Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 12,
+            "chinese": "我们（过去）想要邀请她参加聚会",
+            "english": "we wanted to invite her to join the party",
+            "soundmark": "/wi/ /wɑntɪd/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.458Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 13,
+            "chinese": "昨天",
+            "english": "yesterday",
+            "soundmark": "/'jɛstɚde/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.557Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 14,
+            "chinese": "我们昨天想要邀请她参加聚会",
+            "english": "we wanted to invite her to join the party yesterday",
+            "soundmark": "/wi/ /wɑntɪd/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.675Z",
+            "updatedAt": "2024-04-28T12:26:53.944Z"
+        },
+        {
+            "order": 15,
+            "chinese": "我们昨天不想邀请她参加聚会",
+            "english": "we didn't want to invite her to join the party yesterday",
+            "soundmark": "/wi/ /ˈdɪdnt/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.687Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 16,
+            "chinese": "我们邀请她参加聚会",
+            "english": "we invite her to join the party",
+            "soundmark": "/wi/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.689Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 17,
+            "chinese": "经常",
+            "english": "often",
+            "soundmark": "/'ɔfn/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.712Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 18,
+            "chinese": "我们经常邀请她参加聚会",
+            "english": "we often invite her to join the party",
+            "soundmark": "/wi/ /'ɔfn/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.799Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 19,
+            "chinese": "我们（过去）邀请她参加聚会",
+            "english": "we invited her to join the party",
+            "soundmark": "/wi/ /'ɪnvaɪtɪd/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.818Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 20,
+            "chinese": "我们（过去）没有邀请她参加聚会",
+            "english": "we didn't invite her to join the party",
+            "soundmark": "/wi/ /ˈdɪdnt/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.922Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 21,
+            "chinese": "参加；加入",
+            "english": "to join",
+            "soundmark": "/tə/ /dʒɔɪn/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.931Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 22,
+            "chinese": "我们",
+            "english": "us",
+            "soundmark": "/ʌs/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.962Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 23,
+            "chinese": "加入我们",
+            "english": "to join us",
+            "soundmark": "/tə/ /dʒɔɪn/ /ʌs/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:26.997Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 24,
+            "chinese": "她",
+            "english": "she",
+            "soundmark": "/ʃi/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.162Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 25,
+            "chinese": "她想要加入我们",
+            "english": "she wants to join us",
+            "soundmark": "/ʃi/ /wɑnts/ /tə/ /dʒɔɪn/ /ʌs/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.160Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 26,
+            "chinese": "她（过去）想要加入我们",
+            "english": "she wanted to join us",
+            "soundmark": "/ʃi/ /wɑntɪd/ /tə/ /dʒɔɪn/ /ʌs/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.174Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 27,
+            "chinese": "真的",
+            "english": "really",
+            "soundmark": "/'rili/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.209Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 28,
+            "chinese": "她真的（过去）想要加入我们",
+            "english": "she really wanted to join us",
+            "soundmark": "/ʃi/ /'rili/ /wɑntɪd/ /tə/ /dʒɔɪn/ /ʌs/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.297Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 29,
+            "chinese": "她（过去）不想加入我们",
+            "english": "she didn't want to join us",
+            "soundmark": "/ʃi/ /ˈdɪdnt/ /wɑnt/ /tə/ /dʒɔɪn/ /ʌs/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.326Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 30,
+            "chinese": "但是",
+            "english": "but",
+            "soundmark": "/bət/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.366Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 31,
+            "chinese": "但是她（过去）不想加入我们",
+            "english": "but she didn't want to join us",
+            "soundmark": "/bət/ /ʃi/ /ˈdɪdnt/ /wɑnt/ /tə/ /dʒɔɪn/ /ʌs/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.379Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 32,
+            "chinese": "我们昨天想要邀请她参加聚会",
+            "english": "we wanted to invite her to join the party yesterday",
+            "soundmark": "/wi/ /wɑntɪd/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.427Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 33,
+            "chinese": "但是她（过去）不想加入我们",
+            "english": "but she didn't want to join us",
+            "soundmark": "/bət/ /ʃi/ /ˈdɪdnt/ /wɑnt/ /tə/ /dʒɔɪn/ /ʌs/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.452Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 34,
+            "chinese": "我们昨天不想邀请她参加聚会但是她真的（过去）想要加入我们",
+            "english": "we didn't want to invite her to join the party yesterday but she really wanted to join us",
+            "soundmark": "/wi/ /ˈdɪdnt/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/ /bət/ /ʃi/ /'rili/ /wɑntɪd/ /tə/ /dʒɔɪn/ /ʌs/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.609Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 35,
+            "chinese": "拒绝",
+            "english": "to refuse",
+            "soundmark": "/tə/ /ri'fjuz/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.615Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 36,
+            "chinese": "她（过去）拒绝",
+            "english": "she refused",
+            "soundmark": "/ʃi/ /ri'fjuzd/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.676Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 37,
+            "chinese": "参加聚会",
+            "english": "to join the party",
+            "soundmark": "/tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.714Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 38,
+            "chinese": "她（过去）拒绝参加聚会",
+            "english": "she refused to join the party",
+            "soundmark": "/ʃi/ /ri'fjuzd/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.788Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 39,
+            "chinese": "她（过去）没有拒绝参加聚会",
+            "english": "she didn't refuse to join the party",
+            "soundmark": "/ʃi/ /ˈdɪdnt/ /ri'fjuz/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.817Z",
+            "updatedAt": "2024-04-28T12:26:53.945Z"
+        },
+        {
+            "order": 40,
+            "chinese": "时间",
+            "english": "time",
+            "soundmark": "/taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.836Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 41,
+            "chinese": "拥有",
+            "english": "have",
+            "soundmark": "/hæv/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.837Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 42,
+            "chinese": "她有时间",
+            "english": "she has time",
+            "soundmark": "/ʃi/ /hæz/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.875Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 43,
+            "chinese": "足够的",
+            "english": "enough",
+            "soundmark": "/ɪ'nʌf/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:27.943Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 44,
+            "chinese": "她有足够的时间",
+            "english": "she has enough time",
+            "soundmark": "/ʃi/ /hæz/ /ɪ'nʌf/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.052Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 45,
+            "chinese": "她（过去）有足够的时间",
+            "english": "she had enough time",
+            "soundmark": "/ʃi/ /hæd/ /ɪ'nʌf/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.066Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 46,
+            "chinese": "她（过去）没有足够的时间",
+            "english": "she didn't have enough time",
+            "soundmark": "/ʃi/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.180Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 47,
+            "chinese": "因为",
+            "english": "because",
+            "soundmark": "/bɪ'kɔz/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.208Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 48,
+            "chinese": "因为她（过去）没有足够的时间",
+            "english": "because she didn't have enough time",
+            "soundmark": "/bɪ'kɔz/ /ʃi/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.287Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 49,
+            "chinese": "她（过去）拒绝参加聚会因为她（过去）没有足够的时间",
+            "english": "she refused to join the party because she didn't have enough time",
+            "soundmark": "/ʃi/ /ri'fjuzd/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /bɪ'kɔz/ /ʃi/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.291Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 50,
+            "chinese": "她（过去）没有拒绝参加聚会因为她（过去）有足够的时间",
+            "english": "she didn't refuse to join the party because she had enough time",
+            "soundmark": "/ʃi/ /ˈdɪdnt/ /ri'fjuz/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /bɪ'kɔz/ /ʃi/ /hæd/ /ɪ'nʌf/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.291Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 51,
+            "chinese": "接受；承担",
+            "english": "to accept",
+            "soundmark": "/tə/ /ək'sɛpt/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.326Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 52,
+            "chinese": "责任",
+            "english": "the responsibility",
+            "soundmark": "/ðə/ /rɪspɑnsə'bɪləti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.349Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 53,
+            "chinese": "承担责任",
+            "english": "to accept the responsibility",
+            "soundmark": "/tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.444Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 54,
+            "chinese": "拒绝",
+            "english": "to refuse",
+            "soundmark": "/tə/ /ri'fjuz/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.511Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 55,
+            "chinese": "他拒绝承担责任",
+            "english": "he refuses to accept the responsibility",
+            "soundmark": "/hi/ /ri'fjuzɪz/ /tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.523Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 56,
+            "chinese": "他（过去）拒绝承担责任",
+            "english": "he refused to accept the responsibility",
+            "soundmark": "/hi/ /ri'fjuzd/ /tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.680Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 57,
+            "chinese": "他（过去）没有拒绝承担责任",
+            "english": "he didn't refuse to accept the responsibility",
+            "soundmark": "/hi/ /ˈdɪdnt/ /ri'fjuz/ /tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.707Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 58,
+            "chinese": "他承担责任",
+            "english": "he accepts the responsibility",
+            "soundmark": "/hi/ /ək'sɛpts/ /ðə/ /rɪspɑnsə'bɪləti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.730Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 59,
+            "chinese": "承担了",
+            "english": "accepted",
+            "soundmark": "/ək'sɛptɪd/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.762Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 60,
+            "chinese": "他承担了责任",
+            "english": "he accepted the responsibility",
+            "soundmark": "/hi/ /ək'sɛptɪd/ /ðə/ /rɪspɑnsə'bɪləti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.789Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 61,
+            "chinese": "他（过去）没有承担责任",
+            "english": "he didn't accept the responsibility",
+            "soundmark": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.866Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 62,
+            "chinese": "驾驶；开车",
+            "english": "to drive",
+            "soundmark": "/tə/ /draɪv/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.938Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 63,
+            "chinese": "如何",
+            "english": "how",
+            "soundmark": "/haʊ/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.954Z",
+            "updatedAt": "2024-04-28T12:26:53.946Z"
+        },
+        {
+            "order": 64,
+            "chinese": "如何开车",
+            "english": "how to drive",
+            "soundmark": "/haʊ/ /tə/ /draɪv/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:28.963Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 65,
+            "chinese": "学习",
+            "english": "to learn",
+            "soundmark": "/tə/ /lɝn/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.073Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 66,
+            "chinese": "学习如何开车",
+            "english": "to learn how to drive",
+            "soundmark": "/tə/ /lɝn/ /haʊ/ /tə/ /draɪv/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.181Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 67,
+            "chinese": "我想要学习如何开车",
+            "english": "I want to learn how to drive",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.206Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 68,
+            "chinese": "真的",
+            "english": "really",
+            "soundmark": "/'rili/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.210Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 69,
+            "chinese": "我真的想要学习如何开车",
+            "english": "I really want to learn how to drive",
+            "soundmark": "/aɪ/ /'rili/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.239Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 70,
+            "chinese": "我真的不想学习如何开车",
+            "english": "I really don't want to learn how to drive",
+            "soundmark": "/aɪ/ /'rili/ /dont/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.298Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 71,
+            "chinese": "我真的（过去）想要学习如何开车",
+            "english": "I really wanted to learn how to drive",
+            "soundmark": "/aɪ/ /'rili/ /wɑntɪd/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.398Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 72,
+            "chinese": "我真的（过去）不想学习如何开车",
+            "english": "I really didn't want to learn how to drive",
+            "soundmark": "/aɪ/ /'rili/ /ˈdɪdnt/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.419Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 73,
+            "chinese": "驾驶；开车",
+            "english": "to drive",
+            "soundmark": "/tə/ /draɪv/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.420Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 74,
+            "chinese": "驾驶员",
+            "english": "driver",
+            "soundmark": "/'draɪvɚ/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.440Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 75,
+            "chinese": "执照",
+            "english": "license",
+            "soundmark": "/'laɪsns/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.523Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 76,
+            "chinese": "驾照",
+            "english": "driver's license",
+            "soundmark": "/'draɪvɚz/ /'laɪsns/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.630Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 77,
+            "chinese": "一个驾照",
+            "english": "a driver's license",
+            "soundmark": "/ə/ /'draɪvɚz/ /'laɪsns/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.674Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 78,
+            "chinese": "达到；获得",
+            "english": "to get",
+            "soundmark": "/tə/ /gɛt/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.710Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 79,
+            "chinese": "获得一个驾照",
+            "english": "to get a driver's license",
+            "soundmark": "/tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.708Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 80,
+            "chinese": "我需要",
+            "english": "I need",
+            "soundmark": "/aɪ/ /nid/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.809Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 81,
+            "chinese": "我需要获得一个驾照",
+            "english": "I need to get a driver's license",
+            "soundmark": "/aɪ/ /nid/ /tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.868Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 82,
+            "chinese": "而且",
+            "english": "and",
+            "soundmark": "/ənd/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.873Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 83,
+            "chinese": "而且我需要获得一个驾照",
+            "english": "and I need to get a driver's license",
+            "soundmark": "/ənd/ /aɪ/ /nid/ /tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.931Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 84,
+            "chinese": "我真的（过去）想要学习如何开车",
+            "english": "I really wanted to learn how to drive",
+            "soundmark": "/aɪ/ /'rili/ /wɑntɪd/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.932Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 85,
+            "chinese": "我真的（过去）想要学习如何开车而且我需要获得一个驾照",
+            "english": "I really wanted to learn how to drive and I need to get a driver's license",
+            "soundmark": "/aɪ/ /'rili/ /wɑntɪd/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/ /ənd/ /aɪ/ /nid/ /tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:29.964Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 86,
+            "chinese": "完成",
+            "english": "to finish",
+            "soundmark": "/tə/ /'fɪnɪʃ/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.075Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 87,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.109Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 88,
+            "chinese": "工作",
+            "english": "work",
+            "soundmark": "/wɝk/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.207Z",
+            "updatedAt": "2024-04-28T12:26:53.947Z"
+        },
+        {
+            "order": 89,
+            "chinese": "我的工作",
+            "english": "my work",
+            "soundmark": "/maɪ/ /wɝk/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.229Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 90,
+            "chinese": "完成我的工作",
+            "english": "to finish my work",
+            "soundmark": "/tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.310Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 91,
+            "chinese": "我想要",
+            "english": "I want",
+            "soundmark": "/aɪ/ /wɑnt/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.310Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 92,
+            "chinese": "我想要完成我的工作",
+            "english": "I want to finish my work",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.337Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 93,
+            "chinese": "我不想完成我的工作",
+            "english": "I don't want to finish my work",
+            "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.437Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 94,
+            "chinese": "只是",
+            "english": "just",
+            "soundmark": "/dʒʌst/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.441Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 95,
+            "chinese": "我只是想要完成我的工作",
+            "english": "I just want to finish my work",
+            "soundmark": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.444Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 96,
+            "chinese": "我只是（过去）想要完成我的工作",
+            "english": "I just wanted to finish my work",
+            "soundmark": "/aɪ/ /dʒʌst/ /wɑntɪd/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.525Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 97,
+            "chinese": "时间",
+            "english": "time",
+            "soundmark": "/taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.539Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 98,
+            "chinese": "准时",
+            "english": "on time",
+            "soundmark": "/ɑn/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.710Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 99,
+            "chinese": "我只是（过去）想要准时完成我的工作",
+            "english": "I just wanted to finish my work on time",
+            "soundmark": "/aɪ/ /dʒʌst/ /wɑntɪd/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.728Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 100,
+            "chinese": "我（过去）不想准时完成我的工作",
+            "english": "I didn't want to finish my work on time",
+            "soundmark": "/aɪ/ /ˈdɪdnt/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.750Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 101,
+            "chinese": "我准时完成我的工作",
+            "english": "I finish my work on time",
+            "soundmark": "/aɪ/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.784Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 102,
+            "chinese": "我没有准时完成我的工作",
+            "english": "I don't finish my work on time",
+            "soundmark": "/aɪ/ /dont/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.812Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 103,
+            "chinese": "完成了",
+            "english": "finished",
+            "soundmark": "/'fɪnɪʃt/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.898Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 104,
+            "chinese": "我准时完成了我的工作",
+            "english": "I finished my work on time",
+            "soundmark": "/aɪ/ /'fɪnɪʃt/ /maɪ/ /wɝk/ /ɑn/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.924Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 105,
+            "chinese": "我没有准时（过去）完成我的工作",
+            "english": "I didn't finish my work on time",
+            "soundmark": "/aɪ/ /ˈdɪdnt/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.985Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 106,
+            "chinese": "看",
+            "english": "to watch",
+            "soundmark": "/tə/ /wɔtʃ/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:30.984Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 107,
+            "chinese": "一个电影",
+            "english": "a movie",
+            "soundmark": "/ə/ /'muvi/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.195Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 108,
+            "chinese": "看一个电影",
+            "english": "to watch a movie",
+            "soundmark": "/tə/ /wɔtʃ/ /ə/ /'muvi/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.226Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 109,
+            "chinese": "我想看一个电影",
+            "english": "I want to watch a movie",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /wɔtʃ/ /ə/ /'muvi/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.235Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 110,
+            "chinese": "我不想看那个电影",
+            "english": "I don't want to watch the movie",
+            "soundmark": "/aɪ/ /dont/ /wɑnt/ /tə/ /wɔtʃ/ /ðə/ /'muvi/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.260Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 111,
+            "chinese": "我（过去）想要看一个电影",
+            "english": "I wanted to watch a movie",
+            "soundmark": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.312Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 112,
+            "chinese": "周；星期",
+            "english": "week",
+            "soundmark": "/wik/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.344Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 113,
+            "chinese": "周末",
+            "english": "weekend",
+            "soundmark": "/'wikɛnd/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.474Z",
+            "updatedAt": "2024-04-28T12:26:53.948Z"
+        },
+        {
+            "order": 114,
+            "chinese": "上一个",
+            "english": "last",
+            "soundmark": "/læst/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.481Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 115,
+            "chinese": "上周末",
+            "english": "last weekend",
+            "soundmark": "/læst/ /'wikɛnd/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.481Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 116,
+            "chinese": "我上周末想看一个电影",
+            "english": "I wanted to watch a movie last weekend",
+            "soundmark": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/ /læst/ /'wikɛnd/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.506Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 117,
+            "chinese": "我上周末不想看那个电影",
+            "english": "I didn't want to watch the movie last weekend",
+            "soundmark": "/aɪ/ /ˈdɪdnt/ /wɑnt/ /tə/ /wɔtʃ/ /ðə/ /'muvi/ /læst/ /'wikɛnd/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.674Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 118,
+            "chinese": "时间",
+            "english": "time",
+            "soundmark": "/taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.710Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 119,
+            "chinese": "足够的",
+            "english": "enough",
+            "soundmark": "/ɪ'nʌf/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.755Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 120,
+            "chinese": "足够的时间",
+            "english": "enough time",
+            "soundmark": "/ɪ'nʌf/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.771Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 121,
+            "chinese": "拥有",
+            "english": "have",
+            "soundmark": "/hæv/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.818Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 122,
+            "chinese": "我有足够的时间",
+            "english": "I have enough time",
+            "soundmark": "/aɪ/ /hæv/ /ɪ'nʌf/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.820Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 123,
+            "chinese": "我没有足够的时间",
+            "english": "I don't have enough time",
+            "soundmark": "/aɪ/ /dont/ /hæv/ /ɪ'nʌf/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.925Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 124,
+            "chinese": "我（过去）有足够的时间",
+            "english": "I had enough time",
+            "soundmark": "/aɪ/ /hæd/ /ɪ'nʌf/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.928Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 125,
+            "chinese": "我（过去）没有足够的时间",
+            "english": "I didn't have enough time",
+            "soundmark": "/aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.970Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 126,
+            "chinese": "但是",
+            "english": "but",
+            "soundmark": "/bət/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:31.998Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 127,
+            "chinese": "但是我（过去）没有足够的时间",
+            "english": "but I didn't have enough time",
+            "soundmark": "/bət/ /aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:32.119Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 128,
+            "chinese": "我上周末想看一个电影",
+            "english": "I wanted to watch a movie last weekend",
+            "soundmark": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/ /læst/ /'wikɛnd/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:32.156Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 129,
+            "chinese": "我上周末想看一个电影但是我（过去）没有足够的时间",
+            "english": "I wanted to watch a movie last weekend but I didn't have enough time",
+            "soundmark": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/ /læst/ /'wikɛnd/ /bət/ /aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:32.234Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 130,
+            "chinese": "完成",
+            "english": "to finish",
+            "soundmark": "/tə/ /'fɪnɪʃ/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:32.274Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 131,
+            "chinese": "我的工作",
+            "english": "my work",
+            "soundmark": "/maɪ/ /wɝk/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:32.282Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 132,
+            "chinese": "完成我的工作",
+            "english": "to finish my work",
+            "soundmark": "/tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:32.324Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 133,
+            "chinese": "我没有足够的时间",
+            "english": "I don't have enough time",
+            "soundmark": "/aɪ/ /dont/ /hæv/ /ɪ'nʌf/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:32.366Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 134,
+            "chinese": "我（过去）没有足够的时间",
+            "english": "I didn't have enough time",
+            "soundmark": "/aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:32.375Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        },
+        {
+            "order": 135,
+            "chinese": "我（过去）没有足够的时间完成我的工作",
+            "english": "I didn't have enough time to finish my work",
+            "soundmark": "/aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/",
+            "courseId": "xcum6kj6x3s9geirh9nhambd",
+            "createdAt": "2024-04-28T12:29:32.458Z",
+            "updatedAt": "2024-04-28T12:26:53.949Z"
+        }
+    ]
+}

@@ -1,0 +1,1650 @@
+{
+    "id": "dlbga4pimb51y3gcxo1pqnc4",
+    "title": "第七课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV13L4y1p7NW",
+    "order": 7,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:51.319Z",
+    "updatedAt": "2024-05-23T14:05:58.019Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "我们",
+            "english": "we",
+            "soundmark": "/wi/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:49.707Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 2,
+            "chinese": "喜欢",
+            "english": "like",
+            "soundmark": "/laɪk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:49.792Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 3,
+            "chinese": "我们喜欢",
+            "english": "we like",
+            "soundmark": "/wi/ /laɪk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:49.805Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 4,
+            "chinese": "做",
+            "english": "to do",
+            "soundmark": "/tə/ /du/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:49.886Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 5,
+            "chinese": "这件事",
+            "english": "it",
+            "soundmark": "/ɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:49.909Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 6,
+            "chinese": "做这件事",
+            "english": "to do it",
+            "soundmark": "/tə/ /du/ /ɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:49.994Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 7,
+            "chinese": "我们喜欢做这件事",
+            "english": "we like to do it",
+            "soundmark": "/wi/ /laɪk/ /tə/ /du/ /ɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.004Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 8,
+            "chinese": "现在",
+            "english": "now",
+            "soundmark": "/naʊ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.026Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 9,
+            "chinese": "我们喜欢现在做这件事",
+            "english": "we like to do it now",
+            "soundmark": "/wi/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.044Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 10,
+            "chinese": "不",
+            "english": "don't",
+            "soundmark": "/dont/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.130Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 11,
+            "chinese": "我们不喜欢现在做这件事",
+            "english": "we don't like to do it now",
+            "soundmark": "/wi/ /dont/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.152Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 12,
+            "chinese": "跳舞",
+            "english": "to dance",
+            "soundmark": "/tə/ /dæns/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.283Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 13,
+            "chinese": "我们喜欢跳舞",
+            "english": "we like to dance",
+            "soundmark": "/wi/ /laɪk/ /tə/ /dæns/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.315Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 14,
+            "chinese": "我们喜欢现在跳舞",
+            "english": "we like to dance now",
+            "soundmark": "/wi/ /laɪk/ /tə/ /dæns/ /naʊ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.326Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 15,
+            "chinese": "街道",
+            "english": "the street",
+            "soundmark": "/ðə/ /strit/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.354Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 16,
+            "chinese": "在街头",
+            "english": "in the street",
+            "soundmark": "/ɪn/ /ðə/ /strit/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.463Z",
+            "updatedAt": "2024-04-28T12:26:53.849Z"
+        },
+        {
+            "order": 17,
+            "chinese": "我们喜欢在街头跳舞",
+            "english": "we like to dance in the street",
+            "soundmark": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.463Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 18,
+            "chinese": "晚上",
+            "english": "night",
+            "soundmark": "/naɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.547Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 19,
+            "chinese": "在晚上",
+            "english": "at night",
+            "soundmark": "/ət/ /naɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.598Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 20,
+            "chinese": "我们喜欢在晚上在街头跳舞",
+            "english": "we like to dance in the street at night",
+            "soundmark": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.659Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 21,
+            "chinese": "我们不喜欢在晚上在街头跳舞",
+            "english": "we don't like to dance in the street at night",
+            "soundmark": "/wi/ /dont/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.775Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 22,
+            "chinese": "睡觉",
+            "english": "to sleep",
+            "soundmark": "/tə/ /slip/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.792Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 23,
+            "chinese": "你们",
+            "english": "you",
+            "soundmark": "/ju/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.801Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 24,
+            "chinese": "你们喜欢",
+            "english": "you like",
+            "soundmark": "/ju/ /laɪk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.809Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 25,
+            "chinese": "你们喜欢睡觉",
+            "english": "you like to sleep",
+            "soundmark": "/ju/ /laɪk/ /tə/ /slip/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.811Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 26,
+            "chinese": "在床上",
+            "english": "on the bed",
+            "soundmark": "/ɑn/ /ðə/ /bɛd/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.905Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 27,
+            "chinese": "你们喜欢在床上睡觉",
+            "english": "you like to sleep on the bed",
+            "soundmark": "/ju/ /laɪk/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:50.916Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 28,
+            "chinese": "不",
+            "english": "don't",
+            "soundmark": "/dont/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.047Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 29,
+            "chinese": "你们不喜欢在床上睡觉",
+            "english": "you don't like to sleep on the bed",
+            "soundmark": "/ju/ /dont/ /laɪk/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.056Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 30,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.177Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 31,
+            "chinese": "和我一起",
+            "english": "with me",
+            "soundmark": "/wɪð/ /mi/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.221Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 32,
+            "chinese": "和我一起跳舞",
+            "english": "to dance with me",
+            "soundmark": "/tə/ /dæns/ /wɪð/ /mi/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.270Z",
+            "updatedAt": "2024-04-28T12:26:53.850Z"
+        },
+        {
+            "order": 33,
+            "chinese": "你们喜欢和我一起跳舞",
+            "english": "you like to dance with me",
+            "soundmark": "/ju/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.303Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 34,
+            "chinese": "你们不喜欢和我一起跳舞",
+            "english": "you don't like to dance with me",
+            "soundmark": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.338Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 35,
+            "chinese": "在街头",
+            "english": "in the street",
+            "soundmark": "/ɪn/ /ðə/ /strit/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.365Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 36,
+            "chinese": "你们不喜欢在街头和我一起跳舞",
+            "english": "you don't like to dance with me in the street",
+            "soundmark": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/ /ɪn/ /ðə/ /strit/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.493Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 37,
+            "chinese": "在晚上",
+            "english": "at night",
+            "soundmark": "/ət/ /naɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.556Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 38,
+            "chinese": "你们不喜欢在晚上在街头和我一起跳舞",
+            "english": "you don't like to dance with me in the street at night",
+            "soundmark": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.602Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 39,
+            "chinese": "说话",
+            "english": "to talk",
+            "soundmark": "/tə/ /tɔk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.602Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 40,
+            "chinese": "和我",
+            "english": "with me",
+            "soundmark": "/wɪð/ /mi/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.668Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 41,
+            "chinese": "和我说话",
+            "english": "to talk with me",
+            "soundmark": "/tə/ /tɔk/ /wɪð/ /mi/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.695Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 42,
+            "chinese": "他们",
+            "english": "they",
+            "soundmark": "/ðe/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.723Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 43,
+            "chinese": "他们喜欢和我说话",
+            "english": "they like to talk with me",
+            "soundmark": "/ðe/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.777Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 44,
+            "chinese": "他们不喜欢和我说话",
+            "english": "they don't like to talk with me",
+            "soundmark": "/ðe/ /dont/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.805Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 45,
+            "chinese": "和你",
+            "english": "with you",
+            "soundmark": "/wɪð/ /ju/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.830Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 46,
+            "chinese": "和你一起跳舞",
+            "english": "to dance with you",
+            "soundmark": "/tə/ /dæns/ /wɪð/ /ju/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:51.946Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 47,
+            "chinese": "他们喜欢和你一起跳舞",
+            "english": "they like to dance with you",
+            "soundmark": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.061Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 48,
+            "chinese": "他们不喜欢和你一起跳舞",
+            "english": "they don't like to dance with you",
+            "soundmark": "/ðe/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.103Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 49,
+            "chinese": "在街头",
+            "english": "in the street",
+            "soundmark": "/ɪn/ /ðə/ /strit/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.116Z",
+            "updatedAt": "2024-04-28T12:26:53.851Z"
+        },
+        {
+            "order": 50,
+            "chinese": "他们喜欢和你一起在街头跳舞",
+            "english": "they like to dance with you in the street",
+            "soundmark": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.125Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 51,
+            "chinese": "在晚上",
+            "english": "at night",
+            "soundmark": "/ət/ /naɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.173Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 52,
+            "chinese": "他们喜欢在晚上和你一起在街头跳舞",
+            "english": "they like to dance with you in the street at night",
+            "soundmark": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.215Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 53,
+            "chinese": "他们不喜欢在晚上和你一起在街头跳舞",
+            "english": "they don't like to dance with you in the street at night",
+            "soundmark": "/ðe/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.215Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 54,
+            "chinese": "知道",
+            "english": "to know",
+            "soundmark": "/tə/ /no/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.296Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 55,
+            "chinese": "想要知道",
+            "english": "want to know",
+            "soundmark": "/wɑnt/ /tə/ /no/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.576Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 56,
+            "chinese": "我们想要知道",
+            "english": "we want to know",
+            "soundmark": "/wi/ /wɑnt/ /tə/ /no/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.582Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 57,
+            "chinese": "只是",
+            "english": "just",
+            "soundmark": "/dʒʌst/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.603Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 58,
+            "chinese": "我们只是想要知道",
+            "english": "we just want to know",
+            "soundmark": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.623Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 59,
+            "chinese": "是否",
+            "english": "if",
+            "soundmark": "/ɪf/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.646Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 60,
+            "chinese": "我们只是想要知道是否他们喜欢在晚上和你一起在街头跳舞",
+            "english": "we just want to know if they like to dance with you in the street at night",
+            "soundmark": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.739Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 61,
+            "chinese": "答案",
+            "english": "the answer",
+            "soundmark": "/ði/ /'ænsɚ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.750Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 62,
+            "chinese": "我们想要知道答案",
+            "english": "we want to know the answer",
+            "soundmark": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.878Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 63,
+            "chinese": "问题",
+            "english": "the question",
+            "soundmark": "/ðə/ /'kwɛstʃən/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.890Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 64,
+            "chinese": "问题的答案",
+            "english": "the answer to the question",
+            "soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:52.900Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 65,
+            "chinese": "我们想要知道问题的答案",
+            "english": "we want to know the answer to the question",
+            "soundmark": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.035Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 66,
+            "chinese": "我们不想知道问题的答案",
+            "english": "we don't want to know the answer to the question",
+            "soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.086Z",
+            "updatedAt": "2024-04-28T12:26:53.852Z"
+        },
+        {
+            "order": 67,
+            "chinese": "很快",
+            "english": "soon",
+            "soundmark": "/sun/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.099Z",
+            "updatedAt": "2024-04-28T12:26:53.853Z"
+        },
+        {
+            "order": 68,
+            "chinese": "可能",
+            "english": "possible",
+            "soundmark": "/'pɑsəbl/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.104Z",
+            "updatedAt": "2024-04-28T12:26:53.853Z"
+        },
+        {
+            "order": 69,
+            "chinese": "尽快；尽可能地快",
+            "english": "as soon as possible",
+            "soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.129Z",
+            "updatedAt": "2024-04-28T12:26:53.853Z"
+        },
+        {
+            "order": 70,
+            "chinese": "我们想要尽快知道问题的答案",
+            "english": "we want to know the answer to the question as soon as possible",
+            "soundmark": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/ /əz/ /sun/ /əz/ /'pɑsəbl/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.211Z",
+            "updatedAt": "2024-04-28T12:26:53.853Z"
+        },
+        {
+            "order": 71,
+            "chinese": "散步",
+            "english": "to walk",
+            "soundmark": "/tə/ /wɔk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.259Z",
+            "updatedAt": "2024-04-28T12:26:53.853Z"
+        },
+        {
+            "order": 72,
+            "chinese": "在公园里",
+            "english": "in the park",
+            "soundmark": "/ɪn/ /ðə/ /pɑrk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.321Z",
+            "updatedAt": "2024-04-28T12:26:53.853Z"
+        },
+        {
+            "order": 73,
+            "chinese": "我们想要在公园里散步",
+            "english": "we want to walk in the park",
+            "soundmark": "/wi/ /wɑnt/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.357Z",
+            "updatedAt": "2024-04-28T12:26:53.853Z"
+        },
+        {
+            "order": 74,
+            "chinese": "每天",
+            "english": "every day",
+            "soundmark": "/'ɛvri/ /de/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.397Z",
+            "updatedAt": "2024-04-28T12:26:53.853Z"
+        },
+        {
+            "order": 75,
+            "chinese": "我们想要每天在公园里散步",
+            "english": "we want to walk in the park every day",
+            "soundmark": "/wi/ /wɑnt/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.482Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 76,
+            "chinese": "这个食物",
+            "english": "the food",
+            "soundmark": "/ðə/ /fud/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.545Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 77,
+            "chinese": "这个餐厅",
+            "english": "the restaurant",
+            "soundmark": "/ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.589Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 78,
+            "chinese": "来自这个餐厅",
+            "english": "from the restaurant",
+            "soundmark": "/frʌm/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.596Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 79,
+            "chinese": "来自这个餐厅的食物",
+            "english": "the food from the restaurant",
+            "soundmark": "/ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.627Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 80,
+            "chinese": "吃",
+            "english": "to eat",
+            "soundmark": "/tə/ /it/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.651Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 81,
+            "chinese": "吃来自这个餐厅的食物",
+            "english": "to eat the food from the restaurant",
+            "soundmark": "/tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.770Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 82,
+            "chinese": "我们想吃来自这个餐厅的食物",
+            "english": "we want to eat the food from the restaurant",
+            "soundmark": "/wi/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.769Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 83,
+            "chinese": "我们不想吃来自这个餐厅的食物",
+            "english": "we don't want to eat the food from the restaurant",
+            "soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.789Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 84,
+            "chinese": "工作",
+            "english": "to work",
+            "soundmark": "/tə/ /wɝk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.913Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 85,
+            "chinese": "这个餐厅",
+            "english": "the restaurant",
+            "soundmark": "/ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.931Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 86,
+            "chinese": "在这个餐厅",
+            "english": "at the restaurant",
+            "soundmark": "/ət/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:53.996Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 87,
+            "chinese": "在这个餐厅工作",
+            "english": "to work at the restaurant",
+            "soundmark": "/tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.094Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 88,
+            "chinese": "我们想要在这个餐厅工作",
+            "english": "we want to work at the restaurant",
+            "soundmark": "/wi/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.096Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 89,
+            "chinese": "我们不想在这个餐厅工作",
+            "english": "we don't want to work at the restaurant",
+            "soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.106Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 90,
+            "chinese": "你们想要在这个餐厅工作",
+            "english": "you want to work at the restaurant",
+            "soundmark": "/ju/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.128Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 91,
+            "chinese": "你们不想在这个餐厅工作",
+            "english": "you don't want to work at the restaurant",
+            "soundmark": "/ju/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.226Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 92,
+            "chinese": "他们想要在这个餐厅工作",
+            "english": "they want to work at the restaurant",
+            "soundmark": "/ðe/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.229Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 93,
+            "chinese": "他们不想在这个餐厅工作",
+            "english": "they don't want to work at the restaurant",
+            "soundmark": "/ðe/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.288Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 94,
+            "chinese": "和你一起",
+            "english": "with you",
+            "soundmark": "/wɪð/ /ju/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.372Z",
+            "updatedAt": "2024-04-28T12:26:53.857Z"
+        },
+        {
+            "order": 95,
+            "chinese": "和你一起工作",
+            "english": "to work with you",
+            "soundmark": "/tə/ /wɝk/ /wɪð/ /ju/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.596Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 96,
+            "chinese": "他们想要和你一起工作",
+            "english": "they want to work with you",
+            "soundmark": "/ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.603Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 97,
+            "chinese": "他们不想和你一起工作",
+            "english": "they don't want to work with you",
+            "soundmark": "/ðe/ /dont/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.627Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 98,
+            "chinese": "认为",
+            "english": "think",
+            "soundmark": "/θɪŋk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.697Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 99,
+            "chinese": "我认为",
+            "english": "I think",
+            "soundmark": "/aɪ/ /θɪŋk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.694Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 100,
+            "chinese": "我认为他们想要和你一起工作",
+            "english": "I think they want to work with you",
+            "soundmark": "/aɪ/ /θɪŋk/ /ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.806Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 101,
+            "chinese": "我认为他们不想和你一起工作",
+            "english": "I don't think they want to work with you",
+            "soundmark": "/aɪ/ /dont/ /θɪŋk/ /ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.823Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 102,
+            "chinese": "问题",
+            "english": "the question",
+            "soundmark": "/ðə/ /'kwɛstʃən/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.923Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 103,
+            "chinese": "问题（们）",
+            "english": "the questions",
+            "soundmark": "/ðə/ /'kwestʃənz/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:54.964Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 104,
+            "chinese": "回答",
+            "english": "to answer",
+            "soundmark": "/tə/ /'ænsɚ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.091Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 105,
+            "chinese": "回答问题",
+            "english": "to answer the questions",
+            "soundmark": "/tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.093Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 106,
+            "chinese": "我们需要回答问题",
+            "english": "we need to answer the questions",
+            "soundmark": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.106Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 107,
+            "chinese": "关于",
+            "english": "about",
+            "soundmark": "/ə'baʊt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.127Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 108,
+            "chinese": "关于工作",
+            "english": "about the work",
+            "soundmark": "/ə'baʊt/ /ðə/ /wɝk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.140Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 109,
+            "chinese": "我们需要回答关于工作的问题",
+            "english": "we need to answer the questions about the work",
+            "soundmark": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.216Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 110,
+            "chinese": "我们不需要回答关于工作的问题",
+            "english": "we don't need to answer the questions about the work",
+            "soundmark": "/wi/ /dont/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.260Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 111,
+            "chinese": "你们需要回答关于工作的问题",
+            "english": "you need to answer the questions about the work",
+            "soundmark": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.272Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 112,
+            "chinese": "很快",
+            "english": "soon",
+            "soundmark": "/sun/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.358Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 113,
+            "chinese": "可能",
+            "english": "possible",
+            "soundmark": "/'pɑsəbl/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.421Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 114,
+            "chinese": "尽快；尽可能地快",
+            "english": "as soon as possible",
+            "soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.587Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 115,
+            "chinese": "你们需要尽快回答关于工作的问题",
+            "english": "you need to answer the questions about the work as soon as possible",
+            "soundmark": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.588Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 116,
+            "chinese": "重要的",
+            "english": "important",
+            "soundmark": "/ɪm'pɔrtnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.595Z",
+            "updatedAt": "2024-04-28T12:26:53.858Z"
+        },
+        {
+            "order": 117,
+            "chinese": "它们是重要的",
+            "english": "they are important",
+            "soundmark": "/ðe/ /ɚ/ /ɪm'pɔrtnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.618Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 118,
+            "chinese": "非常",
+            "english": "very",
+            "soundmark": "/ˈvɛri/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.626Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 119,
+            "chinese": "它们是非常重要的",
+            "english": "they are very important",
+            "soundmark": "/ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.717Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 120,
+            "chinese": "因为",
+            "english": "because",
+            "soundmark": "/bɪ'kɔz/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.717Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 121,
+            "chinese": "你们需要尽快回答关于工作的问题因为它们是非常重要的",
+            "english": "you need to answer the questions about the work as soon as possible because they are very important",
+            "soundmark": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/ /bɪ'kɔz/ /ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.721Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 122,
+            "chinese": "离开",
+            "english": "to leave",
+            "soundmark": "/tə/ /liv/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.788Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 123,
+            "chinese": "我们必须离开",
+            "english": "we have to leave",
+            "soundmark": "/wi/ /hæv/ /tə/ /liv/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:55.882Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 124,
+            "chinese": "现在",
+            "english": "now",
+            "soundmark": "/naʊ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.039Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 125,
+            "chinese": "我们必须现在离开",
+            "english": "we have to leave now",
+            "soundmark": "/wi/ /hæv/ /tə/ /liv/ /naʊ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.082Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 126,
+            "chinese": "我们不必现在离开",
+            "english": "we don't have to leave now",
+            "soundmark": "/wi/ /dont/ /hæv/ /tə/ /liv/ /naʊ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.095Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 127,
+            "chinese": "你们必须现在离开",
+            "english": "you have to leave now",
+            "soundmark": "/ju/ /hæv/ /tə/ /liv/ /naʊ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.145Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 128,
+            "chinese": "你们不必现在离开",
+            "english": "you don't have to leave now",
+            "soundmark": "/ju/ /dont/ /hæv/ /tə/ /liv/ /naʊ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.144Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 129,
+            "chinese": "这个餐厅",
+            "english": "the restaurant",
+            "soundmark": "/ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.181Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 130,
+            "chinese": "你们必须现在离开这个餐厅",
+            "english": "you have to leave the restaurant now",
+            "soundmark": "/ju/ /hæv/ /tə/ /liv/ /ðə/ /'rɛstrɑnt/ /naʊ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.189Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 131,
+            "chinese": "你们不必现在离开这个餐厅",
+            "english": "you don't have to leave the restaurant now",
+            "soundmark": "/ju/ /dont/ /hæv/ /tə/ /liv/ /ðə/ /'rɛstrɑnt/ /naʊ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.224Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 132,
+            "chinese": "跳舞",
+            "english": "to dance",
+            "soundmark": "/tə/ /dæns/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.241Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 133,
+            "chinese": "可以",
+            "english": "can",
+            "soundmark": "/kæn/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.345Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 134,
+            "chinese": "我们可以",
+            "english": "we can",
+            "soundmark": "/wi/ /kæn/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.491Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 135,
+            "chinese": "我们可以跳舞",
+            "english": "we can dance",
+            "soundmark": "/wi/ /kæn/ /dæns/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.573Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 136,
+            "chinese": "在街头",
+            "english": "in the street",
+            "soundmark": "/ɪn/ /ðə/ /strit/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.597Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 137,
+            "chinese": "我们可以在街头跳舞",
+            "english": "we can dance in the street",
+            "soundmark": "/wi/ /kæn/ /dæns/ /ɪn/ /ðə/ /strit/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.635Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 138,
+            "chinese": "在晚上",
+            "english": "at night",
+            "soundmark": "/ət/ /naɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.645Z",
+            "updatedAt": "2024-04-28T12:26:53.859Z"
+        },
+        {
+            "order": 139,
+            "chinese": "我们可以晚上在街头跳舞",
+            "english": "we can dance in the street at night",
+            "soundmark": "/wi/ /kæn/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.648Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 140,
+            "chinese": "我们不可以晚上在街头跳舞",
+            "english": "we can not dance in the street at night",
+            "soundmark": "/wi/ /kæn/ /nɑt/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.662Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 141,
+            "chinese": "工作",
+            "english": "to work",
+            "soundmark": "/tə/ /wɝk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.694Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 142,
+            "chinese": "我们可以工作",
+            "english": "we can work",
+            "soundmark": "/wi/ /kæn/ /wɝk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.734Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 143,
+            "chinese": "这个餐厅",
+            "english": "the restaurant",
+            "soundmark": "/ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.813Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 144,
+            "chinese": "在这个餐厅",
+            "english": "at the restaurant",
+            "soundmark": "/ət/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:56.941Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 145,
+            "chinese": "我们可以在这个餐厅工作",
+            "english": "we can work at the restaurant",
+            "soundmark": "/wi/ /kæn/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.064Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 146,
+            "chinese": "我们不可以在这个餐厅工作",
+            "english": "we can not work at the restaurant",
+            "soundmark": "/wi/ /kæn/ /nɑt/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.089Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 147,
+            "chinese": "散步",
+            "english": "to walk",
+            "soundmark": "/tə/ /wɔk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.089Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 148,
+            "chinese": "我们可以散步",
+            "english": "we can walk",
+            "soundmark": "/wi/ /kæn/ /wɔk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.093Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 149,
+            "chinese": "在公园里",
+            "english": "in the park",
+            "soundmark": "/ɪn/ /ðə/ /pɑrk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.127Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 150,
+            "chinese": "我们可以在公园里散步",
+            "english": "we can walk in the park",
+            "soundmark": "/wi/ /kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.141Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 151,
+            "chinese": "每天",
+            "english": "every day",
+            "soundmark": "/'ɛvri/ /de/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.167Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 152,
+            "chinese": "我们可以每天在公园里散步",
+            "english": "we can walk in the park every day",
+            "soundmark": "/wi/ /kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.238Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 153,
+            "chinese": "我们不可以每天在公园里散步",
+            "english": "we can not walk in the park every day",
+            "soundmark": "/wi/ /kæn/ /nɑt/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.271Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 154,
+            "chinese": "知道",
+            "english": "to know",
+            "soundmark": "/tə/ /no/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.394Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 155,
+            "chinese": "应该",
+            "english": "should",
+            "soundmark": "/ʃʊd/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.547Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 156,
+            "chinese": "我们应该",
+            "english": "we should",
+            "soundmark": "/wi/ /ʃʊd/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.548Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 157,
+            "chinese": "我们应该知道",
+            "english": "we should know",
+            "soundmark": "/wi/ /ʃʊd/ /no/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.561Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 158,
+            "chinese": "答案",
+            "english": "the answer",
+            "soundmark": "/ði/ /'ænsɚ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.568Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 159,
+            "chinese": "我们应该知道答案",
+            "english": "we should know the answer",
+            "soundmark": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.606Z",
+            "updatedAt": "2024-04-28T12:26:53.860Z"
+        },
+        {
+            "order": 160,
+            "chinese": "这个问题",
+            "english": "the question",
+            "soundmark": "/ðə/ /'kwɛstʃən/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.642Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 161,
+            "chinese": "这个问题的答案",
+            "english": "the answer to the question",
+            "soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.689Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 162,
+            "chinese": "我们应该知道这个问题的答案",
+            "english": "we should know the answer to the question",
+            "soundmark": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.741Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 163,
+            "chinese": "我们不应该知道这个问题的答案",
+            "english": "we should not know the answer to the question",
+            "soundmark": "/wi/ /ʃʊd/ /nɑt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.750Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 164,
+            "chinese": "我认为",
+            "english": "I think",
+            "soundmark": "/aɪ/ /θɪŋk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.842Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 165,
+            "chinese": "我认为我们应该知道这个问题的答案",
+            "english": "I think we should know the answer to the question",
+            "soundmark": "/aɪ/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.986Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 166,
+            "chinese": "我认为我们不应该知道这个问题的答案",
+            "english": "I don't think we should know the answer to the question",
+            "soundmark": "/aɪ/ /dont/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.996Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 167,
+            "chinese": "应该知道",
+            "english": "should know",
+            "soundmark": "/ʃʊd/ /no/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:57.999Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 168,
+            "chinese": "你们应该知道",
+            "english": "you should know",
+            "soundmark": "/ju/ /ʃʊd/ /no/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:58.063Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 169,
+            "chinese": "原因",
+            "english": "the reason",
+            "soundmark": "/ðə/ /ˈrizən/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:58.102Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 170,
+            "chinese": "你们应该知道原因",
+            "english": "you should know the reason",
+            "soundmark": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:58.189Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 171,
+            "chinese": "这个食物",
+            "english": "the food",
+            "soundmark": "/ðə/ /fud/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:58.212Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 172,
+            "chinese": "这个餐厅",
+            "english": "the restaurant",
+            "soundmark": "/ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:58.275Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 173,
+            "chinese": "来自这个餐厅的食物",
+            "english": "the food from the restaurant",
+            "soundmark": "/ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:58.290Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 174,
+            "chinese": "吃来自这个餐厅的食物",
+            "english": "to eat the food from the restaurant",
+            "soundmark": "/tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:58.430Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 175,
+            "chinese": "我们想要",
+            "english": "we want",
+            "soundmark": "/wi/ /wɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:58.436Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 176,
+            "chinese": "吃",
+            "english": "to eat",
+            "soundmark": "/tə/ /it/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:58.439Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 177,
+            "chinese": "我们想要吃来自这个餐厅的食物",
+            "english": "we want to eat the food from the restaurant",
+            "soundmark": "/wi/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:58.479Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 178,
+            "chinese": "我们不想吃来自这个餐厅的食物",
+            "english": "we don't want to eat the food from the restaurant",
+            "soundmark": "/wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:58.559Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 179,
+            "chinese": "为什么",
+            "english": "why",
+            "soundmark": "/waɪ/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:58.603Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 180,
+            "chinese": "你应该知道原因为什么我们不想吃来自这个餐厅的食物",
+            "english": "you should know the reason why we don't want to eat the food from the restaurant",
+            "soundmark": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:58.636Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 181,
+            "chinese": "我认为",
+            "english": "I think",
+            "soundmark": "/aɪ/ /θɪŋk/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:58.740Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        },
+        {
+            "order": 182,
+            "chinese": "我认为你应该知道原因为什么我们不想吃来自这个餐厅的食物",
+            "english": "I think you should know the reason why we don't want to eat the food from the restaurant",
+            "soundmark": "/aɪ/ /θɪŋk/ /ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+            "courseId": "dlbga4pimb51y3gcxo1pqnc4",
+            "createdAt": "2024-04-28T12:27:58.741Z",
+            "updatedAt": "2024-04-28T12:26:53.861Z"
+        }
+    ]
+}

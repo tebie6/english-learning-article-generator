@@ -1,0 +1,1389 @@
+{
+    "id": "e0mjdasztkegz8ck8z8suqbd",
+    "title": "第二十六课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1Ge4y1d7RZ",
+    "order": 26,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:52.086Z",
+    "updatedAt": "2024-05-23T14:06:00.016Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "听见；听说",
+            "english": "to hear",
+            "soundmark": "/tə/ /hɪr/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:30.656Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 2,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:30.703Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 3,
+            "chinese": "听见我",
+            "english": "to hear me",
+            "soundmark": "/tə/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:30.744Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 4,
+            "chinese": "你",
+            "english": "you",
+            "soundmark": "/ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:30.772Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 5,
+            "chinese": "你听见我",
+            "english": "you hear me",
+            "soundmark": "/ju/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:30.818Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 6,
+            "chinese": "可以",
+            "english": "can",
+            "soundmark": "/kæn/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:30.917Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 7,
+            "chinese": "你可以听见我",
+            "english": "you can hear me",
+            "soundmark": "/ju/ /kæn/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:30.923Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 8,
+            "chinese": "你可以听见我吗？",
+            "english": "can you hear me",
+            "soundmark": "/kæn/ /ju/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.020Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 9,
+            "chinese": "你可以听见我",
+            "english": "you can hear me",
+            "soundmark": "/ju/ /kæn/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.094Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 10,
+            "chinese": "不可以",
+            "english": "can't",
+            "soundmark": "/kænt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.152Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 11,
+            "chinese": "你不可以听见我",
+            "english": "you can't hear me",
+            "soundmark": "/ju/ /kænt/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.173Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 12,
+            "chinese": "你不可以听见我吗？",
+            "english": "can't you hear me",
+            "soundmark": "/kænt/ /ju/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.188Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 13,
+            "chinese": "你不可以听见我",
+            "english": "you can't hear me",
+            "soundmark": "/ju/ /kænt/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.220Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 14,
+            "chinese": "你听见我",
+            "english": "you hear me",
+            "soundmark": "/ju/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.317Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 15,
+            "chinese": "不；没有",
+            "english": "don't",
+            "soundmark": "/dont/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.376Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 16,
+            "chinese": "你没有听见我",
+            "english": "you don't hear me",
+            "soundmark": "/ju/ /dont/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.461Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 17,
+            "chinese": "你没有听见我吗？",
+            "english": "don't you hear me",
+            "soundmark": "/dont/ /ju/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.486Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 18,
+            "chinese": "你没有听见我",
+            "english": "you don't hear me",
+            "soundmark": "/ju/ /dont/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.524Z",
+            "updatedAt": "2024-04-28T12:26:54.005Z"
+        },
+        {
+            "order": 19,
+            "chinese": "你有听见我",
+            "english": "you do hear me",
+            "soundmark": "/ju/ /du/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.595Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 20,
+            "chinese": "你有听见我吗？",
+            "english": "do you hear me",
+            "soundmark": "/du/ /ju/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.673Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 21,
+            "chinese": "可以",
+            "english": "can",
+            "soundmark": "/kæn/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.730Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 22,
+            "chinese": "你可以听见我",
+            "english": "you can hear me",
+            "soundmark": "/ju/ /kæn/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.736Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 23,
+            "chinese": "你可以听见我吗？",
+            "english": "can you hear me",
+            "soundmark": "/kæn/ /ju/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.766Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 24,
+            "chinese": "你没有听见我",
+            "english": "you don't hear me",
+            "soundmark": "/ju/ /dont/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.893Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 25,
+            "chinese": "你有听见我吗？",
+            "english": "do you hear me",
+            "soundmark": "/du/ /ju/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:31.973Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 26,
+            "chinese": "你(过去)有听见我吗？",
+            "english": "did you hear me",
+            "soundmark": "/dɪd/ /ju/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.059Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 27,
+            "chinese": "你(过去)有听见我",
+            "english": "you did hear me",
+            "soundmark": "/ju/ /dɪd/ /hɪr/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.085Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 28,
+            "chinese": "做",
+            "english": "to do",
+            "soundmark": "/tə/ /du/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.087Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 29,
+            "chinese": "这件事",
+            "english": "it",
+            "soundmark": "/ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.091Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 30,
+            "chinese": "做这件事",
+            "english": "to do it",
+            "soundmark": "/tə/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.124Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 31,
+            "chinese": "你做这件事",
+            "english": "you do it",
+            "soundmark": "/ju/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.169Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 32,
+            "chinese": "没有",
+            "english": "don't",
+            "soundmark": "/dont/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.190Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 33,
+            "chinese": "你没有做这件事",
+            "english": "you don't do it",
+            "soundmark": "/ju/ /dont/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.273Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 34,
+            "chinese": "你有做这件事",
+            "english": "you do do it",
+            "soundmark": "/ju/ /du/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.406Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 35,
+            "chinese": "你没有做这件事",
+            "english": "you don't do it",
+            "soundmark": "/ju/ /dont/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.424Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 36,
+            "chinese": "你(过去)没有做这件事",
+            "english": "you didn't do it",
+            "soundmark": "/ju/ /ˈdɪdnt/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.512Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 37,
+            "chinese": "你(过去)有做这件事",
+            "english": "you did do it",
+            "soundmark": "/ju/ /dɪd/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.581Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 38,
+            "chinese": "你(过去)有做这件事吗？",
+            "english": "did you do it",
+            "soundmark": "/dɪd/ /ju/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.588Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 39,
+            "chinese": "如何",
+            "english": "how",
+            "soundmark": "/haʊ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.604Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 40,
+            "chinese": "为什么",
+            "english": "why",
+            "soundmark": "/waɪ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.604Z",
+            "updatedAt": "2024-04-28T12:26:54.006Z"
+        },
+        {
+            "order": 41,
+            "chinese": "什么时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.616Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 42,
+            "chinese": "在哪里",
+            "english": "where",
+            "soundmark": "/wɛr/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.632Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 43,
+            "chinese": "什么",
+            "english": "what",
+            "soundmark": "/wɑt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.773Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 44,
+            "chinese": "如何",
+            "english": "how",
+            "soundmark": "/haʊ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.866Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 45,
+            "chinese": "你(过去)如何做这件事？",
+            "english": "how did you do it",
+            "soundmark": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.902Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 46,
+            "chinese": "为什么",
+            "english": "why",
+            "soundmark": "/waɪ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:32.973Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 47,
+            "chinese": "你(过去)为什么做这件事？",
+            "english": "why did you do it",
+            "soundmark": "/waɪ/ /dɪd/ /ju/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.030Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 48,
+            "chinese": "什么时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.039Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 49,
+            "chinese": "你(过去)什么时候做这件事？",
+            "english": "when did you do it",
+            "soundmark": "/wɛn/ /dɪd/ /ju/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.082Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 50,
+            "chinese": "在哪里",
+            "english": "where",
+            "soundmark": "/wɛr/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.085Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 51,
+            "chinese": "你(过去)在哪里做这件事？",
+            "english": "where did you do it",
+            "soundmark": "/wɛr/ /dɪd/ /ju/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.098Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 52,
+            "chinese": "什么",
+            "english": "what",
+            "soundmark": "/wɑt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.130Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 53,
+            "chinese": "你(过去)有做这件事吗？",
+            "english": "did you do it",
+            "soundmark": "/dɪd/ /ju/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.270Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 54,
+            "chinese": "你(过去)做了什么？",
+            "english": "what did you do",
+            "soundmark": "/wɑt/ /dɪd/ /ju/ /du/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.321Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 55,
+            "chinese": "找到",
+            "english": "to find",
+            "soundmark": "/tə/ /faɪnd/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.436Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 56,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.471Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 57,
+            "chinese": "找到我",
+            "english": "to find me",
+            "soundmark": "/tə/ /faɪnd/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.497Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 58,
+            "chinese": "你(过去)是如何",
+            "english": "how did you",
+            "soundmark": "/haʊ/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.536Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 59,
+            "chinese": "你(过去)是如何找到我的？",
+            "english": "how did you find me",
+            "soundmark": "/haʊ/ /dɪd/ /ju/ /faɪnd/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.585Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 60,
+            "chinese": "她的",
+            "english": "her",
+            "soundmark": "/hɚ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.621Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 61,
+            "chinese": "名字",
+            "english": "name",
+            "soundmark": "/nem/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.648Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 62,
+            "chinese": "她的名字",
+            "english": "her name",
+            "soundmark": "/hɚ/ /nem/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.705Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 63,
+            "chinese": "知道",
+            "english": "to know",
+            "soundmark": "/tə/ /no/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.763Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 64,
+            "chinese": "知道她的名字",
+            "english": "to know her name",
+            "soundmark": "/tə/ /no/ /hɚ/ /nem/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.766Z",
+            "updatedAt": "2024-04-28T12:26:54.007Z"
+        },
+        {
+            "order": 65,
+            "chinese": "你(过去)是如何",
+            "english": "how did you",
+            "soundmark": "/haʊ/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.883Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 66,
+            "chinese": "你(过去)是如何知道她的名字的？",
+            "english": "how did you know her name",
+            "soundmark": "/haʊ/ /dɪd/ /ju/ /no/ /hɚ/ /nem/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.904Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 67,
+            "chinese": "电话",
+            "english": "phone",
+            "soundmark": "/fon/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.951Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 68,
+            "chinese": "号码",
+            "english": "number",
+            "soundmark": "/'nʌmbɚ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:33.985Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 69,
+            "chinese": "电话号码",
+            "english": "phone number",
+            "soundmark": "/fon/ /'nʌmbɚ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.069Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 70,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.165Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 71,
+            "chinese": "我的电话号码",
+            "english": "my phone number",
+            "soundmark": "/maɪ/ /fon/ /'nʌmbɚ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.204Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 72,
+            "chinese": "知道",
+            "english": "to know",
+            "soundmark": "/tə/ /no/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.211Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 73,
+            "chinese": "知道我的电话号码",
+            "english": "to know my phone number",
+            "soundmark": "/tə/ /no/ /maɪ/ /fon/ /'nʌmbɚ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.267Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 74,
+            "chinese": "你(过去)是如何",
+            "english": "how did you",
+            "soundmark": "/haʊ/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.334Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 75,
+            "chinese": "你(过去)是如何知道我的电话号码的？",
+            "english": "how did you know my phone number",
+            "soundmark": "/haʊ/ /dɪd/ /ju/ /no/ /maɪ/ /fon/ /'nʌmbɚ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.362Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 76,
+            "chinese": "做",
+            "english": "to do",
+            "soundmark": "/tə/ /du/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.419Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 77,
+            "chinese": "这件事",
+            "english": "it",
+            "soundmark": "/ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.433Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 78,
+            "chinese": "做这件事",
+            "english": "to do it",
+            "soundmark": "/tə/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.431Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 79,
+            "chinese": "决定",
+            "english": "to decide",
+            "soundmark": "/tə/ /dɪ'saɪd/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.563Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 80,
+            "chinese": "决定做这件事",
+            "english": "to decide to do it",
+            "soundmark": "/tə/ /dɪ'saɪd/ /tə/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.653Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 81,
+            "chinese": "你(过去)为什么",
+            "english": "why did you",
+            "soundmark": "/waɪ/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.686Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 82,
+            "chinese": "你(过去)为什么决定做这件事？",
+            "english": "why did you decide to do it",
+            "soundmark": "/waɪ/ /dɪd/ /ju/ /dɪ'saɪd/ /tə/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.703Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 83,
+            "chinese": "离开",
+            "english": "to leave",
+            "soundmark": "/tə/ /liv/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.784Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 84,
+            "chinese": "我",
+            "english": "me",
+            "soundmark": "/mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.792Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 85,
+            "chinese": "离开我",
+            "english": "to leave me",
+            "soundmark": "/tə/ /liv/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.793Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 86,
+            "chinese": "你(过去)为什么",
+            "english": "why did you",
+            "soundmark": "/waɪ/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.865Z",
+            "updatedAt": "2024-04-28T12:26:54.008Z"
+        },
+        {
+            "order": 87,
+            "chinese": "你(过去)为什么离开我？",
+            "english": "why did you leave me",
+            "soundmark": "/waɪ/ /dɪd/ /ju/ /liv/ /mi/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:34.882Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 88,
+            "chinese": "说",
+            "english": "to say",
+            "soundmark": "/tə/ /seɪ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.059Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 89,
+            "chinese": "它；那句话",
+            "english": "it",
+            "soundmark": "/ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.091Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 90,
+            "chinese": "说那句话",
+            "english": "to say it",
+            "soundmark": "/tə/ /seɪ/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.188Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 91,
+            "chinese": "你(过去)为什么",
+            "english": "why did you",
+            "soundmark": "/waɪ/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.201Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 92,
+            "chinese": "你(过去)为什么说那句话？",
+            "english": "why did you say it",
+            "soundmark": "/waɪ/ /dɪd/ /ju/ /seɪ/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.230Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 93,
+            "chinese": "到达",
+            "english": "to get",
+            "soundmark": "/tə/ /ɡɛt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.233Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 94,
+            "chinese": "这里",
+            "english": "here",
+            "soundmark": "/hɪr/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.240Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 95,
+            "chinese": "到达这里",
+            "english": "to get here",
+            "soundmark": "/tə/ /ɡɛt/ /hɪr/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.280Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 96,
+            "chinese": "你(过去)什么时候",
+            "english": "when did you",
+            "soundmark": "/wɛn/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.319Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 97,
+            "chinese": "你(过去)什么时候到达这里的？",
+            "english": "when did you get here",
+            "soundmark": "/wɛn/ /dɪd/ /ju/ /ɡɛt/ /hɪr/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.331Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 98,
+            "chinese": "见到",
+            "english": "to meet",
+            "soundmark": "/tə/ /mit/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.533Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 99,
+            "chinese": "他",
+            "english": "him",
+            "soundmark": "/hɪm/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.561Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 100,
+            "chinese": "见到他",
+            "english": "to meet him",
+            "soundmark": "/tə/ /mit/ /hɪm/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.661Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 101,
+            "chinese": "你(过去)什么时候",
+            "english": "when did you",
+            "soundmark": "/wɛn/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.691Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 102,
+            "chinese": "你(过去)什么时候见到他的？",
+            "english": "when did you meet him",
+            "soundmark": "/wɛn/ /dɪd/ /ju/ /mit/ /hɪm/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.708Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 103,
+            "chinese": "家",
+            "english": "home",
+            "soundmark": "/hom/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.744Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 104,
+            "chinese": "工作",
+            "english": "work",
+            "soundmark": "/wɝk/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.771Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 105,
+            "chinese": "家庭作业",
+            "english": "homework",
+            "soundmark": "/'homwɝk/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.775Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 106,
+            "chinese": "你的",
+            "english": "your",
+            "soundmark": "/jʊr/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:35.786Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 107,
+            "chinese": "你的家庭作业",
+            "english": "your homework",
+            "soundmark": "/jʊr/ /'homwɝk/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.011Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 108,
+            "chinese": "完成",
+            "english": "to finish",
+            "soundmark": "/tə/ /'fɪnɪʃ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.016Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 109,
+            "chinese": "完成你的家庭做作业",
+            "english": "to finish your homework",
+            "soundmark": "/tə/ /'fɪnɪʃ/ /jʊr/ /'homwɝk/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.064Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 110,
+            "chinese": "你(过去)什么时候",
+            "english": "when did you",
+            "soundmark": "/wɛn/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.116Z",
+            "updatedAt": "2024-04-28T12:26:54.009Z"
+        },
+        {
+            "order": 111,
+            "chinese": "你(过去)什么时候完成你的家庭作业的？",
+            "english": "when did you finish your homework",
+            "soundmark": "/wɛn/ /dɪd/ /ju/ /'fɪnɪʃ/ /jʊr/ /'homwɝk/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.138Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 112,
+            "chinese": "找到",
+            "english": "to find",
+            "soundmark": "/tə/ /faɪnd/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.222Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 113,
+            "chinese": "他们/她们/它们",
+            "english": "them",
+            "soundmark": "/ðəm/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.236Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 114,
+            "chinese": "找到他们",
+            "english": "to find them",
+            "soundmark": "/tə/ /faɪnd/ /ðəm/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.238Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 115,
+            "chinese": "你(过去)在哪里",
+            "english": "where did you",
+            "soundmark": "/wɛr/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.242Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 116,
+            "chinese": "你(过去)在哪里找到他们的？",
+            "english": "where did you find them",
+            "soundmark": "/wɛr/ /dɪd/ /ju/ /faɪnd/ /ðəm/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.306Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 117,
+            "chinese": "购买",
+            "english": "to buy",
+            "soundmark": "/tə/ /baɪ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.466Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 118,
+            "chinese": "这个",
+            "english": "this",
+            "soundmark": "/ðɪs/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.509Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 119,
+            "chinese": "购买这个",
+            "english": "to buy this",
+            "soundmark": "/tə/ /baɪ/ /ðɪs/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.560Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 120,
+            "chinese": "你(过去)在哪里",
+            "english": "where did you",
+            "soundmark": "/wɛr/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.572Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 121,
+            "chinese": "你(过去)在哪里购买这个的？",
+            "english": "where did you buy this",
+            "soundmark": "/wɛr/ /dɪd/ /ju/ /baɪ/ /ðɪs/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.600Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 122,
+            "chinese": "睡觉",
+            "english": "to sleep",
+            "soundmark": "/tə/ /slip/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.707Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 123,
+            "chinese": "你(过去)在哪里",
+            "english": "where did you",
+            "soundmark": "/wɛr/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.706Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 124,
+            "chinese": "你(过去)在哪里睡觉的？",
+            "english": "where did you sleep",
+            "soundmark": "/wɛr/ /dɪd/ /ju/ /slip/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.732Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 125,
+            "chinese": "上一个",
+            "english": "last",
+            "soundmark": "/læst/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.738Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 126,
+            "chinese": "晚上",
+            "english": "night",
+            "soundmark": "/naɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.813Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 127,
+            "chinese": "昨晚",
+            "english": "last night",
+            "soundmark": "/læst/ /naɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:36.912Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 128,
+            "chinese": "你(过去)昨晚在哪里睡觉的？",
+            "english": "where did you sleep last night",
+            "soundmark": "/wɛr/ /dɪd/ /ju/ /slip/ /læst/ /naɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.001Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 129,
+            "chinese": "说",
+            "english": "to say",
+            "soundmark": "/tə/ /seɪ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.008Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 130,
+            "chinese": "你(过去)......了什么",
+            "english": "what did you",
+            "soundmark": "/wɑt/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.053Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 131,
+            "chinese": "你(过去)说了什么？",
+            "english": "what did you say",
+            "soundmark": "/wɑt/ /dɪd/ /ju/ /seɪ/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.066Z",
+            "updatedAt": "2024-04-28T12:26:54.010Z"
+        },
+        {
+            "order": 132,
+            "chinese": "学",
+            "english": "to learn",
+            "soundmark": "/tə/ /lɝn/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.152Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 133,
+            "chinese": "你(过去)......了什么",
+            "english": "what did you",
+            "soundmark": "/wɑt/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.170Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 134,
+            "chinese": "你(过去)学到了什么？",
+            "english": "what did you learn",
+            "soundmark": "/wɑt/ /dɪd/ /ju/ /lɝn/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.237Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 135,
+            "chinese": "找到",
+            "english": "to find",
+            "soundmark": "/tə/ /faɪnd/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.252Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 136,
+            "chinese": "你(过去)......了什么",
+            "english": "what did you",
+            "soundmark": "/wɑt/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.317Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 137,
+            "chinese": "你(过去)找到了什么？",
+            "english": "what did you find",
+            "soundmark": "/wɑt/ /dɪd/ /ju/ /faɪnd/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.356Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 138,
+            "chinese": "听到",
+            "english": "to hear",
+            "soundmark": "/tə/ /hɪr/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.461Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 139,
+            "chinese": "你(过去)......了什么",
+            "english": "what did you",
+            "soundmark": "/wɑt/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.496Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 140,
+            "chinese": "你(过去)听到了什么？",
+            "english": "what did you hear",
+            "soundmark": "/wɑt/ /dɪd/ /ju/ /hɪr/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.503Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 141,
+            "chinese": "看到",
+            "english": "to see",
+            "soundmark": "/tə/ /si/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.565Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 142,
+            "chinese": "你(过去)......了什么",
+            "english": "what did you",
+            "soundmark": "/wɑt/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.596Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 143,
+            "chinese": "你(过去)看到了什么？",
+            "english": "what did you see",
+            "soundmark": "/wɑt/ /dɪd/ /ju/ /si/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.620Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 144,
+            "chinese": "你(过去)如何做这件事？",
+            "english": "how did you do it",
+            "soundmark": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.738Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 145,
+            "chinese": "你(过去)为什么做这件事？",
+            "english": "why did you do it",
+            "soundmark": "/waɪ/ /dɪd/ /ju/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.766Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 146,
+            "chinese": "你(过去)什么时候做这件事？",
+            "english": "when did you do it",
+            "soundmark": "/wɛn/ /dɪd/ /ju/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.794Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 147,
+            "chinese": "你(过去)在哪里做这件事？",
+            "english": "where did you do it",
+            "soundmark": "/wɛr/ /dɪd/ /ju/ /du/ /ɪt/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.817Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 148,
+            "chinese": "你(过去)做了什么？",
+            "english": "what did you do",
+            "soundmark": "/wɑt/ /dɪd/ /ju/ /du/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.900Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 149,
+            "chinese": "你(过去)如何......？",
+            "english": "how did you",
+            "soundmark": "/haʊ/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:37.942Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 150,
+            "chinese": "你(过去)为什么......？",
+            "english": "why did you",
+            "soundmark": "/waɪ/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:38.001Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 151,
+            "chinese": "你(过去)什么时候......？",
+            "english": "when did you",
+            "soundmark": "/wɛn/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:38.050Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 152,
+            "chinese": "你(过去)在哪里......？",
+            "english": "where did you",
+            "soundmark": "/wɛr/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:38.064Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        },
+        {
+            "order": 153,
+            "chinese": "你(过去)......了什么？",
+            "english": "what did you",
+            "soundmark": "/wɑt/ /dɪd/ /ju/",
+            "courseId": "e0mjdasztkegz8ck8z8suqbd",
+            "createdAt": "2024-04-28T12:30:38.236Z",
+            "updatedAt": "2024-04-28T12:26:54.011Z"
+        }
+    ]
+}

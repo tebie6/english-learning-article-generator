@@ -1,0 +1,1479 @@
+{
+    "id": "zp1vv74ce5s7t9shnfwx2v89",
+    "title": "第十四课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1DL4y147Qs",
+    "order": 14,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:51.613Z",
+    "updatedAt": "2024-05-23T14:05:58.666Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "我",
+            "english": "I",
+            "soundmark": "/aɪ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.071Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 2,
+            "chinese": "我是",
+            "english": "I am",
+            "soundmark": "/aɪ/ /æm/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.198Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 3,
+            "chinese": "年轻的",
+            "english": "young",
+            "soundmark": "/jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.248Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 4,
+            "chinese": "我是年轻的",
+            "english": "I am young",
+            "soundmark": "/aɪ/ /æm/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.307Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 5,
+            "chinese": "我是不年轻的",
+            "english": "I am not young",
+            "soundmark": "/aɪ/ /æm/ /nɑt/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.350Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 6,
+            "chinese": "我（过去）是年轻的",
+            "english": "I was young",
+            "soundmark": "/aɪ/ /wəz/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.362Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 7,
+            "chinese": "我（过去）是不年轻的",
+            "english": "I was not young",
+            "soundmark": "/aɪ/ /wəz/ /nɑt/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.427Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 8,
+            "chinese": "他是",
+            "english": "he is",
+            "soundmark": "/hi/ /ɪz/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.456Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 9,
+            "chinese": "他是年轻的",
+            "english": "he is young",
+            "soundmark": "/hi/ /ɪz/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.464Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 10,
+            "chinese": "他是不年轻的",
+            "english": "he is not young",
+            "soundmark": "/hi/ /ɪz/ /nɑt/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.516Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 11,
+            "chinese": "他（过去）是年轻的",
+            "english": "he was young",
+            "soundmark": "/hi/ /wəz/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.575Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 12,
+            "chinese": "他（过去）是不年轻的",
+            "english": "he was not young",
+            "soundmark": "/hi/ /wəz/ /nɑt/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.695Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 13,
+            "chinese": "我们是",
+            "english": "we are",
+            "soundmark": "/wi/ /ɚ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.753Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 14,
+            "chinese": "我们是年轻的",
+            "english": "we are young",
+            "soundmark": "/wi/ /ɚ/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.791Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 15,
+            "chinese": "我们是不年轻的",
+            "english": "we are not young",
+            "soundmark": "/wi/ /ɚ/ /nɑt/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.799Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 16,
+            "chinese": "我们（过去）是年轻的",
+            "english": "we were young",
+            "soundmark": "/wi/ /wɚ/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.865Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 17,
+            "chinese": "我们（过去）是不年轻的",
+            "english": "we were not young",
+            "soundmark": "/wi/ /wɚ/ /nɑt/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.885Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 18,
+            "chinese": "你是",
+            "english": "you are",
+            "soundmark": "/ju/ /ɚ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.896Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 19,
+            "chinese": "你是年轻的",
+            "english": "you are young",
+            "soundmark": "/ju/ /ɚ/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.926Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 20,
+            "chinese": "你是不年轻的",
+            "english": "you are not young",
+            "soundmark": "/ju/ /ɚ/ /nɑt/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:12.994Z",
+            "updatedAt": "2024-04-28T12:26:53.931Z"
+        },
+        {
+            "order": 21,
+            "chinese": "你（过去）是年轻的",
+            "english": "you were young",
+            "soundmark": "/ju/ /wɚ/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.080Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 22,
+            "chinese": "你（过去）是不年轻的",
+            "english": "you were not young",
+            "soundmark": "/ju/ /wɚ/ /nɑt/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.210Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 23,
+            "chinese": "非常",
+            "english": "very",
+            "soundmark": "/ˈvɛri/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.243Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 24,
+            "chinese": "你（过去）是非常年轻的",
+            "english": "you were very young",
+            "soundmark": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.256Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 25,
+            "chinese": "见到",
+            "english": "to see",
+            "soundmark": "/tə/ /si/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.299Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 26,
+            "chinese": "我（过去）见到你",
+            "english": "I saw you",
+            "soundmark": "/aɪ/ /sɔ/ /ju/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.315Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 27,
+            "chinese": "当......的时候",
+            "english": "when",
+            "soundmark": "/wɛn/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.334Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 28,
+            "chinese": "当我（过去）见到你的时候",
+            "english": "when I saw you",
+            "soundmark": "/wɛn/ /aɪ/ /sɔ/ /ju/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.374Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 29,
+            "chinese": "第一次",
+            "english": "first",
+            "soundmark": "/fɝst/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.396Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 30,
+            "chinese": "当我第一次（过去）见到你的时候",
+            "english": "when I first saw you",
+            "soundmark": "/wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.452Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 31,
+            "chinese": "当我第一次（过去）见到你的时候你（过去）是非常年轻的",
+            "english": "you were very young when I first saw you",
+            "soundmark": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/ /wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.571Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 32,
+            "chinese": "吃",
+            "english": "to eat",
+            "soundmark": "/tə/ /it/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.700Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 33,
+            "chinese": "一个苹果",
+            "english": "an apple",
+            "soundmark": "/ən/ /'æpl/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.712Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 34,
+            "chinese": "吃一个苹果",
+            "english": "to eat an apple",
+            "soundmark": "/tə/ /it/ /ən/ /'æpl/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.737Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 35,
+            "chinese": "我想要吃一个苹果",
+            "english": "I want to eat an apple",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.740Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 36,
+            "chinese": "每天",
+            "english": "every day",
+            "soundmark": "/'ɛvri/ /de/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.782Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 37,
+            "chinese": "我想要每天吃一个苹果",
+            "english": "I want to eat an apple every day",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.813Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 38,
+            "chinese": "我每天吃一个苹果",
+            "english": "I eat an apple every day",
+            "soundmark": "/aɪ/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.820Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 39,
+            "chinese": "吃了",
+            "english": "ate",
+            "soundmark": "/et/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.915Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 40,
+            "chinese": "吃了一个苹果",
+            "english": "ate an apple",
+            "soundmark": "/et/ /ən/ /'æpl/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:13.916Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 41,
+            "chinese": "我吃了一个苹果",
+            "english": "I ate an apple",
+            "soundmark": "/aɪ/ /et/ /ən/ /'æpl/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.071Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 42,
+            "chinese": "她吃了一个苹果",
+            "english": "she ate an apple",
+            "soundmark": "/ʃi/ /et/ /ən/ /'æpl/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.143Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 43,
+            "chinese": "在......之前",
+            "english": "ago",
+            "soundmark": "/ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.178Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 44,
+            "chinese": "一小时",
+            "english": "an hour",
+            "soundmark": "/ən/ /'aʊɚ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.215Z",
+            "updatedAt": "2024-04-28T12:26:53.932Z"
+        },
+        {
+            "order": 45,
+            "chinese": "在一小时之前",
+            "english": "an hour ago",
+            "soundmark": "/ən/ /'aʊɚ/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.224Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 46,
+            "chinese": "她在一小时之前吃了一个苹果",
+            "english": "she ate an apple an hour ago",
+            "soundmark": "/ʃi/ /et/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.239Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 47,
+            "chinese": "她在一小时之前没吃一个苹果",
+            "english": "she didn't eat an apple an hour ago",
+            "soundmark": "/ʃi/ /dɪdnt/ /it/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.264Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 48,
+            "chinese": "喝",
+            "english": "to drink",
+            "soundmark": "/tə/ /drɪŋk/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.311Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 49,
+            "chinese": "一些水",
+            "english": "some water",
+            "soundmark": "/səm/ /'wɔtɚ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.368Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 50,
+            "chinese": "喝一些水",
+            "english": "to drink some water",
+            "soundmark": "/tə/ /drɪŋk/ /səm/ /'wɔtɚ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.428Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 51,
+            "chinese": "我想要喝一些水",
+            "english": "I want to drink some water",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.562Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 52,
+            "chinese": "每天早上",
+            "english": "every morning",
+            "soundmark": "/'ɛvri/ /'mɔrnɪŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.589Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 53,
+            "chinese": "我想要每天早上喝一些水",
+            "english": "I want to drink some water every morning",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.616Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 54,
+            "chinese": "我每天早上喝一些水",
+            "english": "I drink some water every morning",
+            "soundmark": "/aɪ/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.673Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 55,
+            "chinese": "喝了",
+            "english": "drank",
+            "soundmark": "/dræŋk/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.719Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 56,
+            "chinese": "我喝了一些水",
+            "english": "I drank some water",
+            "soundmark": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.723Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 57,
+            "chinese": "这个",
+            "english": "this",
+            "soundmark": "/ðɪs/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.733Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 58,
+            "chinese": "早上",
+            "english": "morning",
+            "soundmark": "/'mɔrnɪŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.813Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 59,
+            "chinese": "今天早上",
+            "english": "this morning",
+            "soundmark": "/ðɪs/ /'mɔrnɪŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.815Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 60,
+            "chinese": "我今天早上喝了一些水",
+            "english": "I drank some water this morning",
+            "soundmark": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:14.935Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 61,
+            "chinese": "任何",
+            "english": "any",
+            "soundmark": "/'ɛni/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.054Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 62,
+            "chinese": "我今天早上没喝任何水",
+            "english": "I didn't drink any water this morning",
+            "soundmark": "/aɪ/ /dɪdnt/ /drɪŋk/ /'ɛni/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.056Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 63,
+            "chinese": "知道",
+            "english": "to know",
+            "soundmark": "/tə/ /no/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.068Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 64,
+            "chinese": "他（过去）知道答案",
+            "english": "he knew the answer",
+            "soundmark": "/hi/ /nju/ /ði/ /'ænsɚ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.117Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 65,
+            "chinese": "问题的答案",
+            "english": "the answer to the question",
+            "soundmark": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.172Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 66,
+            "chinese": "他（过去）知道问题的答案",
+            "english": "he knew the answer to the question",
+            "soundmark": "/hi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.221Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 67,
+            "chinese": "已经",
+            "english": "already",
+            "soundmark": "/ɔl'rɛdi/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.223Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 68,
+            "chinese": "他已经知道问题的答案",
+            "english": "he already knew the answer to the question",
+            "soundmark": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.266Z",
+            "updatedAt": "2024-04-28T12:26:53.933Z"
+        },
+        {
+            "order": 69,
+            "chinese": "他（过去）不知道问题的答案",
+            "english": "he didn't know the answer to the question",
+            "soundmark": "/hi/ /dɪdnt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.313Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 70,
+            "chinese": "忘记",
+            "english": "to forget",
+            "soundmark": "/tə/ /fɚ'ɡɛt/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.448Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 71,
+            "chinese": "告诉",
+            "english": "to tell",
+            "soundmark": "/tə/ /tɛl/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.497Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 72,
+            "chinese": "我（过去）忘记告诉你",
+            "english": "I forgot to tell you",
+            "soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.512Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 73,
+            "chinese": "他已经知道问题的答案",
+            "english": "he already knew the answer to the question",
+            "soundmark": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.555Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 74,
+            "chinese": "我（过去）忘记告诉你他已经知道问题的答案",
+            "english": "I forgot to tell you he already knew the answer to the question",
+            "soundmark": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/ /hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.579Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 75,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.624Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 76,
+            "chinese": "工作",
+            "english": "job",
+            "soundmark": "/dʒɑb/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.713Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 77,
+            "chinese": "我的工作",
+            "english": "my job",
+            "soundmark": "/maɪ/ /dʒɑb/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.717Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 78,
+            "chinese": "失去",
+            "english": "to lose",
+            "soundmark": "/tə/ /luz/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.724Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 79,
+            "chinese": "失去了",
+            "english": "lost",
+            "soundmark": "/lɔst/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.804Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 80,
+            "chinese": "我失去了我的工作",
+            "english": "I lost my job",
+            "soundmark": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.943Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 81,
+            "chinese": "在......之前",
+            "english": "ago",
+            "soundmark": "/ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.959Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 82,
+            "chinese": "两年",
+            "english": "two years",
+            "soundmark": "/tu/ /jɪrz/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.961Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 83,
+            "chinese": "在两年之前",
+            "english": "two years ago",
+            "soundmark": "/tu/ /jɪrz/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:15.997Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 84,
+            "chinese": "我在两年前失去了我的工作",
+            "english": "I lost my job two years ago",
+            "soundmark": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.073Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 85,
+            "chinese": "我在两年前没有失去我的工作",
+            "english": "I didn't lose my job two years ago",
+            "soundmark": "/aɪ/ /dɪdnt/ /luz/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.081Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 86,
+            "chinese": "离开",
+            "english": "to leave",
+            "soundmark": "/tə/ /liv/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.162Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 87,
+            "chinese": "离开了",
+            "english": "left",
+            "soundmark": "/lɛft/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.229Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 88,
+            "chinese": "她的",
+            "english": "her",
+            "soundmark": "/hɚ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.235Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 89,
+            "chinese": "办公室",
+            "english": "office",
+            "soundmark": "/'ɑfɪs/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.297Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 90,
+            "chinese": "她的办公室",
+            "english": "her office",
+            "soundmark": "/hɚ/ /'ɑfɪs/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.379Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 91,
+            "chinese": "我离开了她的办公室",
+            "english": "I left her office",
+            "soundmark": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.401Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 92,
+            "chinese": "在......之前",
+            "english": "ago",
+            "soundmark": "/ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.444Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 93,
+            "chinese": "一小时",
+            "english": "an hour",
+            "soundmark": "/ən/ /'aʊɚ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.463Z",
+            "updatedAt": "2024-04-28T12:26:53.934Z"
+        },
+        {
+            "order": 94,
+            "chinese": "在一小时之前",
+            "english": "an hour ago",
+            "soundmark": "/ən/ /'aʊɚ/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.517Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 95,
+            "chinese": "我在一小时之前离开了她的办公室",
+            "english": "I left her office an hour ago",
+            "soundmark": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.597Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 96,
+            "chinese": "我在一小时之前没有离开她的办公室",
+            "english": "I didn't leave her office an hour ago",
+            "soundmark": "/aɪ/ /dɪdnt/ /liv/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.618Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 97,
+            "chinese": "睡觉",
+            "english": "to sleep",
+            "soundmark": "/tə/ /slip/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.725Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 98,
+            "chinese": "房间",
+            "english": "room",
+            "soundmark": "/rum/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.733Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 99,
+            "chinese": "我的房间",
+            "english": "my room",
+            "soundmark": "/maɪ/ /rum/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.812Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 100,
+            "chinese": "在我的房间（过去）睡觉",
+            "english": "slept in my room",
+            "soundmark": "/slɛpt/ /ɪn/ /maɪ/ /rum/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.844Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 101,
+            "chinese": "上一个",
+            "english": "last",
+            "soundmark": "/læst/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.891Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 102,
+            "chinese": "晚上",
+            "english": "night",
+            "soundmark": "/naɪt/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.965Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 103,
+            "chinese": "昨晚",
+            "english": "last night",
+            "soundmark": "/læst/ /naɪt/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:16.970Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 104,
+            "chinese": "她昨晚睡在我的房间",
+            "english": "she slept in my room last night",
+            "soundmark": "/ʃi/ /slɛpt/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.067Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 105,
+            "chinese": "她昨晚没有睡在我的房间",
+            "english": "she didn't sleep in my room last night",
+            "soundmark": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.113Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 106,
+            "chinese": "明白",
+            "english": "to understand",
+            "soundmark": "/tə/ /ʌndɚ'stænd/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.155Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 107,
+            "chinese": "你必须明白",
+            "english": "you have to understand",
+            "soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.229Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 108,
+            "chinese": "你明白",
+            "english": "you understand",
+            "soundmark": "/ju/ /ʌndɚ'stænd/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.239Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 109,
+            "chinese": "你不明白",
+            "english": "you don't understand",
+            "soundmark": "/ju/ /dont/ /ʌndɚ'stænd/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.273Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 110,
+            "chinese": "你（过去）明白",
+            "english": "you understood",
+            "soundmark": "/ju/ /ʌndɚˈstʊd/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.288Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 111,
+            "chinese": "你不（过去）明白",
+            "english": "you didn't understand",
+            "soundmark": "/ju/ /dɪdnt/ /ʌndɚ'stænd/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.346Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 112,
+            "chinese": "告诉",
+            "english": "to tell",
+            "soundmark": "/tə/ /tɛl/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.410Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 113,
+            "chinese": "告诉过",
+            "english": "told",
+            "soundmark": "/told/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.488Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 114,
+            "chinese": "我告诉过你",
+            "english": "I told you",
+            "soundmark": "/aɪ/ /told/ /ju/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.512Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 115,
+            "chinese": "她昨晚没有睡在我的房间",
+            "english": "she didn't sleep in my room last night",
+            "soundmark": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.615Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 116,
+            "chinese": "我告诉过你她昨晚没有睡在我的房间",
+            "english": "I told you she didn't sleep in my room last night",
+            "soundmark": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.657Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 117,
+            "chinese": "但是",
+            "english": "but",
+            "soundmark": "/bʌt/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.724Z",
+            "updatedAt": "2024-04-28T12:26:53.935Z"
+        },
+        {
+            "order": 118,
+            "chinese": "你（过去）不明白",
+            "english": "you didn't understand",
+            "soundmark": "/ju/ /dɪdnt/ /ʌndɚ'stænd/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.729Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 119,
+            "chinese": "但是你（过去）不明白",
+            "english": "but you didn't understand",
+            "soundmark": "/bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.735Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 120,
+            "chinese": "我告诉过你她昨晚没有睡在我的房间但是你（过去）不明白",
+            "english": "I told you she didn't sleep in my room last night but you didn't understand",
+            "soundmark": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/ /bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.739Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 121,
+            "chinese": "买",
+            "english": "to buy",
+            "soundmark": "/tə/ /baɪ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.786Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 122,
+            "chinese": "一个房子",
+            "english": "a house",
+            "soundmark": "/ə/ /haʊs/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.860Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 123,
+            "chinese": "买一个房子",
+            "english": "to buy a house",
+            "soundmark": "/tə/ /baɪ/ /ə/ /haʊs/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:17.966Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 124,
+            "chinese": "我想要买一个房子",
+            "english": "I want to buy a house",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /baɪ/ /ə/ /haʊs/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.009Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 125,
+            "chinese": "买了",
+            "english": "bought",
+            "soundmark": "/bɔt/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.118Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 126,
+            "chinese": "我买了一个房子",
+            "english": "I bought a house",
+            "soundmark": "/aɪ/ /bɔt/ /ə/ /haʊs/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.157Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 127,
+            "chinese": "在......之前",
+            "english": "ago",
+            "soundmark": "/ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.164Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 128,
+            "chinese": "两年",
+            "english": "two years",
+            "soundmark": "/tu/ /jɪrz/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.176Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 129,
+            "chinese": "在两年之前",
+            "english": "two years ago",
+            "soundmark": "/tu/ /jɪrz/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.217Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 130,
+            "chinese": "我在两年之前买了一个房子",
+            "english": "I bought a house two years ago",
+            "soundmark": "/aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.225Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 131,
+            "chinese": "我在两年之前没有买一个房子",
+            "english": "I didn't buy a house two years ago",
+            "soundmark": "/aɪ/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.249Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 132,
+            "chinese": "他在两年之前买了一个房子",
+            "english": "he bought a house two years ago",
+            "soundmark": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.305Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 133,
+            "chinese": "他在两年之前没有买一个房子",
+            "english": "he didn't buy a house two years ago",
+            "soundmark": "/hi/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.430Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 134,
+            "chinese": "明白",
+            "english": "to understand",
+            "soundmark": "/tə/ /ʌndɚ'stænd/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.515Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 135,
+            "chinese": "你必须明白",
+            "english": "you have to understand",
+            "soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.598Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 136,
+            "chinese": "你必须明白我在两年之前买了一个房子",
+            "english": "you have to understand I bought a house two years ago",
+            "soundmark": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/ /aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.619Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 137,
+            "chinese": "洗",
+            "english": "to wash",
+            "soundmark": "/tə/ /wɔʃ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.625Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 138,
+            "chinese": "我的",
+            "english": "my",
+            "soundmark": "/maɪ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.670Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 139,
+            "chinese": "脸",
+            "english": "face",
+            "soundmark": "/fes/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.708Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 140,
+            "chinese": "我的脸",
+            "english": "my face",
+            "soundmark": "/maɪ/ /fes/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.752Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 141,
+            "chinese": "洗我的脸",
+            "english": "to wash my face",
+            "soundmark": "/tə/ /wɔʃ/ /maɪ/ /fes/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.755Z",
+            "updatedAt": "2024-04-28T12:26:53.936Z"
+        },
+        {
+            "order": 142,
+            "chinese": "我需要洗我的脸",
+            "english": "I need to wash my face",
+            "soundmark": "/aɪ/ /nid/ /tə/ /wɔʃ/ /maɪ/ /fes/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.879Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 143,
+            "chinese": "每天",
+            "english": "every day",
+            "soundmark": "/'ɛvri/ /de/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:18.955Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 144,
+            "chinese": "我需要每天洗我的脸",
+            "english": "I need to wash my face every day",
+            "soundmark": "/aɪ/ /nid/ /tə/ /wɑʃ/ /maɪ/ /fes/ /'ɛvri/ /de/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.018Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 145,
+            "chinese": "我每天洗我的脸",
+            "english": "I wash my face every day",
+            "soundmark": "/aɪ/ /wɔʃ/ /maɪ/ /fes/ /'ɛvri/ /de/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.034Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 146,
+            "chinese": "洗了",
+            "english": "washed",
+            "soundmark": "/wɔʃt/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.062Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 147,
+            "chinese": "我洗了我的脸",
+            "english": "I washed my face",
+            "soundmark": "/aɪ/ /wɔʃt/ /maɪ/ /fes/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.106Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 148,
+            "chinese": "今天早上",
+            "english": "this morning",
+            "soundmark": "/ðɪs/ /'mɔrnɪŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.124Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 149,
+            "chinese": "我今天早上洗了我的脸",
+            "english": "I washed my face this morning",
+            "soundmark": "/aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.199Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 150,
+            "chinese": "我告诉过你",
+            "english": "I told you",
+            "soundmark": "/aɪ/ /told/ /ju/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.199Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 151,
+            "chinese": "我告诉过你我今天早上洗了我的脸",
+            "english": "I told you I washed my face this morning",
+            "soundmark": "/aɪ/ /told/ /ju/ /aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.248Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 152,
+            "chinese": "打电话给",
+            "english": "to call",
+            "soundmark": "/tə/ /kɔl/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.327Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 153,
+            "chinese": "打电话给他",
+            "english": "to call him",
+            "soundmark": "/tə/ /kɔl/ /hɪm/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.457Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 154,
+            "chinese": "我需要打电话给他",
+            "english": "I need to call him",
+            "soundmark": "/aɪ/ /nid/ /tə/ /kɔl/ /hɪm/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.463Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 155,
+            "chinese": "我打电话给他",
+            "english": "I call him",
+            "soundmark": "/aɪ/ /kɔl/ /hɪm/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.508Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 156,
+            "chinese": "打了电话给",
+            "english": "called",
+            "soundmark": "/kɔld/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.531Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 157,
+            "chinese": "我打了电话给他",
+            "english": "I called him",
+            "soundmark": "/aɪ/ /kɔld/ /hɪm/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.551Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 158,
+            "chinese": "昨晚",
+            "english": "last night",
+            "soundmark": "/læst/ /naɪt/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.621Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 159,
+            "chinese": "我昨晚打了电话给他",
+            "english": "I called him last night",
+            "soundmark": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.645Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 160,
+            "chinese": "他告诉我",
+            "english": "he told me",
+            "soundmark": "/hi/ /told/ /mi/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.708Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 161,
+            "chinese": "他两年前买了一个房子",
+            "english": "he bought a house two years ago",
+            "soundmark": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.743Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 162,
+            "chinese": "他告诉我他两年前买了一个房子",
+            "english": "he told me he bought a house two years ago",
+            "soundmark": "/hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.774Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        },
+        {
+            "order": 163,
+            "chinese": "我昨晚打了电话给他而且他告诉我他在两年之前买了一个房子",
+            "english": "I called him last night and he told me he bought a house two years ago",
+            "soundmark": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/ /ənd/ /hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+            "courseId": "zp1vv74ce5s7t9shnfwx2v89",
+            "createdAt": "2024-04-28T12:29:19.906Z",
+            "updatedAt": "2024-04-28T12:26:53.937Z"
+        }
+    ]
+}

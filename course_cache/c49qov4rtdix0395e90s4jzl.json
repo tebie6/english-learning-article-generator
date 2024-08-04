@@ -1,0 +1,1659 @@
+{
+    "id": "c49qov4rtdix0395e90s4jzl",
+    "title": "第三课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1gu411f7EP",
+    "order": 3,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:51.474Z",
+    "updatedAt": "2024-05-23T14:05:57.547Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "做",
+            "english": "to do",
+            "soundmark": "/tə/ /du/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.070Z",
+            "updatedAt": "2024-04-28T12:26:53.794Z"
+        },
+        {
+            "order": 2,
+            "chinese": "它；这件事情",
+            "english": "it",
+            "soundmark": "/ɪt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.081Z",
+            "updatedAt": "2024-04-28T12:26:53.794Z"
+        },
+        {
+            "order": 3,
+            "chinese": "做这件事情",
+            "english": "to do it",
+            "soundmark": "/tə/ /du/ /ɪt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.092Z",
+            "updatedAt": "2024-04-28T12:26:53.794Z"
+        },
+        {
+            "order": 4,
+            "chinese": "我需要",
+            "english": "I need",
+            "soundmark": "/aɪ/ /nid/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.140Z",
+            "updatedAt": "2024-04-28T12:26:53.794Z"
+        },
+        {
+            "order": 5,
+            "chinese": "我需要做这件事情",
+            "english": "I need to do it",
+            "soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.151Z",
+            "updatedAt": "2024-04-28T12:26:53.794Z"
+        },
+        {
+            "order": 6,
+            "chinese": "今天",
+            "english": "today",
+            "soundmark": "/tə'de/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.193Z",
+            "updatedAt": "2024-04-28T12:26:53.794Z"
+        },
+        {
+            "order": 7,
+            "chinese": "我需要今天做这件事情",
+            "english": "I need to do it today",
+            "soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/ /tə'de/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.218Z",
+            "updatedAt": "2024-04-28T12:26:53.794Z"
+        },
+        {
+            "order": 8,
+            "chinese": "你需要",
+            "english": "you need",
+            "soundmark": "/ju/ /nid/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.431Z",
+            "updatedAt": "2024-04-28T12:26:53.794Z"
+        },
+        {
+            "order": 9,
+            "chinese": "你需要今天做这件事情",
+            "english": "you need to do it today",
+            "soundmark": "/ju/ /nid/ /tə/ /du/ /ɪt/ /tə'de/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.444Z",
+            "updatedAt": "2024-04-28T12:26:53.794Z"
+        },
+        {
+            "order": 10,
+            "chinese": "他",
+            "english": "he",
+            "soundmark": "/hi/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.480Z",
+            "updatedAt": "2024-04-28T12:26:53.794Z"
+        },
+        {
+            "order": 11,
+            "chinese": "他需要",
+            "english": "he needs",
+            "soundmark": "/hi/ /nidz/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.512Z",
+            "updatedAt": "2024-04-28T12:26:53.794Z"
+        },
+        {
+            "order": 12,
+            "chinese": "他需要今天做这件事情",
+            "english": "he needs to do it today",
+            "soundmark": "/hi/ /nidz/ /tə/ /du/ /ɪt/ /tə'de/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.524Z",
+            "updatedAt": "2024-04-28T12:26:53.794Z"
+        },
+        {
+            "order": 13,
+            "chinese": "相信",
+            "english": "to believe",
+            "soundmark": "/tə/ /bɪ'liv/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.586Z",
+            "updatedAt": "2024-04-28T12:26:53.795Z"
+        },
+        {
+            "order": 14,
+            "chinese": "相信我",
+            "english": "to believe me",
+            "soundmark": "/tə/ /bɪ'liv/ /mi/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.606Z",
+            "updatedAt": "2024-04-28T12:26:53.795Z"
+        },
+        {
+            "order": 15,
+            "chinese": "他需要相信我",
+            "english": "he needs to believe me",
+            "soundmark": "/hi/ /nidz/ /tə/ /bɪ'liv/ /mi/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.634Z",
+            "updatedAt": "2024-04-28T12:26:53.795Z"
+        },
+        {
+            "order": 16,
+            "chinese": "她",
+            "english": "she",
+            "soundmark": "/ʃi/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.662Z",
+            "updatedAt": "2024-04-28T12:26:53.795Z"
+        },
+        {
+            "order": 17,
+            "chinese": "她需要",
+            "english": "she needs",
+            "soundmark": "/ʃi/ /nidz/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.723Z",
+            "updatedAt": "2024-04-28T12:26:53.795Z"
+        },
+        {
+            "order": 18,
+            "chinese": "她需要相信我",
+            "english": "she needs to believe me",
+            "soundmark": "/ʃi/ /nidz/ /tə/ /bɪ'liv/ /mi/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.927Z",
+            "updatedAt": "2024-04-28T12:26:53.795Z"
+        },
+        {
+            "order": 19,
+            "chinese": "吃",
+            "english": "to eat",
+            "soundmark": "/tə/ /it/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.946Z",
+            "updatedAt": "2024-04-28T12:26:53.795Z"
+        },
+        {
+            "order": 20,
+            "chinese": "这个食物",
+            "english": "the food",
+            "soundmark": "/ðə/ /fud/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.953Z",
+            "updatedAt": "2024-04-28T12:26:53.795Z"
+        },
+        {
+            "order": 21,
+            "chinese": "吃这个食物",
+            "english": "to eat the food",
+            "soundmark": "/tə/ /it/ /ðə/ /fud/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.958Z",
+            "updatedAt": "2024-04-28T12:26:53.795Z"
+        },
+        {
+            "order": 22,
+            "chinese": "现在",
+            "english": "now",
+            "soundmark": "/naʊ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:13.975Z",
+            "updatedAt": "2024-04-28T12:26:53.795Z"
+        },
+        {
+            "order": 23,
+            "chinese": "现在吃这个食物",
+            "english": "to eat the food now",
+            "soundmark": "/tə/ /it/ /ðə/ /fud/ /naʊ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.059Z",
+            "updatedAt": "2024-04-28T12:26:53.795Z"
+        },
+        {
+            "order": 24,
+            "chinese": "她需要",
+            "english": "she needs",
+            "soundmark": "/ʃi/ /nidz/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.083Z",
+            "updatedAt": "2024-04-28T12:26:53.795Z"
+        },
+        {
+            "order": 25,
+            "chinese": "她需要现在吃这个食物",
+            "english": "she needs to eat the food now",
+            "soundmark": "/ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.091Z",
+            "updatedAt": "2024-04-28T12:26:53.795Z"
+        },
+        {
+            "order": 26,
+            "chinese": "它",
+            "english": "it",
+            "soundmark": "/ɪt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.155Z",
+            "updatedAt": "2024-04-28T12:26:53.795Z"
+        },
+        {
+            "order": 27,
+            "chinese": "它需要",
+            "english": "it needs",
+            "soundmark": "/ɪt/ /nidz/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.226Z",
+            "updatedAt": "2024-04-28T12:26:53.795Z"
+        },
+        {
+            "order": 28,
+            "chinese": "它需要现在吃这个食物",
+            "english": "it needs to eat the food now",
+            "soundmark": "/ɪt/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.380Z",
+            "updatedAt": "2024-04-28T12:26:53.797Z"
+        },
+        {
+            "order": 29,
+            "chinese": "睡觉",
+            "english": "to sleep",
+            "soundmark": "/tə/ /slip/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.404Z",
+            "updatedAt": "2024-04-28T12:26:53.797Z"
+        },
+        {
+            "order": 30,
+            "chinese": "它需要睡觉",
+            "english": "it needs to sleep",
+            "soundmark": "/ɪt/ /nidz/ /tə/ /slip/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.416Z",
+            "updatedAt": "2024-04-28T12:26:53.798Z"
+        },
+        {
+            "order": 31,
+            "chinese": "星荣需要",
+            "english": "Xingrong needs",
+            "soundmark": "/nidz/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.459Z",
+            "updatedAt": "2024-04-28T12:26:53.798Z"
+        },
+        {
+            "order": 32,
+            "chinese": "睡觉",
+            "english": "to sleep",
+            "soundmark": "/tə/ /slip/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.472Z",
+            "updatedAt": "2024-04-28T12:26:53.798Z"
+        },
+        {
+            "order": 33,
+            "chinese": "星荣需要睡觉",
+            "english": "Xingrong needs to sleep",
+            "soundmark": "/nidz/ /tə/ /slip/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.506Z",
+            "updatedAt": "2024-04-28T12:26:53.798Z"
+        },
+        {
+            "order": 34,
+            "chinese": "某件事",
+            "english": "something",
+            "soundmark": "/'sʌmθɪŋ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.533Z",
+            "updatedAt": "2024-04-28T12:26:53.798Z"
+        },
+        {
+            "order": 35,
+            "chinese": "重要的",
+            "english": "important",
+            "soundmark": "/ɪm'pɔrtnt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.584Z",
+            "updatedAt": "2024-04-28T12:26:53.798Z"
+        },
+        {
+            "order": 36,
+            "chinese": "重要的某件事",
+            "english": "something important",
+            "soundmark": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.677Z",
+            "updatedAt": "2024-04-28T12:26:53.798Z"
+        },
+        {
+            "order": 37,
+            "chinese": "告诉",
+            "english": "to tell",
+            "soundmark": "/tə/ /tɛl/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.727Z",
+            "updatedAt": "2024-04-28T12:26:53.798Z"
+        },
+        {
+            "order": 38,
+            "chinese": "告诉你",
+            "english": "to tell you",
+            "soundmark": "/tə/ /tɛl/ /ju/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.833Z",
+            "updatedAt": "2024-04-28T12:26:53.798Z"
+        },
+        {
+            "order": 39,
+            "chinese": "告诉你重要的某件事",
+            "english": "to tell you something important",
+            "soundmark": "/tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.850Z",
+            "updatedAt": "2024-04-28T12:26:53.799Z"
+        },
+        {
+            "order": 40,
+            "chinese": "我想要",
+            "english": "I want",
+            "soundmark": "/aɪ/ /wɑnt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.867Z",
+            "updatedAt": "2024-04-28T12:26:53.799Z"
+        },
+        {
+            "order": 41,
+            "chinese": "我想要告诉你重要的某件事",
+            "english": "I want to tell you something important",
+            "soundmark": "/aɪ/ /wɑnt/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.950Z",
+            "updatedAt": "2024-04-28T12:26:53.799Z"
+        },
+        {
+            "order": 42,
+            "chinese": "你想要",
+            "english": "you want",
+            "soundmark": "/ju/ /wɑnt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.989Z",
+            "updatedAt": "2024-04-28T12:26:53.799Z"
+        },
+        {
+            "order": 43,
+            "chinese": "你想要告诉我重要的某件事",
+            "english": "you want to tell me something important",
+            "soundmark": "/ju/ /wɑnt/ /tə/ /tɛl/ /mi/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.989Z",
+            "updatedAt": "2024-04-28T12:26:53.799Z"
+        },
+        {
+            "order": 44,
+            "chinese": "他想要",
+            "english": "he wants",
+            "soundmark": "/hi/ /wɑnts/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:14.990Z",
+            "updatedAt": "2024-04-28T12:26:53.799Z"
+        },
+        {
+            "order": 45,
+            "chinese": "他想要告诉我重要的某件事",
+            "english": "he wants to tell me something important",
+            "soundmark": "/hi/ /wɑnts/ /tə/ /tɛl/ /mi/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.089Z",
+            "updatedAt": "2024-04-28T12:26:53.799Z"
+        },
+        {
+            "order": 46,
+            "chinese": "解释",
+            "english": "to explain",
+            "soundmark": "/tə/ /ɪk'splen/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.201Z",
+            "updatedAt": "2024-04-28T12:26:53.799Z"
+        },
+        {
+            "order": 47,
+            "chinese": "原因",
+            "english": "the reason",
+            "soundmark": "/ðə/ /ˈrizən/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.231Z",
+            "updatedAt": "2024-04-28T12:26:53.799Z"
+        },
+        {
+            "order": 48,
+            "chinese": "解释原因",
+            "english": "to explain the reason",
+            "soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.276Z",
+            "updatedAt": "2024-04-28T12:26:53.800Z"
+        },
+        {
+            "order": 49,
+            "chinese": "他想要",
+            "english": "he wants",
+            "soundmark": "/hi/ /wɑnts/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.287Z",
+            "updatedAt": "2024-04-28T12:26:53.800Z"
+        },
+        {
+            "order": 50,
+            "chinese": "他想要解释原因",
+            "english": "he wants to explain the reason",
+            "soundmark": "/hi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.310Z",
+            "updatedAt": "2024-04-28T12:26:53.800Z"
+        },
+        {
+            "order": 51,
+            "chinese": "她想要",
+            "english": "she wants",
+            "soundmark": "/ʃi/ /wɑnts/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.446Z",
+            "updatedAt": "2024-04-28T12:26:53.800Z"
+        },
+        {
+            "order": 52,
+            "chinese": "她想要解释原因",
+            "english": "she wants to explain the reason",
+            "soundmark": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.453Z",
+            "updatedAt": "2024-04-28T12:26:53.800Z"
+        },
+        {
+            "order": 53,
+            "chinese": "她需要",
+            "english": "she needs",
+            "soundmark": "/ʃi/ /nidz/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.466Z",
+            "updatedAt": "2024-04-28T12:26:53.800Z"
+        },
+        {
+            "order": 54,
+            "chinese": "她现在需要吃这个食物",
+            "english": "she needs to eat the food now",
+            "soundmark": "/ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.513Z",
+            "updatedAt": "2024-04-28T12:26:53.800Z"
+        },
+        {
+            "order": 55,
+            "chinese": "为什么",
+            "english": "why",
+            "soundmark": "/waɪ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.589Z",
+            "updatedAt": "2024-04-28T12:26:53.800Z"
+        },
+        {
+            "order": 56,
+            "chinese": "她想要解释原因为什么她现在需要吃这个食物",
+            "english": "she wants to explain the reason why she needs to eat the food now",
+            "soundmark": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.723Z",
+            "updatedAt": "2024-04-28T12:26:53.800Z"
+        },
+        {
+            "order": 57,
+            "chinese": "问",
+            "english": "to ask",
+            "soundmark": "/tə/ /æsk/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.725Z",
+            "updatedAt": "2024-04-28T12:26:53.801Z"
+        },
+        {
+            "order": 58,
+            "chinese": "问我",
+            "english": "to ask me",
+            "soundmark": "/tə/ /æsk/ /mi/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.725Z",
+            "updatedAt": "2024-04-28T12:26:53.801Z"
+        },
+        {
+            "order": 59,
+            "chinese": "一个问题",
+            "english": "a question",
+            "soundmark": "/ə/ /'kwɛstʃən/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.744Z",
+            "updatedAt": "2024-04-28T12:26:53.801Z"
+        },
+        {
+            "order": 60,
+            "chinese": "问我一个问题",
+            "english": "to ask me a question",
+            "soundmark": "/tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.762Z",
+            "updatedAt": "2024-04-28T12:26:53.801Z"
+        },
+        {
+            "order": 61,
+            "chinese": "她想要",
+            "english": "she wants",
+            "soundmark": "/ʃi/ /wɑnts/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.924Z",
+            "updatedAt": "2024-04-28T12:26:53.801Z"
+        },
+        {
+            "order": 62,
+            "chinese": "她想要问我一个问题",
+            "english": "she wants to ask me a question",
+            "soundmark": "/ʃi/ /wɑnts/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.923Z",
+            "updatedAt": "2024-04-28T12:26:53.801Z"
+        },
+        {
+            "order": 63,
+            "chinese": "关于",
+            "english": "about",
+            "soundmark": "/ə'baʊt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:15.960Z",
+            "updatedAt": "2024-04-28T12:26:53.801Z"
+        },
+        {
+            "order": 64,
+            "chinese": "这个食物",
+            "english": "the food",
+            "soundmark": "/ðə/ /fud/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.017Z",
+            "updatedAt": "2024-04-28T12:26:53.801Z"
+        },
+        {
+            "order": 65,
+            "chinese": "关于这个食物的一个问题",
+            "english": "a question about the food",
+            "soundmark": "/ə/ /'kwɛstʃən/ /ə'baʊt/ /ðə/ /fud/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.096Z",
+            "updatedAt": "2024-04-28T12:26:53.801Z"
+        },
+        {
+            "order": 66,
+            "chinese": "她想要问我关于这个食物的一个问题",
+            "english": "she wants to ask me a question about the food",
+            "soundmark": "/ʃi/ /wɑnts/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/ /ə'baʊt/ /ðə/ /fud/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.185Z",
+            "updatedAt": "2024-04-28T12:26:53.802Z"
+        },
+        {
+            "order": 67,
+            "chinese": "飞翔",
+            "english": "to fly",
+            "soundmark": "/tə/ /flaɪ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.186Z",
+            "updatedAt": "2024-04-28T12:26:53.802Z"
+        },
+        {
+            "order": 68,
+            "chinese": "天空",
+            "english": "sky",
+            "soundmark": "/skaɪ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.211Z",
+            "updatedAt": "2024-04-28T12:26:53.802Z"
+        },
+        {
+            "order": 69,
+            "chinese": "在天空中",
+            "english": "in the sky",
+            "soundmark": "/ɪn/ /ðə/ /skaɪ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.239Z",
+            "updatedAt": "2024-04-28T12:26:53.802Z"
+        },
+        {
+            "order": 70,
+            "chinese": "在天空中飞翔",
+            "english": "to fly in the sky",
+            "soundmark": "/tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.239Z",
+            "updatedAt": "2024-04-28T12:26:53.802Z"
+        },
+        {
+            "order": 71,
+            "chinese": "这个小鸟",
+            "english": "the bird",
+            "soundmark": "/ðə/ /bɝd/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.363Z",
+            "updatedAt": "2024-04-28T12:26:53.802Z"
+        },
+        {
+            "order": 72,
+            "chinese": "这个小鸟想要",
+            "english": "the bird wants",
+            "soundmark": "/ðə/ /bɝd/ /wɑnts/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.374Z",
+            "updatedAt": "2024-04-28T12:26:53.802Z"
+        },
+        {
+            "order": 73,
+            "chinese": "这个小鸟想要在天空中飞翔",
+            "english": "the bird wants to fly in the sky",
+            "soundmark": "/ðə/ /bɝd/ /wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.454Z",
+            "updatedAt": "2024-04-28T12:26:53.802Z"
+        },
+        {
+            "order": 74,
+            "chinese": "星荣想要",
+            "english": "Xingrong wants",
+            "soundmark": "/wɑnts/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.537Z",
+            "updatedAt": "2024-04-28T12:26:53.803Z"
+        },
+        {
+            "order": 75,
+            "chinese": "星荣想要在天空中飞翔",
+            "english": "Xingrong wants to fly in the sky",
+            "soundmark": "/wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.600Z",
+            "updatedAt": "2024-04-28T12:26:53.803Z"
+        },
+        {
+            "order": 76,
+            "chinese": "但是",
+            "english": "but",
+            "soundmark": "/bət/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.625Z",
+            "updatedAt": "2024-04-28T12:26:53.803Z"
+        },
+        {
+            "order": 77,
+            "chinese": "不可能的",
+            "english": "impossible",
+            "soundmark": "/ɪm'pɑsəbl/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.646Z",
+            "updatedAt": "2024-04-28T12:26:53.803Z"
+        },
+        {
+            "order": 78,
+            "chinese": "它是不可能的",
+            "english": "it is impossible",
+            "soundmark": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.659Z",
+            "updatedAt": "2024-04-28T12:26:53.803Z"
+        },
+        {
+            "order": 79,
+            "chinese": "星荣想要在天空中飞翔但是它是不可能的",
+            "english": "Xingrong wants to fly in the sky but it is impossible",
+            "soundmark": "/wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/ /bət/ /ɪt/ /ɪz/ /ɪm'pɑsəbl/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.747Z",
+            "updatedAt": "2024-04-28T12:26:53.803Z"
+        },
+        {
+            "order": 80,
+            "chinese": "阅读",
+            "english": "to read",
+            "soundmark": "/tə/ /rid/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.777Z",
+            "updatedAt": "2024-04-28T12:26:53.803Z"
+        },
+        {
+            "order": 81,
+            "chinese": "在家里",
+            "english": "at home",
+            "soundmark": "/ət/ /hom/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.811Z",
+            "updatedAt": "2024-04-28T12:26:53.803Z"
+        },
+        {
+            "order": 82,
+            "chinese": "在家里阅读",
+            "english": "to read at home",
+            "soundmark": "/tə/ /rid/ /ət/ /hom/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:16.965Z",
+            "updatedAt": "2024-04-28T12:26:53.803Z"
+        },
+        {
+            "order": 83,
+            "chinese": "我喜欢",
+            "english": "I like",
+            "soundmark": "/aɪ/ /laɪk/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.063Z",
+            "updatedAt": "2024-04-28T12:26:53.803Z"
+        },
+        {
+            "order": 84,
+            "chinese": "我喜欢在家里阅读",
+            "english": "I like to read at home",
+            "soundmark": "/aɪ/ /laɪk/ /tə/ /rid/ /ət/ /hom/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.069Z",
+            "updatedAt": "2024-04-28T12:26:53.803Z"
+        },
+        {
+            "order": 85,
+            "chinese": "你喜欢",
+            "english": "you like",
+            "soundmark": "/ju/ /laɪk/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.107Z",
+            "updatedAt": "2024-04-28T12:26:53.803Z"
+        },
+        {
+            "order": 86,
+            "chinese": "你喜欢在家里阅读",
+            "english": "you like to read at home",
+            "soundmark": "/ju/ /laɪk/ /tə/ /rid/ /ət/ /hom/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.112Z",
+            "updatedAt": "2024-04-28T12:26:53.803Z"
+        },
+        {
+            "order": 87,
+            "chinese": "他喜欢",
+            "english": "he likes",
+            "soundmark": "/hi/ /laɪks/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.114Z",
+            "updatedAt": "2024-04-28T12:26:53.803Z"
+        },
+        {
+            "order": 88,
+            "chinese": "他喜欢在家里阅读",
+            "english": "he likes to read at home",
+            "soundmark": "/hi/ /laɪks/ /tə/ /rid/ /ət/ /hom/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.132Z",
+            "updatedAt": "2024-04-28T12:26:53.804Z"
+        },
+        {
+            "order": 89,
+            "chinese": "散步",
+            "english": "to walk",
+            "soundmark": "/tə/ /wɔk/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.253Z",
+            "updatedAt": "2024-04-28T12:26:53.804Z"
+        },
+        {
+            "order": 90,
+            "chinese": "公园",
+            "english": "park",
+            "soundmark": "/pɑrk/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.273Z",
+            "updatedAt": "2024-04-28T12:26:53.804Z"
+        },
+        {
+            "order": 91,
+            "chinese": "在公园里",
+            "english": "in the park",
+            "soundmark": "/ɪn/ /ðə/ /pɑrk/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.290Z",
+            "updatedAt": "2024-04-28T12:26:53.804Z"
+        },
+        {
+            "order": 92,
+            "chinese": "在公园里散步",
+            "english": "to walk in the park",
+            "soundmark": "/tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.458Z",
+            "updatedAt": "2024-04-28T12:26:53.804Z"
+        },
+        {
+            "order": 93,
+            "chinese": "他喜欢",
+            "english": "he likes",
+            "soundmark": "/hi/ /laɪks/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.500Z",
+            "updatedAt": "2024-04-28T12:26:53.804Z"
+        },
+        {
+            "order": 94,
+            "chinese": "他喜欢在公园里散步",
+            "english": "he likes to walk in the park",
+            "soundmark": "/hi/ /laɪks/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.553Z",
+            "updatedAt": "2024-04-28T12:26:53.804Z"
+        },
+        {
+            "order": 95,
+            "chinese": "她喜欢",
+            "english": "she likes",
+            "soundmark": "/ʃi/ /laɪks/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.554Z",
+            "updatedAt": "2024-04-28T12:26:53.804Z"
+        },
+        {
+            "order": 96,
+            "chinese": "她喜欢在公园里散步",
+            "english": "she likes to walk in the park",
+            "soundmark": "/ʃi/ /laɪks/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.582Z",
+            "updatedAt": "2024-04-28T12:26:53.804Z"
+        },
+        {
+            "order": 97,
+            "chinese": "睡觉",
+            "english": "to sleep",
+            "soundmark": "/tə/ /slip/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.593Z",
+            "updatedAt": "2024-04-28T12:26:53.804Z"
+        },
+        {
+            "order": 98,
+            "chinese": "床",
+            "english": "bed",
+            "soundmark": "/bɛd/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.618Z",
+            "updatedAt": "2024-04-28T12:26:53.804Z"
+        },
+        {
+            "order": 99,
+            "chinese": "在床上",
+            "english": "on the bed",
+            "soundmark": "/ɑn/ /ðə/ /bɛd/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.711Z",
+            "updatedAt": "2024-04-28T12:26:53.804Z"
+        },
+        {
+            "order": 100,
+            "chinese": "在床上睡觉",
+            "english": "to sleep on the bed",
+            "soundmark": "/tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.753Z",
+            "updatedAt": "2024-04-28T12:26:53.804Z"
+        },
+        {
+            "order": 101,
+            "chinese": "他喜欢",
+            "english": "he likes",
+            "soundmark": "/hi/ /laɪks/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.953Z",
+            "updatedAt": "2024-04-28T12:26:53.805Z"
+        },
+        {
+            "order": 102,
+            "chinese": "他喜欢在床上睡觉",
+            "english": "he likes to sleep on the bed",
+            "soundmark": "/hi/ /laɪks/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.949Z",
+            "updatedAt": "2024-04-28T12:26:53.805Z"
+        },
+        {
+            "order": 103,
+            "chinese": "星荣喜欢",
+            "english": "Xingrong likes",
+            "soundmark": "/laɪks/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:17.999Z",
+            "updatedAt": "2024-04-28T12:26:53.805Z"
+        },
+        {
+            "order": 104,
+            "chinese": "星荣喜欢在床上睡觉",
+            "english": "Xingrong likes to sleep on the bed",
+            "soundmark": "/laɪks/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.003Z",
+            "updatedAt": "2024-04-28T12:26:53.805Z"
+        },
+        {
+            "order": 105,
+            "chinese": "告诉",
+            "english": "to tell",
+            "soundmark": "/tə/ /tɛl/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.052Z",
+            "updatedAt": "2024-04-28T12:26:53.805Z"
+        },
+        {
+            "order": 106,
+            "chinese": "事实",
+            "english": "the truth",
+            "soundmark": "/ðə/ /trʊθ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.094Z",
+            "updatedAt": "2024-04-28T12:26:53.805Z"
+        },
+        {
+            "order": 107,
+            "chinese": "告诉你事实",
+            "english": "to tell you the truth",
+            "soundmark": "/tə/ /tɛl/ /ju/ /ðə/ /trʊθ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.120Z",
+            "updatedAt": "2024-04-28T12:26:53.805Z"
+        },
+        {
+            "order": 108,
+            "chinese": "我必须告诉你事实",
+            "english": "I have to tell you the truth",
+            "soundmark": "/aɪ/ /hæv/ /tə/ /tɛl/ /ju/ /ðə/ /trʊθ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.123Z",
+            "updatedAt": "2024-04-28T12:26:53.805Z"
+        },
+        {
+            "order": 109,
+            "chinese": "你必须告诉我事实",
+            "english": "you have to tell me the truth",
+            "soundmark": "/ju/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.160Z",
+            "updatedAt": "2024-04-28T12:26:53.805Z"
+        },
+        {
+            "order": 110,
+            "chinese": "他必须告诉",
+            "english": "he has to tell",
+            "soundmark": "/hi/ /hæz/ /tə/ /tɛl/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.384Z",
+            "updatedAt": "2024-04-28T12:26:53.805Z"
+        },
+        {
+            "order": 111,
+            "chinese": "他必须告诉我事实",
+            "english": "he has to tell me the truth",
+            "soundmark": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.439Z",
+            "updatedAt": "2024-04-28T12:26:53.805Z"
+        },
+        {
+            "order": 112,
+            "chinese": "解释",
+            "english": "to explain",
+            "soundmark": "/tə/ /ɪk'splen/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.447Z",
+            "updatedAt": "2024-04-28T12:26:53.805Z"
+        },
+        {
+            "order": 113,
+            "chinese": "原因",
+            "english": "the reason",
+            "soundmark": "/ðə/ /ˈrizən/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.454Z",
+            "updatedAt": "2024-04-28T12:26:53.805Z"
+        },
+        {
+            "order": 114,
+            "chinese": "解释原因",
+            "english": "to explain the reason",
+            "soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.512Z",
+            "updatedAt": "2024-04-28T12:26:53.805Z"
+        },
+        {
+            "order": 115,
+            "chinese": "他必须解释",
+            "english": "he has to explain",
+            "soundmark": "/hi/ /hæz/ /tə/ /ɪk'splen/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.538Z",
+            "updatedAt": "2024-04-28T12:26:53.806Z"
+        },
+        {
+            "order": 116,
+            "chinese": "他必须解释原因",
+            "english": "he has to explain the reason",
+            "soundmark": "/hi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.613Z",
+            "updatedAt": "2024-04-28T12:26:53.806Z"
+        },
+        {
+            "order": 117,
+            "chinese": "她必须解释",
+            "english": "she has to explain",
+            "soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.624Z",
+            "updatedAt": "2024-04-28T12:26:53.806Z"
+        },
+        {
+            "order": 118,
+            "chinese": "她必须解释原因",
+            "english": "she has to explain the reason",
+            "soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.624Z",
+            "updatedAt": "2024-04-28T12:26:53.806Z"
+        },
+        {
+            "order": 119,
+            "chinese": "阅读",
+            "english": "to read",
+            "soundmark": "/tə/ /rid/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.625Z",
+            "updatedAt": "2024-04-28T12:26:53.806Z"
+        },
+        {
+            "order": 120,
+            "chinese": "在家里",
+            "english": "at home",
+            "soundmark": "/ət/ /hom/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.822Z",
+            "updatedAt": "2024-04-28T12:26:53.806Z"
+        },
+        {
+            "order": 121,
+            "chinese": "在家里阅读",
+            "english": "to read at home",
+            "soundmark": "/tə/ /rid/ /ət/ /hom/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.892Z",
+            "updatedAt": "2024-04-28T12:26:53.806Z"
+        },
+        {
+            "order": 122,
+            "chinese": "她喜欢在家里阅读",
+            "english": "she likes to read at home",
+            "soundmark": "/ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.895Z",
+            "updatedAt": "2024-04-28T12:26:53.806Z"
+        },
+        {
+            "order": 123,
+            "chinese": "为什么",
+            "english": "why",
+            "soundmark": "/waɪ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.952Z",
+            "updatedAt": "2024-04-28T12:26:53.806Z"
+        },
+        {
+            "order": 124,
+            "chinese": "她必须解释原因为什么她喜欢在家里阅读",
+            "english": "she has to explain the reason why she likes to read at home",
+            "soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:18.954Z",
+            "updatedAt": "2024-04-28T12:26:53.806Z"
+        },
+        {
+            "order": 125,
+            "chinese": "她必须在家里阅读",
+            "english": "she has to read at home",
+            "soundmark": "/ʃi/ /hæz/ /tə/ /rid/ /ət/ /hom/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.055Z",
+            "updatedAt": "2024-04-28T12:26:53.806Z"
+        },
+        {
+            "order": 126,
+            "chinese": "睡觉",
+            "english": "to sleep",
+            "soundmark": "/tə/ /slip/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.073Z",
+            "updatedAt": "2024-04-28T12:26:53.806Z"
+        },
+        {
+            "order": 127,
+            "chinese": "它必须睡觉",
+            "english": "it has to sleep",
+            "soundmark": "/ɪt/ /hæz/ /tə/ /slip/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.131Z",
+            "updatedAt": "2024-04-28T12:26:53.806Z"
+        },
+        {
+            "order": 128,
+            "chinese": "现在",
+            "english": "now",
+            "soundmark": "/naʊ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.128Z",
+            "updatedAt": "2024-04-28T12:26:53.806Z"
+        },
+        {
+            "order": 129,
+            "chinese": "它现在必须睡觉",
+            "english": "it has to sleep now",
+            "soundmark": "/ɪt/ /hæz/ /tə/ /slip/ /naʊ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.143Z",
+            "updatedAt": "2024-04-28T12:26:53.807Z"
+        },
+        {
+            "order": 130,
+            "chinese": "星荣现在必须睡觉",
+            "english": "Xingrong has to sleep now",
+            "soundmark": "/hæz/ /tə/ /slip/ /naʊ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.253Z",
+            "updatedAt": "2024-04-28T12:26:53.807Z"
+        },
+        {
+            "order": 131,
+            "chinese": "劳累的",
+            "english": "tired",
+            "soundmark": "/taɪrd/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.339Z",
+            "updatedAt": "2024-04-28T12:26:53.807Z"
+        },
+        {
+            "order": 132,
+            "chinese": "他是",
+            "english": "he is",
+            "soundmark": "/hi/ /ɪz/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.343Z",
+            "updatedAt": "2024-04-28T12:26:53.807Z"
+        },
+        {
+            "order": 133,
+            "chinese": "他是劳累的",
+            "english": "he is tired",
+            "soundmark": "/hi/ /ɪz/ /taɪrd/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.422Z",
+            "updatedAt": "2024-04-28T12:26:53.807Z"
+        },
+        {
+            "order": 134,
+            "chinese": "非常",
+            "english": "very",
+            "soundmark": "/ˈvɛri/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.475Z",
+            "updatedAt": "2024-04-28T12:26:53.807Z"
+        },
+        {
+            "order": 135,
+            "chinese": "他是非常劳累的",
+            "english": "he is very tired",
+            "soundmark": "/hi/ /ɪz/ /ˈvɛri/ /taɪrd/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.529Z",
+            "updatedAt": "2024-04-28T12:26:53.807Z"
+        },
+        {
+            "order": 136,
+            "chinese": "因为",
+            "english": "because",
+            "soundmark": "/bɪ'kɔz/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.563Z",
+            "updatedAt": "2024-04-28T12:26:53.807Z"
+        },
+        {
+            "order": 137,
+            "chinese": "因为他是非常劳累的",
+            "english": "because he is very tired",
+            "soundmark": "/bɪ'kɔz/ /hi/ /ɪz/ /ˈvɛri/ /taɪrd/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.644Z",
+            "updatedAt": "2024-04-28T12:26:53.807Z"
+        },
+        {
+            "order": 138,
+            "chinese": "星荣现在必须睡觉因为他是非常劳累的",
+            "english": "Xingrong has to sleep now because he is very tired",
+            "soundmark": "/hæz/ /tə/ /slip/ /naʊ/ /bɪ'kɔz/ /hi/ /ɪz/ /ˈvɛri/ /taɪrd/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.656Z",
+            "updatedAt": "2024-04-28T12:26:53.807Z"
+        },
+        {
+            "order": 139,
+            "chinese": "事实",
+            "english": "the truth",
+            "soundmark": "/ðə/ /trʊθ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.662Z",
+            "updatedAt": "2024-04-28T12:26:53.807Z"
+        },
+        {
+            "order": 140,
+            "chinese": "告诉我事实",
+            "english": "to tell me the truth",
+            "soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.693Z",
+            "updatedAt": "2024-04-28T12:26:53.807Z"
+        },
+        {
+            "order": 141,
+            "chinese": "他必须告诉我事实",
+            "english": "He has to tell me the truth",
+            "soundmark": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.801Z",
+            "updatedAt": "2024-04-28T12:26:53.808Z"
+        },
+        {
+            "order": 142,
+            "chinese": "知道",
+            "english": "to know",
+            "soundmark": "/tə/ /no/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.812Z",
+            "updatedAt": "2024-04-28T12:26:53.808Z"
+        },
+        {
+            "order": 143,
+            "chinese": "知道这件事",
+            "english": "to know it",
+            "soundmark": "/tə/ /no/ /ɪt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.888Z",
+            "updatedAt": "2024-04-28T12:26:53.808Z"
+        },
+        {
+            "order": 144,
+            "chinese": "我需要",
+            "english": "I need",
+            "soundmark": "/aɪ/ /nid/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.960Z",
+            "updatedAt": "2024-04-28T12:26:53.808Z"
+        },
+        {
+            "order": 145,
+            "chinese": "我需要知道这件事",
+            "english": "I need to know it",
+            "soundmark": "/aɪ/ /nid/ /tə/ /no/ /ɪt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:19.976Z",
+            "updatedAt": "2024-04-28T12:26:53.808Z"
+        },
+        {
+            "order": 146,
+            "chinese": "因为",
+            "english": "because",
+            "soundmark": "/bɪ'kɔz/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.069Z",
+            "updatedAt": "2024-04-28T12:26:53.808Z"
+        },
+        {
+            "order": 147,
+            "chinese": "他必须告诉我事实因为我需要知道它",
+            "english": "He has to tell me the truth because I need to know it",
+            "soundmark": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/ /bɪ'kɔz/ /aɪ/ /nid/ /tə/ /no/ /ɪt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.125Z",
+            "updatedAt": "2024-04-28T12:26:53.808Z"
+        },
+        {
+            "order": 148,
+            "chinese": "解释原因",
+            "english": "to explain the reason",
+            "soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.155Z",
+            "updatedAt": "2024-04-28T12:26:53.808Z"
+        },
+        {
+            "order": 149,
+            "chinese": "她必须解释原因",
+            "english": "she has to explain the reason",
+            "soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.151Z",
+            "updatedAt": "2024-04-28T12:26:53.808Z"
+        },
+        {
+            "order": 150,
+            "chinese": "在家里阅读",
+            "english": "to read at home",
+            "soundmark": "/tə/ /rid/ /ət/ /hom/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.187Z",
+            "updatedAt": "2024-04-28T12:26:53.808Z"
+        },
+        {
+            "order": 151,
+            "chinese": "她喜欢",
+            "english": "she likes",
+            "soundmark": "/ʃi/ /laɪks/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.258Z",
+            "updatedAt": "2024-04-28T12:26:53.808Z"
+        },
+        {
+            "order": 152,
+            "chinese": "她喜欢在家里阅读",
+            "english": "she likes to read at home",
+            "soundmark": "/ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.264Z",
+            "updatedAt": "2024-04-28T12:26:53.808Z"
+        },
+        {
+            "order": 153,
+            "chinese": "为什么",
+            "english": "why",
+            "soundmark": "/waɪ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.330Z",
+            "updatedAt": "2024-04-28T12:26:53.808Z"
+        },
+        {
+            "order": 154,
+            "chinese": "她必须解释原因为什么她喜欢在家里阅读",
+            "english": "she has to explain the reason why she likes to read at home",
+            "soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.421Z",
+            "updatedAt": "2024-04-28T12:26:53.808Z"
+        },
+        {
+            "order": 155,
+            "chinese": "重要的",
+            "english": "important",
+            "soundmark": "/ɪm'pɔrtnt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.440Z",
+            "updatedAt": "2024-04-28T12:26:53.809Z"
+        },
+        {
+            "order": 156,
+            "chinese": "非常",
+            "english": "very",
+            "soundmark": "/ˈvɛri/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.557Z",
+            "updatedAt": "2024-04-28T12:26:53.809Z"
+        },
+        {
+            "order": 157,
+            "chinese": "它是非常重要的",
+            "english": "it is very important",
+            "soundmark": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.654Z",
+            "updatedAt": "2024-04-28T12:26:53.809Z"
+        },
+        {
+            "order": 158,
+            "chinese": "因为",
+            "english": "because",
+            "soundmark": "/bɪ'kɔz/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.671Z",
+            "updatedAt": "2024-04-28T12:26:53.809Z"
+        },
+        {
+            "order": 159,
+            "chinese": "她必须解释原因为什么她喜欢在家里阅读因为它是非常重要的",
+            "english": "she has to explain the reason why she likes to read at home because it is very important",
+            "soundmark": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.712Z",
+            "updatedAt": "2024-04-28T12:26:53.809Z"
+        },
+        {
+            "order": 160,
+            "chinese": "她想要",
+            "english": "she wants",
+            "soundmark": "/ʃi/ /wɑnts/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.713Z",
+            "updatedAt": "2024-04-28T12:26:53.809Z"
+        },
+        {
+            "order": 161,
+            "chinese": "见到",
+            "english": "to see",
+            "soundmark": "/tə/ /si/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.717Z",
+            "updatedAt": "2024-04-28T12:26:53.809Z"
+        },
+        {
+            "order": 162,
+            "chinese": "她想要见到我",
+            "english": "she wants to see me",
+            "soundmark": "/ʃi/ /wɑnts/ /tə/ /si/ /mi/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.872Z",
+            "updatedAt": "2024-04-28T12:26:53.809Z"
+        },
+        {
+            "order": 163,
+            "chinese": "在这里",
+            "english": "to be here",
+            "soundmark": "/tə/ /bi/ /hɪr/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.874Z",
+            "updatedAt": "2024-04-28T12:26:53.809Z"
+        },
+        {
+            "order": 164,
+            "chinese": "我必须在这里",
+            "english": "I have to be here",
+            "soundmark": "/aɪ/ /hæv/ /tə/ /bi/ /hɪr/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:20.948Z",
+            "updatedAt": "2024-04-28T12:26:53.809Z"
+        },
+        {
+            "order": 165,
+            "chinese": "我今天必须在这里",
+            "english": "I have to be here today",
+            "soundmark": "/aɪ/ /hæv/ /tə/ /bi/ /hɪr/ /tə'de/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.008Z",
+            "updatedAt": "2024-04-28T12:26:53.809Z"
+        },
+        {
+            "order": 166,
+            "chinese": "所以",
+            "english": "so",
+            "soundmark": "/so/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.100Z",
+            "updatedAt": "2024-04-28T12:26:53.809Z"
+        },
+        {
+            "order": 167,
+            "chinese": "她想要见到我所以我今天必须在这里",
+            "english": "she wants to see me so I have to be here today",
+            "soundmark": "/ʃi/ /wɑnts/ /tə/ /si/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /bi/ /hɪr/ /tə'de/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.160Z",
+            "updatedAt": "2024-04-28T12:26:53.809Z"
+        },
+        {
+            "order": 168,
+            "chinese": "我需要做这件事情",
+            "english": "I need to do it",
+            "soundmark": "/aɪ/ /nid/ /tə/ /du/ /ɪt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.170Z",
+            "updatedAt": "2024-04-28T12:26:53.810Z"
+        },
+        {
+            "order": 169,
+            "chinese": "你需要做这件事",
+            "english": "you need to do it",
+            "soundmark": "/ju/ /nid/ /tə/ /du/ /ɪt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.174Z",
+            "updatedAt": "2024-04-28T12:26:53.810Z"
+        },
+        {
+            "order": 170,
+            "chinese": "他需要做这件事",
+            "english": "he needs to do it",
+            "soundmark": "/hi/ /nidz/ /tə/ /du/ /ɪt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.185Z",
+            "updatedAt": "2024-04-28T12:26:53.810Z"
+        },
+        {
+            "order": 171,
+            "chinese": "她喜欢做这件事",
+            "english": "she likes to do it",
+            "soundmark": "/ʃi/ /laɪks/ /tə/ /du/ /ɪt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.320Z",
+            "updatedAt": "2024-04-28T12:26:53.810Z"
+        },
+        {
+            "order": 172,
+            "chinese": "它想要做这件事",
+            "english": "it wants to do it",
+            "soundmark": "/ɪt/ /wɑnts/ /tə/ /du/ /ɪt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.375Z",
+            "updatedAt": "2024-04-28T12:26:53.810Z"
+        },
+        {
+            "order": 173,
+            "chinese": "星荣必须做这件事",
+            "english": "Xingrong has to do it",
+            "soundmark": "/hæz/ /tə/ /du/ /ɪt/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.436Z",
+            "updatedAt": "2024-04-28T12:26:53.810Z"
+        },
+        {
+            "order": 174,
+            "chinese": "因为",
+            "english": "because",
+            "soundmark": "/bɪ'kɔz/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.439Z",
+            "updatedAt": "2024-04-28T12:26:53.810Z"
+        },
+        {
+            "order": 175,
+            "chinese": "所以",
+            "english": "so",
+            "soundmark": "/so/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.531Z",
+            "updatedAt": "2024-04-28T12:26:53.810Z"
+        },
+        {
+            "order": 176,
+            "chinese": "为什么",
+            "english": "why",
+            "soundmark": "/waɪ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.552Z",
+            "updatedAt": "2024-04-28T12:26:53.810Z"
+        },
+        {
+            "order": 177,
+            "chinese": "解释原因",
+            "english": "to explain the reason",
+            "soundmark": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.617Z",
+            "updatedAt": "2024-04-28T12:26:53.810Z"
+        },
+        {
+            "order": 178,
+            "chinese": "问我一个问题",
+            "english": "to ask me a question",
+            "soundmark": "/tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.623Z",
+            "updatedAt": "2024-04-28T12:26:53.810Z"
+        },
+        {
+            "order": 179,
+            "chinese": "在天空中飞翔",
+            "english": "to fly in the sky",
+            "soundmark": "/tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.658Z",
+            "updatedAt": "2024-04-28T12:26:53.810Z"
+        },
+        {
+            "order": 180,
+            "chinese": "在家里阅读",
+            "english": "to read at home",
+            "soundmark": "/tə/ /rid/ /ət/ /hom/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.664Z",
+            "updatedAt": "2024-04-28T12:26:53.810Z"
+        },
+        {
+            "order": 181,
+            "chinese": "在公园里散步",
+            "english": "to walk in the park",
+            "soundmark": "/tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.761Z",
+            "updatedAt": "2024-04-28T12:26:53.811Z"
+        },
+        {
+            "order": 182,
+            "chinese": "在床上睡觉",
+            "english": "to sleep on the bed",
+            "soundmark": "/tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.869Z",
+            "updatedAt": "2024-04-28T12:26:53.811Z"
+        },
+        {
+            "order": 183,
+            "chinese": "告诉我事实",
+            "english": "to tell me the truth",
+            "soundmark": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+            "courseId": "c49qov4rtdix0395e90s4jzl",
+            "createdAt": "2024-04-28T12:27:21.873Z",
+            "updatedAt": "2024-04-28T12:26:53.811Z"
+        }
+    ]
+}

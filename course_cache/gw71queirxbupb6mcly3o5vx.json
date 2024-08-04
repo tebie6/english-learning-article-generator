@@ -1,0 +1,1290 @@
+{
+    "id": "gw71queirxbupb6mcly3o5vx",
+    "title": "第四十三课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1nX4y147HL",
+    "order": 43,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:52.949Z",
+    "updatedAt": "2024-05-23T14:06:01.766Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "锁",
+            "english": "to lock",
+            "soundmark": "/tə/ /lɑk/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:34.742Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 2,
+            "chinese": "门",
+            "english": "the door",
+            "soundmark": "/ðə/ /dɔr/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:34.816Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 3,
+            "chinese": "锁门",
+            "english": "to lock the door",
+            "soundmark": "/lɑk/ /ðə/ /dɔr/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:34.857Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 4,
+            "chinese": "忘记",
+            "english": "to forget",
+            "soundmark": "/tə/ /fɚ'ɡɛt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:34.865Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 5,
+            "chinese": "忘记锁门",
+            "english": "to forget to lock the door",
+            "soundmark": "/tə/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:34.912Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 6,
+            "chinese": "忘记锁门(ing形式)",
+            "english": "forgetting to lock the door",
+            "soundmark": "/fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:34.992Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 7,
+            "chinese": "承认",
+            "english": "to admit",
+            "soundmark": "/tə/ /ədˈmɪt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:34.992Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 8,
+            "chinese": "他们承认",
+            "english": "they admit",
+            "soundmark": "/ðe/ /ədˈmɪt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.035Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 9,
+            "chinese": "他们(过去)承认",
+            "english": "they admitted",
+            "soundmark": "/ðe/ /ədˈmɪtɪd/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.088Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 10,
+            "chinese": "他们(过去)承认忘记锁门",
+            "english": "they admitted forgetting to lock the door",
+            "soundmark": "/ðe/ /ədˈmɪtɪd/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.168Z",
+            "updatedAt": "2024-04-28T12:26:54.122Z"
+        },
+        {
+            "order": 11,
+            "chinese": "灯",
+            "english": "light",
+            "soundmark": "/laɪt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.194Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 12,
+            "chinese": "红色",
+            "english": "red",
+            "soundmark": "/rɛd/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.292Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 13,
+            "chinese": "一个红灯",
+            "english": "a red light",
+            "soundmark": "/ə/ /rɛd/ /laɪt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.318Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 14,
+            "chinese": "跑",
+            "english": "to run",
+            "soundmark": "/tə/ /rʌn/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.363Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 15,
+            "chinese": "闯一个红灯",
+            "english": "to run a red light",
+            "soundmark": "/tə/ /rʌn/ /ə/ /rɛd/ /laɪt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.375Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 16,
+            "chinese": "闯一个红灯(ing形式)",
+            "english": "running a red light",
+            "soundmark": "/'rʌnɪŋ/ /ə/ /rɛd/ /laɪt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.432Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 17,
+            "chinese": "驾驶",
+            "english": "to drive",
+            "soundmark": "/tə/ /draɪv/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.441Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 18,
+            "chinese": "司机",
+            "english": "the driver",
+            "soundmark": "/ðə/ /'draɪvɚ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.533Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 19,
+            "chinese": "司机(过去)承认",
+            "english": "the driver admitted",
+            "soundmark": "/ðə/ /'draɪvɚ/ /ədˈmɪtɪd/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.587Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 20,
+            "chinese": "司机(过去)承认闯一个红灯",
+            "english": "the driver admitted running a red light",
+            "soundmark": "/ðə/ /'draɪvɚ/ /ədˈmɪtɪd/ /'rʌnɪŋ/ /ə/ /rɛd/ /laɪt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.639Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 21,
+            "chinese": "答案",
+            "english": "the answers",
+            "soundmark": "/ði/ /'ænsɚz/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.657Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 22,
+            "chinese": "复制",
+            "english": "to copy",
+            "soundmark": "/tə/ /ˈkɑpɪ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.733Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 23,
+            "chinese": "抄答案",
+            "english": "to copy the answers",
+            "soundmark": "/tə/ /ˈkɑpɪ/ /ði/ /'ænsɚz/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.817Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 24,
+            "chinese": "同学",
+            "english": "classmate",
+            "soundmark": "/'klæsmet/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.842Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 25,
+            "chinese": "从......那里",
+            "english": "from",
+            "soundmark": "/frʌm/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.875Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 26,
+            "chinese": "从一个同学那里",
+            "english": "from a classmate",
+            "soundmark": "/frʌm/ /ə/ /'klæsmet/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.886Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 27,
+            "chinese": "从一个同学那里抄答案",
+            "english": "to copy the answers from a classmate",
+            "soundmark": "/tə/ /ˈkɑpɪ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:35.894Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 28,
+            "chinese": "从一个同学那里抄答案(ing形式)",
+            "english": "copying the answers from a classmate",
+            "soundmark": "/ˈkɑpɪɪŋ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.038Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 29,
+            "chinese": "那个学生",
+            "english": "the student",
+            "soundmark": "/ðə/ /'studnt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.089Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 30,
+            "chinese": "那个学生(过去)承认",
+            "english": "the student admitted",
+            "soundmark": "/ðə/ /'studnt/ /ədˈmɪtɪd/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.098Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 31,
+            "chinese": "那个学生(过去)承认从一个同学那里抄答案",
+            "english": "the student admitted copying the answers from a classmate",
+            "soundmark": "/ðə/ /'studnt/ /ədˈmɪtɪd/ /ˈkɑpɪɪŋ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.158Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 32,
+            "chinese": "迟到的",
+            "english": "late",
+            "soundmark": "/let/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.177Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 33,
+            "chinese": "她是迟到的",
+            "english": "she is late",
+            "soundmark": "/ʃi/ /ɪz/ /let/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.281Z",
+            "updatedAt": "2024-04-28T12:26:54.123Z"
+        },
+        {
+            "order": 34,
+            "chinese": "碰面；见到",
+            "english": "to meet",
+            "soundmark": "/tə/ /mit/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.319Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 35,
+            "chinese": "会议",
+            "english": "meeting",
+            "soundmark": "/'mitɪŋ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.331Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 36,
+            "chinese": "为了；对于",
+            "english": "for",
+            "soundmark": "/fɚ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.340Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 37,
+            "chinese": "对于这个会议",
+            "english": "for the meeting",
+            "soundmark": "/fɚ/ /ðə/ /'mitɪŋ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.422Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 38,
+            "chinese": "她是迟到的对于这个会议",
+            "english": "she is late for the meeting",
+            "soundmark": "/ʃi/ /ɪz/ /let/ /fɚ/ /ðə/ /'mitɪŋ/ /ədˈmɪtɪd/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.541Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 39,
+            "chinese": "是(ing形式)",
+            "english": "being",
+            "soundmark": "/ˈbiɪŋ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.545Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 40,
+            "chinese": "她(过去)承认是迟到的对于这个会议",
+            "english": "she admitted being late for the meeting",
+            "soundmark": "/ʃi/ /ədˈmɪtɪd/ /ˈbiɪŋ/ /let/ /fɚ/ /ðə/ /'mitɪŋ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.590Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 41,
+            "chinese": "说话",
+            "english": "to speak",
+            "soundmark": "/tə/ /spik/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.628Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 42,
+            "chinese": "演讲",
+            "english": "speaking",
+            "soundmark": "/'spikɪŋ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.669Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 43,
+            "chinese": "公开的",
+            "english": "public",
+            "soundmark": "/ˈpʌblɪk/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.729Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 44,
+            "chinese": "公开演讲",
+            "english": "public speaking",
+            "soundmark": "/ˈpʌblɪk/ /'spikɪŋ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.769Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 45,
+            "chinese": "害怕的",
+            "english": "afraid",
+            "soundmark": "/ə'fred/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.784Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 46,
+            "chinese": "她是害怕的",
+            "english": "she is afraid",
+            "soundmark": "/ʃi/ /ɪz/ /ə'fred/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.863Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 47,
+            "chinese": "她害怕公开演讲",
+            "english": "she is afraid of public speaking",
+            "soundmark": "/ʃi/ /ɪz/ /ə'fred/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:36.999Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 48,
+            "chinese": "是(ing形式)",
+            "english": "being",
+            "soundmark": "/ˈbiɪŋ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.049Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 49,
+            "chinese": "她(过去)承认",
+            "english": "she admitted",
+            "soundmark": "/ʃi/ /ədˈmɪtɪd/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.064Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 50,
+            "chinese": "她(过去)承认害怕公开演讲",
+            "english": "she admitted being afraid of public speaking",
+            "soundmark": "/ʃi/ /ədˈmɪtɪd/ /ˈbiɪŋ/ /ə'fred/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.085Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 51,
+            "chinese": "食物",
+            "english": "food",
+            "soundmark": "/fud/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.172Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 52,
+            "chinese": "垃圾",
+            "english": "junk",
+            "soundmark": "/dʒʌŋk/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.178Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 53,
+            "chinese": "垃圾食物",
+            "english": "junk food",
+            "soundmark": "/dʒʌŋk/ /fud/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.223Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 54,
+            "chinese": "吃",
+            "english": "to eat",
+            "soundmark": "/tə/ /it/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.227Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 55,
+            "chinese": "吃垃圾食物",
+            "english": "to eat junk food",
+            "soundmark": "/tə/ /it/ /dʒʌŋk/ /fud/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.236Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 56,
+            "chinese": "吃垃圾食物(ing形式)",
+            "english": "eating junk food",
+            "soundmark": "/'itɪŋ/ /dʒʌŋk/ /fud/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.451Z",
+            "updatedAt": "2024-04-28T12:26:54.124Z"
+        },
+        {
+            "order": 57,
+            "chinese": "避免",
+            "english": "to avoid",
+            "soundmark": "/tə/ /əˈvɔɪd/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.498Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 58,
+            "chinese": "她避免",
+            "english": "she avoids",
+            "soundmark": "/ʃi/ /əˈvɔɪdz/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.553Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 59,
+            "chinese": "她避免吃垃圾食物",
+            "english": "she avoids eating junk food",
+            "soundmark": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.574Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 60,
+            "chinese": "生活",
+            "english": "life",
+            "soundmark": "/laɪf/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.623Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 61,
+            "chinese": "方式",
+            "english": "style",
+            "soundmark": "/staɪl/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.669Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 62,
+            "chinese": "生活方式",
+            "english": "lifestyle",
+            "soundmark": "/'laɪfstaɪl/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.671Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 63,
+            "chinese": "健康的",
+            "english": "healthy",
+            "soundmark": "/'hɛlθi/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.682Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 64,
+            "chinese": "一个健康的生活方式",
+            "english": "a healthy lifestyle",
+            "soundmark": "/ə/ /'hɛlθi/ /'laɪfstaɪl/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.908Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 65,
+            "chinese": "保持",
+            "english": "to maintain",
+            "soundmark": "/tə/ /menˈten/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.949Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 66,
+            "chinese": "保持一个健康的生活方式",
+            "english": "to maintain a healthy lifestyle",
+            "soundmark": "/tə/ /menˈten/ /ə/ /'hɛlθi/ /'laɪfstaɪl/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:37.960Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 67,
+            "chinese": "她避免吃垃圾食物",
+            "english": "she avoids eating junk food",
+            "soundmark": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.037Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 68,
+            "chinese": "她避免吃垃圾食物来保持一个健康的生活方式",
+            "english": "she avoids eating junk food to maintain a healthy lifestyle",
+            "soundmark": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/ /tə/ /menˈten/ /ə/ /'hɛlθi/ /'laɪfstaɪl/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.057Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 69,
+            "chinese": "告诉",
+            "english": "to tell",
+            "soundmark": "/tə/ /tɛl/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.078Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 70,
+            "chinese": "事实",
+            "english": "the truth",
+            "soundmark": "/ðə/ /trʊθ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.078Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 71,
+            "chinese": "告诉事实",
+            "english": "to tell the truth",
+            "soundmark": "/tə/ /tɛl/ /ðə/ /trʊθ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.108Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 72,
+            "chinese": "告诉事实(ing形式)",
+            "english": "telling the truth",
+            "soundmark": "/ˈtɛlɪŋ/ /ðə/ /trʊθ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.134Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 73,
+            "chinese": "避免",
+            "english": "to avoid",
+            "soundmark": "/tə/ /əˈvɔɪd/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.172Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 74,
+            "chinese": "她(过去)避免",
+            "english": "she avoided",
+            "soundmark": "/ʃi/ /əˈvɔɪdɪd/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.362Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 75,
+            "chinese": "她(过去)避免告诉事实",
+            "english": "she avoided telling the truth",
+            "soundmark": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.381Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 76,
+            "chinese": "说谎",
+            "english": "to lie",
+            "soundmark": "/tə/ /laɪ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.455Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 77,
+            "chinese": "说谎(ing形式)",
+            "english": "lying",
+            "soundmark": "/'laɪɪŋ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.527Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 78,
+            "chinese": "父母",
+            "english": "parents",
+            "soundmark": "/'pɛrənts/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.552Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 79,
+            "chinese": "她的父母",
+            "english": "her parents",
+            "soundmark": "/hɚ/ /'pɛrənts/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.560Z",
+            "updatedAt": "2024-04-28T12:26:54.125Z"
+        },
+        {
+            "order": 80,
+            "chinese": "向她的父母说谎(ing形式)",
+            "english": "lying to her parents",
+            "soundmark": "/'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.568Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 81,
+            "chinese": "通过",
+            "english": "by",
+            "soundmark": "/baɪ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.582Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 82,
+            "chinese": "通过向她的父母说谎",
+            "english": "by lying to her parents",
+            "soundmark": "/baɪ/ /'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.678Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 83,
+            "chinese": "她(过去)避免告诉事实",
+            "english": "she avoided telling the truth",
+            "soundmark": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.806Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 84,
+            "chinese": "她通过向她的父母说谎来(过去)避免告诉事实",
+            "english": "she avoided telling the truth by lying to her parents",
+            "soundmark": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/ /baɪ/ /'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.819Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 85,
+            "chinese": "伤害",
+            "english": "to hurt",
+            "soundmark": "/tə/ /hɝt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.896Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 86,
+            "chinese": "她",
+            "english": "her",
+            "soundmark": "/hɚ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.957Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 87,
+            "chinese": "伤害她",
+            "english": "to hurt her",
+            "soundmark": "/tə/ /hɝt/ /hɚ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.980Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 88,
+            "chinese": "伤害她(ing形式)",
+            "english": "hurting her",
+            "soundmark": "/ˈhɝtɪŋ/ /hɚ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:38.991Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 89,
+            "chinese": "避免",
+            "english": "to avoid",
+            "soundmark": "/tə/ /əˈvɔɪd/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.080Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 90,
+            "chinese": "我(过去)避免",
+            "english": "I avoided",
+            "soundmark": "/aɪ/ /əˈvɔɪdɪd/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.085Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 91,
+            "chinese": "我(过去)避免伤害她",
+            "english": "I avoided hurting her",
+            "soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈhɝtɪŋ/ /hɚ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.177Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 92,
+            "chinese": "保持",
+            "english": "to keep",
+            "soundmark": "/tə/ /kip/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.263Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 93,
+            "chinese": "沉默",
+            "english": "silent",
+            "soundmark": "/'saɪlənt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.262Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 94,
+            "chinese": "保持沉默",
+            "english": "to keep silent",
+            "soundmark": "/tə/ /kip/ /'saɪlənt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.337Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 95,
+            "chinese": "保持沉默(ing形式)",
+            "english": "keeping silent",
+            "soundmark": "/'kipɪŋ/ /'saɪlənt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.343Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 96,
+            "chinese": "通过",
+            "english": "by",
+            "soundmark": "/baɪ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.449Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 97,
+            "chinese": "通过保持沉默",
+            "english": "by keeping silent",
+            "soundmark": "/baɪ/ /'kipɪŋ/ /'saɪlənt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.450Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 98,
+            "chinese": "我通过保持沉默来(过去)避免伤害她",
+            "english": "I avoided hurting her by keeping silent",
+            "soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈhɝtɪŋ/ /hɚ/ /baɪ/ /'kipɪŋ/ /'saɪlənt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.465Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 99,
+            "chinese": "迟到的",
+            "english": "late",
+            "soundmark": "/let/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.582Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 100,
+            "chinese": "我是迟到的",
+            "english": "I am late",
+            "soundmark": "/aɪ/ /æm/ /let/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.598Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 101,
+            "chinese": "是(ing形式)",
+            "english": "being",
+            "soundmark": "/ˈbiɪŋ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.715Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 102,
+            "chinese": "我(过去)避免迟到",
+            "english": "I avoided being late",
+            "soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.721Z",
+            "updatedAt": "2024-04-28T12:26:54.126Z"
+        },
+        {
+            "order": 103,
+            "chinese": "出租车",
+            "english": "taxi",
+            "soundmark": "/'tæksi/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.803Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 104,
+            "chinese": "乘坐",
+            "english": "to take",
+            "soundmark": "/tə/ /tek/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.839Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 105,
+            "chinese": "乘坐一辆出租车",
+            "english": "to take a taxi",
+            "soundmark": "/tə/ /tek/ /ə/ /'tæksi/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.891Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 106,
+            "chinese": "乘坐一辆出租车(ing形式)",
+            "english": "taking a taxi",
+            "soundmark": "/ˈtekɪŋ/ /ə/ /'tæksi/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.901Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 107,
+            "chinese": "通过",
+            "english": "by",
+            "soundmark": "/baɪ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.975Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 108,
+            "chinese": "通过乘坐一辆出租车",
+            "english": "by taking a taxi",
+            "soundmark": "/baɪ/ /ˈtekɪŋ/ /ə/ /'tæksi/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:39.974Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 109,
+            "chinese": "我(过去)避免迟到",
+            "english": "I avoided being late",
+            "soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.082Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 110,
+            "chinese": "我通过乘坐一辆出租车来(过去)避免迟到",
+            "english": "I avoided being late by taking a taxi",
+            "soundmark": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/ /baɪ/ /ˈtekɪŋ/ /ə/ /'tæksi/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.132Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 111,
+            "chinese": "避免",
+            "english": "to avoid",
+            "soundmark": "/tə/ /əˈvɔɪd/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.151Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 112,
+            "chinese": "他避免",
+            "english": "he avoids",
+            "soundmark": "/hi/ /əˈvɔɪdz/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.161Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 113,
+            "chinese": "抽烟",
+            "english": "to smoke",
+            "soundmark": "/tə/ /smok/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.273Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 114,
+            "chinese": "抽烟(ing形式)",
+            "english": "smoking",
+            "soundmark": "/'smokɪŋ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.332Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 115,
+            "chinese": "他避免抽烟",
+            "english": "he avoids smoking",
+            "soundmark": "/hi/ /əˈvɔɪdz/ /'smokɪŋ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.344Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 116,
+            "chinese": "健康的",
+            "english": "healthy",
+            "soundmark": "/'hɛlθi/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.357Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 117,
+            "chinese": "健康",
+            "english": "health",
+            "soundmark": "/hɛlθ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.471Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 118,
+            "chinese": "他的健康",
+            "english": "his health",
+            "soundmark": "/hɪz/ /hɛlθ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.490Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 119,
+            "chinese": "保护",
+            "english": "to protect",
+            "soundmark": "/tə/ /prə'tɛkt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.588Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 120,
+            "chinese": "保护他的健康",
+            "english": "to protect his health",
+            "soundmark": "/tə/ /prə'tɛkt/ /hɪz/ /hɛlθ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.611Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 121,
+            "chinese": "他避免抽烟来保护他的健康",
+            "english": "he avoids smoking to protect his health",
+            "soundmark": "/hi/ /əˈvɔɪdz/ /'smokɪŋ/ /tə/ /prə'tɛkt/ /hɪz/ /hɛlθ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.613Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 122,
+            "chinese": "谎言",
+            "english": "lie",
+            "soundmark": "/laɪ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.640Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 123,
+            "chinese": "一个谎言",
+            "english": "a lie",
+            "soundmark": "/ə/ /laɪ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.714Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 124,
+            "chinese": "白色的",
+            "english": "white",
+            "soundmark": "/waɪt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.786Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 125,
+            "chinese": "一个善意的谎言",
+            "english": "a white lie",
+            "soundmark": "/ə/ /waɪt/ /laɪ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.801Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 126,
+            "chinese": "告诉",
+            "english": "to tell",
+            "soundmark": "/tə/ /tɛl/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.835Z",
+            "updatedAt": "2024-04-28T12:26:54.127Z"
+        },
+        {
+            "order": 127,
+            "chinese": "说一个善意的谎言",
+            "english": "to tell a white lie",
+            "soundmark": "/tə/ /tɛl/ /ə/ /waɪt/ /laɪ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:40.967Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 128,
+            "chinese": "说一个善意的谎言(ing形式)",
+            "english": "telling a white lie",
+            "soundmark": "/ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:41.001Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 129,
+            "chinese": "承认",
+            "english": "to admit",
+            "soundmark": "/tə/ /ədˈmɪt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:41.070Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 130,
+            "chinese": "他(过去)承认",
+            "english": "he admitted",
+            "soundmark": "/hi/ /ədˈmɪtɪd/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:41.072Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 131,
+            "chinese": "他(过去)承认说一个善意的谎言(ing形式)",
+            "english": "he admitted telling a white lie",
+            "soundmark": "/hi/ /ədˈmɪtɪd/ /ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:41.088Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 132,
+            "chinese": "感觉",
+            "english": "to feel",
+            "soundmark": "/tə/ /fil/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:41.153Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 133,
+            "chinese": "感情",
+            "english": "feelings",
+            "soundmark": "/'filɪŋz/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:41.226Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 134,
+            "chinese": "某个人",
+            "english": "someone",
+            "soundmark": "/'sʌmwʌn/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:41.254Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 135,
+            "chinese": "某个人的感情",
+            "english": "someone's feelings",
+            "soundmark": "/'sʌmwʌnz/ /'filɪŋz/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:41.339Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 136,
+            "chinese": "伤害",
+            "english": "to hurt",
+            "soundmark": "/tə/ /hɝt/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:41.468Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 137,
+            "chinese": "伤害某个人的感情",
+            "english": "to hurt someone's feelings",
+            "soundmark": "/tə/ /hɝt/ /'sʌmwʌnz/ /'filɪŋz/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:41.491Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 138,
+            "chinese": "伤害某个人的感情(ing形式)",
+            "english": "hurting someone's feelings",
+            "soundmark": "/ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:41.511Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 139,
+            "chinese": "避免",
+            "english": "to avoid",
+            "soundmark": "/tə/ /əˈvɔɪd/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:41.512Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 140,
+            "chinese": "避免伤害某个人的感情",
+            "english": "to avoid hurting someone's feelings",
+            "soundmark": "/tə/ /əˈvɔɪd/ /ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:41.521Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 141,
+            "chinese": "他(过去)承认说一个善意的谎言",
+            "english": "he admitted telling a white lie",
+            "soundmark": "/hi/ /ədˈmɪtɪd/ /ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:41.599Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        },
+        {
+            "order": 142,
+            "chinese": "他(过去)承认说一个善意的谎言来避免伤害某个人的感情",
+            "english": "he admitted telling a white lie to avoid hurting someone's feelings",
+            "soundmark": "/hi/ /ədˈmɪtɪd/ /tə/ /ədˈmɪt/ /tə/ /əˈvɔɪd/ /ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/",
+            "courseId": "gw71queirxbupb6mcly3o5vx",
+            "createdAt": "2024-04-28T12:32:41.672Z",
+            "updatedAt": "2024-04-28T12:26:54.128Z"
+        }
+    ]
+}

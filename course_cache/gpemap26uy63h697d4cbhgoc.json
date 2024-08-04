@@ -1,0 +1,1416 @@
+{
+    "id": "gpemap26uy63h697d4cbhgoc",
+    "title": "第五十课",
+    "description": "",
+    "video": "https://www.bilibili.com/video/BV1tk4y1D7GL",
+    "order": 50,
+    "coursePackId": "p3yk3vz0hlrjmllcioibchww",
+    "createdAt": "2024-04-28T12:26:53.316Z",
+    "updatedAt": "2024-05-23T14:06:02.423Z",
+    "statements": [
+        {
+            "order": 1,
+            "chinese": "支付",
+            "english": "to pay",
+            "soundmark": "/tə/ /pe/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.003Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 2,
+            "chinese": "账单",
+            "english": "the bill",
+            "soundmark": "/ðə/ /bɪl/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.042Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 3,
+            "chinese": "支付账单",
+            "english": "to pay the bill",
+            "soundmark": "/tə/ /pe/ /ðə/ /bɪl/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.052Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 4,
+            "chinese": "我支付账单",
+            "english": "I pay the bill",
+            "soundmark": "/aɪ/ /pe/ /ðə/ /bɪl/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.077Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 5,
+            "chinese": "支付(过去分词)",
+            "english": "paid",
+            "soundmark": "/ped/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.120Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 6,
+            "chinese": "我(已经)支付了账单",
+            "english": "I have paid the bill",
+            "soundmark": "/aɪ/ /hæv/ /ped/ /ðə/ /bɪl/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.188Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 7,
+            "chinese": "老师",
+            "english": "teacher",
+            "soundmark": "/'titʃɚ/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.302Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 8,
+            "chinese": "我是一名老师",
+            "english": "I am a teacher",
+            "soundmark": "/aɪ/ /æm/ /ə/ /'titʃɚ/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.357Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 9,
+            "chinese": "我(已经)是一名老师了",
+            "english": "I have been a teacher",
+            "soundmark": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.388Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 10,
+            "chinese": "年",
+            "english": "year",
+            "soundmark": "/jɪr/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.490Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 11,
+            "chinese": "五年",
+            "english": "five years",
+            "soundmark": "/faɪv/ /jɪrz/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.503Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 12,
+            "chinese": "我(已经)是一名老师五年了",
+            "english": "I have been a teacher for five years",
+            "soundmark": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/ /fɚ/ /faɪv/ /jɪrz/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.502Z",
+            "updatedAt": "2024-04-28T12:26:54.167Z"
+        },
+        {
+            "order": 13,
+            "chinese": "自从......以来",
+            "english": "since",
+            "soundmark": "/sɪns/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.504Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 14,
+            "chinese": "我自从2019年(已经)是一名老师了",
+            "english": "I have been a teacher since 2019",
+            "soundmark": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/ /sɪns/ /'twɛnti/ /ˌnaɪn'tin/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.538Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 15,
+            "chinese": "医生",
+            "english": "doctor",
+            "soundmark": "/'dɑktɚ/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.559Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 16,
+            "chinese": "他是一名医生",
+            "english": "he is a doctor",
+            "soundmark": "/hi/ /ɪz/ /ə/ /'dɑktɚ/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.689Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 17,
+            "chinese": "他(已经)是一名医生了",
+            "english": "he has been a doctor",
+            "soundmark": "/hi/ /hæz/ /bɪn/ /ə/ /'dɑktɚ/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.795Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 18,
+            "chinese": "他(已经)是一名医生15年了",
+            "english": "he has been a doctor for 15 years",
+            "soundmark": "/hi/ /hæz/ /bɪn/ /ə/ /'dɑktɚ/ /fɚ/ /ˌfɪfˈtin/ /jɪrz/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.819Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 19,
+            "chinese": "生病的",
+            "english": "sick",
+            "soundmark": "/sɪk/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.899Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 20,
+            "chinese": "他是生病的",
+            "english": "he is sick",
+            "soundmark": "/hi/ /ɪz/ /sɪk/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.953Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 21,
+            "chinese": "他(已经)生病了",
+            "english": "he has been sick",
+            "soundmark": "/hi/ /hæz/ /bɪn/ /sɪk/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.969Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 22,
+            "chinese": "一星期",
+            "english": "a week",
+            "soundmark": "/ə/ /wik/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.984Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 23,
+            "chinese": "他(已经)生病一星期了",
+            "english": "he has been sick for a week",
+            "soundmark": "/hi/ /hæz/ /bɪn/ /sɪk/ /fɚ/ /ə/ /wik/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.991Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 24,
+            "chinese": "结婚",
+            "english": "to marry",
+            "soundmark": "/tə/ /'mæri/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:24.998Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 25,
+            "chinese": "结婚的",
+            "english": "married",
+            "soundmark": "/ˈmærid/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.003Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 26,
+            "chinese": "他们是结婚的",
+            "english": "they are married",
+            "soundmark": "/ðe/ /ɚ/ /ˈmærid/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.203Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 27,
+            "chinese": "他们(已经)结婚了",
+            "english": "they have been married",
+            "soundmark": "/ðe/ /hæv/ /bɪn/ /ˈmærid/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.277Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 28,
+            "chinese": "十年",
+            "english": "10 years",
+            "soundmark": "/tɛn/ /jɪrz/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.293Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 29,
+            "chinese": "他们(已经)结婚十年了",
+            "english": "they have been married for 10 years",
+            "soundmark": "/ðe/ /hæv/ /bɪn/ /ˈmærid/ /fɚ/ /tɛn/ /jɪrz/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.397Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 30,
+            "chinese": "朋友",
+            "english": "friend",
+            "soundmark": "/frɛnd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.408Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 31,
+            "chinese": "他们是朋友",
+            "english": "they are friends",
+            "soundmark": "/ðe/ /ɚ/ /frɛndz/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.414Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 32,
+            "chinese": "他们(已经)是朋友了",
+            "english": "they have been friends",
+            "soundmark": "/ðe/ /hæv/ /bɪn/ /frɛndz/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.426Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 33,
+            "chinese": "自从......以来",
+            "english": "since",
+            "soundmark": "/sɪns/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.428Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 34,
+            "chinese": "幼儿园",
+            "english": "kindergarten",
+            "soundmark": "/ˈkɪndɚɡɑrtn/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.491Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 35,
+            "chinese": "自从幼儿园",
+            "english": "since kindergarten",
+            "soundmark": "/sɪns/ /ˈkɪndɚɡɑrtn/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.516Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 36,
+            "chinese": "他们自从幼儿园(已经)是朋友了",
+            "english": "they have been friends since kindergarten",
+            "soundmark": "/ðe/ /hæv/ /bɪn/ /frɛndz/ /sɪns/ /ˈkɪndɚɡɑrtn/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.693Z",
+            "updatedAt": "2024-04-28T12:26:54.168Z"
+        },
+        {
+            "order": 37,
+            "chinese": "我们是朋友",
+            "english": "we are friends",
+            "soundmark": "/wi/ /ɚ/ /frɛndz/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.732Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 38,
+            "chinese": "我们(已经)是朋友了",
+            "english": "we have been friends",
+            "soundmark": "/wi/ /hæv/ /bɪn/ /frɛndz/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.793Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 39,
+            "chinese": "孩子",
+            "english": "child",
+            "soundmark": "/tʃaɪld/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.840Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 40,
+            "chinese": "童年",
+            "english": "childhood",
+            "soundmark": "/ˈtʃaɪldhʊd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.857Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 41,
+            "chinese": "自从......以来",
+            "english": "since",
+            "soundmark": "/sɪns/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.859Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 42,
+            "chinese": "自从童年",
+            "english": "since childhood",
+            "soundmark": "/sɪns/ /ˈtʃaɪldhʊd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.874Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 43,
+            "chinese": "我们自从童年(已经)是朋友了",
+            "english": "we have been friends since childhood",
+            "soundmark": "/wi/ /hæv/ /bɪn/ /frɛndz/ /sɪns/ /ˈtʃaɪldhʊd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:25.921Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 44,
+            "chinese": "邻居",
+            "english": "neighbor",
+            "soundmark": "/ˈnebɚ/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.004Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 45,
+            "chinese": "我们是邻居",
+            "english": "we are neighbors",
+            "soundmark": "/wi/ /ɚ/ /ˈnebɚz/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.015Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 46,
+            "chinese": "我们(已经)是邻居了",
+            "english": "we have been neighbors",
+            "soundmark": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.185Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 47,
+            "chinese": "邻居",
+            "english": "neighbor",
+            "soundmark": "/ˈnebɚ/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.201Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 48,
+            "chinese": "街区",
+            "english": "neighborhood",
+            "soundmark": "/ˈnebɚˌhʊd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.287Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 49,
+            "chinese": "这个街区",
+            "english": "this neighborhood",
+            "soundmark": "/ðɪs/ /ˈnebɚˌhʊd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.290Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 50,
+            "chinese": "搬家",
+            "english": "to move",
+            "soundmark": "/tə/ /muv/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.292Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 51,
+            "chinese": "搬家(过去式)",
+            "english": "moved",
+            "soundmark": "/muvd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.306Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 52,
+            "chinese": "我们搬家(过去式)",
+            "english": "we moved",
+            "soundmark": "/wi/ /muvd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.315Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 53,
+            "chinese": "我们搬家到这个街区",
+            "english": "we moved to this neighborhood",
+            "soundmark": "/wi/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.425Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 54,
+            "chinese": "自从......以来",
+            "english": "since",
+            "soundmark": "/sɪns/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.502Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 55,
+            "chinese": "自从我们搬家到这个街区",
+            "english": "since we moved to this neighborhood",
+            "soundmark": "/sɪns/ /wi/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.517Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 56,
+            "chinese": "两个都",
+            "english": "both",
+            "soundmark": "/boθ/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.647Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 57,
+            "chinese": "自从我们两个都搬家到这个街区",
+            "english": "since we both moved to this neighborhood",
+            "soundmark": "/sɪns/ /wi/ /boθ/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.741Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 58,
+            "chinese": "我们(已经)是邻居了",
+            "english": "we have been neighbors",
+            "soundmark": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.749Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 59,
+            "chinese": "我们(已经)是邻居了自从我们两个都搬家到这个街区",
+            "english": "we have been neighbors since we both moved to this neighborhood",
+            "soundmark": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/ /sɪns/ /wi/ /boθ/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.758Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 60,
+            "chinese": "在这里",
+            "english": "here",
+            "soundmark": "/hɪr/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.764Z",
+            "updatedAt": "2024-04-28T12:26:54.169Z"
+        },
+        {
+            "order": 61,
+            "chinese": "我在这里",
+            "english": "I am here",
+            "soundmark": "/aɪ/ /æm/ /hɪr/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.799Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 62,
+            "chinese": "我(已经)在这里过了",
+            "english": "I have been here",
+            "soundmark": "/aɪ/ /hæv/ /bɪn/ /hɪr/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.940Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 63,
+            "chinese": "在那里",
+            "english": "there",
+            "soundmark": "/ðɛr/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:26.983Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 64,
+            "chinese": "我在那里",
+            "english": "I am there",
+            "soundmark": "/aɪ/ /æm/ /ðɛr/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.010Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 65,
+            "chinese": "我(已经)去过那里了",
+            "english": "I have been there",
+            "soundmark": "/aɪ/ /hæv/ /bɪn/ /ðɛr/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.016Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 66,
+            "chinese": "在国外",
+            "english": "abroad",
+            "soundmark": "/ə'brɔd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.105Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 67,
+            "chinese": "我在国外",
+            "english": "I am abroad",
+            "soundmark": "/aɪ/ /æm/ /ə'brɔd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.195Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 68,
+            "chinese": "我(已经)去过国外",
+            "english": "I have been abroad",
+            "soundmark": "/aɪ/ /hæv/ /bɪn/ /ə'brɔd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.196Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 69,
+            "chinese": "地方",
+            "english": "place",
+            "soundmark": "/ples/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.203Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 70,
+            "chinese": "那个地方",
+            "english": "that place",
+            "soundmark": "/ðæt/ /ples/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.208Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 71,
+            "chinese": "我(已经)去过那个地方",
+            "english": "I have been to that place",
+            "soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðæt/ /ples/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.313Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 72,
+            "chinese": "还没有",
+            "english": "haven't",
+            "soundmark": "/ˈhævnt/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.456Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 73,
+            "chinese": "我(还没有)去过那个地方",
+            "english": "I haven't been to that place",
+            "soundmark": "/aɪ/ /ˈhævnt/ /bɪn/ /tə/ /ðæt/ /ples/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.477Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 74,
+            "chinese": "从来没有",
+            "english": "never",
+            "soundmark": "/'nɛvɚ/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.529Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 75,
+            "chinese": "我从来没有去过那个地方",
+            "english": "I have never been to that place",
+            "soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ðæt/ /ples/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.563Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 76,
+            "chinese": "墙",
+            "english": "wall",
+            "soundmark": "/wɔl/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.648Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 77,
+            "chinese": "伟大的",
+            "english": "great",
+            "soundmark": "/ɡret/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.650Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 78,
+            "chinese": "长城",
+            "english": "The Great Wall",
+            "soundmark": "/ðə/ /ɡret/ /wɔl/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.656Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 79,
+            "chinese": "中国",
+            "english": "China",
+            "soundmark": "/ˈtʃaɪnə/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.660Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 80,
+            "chinese": "中国的长城",
+            "english": "The Great Wall of China",
+            "soundmark": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.806Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 81,
+            "chinese": "我(已经)去过那个地方",
+            "english": "I have been to that place",
+            "soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðæt/ /ples/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.830Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 82,
+            "chinese": "我(已经)去过中国的长城",
+            "english": "I have been to the Great Wall of China",
+            "soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.971Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 83,
+            "chinese": "从来没有",
+            "english": "never",
+            "soundmark": "/'nɛvɚ/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:27.974Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 84,
+            "chinese": "我从来没有去过中国的长城",
+            "english": "I have never been to the Great Wall of China",
+            "soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.019Z",
+            "updatedAt": "2024-04-28T12:26:54.170Z"
+        },
+        {
+            "order": 85,
+            "chinese": "迪士尼乐园",
+            "english": "Disneyland",
+            "soundmark": "/'diznilænd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.031Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 86,
+            "chinese": "我(已经)去过迪士尼乐园",
+            "english": "I have been to Disneyland",
+            "soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /'diznilænd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.088Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 87,
+            "chinese": "加州",
+            "english": "California",
+            "soundmark": "/ˌkælɪˈfɔrnjə/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.102Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 88,
+            "chinese": "在加州的迪士尼乐园",
+            "english": "Disneyland in California",
+            "soundmark": "/'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.106Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 89,
+            "chinese": "我(已经)去过在加州的迪士尼乐园",
+            "english": "I have been to Disneyland in California",
+            "soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.108Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 90,
+            "chinese": "从来没有",
+            "english": "never",
+            "soundmark": "/'nɛvɚ/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.309Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 91,
+            "chinese": "我从来没有去过在加州的迪士尼乐园",
+            "english": "I have never been to Disneyland in California",
+            "soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.328Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 92,
+            "chinese": "日本",
+            "english": "Japan",
+            "soundmark": "/dʒəˈpæn/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.472Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 93,
+            "chinese": "我(已经)去过日本",
+            "english": "I have been to Japan",
+            "soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /dʒəˈpæn/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.492Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 94,
+            "chinese": "两次",
+            "english": "twice",
+            "soundmark": "/twaɪs/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.522Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 95,
+            "chinese": "我(已经)去过日本两次",
+            "english": "I have been to Japan twice",
+            "soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /dʒəˈpæn/ /twaɪs/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.528Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 96,
+            "chinese": "从来没有",
+            "english": "never",
+            "soundmark": "/'nɛvɚ/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.548Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 97,
+            "chinese": "我从来没有去过日本",
+            "english": "I have never been to Japan",
+            "soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /dʒəˈpæn/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.551Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 98,
+            "chinese": "加拿大",
+            "english": "Canada",
+            "soundmark": "/ˈkænədə/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.551Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 99,
+            "chinese": "我从来没有去过加拿大",
+            "english": "I have never been to Canada",
+            "soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.775Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 100,
+            "chinese": "你从来没有去过加拿大",
+            "english": "you have never been to Canada",
+            "soundmark": "/ju/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.799Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 101,
+            "chinese": "你从来没有去过加拿大吗？",
+            "english": "have you never been to Canada",
+            "soundmark": "/hæv/ /ju/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.829Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 102,
+            "chinese": "以前",
+            "english": "before",
+            "soundmark": "/bɪ'fɔr/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.920Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 103,
+            "chinese": "你以前从来没有去过加拿大吗",
+            "english": "have you never been to Canada before",
+            "soundmark": "/hæv/ /ju/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/ /bɪ'fɔr/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:28.970Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 104,
+            "chinese": "曾经",
+            "english": "ever",
+            "soundmark": "/'ɛvɚ/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.003Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 105,
+            "chinese": "你以前曾经去过加拿大吗",
+            "english": "have you ever been to Canada before",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/ /bɪ'fɔr/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.006Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 106,
+            "chinese": "你曾经去过加拿大吗",
+            "english": "have you ever been to Canada",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.014Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 107,
+            "chinese": "你曾经......吗",
+            "english": "have you ever been",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.015Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 108,
+            "chinese": "这里",
+            "english": "here",
+            "soundmark": "/hɪr/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.020Z",
+            "updatedAt": "2024-04-28T12:26:54.171Z"
+        },
+        {
+            "order": 109,
+            "chinese": "你曾经来过这里吗？",
+            "english": "have you ever been here",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /hɪr/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.276Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 110,
+            "chinese": "商店",
+            "english": "store",
+            "soundmark": "/stɔr/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.313Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 111,
+            "chinese": "那个商店",
+            "english": "that store",
+            "soundmark": "/ðæt/ /stɔr/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.381Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 112,
+            "chinese": "你曾去过那个商店吗？",
+            "english": "have you ever been to that store",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ðæt/ /stɔr/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.422Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 113,
+            "chinese": "餐厅",
+            "english": "restaurant",
+            "soundmark": "/'rɛstrɑnt/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.444Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 114,
+            "chinese": "那个餐厅",
+            "english": "that restaurant",
+            "soundmark": "/ðæt/ /'rɛstrɑnt/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.454Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 115,
+            "chinese": "你曾经去过那家餐厅吗？",
+            "english": "have you ever been to that restaurant",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ðæt/ /'rɛstrɑnt/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.464Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 116,
+            "chinese": "结婚",
+            "english": "to marry",
+            "soundmark": "/tə/ /'mæri/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.517Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 117,
+            "chinese": "结婚的",
+            "english": "married",
+            "soundmark": "/ˈmærid/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.516Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 118,
+            "chinese": "你曾经结过婚吗？",
+            "english": "have you ever been married",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /ˈmærid/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.643Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 119,
+            "chinese": "吃",
+            "english": "to eat",
+            "soundmark": "/tə/ /it/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.809Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 120,
+            "chinese": "吃(过去分词)",
+            "english": "eaten",
+            "soundmark": "/ˈitn/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.827Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 121,
+            "chinese": "你曾经吃过",
+            "english": "have you ever eaten",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /ˈitn/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.854Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 122,
+            "chinese": "榴莲",
+            "english": "durian",
+            "soundmark": "/ˈdʊriən/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.896Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 123,
+            "chinese": "你曾经吃过榴莲吗？",
+            "english": "have you ever eaten durian",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /ˈitn/ /ˈdʊriən/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.898Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 124,
+            "chinese": "参加",
+            "english": "to attend",
+            "soundmark": "/tə/ /əˈtɛnd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:29.933Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 125,
+            "chinese": "参加(过去分词)",
+            "english": "attended",
+            "soundmark": "/əˈtɛndɪd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.016Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 126,
+            "chinese": "你曾经参加过",
+            "english": "have you ever attended",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.041Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 127,
+            "chinese": "音乐会",
+            "english": "concert",
+            "soundmark": "/'kɑnsɚt/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.059Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 128,
+            "chinese": "现场的",
+            "english": "live",
+            "soundmark": "/laɪv/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.159Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 129,
+            "chinese": "一个现场的音乐会",
+            "english": "a live concert",
+            "soundmark": "/ə/ /laɪv/ /'kɑnsɚt/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.286Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 130,
+            "chinese": "你曾经参加过",
+            "english": "have you ever attended",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.309Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 131,
+            "chinese": "你曾经参加过一个现场的音乐会吗？",
+            "english": "have you ever attended a live concert",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/ /ə/ /laɪv/ /'kɑnsɚt/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.353Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 132,
+            "chinese": "丢掉",
+            "english": "to lose",
+            "soundmark": "/tə/ /luz/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.365Z",
+            "updatedAt": "2024-04-28T12:26:54.172Z"
+        },
+        {
+            "order": 133,
+            "chinese": "丢掉(过去分词)",
+            "english": "lost",
+            "soundmark": "/lɔst/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.395Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 134,
+            "chinese": "你曾经丢过",
+            "english": "have you ever lost",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /lɔst/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.518Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 135,
+            "chinese": "钱包",
+            "english": "wallet",
+            "soundmark": "/'wɑlɪt/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.539Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 136,
+            "chinese": "你的钱包",
+            "english": "your wallet",
+            "soundmark": "/jʊr/ /'wɑlɪt/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.564Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 137,
+            "chinese": "你曾经丢过你的钱包吗？",
+            "english": "have you ever lost your wallet",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /lɔst/ /jʊr/ /'wɑlɪt/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.583Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 138,
+            "chinese": "看",
+            "english": "to see",
+            "soundmark": "/tə/ /si/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.667Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 139,
+            "chinese": "看(过去分词)",
+            "english": "seen",
+            "soundmark": "/sin/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.720Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 140,
+            "chinese": "你曾经看过",
+            "english": "have you ever seen",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /sin/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.809Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 141,
+            "chinese": "彩虹",
+            "english": "rainbow",
+            "soundmark": "/ˈrenbo/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.813Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 142,
+            "chinese": "你曾经见过一个彩虹吗？",
+            "english": "have you ever seen a rainbow",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /sin/ /ə/ /ˈrenbo/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.814Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 143,
+            "chinese": "学习",
+            "english": "to study",
+            "soundmark": "/tə/ /'stʌdi/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:30.840Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 144,
+            "chinese": "学习(过去分词)",
+            "english": "studied",
+            "soundmark": "/ˈstʌdid/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:31.045Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 145,
+            "chinese": "在国外",
+            "english": "abroad",
+            "soundmark": "/ə'brɔd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:31.046Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 146,
+            "chinese": "留学",
+            "english": "studied abroad",
+            "soundmark": "/ˈstʌdid/ /ə'brɔd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:31.044Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 147,
+            "chinese": "你曾经",
+            "english": "have you ever",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:31.090Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 148,
+            "chinese": "你曾经留过学吗？",
+            "english": "have you ever studied abroad",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /ˈstʌdid/ /ə'brɔd/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:31.160Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 149,
+            "chinese": "做",
+            "english": "to make",
+            "soundmark": "/tə/ /mek/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:31.186Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 150,
+            "chinese": "做(过去分词)",
+            "english": "made",
+            "soundmark": "/med/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:31.258Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 151,
+            "chinese": "你曾经做过",
+            "english": "have you ever made",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /med/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:31.260Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 152,
+            "chinese": "雪",
+            "english": "snow",
+            "soundmark": "/sno/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:31.286Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 153,
+            "chinese": "雪人",
+            "english": "snowman",
+            "soundmark": "/'snomæn/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:31.496Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 154,
+            "chinese": "你曾经堆过雪人吗？",
+            "english": "have you ever made a snowman",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /med/ /ə/ /'snomæn/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:31.546Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 155,
+            "chinese": "你曾经去过加拿大吗？",
+            "english": "have you ever been to Canada",
+            "soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:31.552Z",
+            "updatedAt": "2024-04-28T12:26:54.173Z"
+        },
+        {
+            "order": 156,
+            "chinese": "我(已经)去过加拿大",
+            "english": "I have been to Canada",
+            "soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ˈkænədə/",
+            "courseId": "gpemap26uy63h697d4cbhgoc",
+            "createdAt": "2024-04-28T12:33:31.622Z",
+            "updatedAt": "2024-04-28T12:26:54.174Z"
+        }
+    ]
+}
