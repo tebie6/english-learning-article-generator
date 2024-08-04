@@ -69,10 +69,19 @@ def generate_article(descriptions, model_name="llama3.1"):
     """生成阅读理解文章"""
     prompt = f'''
 ## Objective
-I am learning English and have studied the following basic phrases and sentences: [{descriptions}]. Please generate a reading comprehension article of approximately 100 to 200 words to help me practice and improve my English. The article should primarily include the phrases and sentences I have learned. You may include a few new words or phrases to challenge me, but avoid overly complex vocabulary.
+I am learning English and have studied the following basic phrases and sentences: [{descriptions}]. Please generate a reading comprehension article of approximately 100 to 200 words to help me practice and improve my English. The article should primarily include the phrases and sentences I have learned. You may include a few new words or phrases to challenge me, but keep the vocabulary and sentence structures simple.
 
-### English Article
-[Insert article here]
+## Workflow
+- Step 1: Understand the objective of the task.
+- Step 2: Choose a suitable topic for the article.
+- Step 3: Plan the structure of the article.
+- Step 4: Write the article incorporating the learned phrases and sentences.
+- Step 5: Adds minimal new vocabulary and sentence structure.
+- Step 6: Finalize the article and review its content.
+
+Take a deep breath and let’s take it step by step.
+
+Output content does not require display steps.
     '''
     # print(prompt)
     return generate_text(prompt, model_name)
@@ -95,7 +104,7 @@ def extract_vocabulary(article, model_name="llama3.1"):
 def translate_article(article, model_name="llama3.1"):
     """翻译文章"""
     prompt = f'''
-**Translate the following English article into clear and fluent Simplified Chinese.**
+**Translate the following English article into clear and simplified Chinese.**
 
 ### Article
 {article}

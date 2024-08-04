@@ -5,6 +5,10 @@
 
 本项目是一个用于生成英文阅读文章的工具，基于用户已经学习过的词汇和句子。通过调用LLaMA 3.1模型，生成与用户学习内容相匹配的文章，帮助用户提高英语阅读理解能力。项目使用 [Cuixueshe Earthworm](https://github.com/cuixueshe/earthworm) 项目的课程学习数据生成文章。
 
+## 改进中
+
+llama3.1 8b 模型 翻译出来的中文真尼玛差，如果使用参数更大的模型对本地设备的性能是一种挑战，所以考虑是否使用 translate api 来翻译一下。
+
 ## 系统要求
 
 - 操作系统：Linux, macOS, Windows
