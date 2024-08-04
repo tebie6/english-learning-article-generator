@@ -1,37 +1,39 @@
-
-**Vocabulary List:**
-
+## Vocabulary List
 | 单词 | 发音 | 解释 |
 |------|------|------|
-| good | /gʊd/ | 好的，正常，满意的 |
-| It is | /ɪt ɪz/ | 它是，表示事物的状态或情况 |
-| important | /ˈɪmpɔːrtənt/ | 重要、有价值的 |
-| to know | /tu noʊ/ | 知道某件事的意思，了解 |
-| perfect | /ˈpɜrfɪkt/ | 完美无瑕的，没有错误或不足之处的 |
-| healthy | /ˈhelθiː/ | 健康、强壮和均衡的状态 |
-| rich | /raɪtʃ/ | 富有的、拥有大量金钱或宝藏的 |
+| important | /ɪmˈpɔrtnnt/ | 非常重要的 |
+| perfect | /ˈpərfkkt/ | 完美的 |
+| healthy | /ˈhælθi/ | 健康的 |
+| Xingrong | /ʃɪŋ.rúŋ/ | (Note: This is a Chinese name. It means "Starlight" in Chinese.) |
+| Jay Chou | /dʒeɪ tʃoʊ/ | (Note: This is a Chinese singer's name, known as 周杰伦 in Chinese) |
+| rich | /rɪtʃ/ | 富有的 |
+| pretty | /ˈprɪti/ | 漂亮的 |
+| tomorrow | /təˈruːməw/ | 明天 |
+| today | /təˈdeɪ/ | 今天 |
+| now | /naʊ/ | 现在 |
 
-### English Article:
+## English Article
 
-"Meet Xingrong, a cheerful person who always wants to know if he is important. He believes that knowing oneself and recognizing one's own worth are vital steps towards personal growth. Importantly, Xingrong does not only focus on his strength but also acknowledges areas where improvement may be needed. 
+It's a beautiful day today. The sun is shining brightly, and the air is filled with the sweet scent of blooming flowers. As I walk through the park, I feel grateful for this perfect moment in time.
 
-Tod지, a friend of Xingrong, agrees with him completely. 'It is important to know if we are perfect,' he often says. They both like talking about these topics every day as they believe it helps them understand themselves and others better. But what does "perfect" mean? Is it being rich or healthy? Or perhaps something else entirely, Tzu pondered.
+I am Xingrong, but my friends call me Jay because they think it sounds cooler. They are right; I do like to be called Jay. It's a nickname that reminds me to always be myself and not take life too seriously.
 
-One day, Xingrong asked Jay Chou to join their discussion. 'You are important,' he told him sincerely. As the conversation progressed, they talked about their dreams and ambitions for tomorrow. They even debated whether it is possible to be perfect in today's world. In the end, they decided that everyone has something unique to offer - maybe being rich or healthy isn't as important as just being yourself."
+As I stroll through the park, I notice people of all ages enjoying the beauty of nature. Some are sitting on benches, reading books or chatting with friends, while others are playing games or flying kites. It's a scene that makes me feel important – like everyone is connected and part of something bigger than themselves.
 
-### 中文解释:
+I believe that life is precious, and every moment should be savored. That's why I'm so grateful for this healthy and happy existence. Tomorrow may bring new challenges, but today, in this moment, everything feels just right.
 
-介绍一个叫做兴荣的开朗人物，他一直想知道自己是否重要。他认为了解自我和认可自己价值的重要性是个人成长的关键环节。特意提到了需要不仅赞扬自身优点，还要承认改进空间。
+As I continue my walk, I come across a group of people having a picnic. They invite me to join them, and we spend the afternoon eating delicious food, laughing, and enjoying each other's company. It's moments like these that remind me how rich life can be – not just in terms of wealth but also in the relationships we build and the memories we create.
 
-一个名叫泰州的朋友完全同意他们。"重要就是知道我们是否完美," 他经常说。他们每天都喜欢谈论这些话题，相信这有助于理解自己和他人的更好。但对“完美”的含义如何？是富裕或健康?还是其他全新的东西? 驻想了一下。
+## 中文翻译
 
-在某一天，兴荣请简宗福加入他们的谈话中。“你很重要,”他真心说。在对话进行过程中，他们谈到了他们的梦想和未来目标。他们甚至就今天世界是否可以成为完美主张争论。最后，他们决定每个人都有一些特色 - 或许富裕或健康并不像只被自我的重要性那样重要。
+今天是一天很美好的日子。太阳shine得非常亮，空气中充满了花朵的香味。我走在公园里，感谢这个完美的时刻。
 
-### Vocabulary List Continued:
+我叫Xingrong，但是我的朋友们称呼我为Jay，因为他们觉得听起来更酷。他们是对的，我也喜欢被人这么称呼。这个昵称让我记住要 sempre自己和不要把生活当做一回事。
 
-| 单词 | 发音 | 解释 |
-|------|------|------|
-| It is nice | /it ɪz naɪs/ | 这是一个描述事物状态或情况的方式，表示“好”。 |
-| rich or healthy | /raɪtʃər hɛlθiː/ | 富有或健康 - 用来比较不同个人在这种世界中对于完美的定义. "医学"意味着身体状态良好，而“丰足”则意味着拥有大量金钱或宝藏 |
-| rich or healthy | /raɪtʃɔːr hɛlθiː/ | 富裕或健康 - 用来比较不同个人对于完美的定义. "医学"意味着身体状态良好，而“丰足”则意味着拥有大量金钱或宝藏 |
-| you are important | /ju ɑːrɪmˈpɔrtənt/ | 你是重要的, 用来表达对于他人的重视和认可. |
+当我走在公园里的时候，我注意到很多不同年龄段的人都在享受自然美景。有些人坐在椅子上，阅读书籍或者与朋友聊天，有些人则玩游戏或飞纸扇。这是一个场景，让我觉得很重要——如同每个人都是连接和成为更大的自己的一部分。
+
+我相信生命是珍贵的，每个时刻都应该被珍惜。所以我非常感激这个健康和幸福的存在。明天可能会带来新的挑战，但是今天，在这个时刻，everything都感觉很好。
+
+当我继续走下去的时候，我遇到一群人正在用餐。我邀请我加入他们，我们花了整个下午吃了美味食物，笑着，享受彼此的公司。这是一个场景，让我记得生活是丰富的——不仅在财富方面，而且在我们建立关系和创造记忆方面。
+
+I hope this helps you practice and improve your English reading comprehension skills!
