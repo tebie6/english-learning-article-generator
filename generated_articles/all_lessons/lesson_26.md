@@ -1,30 +1,40 @@
-**Vocabulary List**
+
+### Vocabulary List
+Here is the list of unique words with Simplified Chinese translations and pronunciations using American pronunciation phonetics:
 
 | 单词 | 发音 | 解释 |
 |------|------|------|
-| friend | /freɪnd/ | 朋友 |
-| call | /kæl/ | 打电话 |
-| phone | /foʊn/ | 手机 |
-| number | /ˈnʌm.bər/ | 号码 |
-| name | /neɪm/ | 名字 |
-| know | /noʊ/ | 知道 |
-| decide | /daɪˈsaɪd/ | 决定 |
-| leave | /liːv/ | 离开 |
-| meet | /miːt/ | 会面 |
-| finish | /ˈfɪn.ɪʃ/ | 完成 |
-| homework | /həmˈwɜːrk/ | 家ework |
-| learn | /lɜːrn/ | 学习 |
+| Imagine | /aɪˈmædʒən/ | 想象 (xiǎng xiàng) |
+| Intimidating | /ɪntɪˈmeɪtɪŋ/ | 让人感到害怕的 (gào sù hǎi bā de) |
+| Exciting | /ɛkˈsɪɾɪŋ/ | 引人入胜的 (yǐ rén rù shèng de) |
+| Overhear | /əʊvərˈhɪər/ | 听见不该听见的话 (tīng jiàn bú gāi tīng jiàn de huà) |
+| Acquaintance | /ækˌweɪntns/ | 朋友 (pēng yǒu) |
+| Nervous | /ˈnɜrvəs/ | 心神不定的 (xīn shén bù dìng de) |
+| Idea | /aɪˈdiə/ | 想法 (xiǎng fā) |
+| Research | /rɪˈsurʧ/ | 研究 (yán jiū) |
+| Wonderful | /ˌwɒndərˈfʊl/ | 美好的事情 (měi hǎo de shì qíng) |
 
-**English Article**
+Note: The pronunciations are in American English pronunciation phonetics, and the Simplified Chinese translations are provided for reference.
 
-As I was studying for my exam, I couldn't focus because of the noise in the library. (I) can't concentrate when it's too loud. My friend tried to call me on the phone number I gave her, but she said she couldn't hear me clearly. (She) didn't know my name at first, so I had to remind her. We decided to meet up later and finish our homework together.
+### English Article
+**Meeting New People**
 
-When we met, she asked me why I was having trouble with a particular concept. I told her that I didn't understand it because of the way our teacher explained it in class. She suggested that we find an online resource to help us learn it better. After working on it together, I finally understood the material and felt confident for my exam.
+Imagine walking into a room full of people you've never met before. It can be intimidating, but also exciting! As you try to find someone who knows the host, you overhear a conversation about an upcoming event. You ask, "Can you hear me?" and the person replies, "Yes, I can hear you. Can you tell us more about it?"
 
-**Chinese Translations**
+You take a deep breath and begin to explain, but your friend whispers, "Don't worry if you get nervous." You start again, "I did have an idea for the event, but I'm not sure if it's any good." Your new acquaintance asks, "How did you come up with that?" and you share your thoughts.
 
-我正在备考考试时，不能集中注意力，因为图书馆里太吵了。 (我) 不能专心思考当它变得太响亮了。我朋友试图在手机上给我打电话，但她说她的声音听起来不清楚。 (她) 当初不知道我的名字，所以我必须提醒她我们决定后来碰头并完成我们的家庭作业一起。
+As the conversation flows, you realize that you're having a great time getting to know this person. You ask, "What do you think of my idea?" and they respond, "I think it's amazing! Did you do any research on it?"
 
-当我们遇到时，她问我为什么会有困难理解特定概念。我告诉她，我无法理解它是因为我们的老师在课堂上解释它的方式。她的建议是让我们找到在线资源来帮助我们学习它更好。在与她合作工作后，我终于明白了材料并对我的考试感到自信。
+This exchange reminds us that meeting new people can be a wonderful experience, as long as we're open to hearing their thoughts and sharing our own ideas. So, the next time you find yourself in a similar situation, remember to listen carefully, speak clearly, and have fun getting to know someone new!
 
-Note: Please let me know if you need any further assistance or clarification.
+### 中文翻译
+### gặp 新朋友
+
+想象一下你走进一个满是陌生人的房间。有时会感到害怕，但也充满了激动感！当你试图找到认识主持人的那个人时，你听到有关即将到来的活动的对话。你问，“你能听见我吗？”而那个人回复：“是的，我可以听见你。你能告诉我们更多关于它的事情吗？”
+
+你深呼吸，然后开始解释，但是你的朋友轻声地耳语道：“不要害怕，如果你感到紧张的话。”你又开始了， “我有一个想法，但是我不确定它是否合适。”你的新朋友问：“你是如何想到的？”然后你分享你的想法。
+
+当对话流畅时，你意识到你正在与这个人建立好关系。你问：“你认为我的想法有多好吗？”他们回复：“我觉得很了不起！你做过相关研究吗？”
+
+这个对话让我们明白，见面新的人可以是一个非常美好的经历，只要我们愿意倾听他们的思想并分享我们的想法。所以，下次当你处于类似的场景时，请记得认真倾听、清晰表达并享受与新朋友相识的乐趣！
+    

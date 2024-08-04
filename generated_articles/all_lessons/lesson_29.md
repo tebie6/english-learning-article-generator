@@ -1,30 +1,41 @@
-**Vocabulary List**
+
+### Vocabulary List
+Here is the list of unique words with their Simplified Chinese translations and American pronunciation phonetics:
 
 | 单词 | 发音 | 解释 |
 |------|------|------|
-| go out at night | /go ˈaut ən taɪt/ | 到夜晚外出 |
-| with your parents' permission | /wɪθ jɔr pærəntz ˌprɛmɪʃən/ | 要得到父母的同意 |
-| an adult can go out at night alone | /ʌn ˈadlt kæn go ˈaut ən tə taɪt ɔlən/ | 成年人可以一个人到夜晚外出 |
-| a driver's license is required for driving | /ə draɪvərzaɪʃ laɪsənz iz rɛkwaɪrd fɔr draɪvɪŋ/ | 有驾照才能开车 |
-| you should not drive without a driver's license | /ju ˈʃuʊd nɒt draɪv wɪθaʊt ə draɪvərz laɪsənz/ | 不得不开有驾照的车 |
-| it is good for your friend to drive with a driver's license | /ɪt iz gud fɔr jɔr frend tə draɪv wɪθ ə draɪvərz laɪsənz/ | 有驾照的朋友开车是很好的 |
+| Responsible | /resˈpɒnsəbəl/ | 有责任的 |
+| Parent | /ˈpærənt/ |父母 |
+| Worry | /ˈwʊri/ | 烦恼 |
+| Supervision | /səvˈɪʒən/ | 监管 |
+| Comfortable | /kəmˈfɔrtəbəl/ | 令人舒适的 |
+| Friend | /freɪnd/ |朋友 |
+| License | /ˈlaɪsəns/ |执照 |
+| Regulation | /rɛɡʌˈleɪʃən/ | 规则 |
+| Authorities | /ərˈθɔritiz/ |权威机构 |
+| Area | /ˈɛriə/ |区域 |
+| Essential | /iːsˈɛnschəl/ | 至关重要的 |
+| Child | /tʃaɪld/ | 孩子 |
+| Responsibility | /rɛspənˈsɪbɪləti/ | 责任感 |
+| Decision-making | /dɪˌsɪʒənˈmeɪkɪŋ/ | 决策能力 |
 
-**English Article**
+Note: The phonetics used are American pronunciation, and the Simplified Chinese translations are provided in a simplified format for easier understanding.
 
-As you grow older, there are certain things that change. Some of these changes include the freedom to go out at night with your parents' permission. When you become an adult, you can go out at night alone without needing anyone's approval. However, this newfound independence also comes with new responsibilities.
+### English Article
+**Going Out with Parents**
 
-One of the most significant changes is the ability to drive a car. To do this, you need to have a driver's license, which requires passing a driving test and following certain rules on the road. Once you get your license, it's not just about the thrill of driving; it's also about taking care of yourself and others on the road.
+As a responsible parent, you might worry about your child going out at night without supervision. However, if they are old enough to go out with friends, you may feel more comfortable letting them go on their own. For instance, if your child has an adult friend or an old friend who is also old enough to drive, you can consider allowing them to go out together.
 
-It's good for friends to drive with a driver's license, as this shows that they are responsible and can take care of themselves while driving. However, it's equally important to remember that driving without a license is not only against the law but also extremely dangerous.
+In many places, having a driver's license is required for driving, so it's essential to check with the authorities in your area about the rules and regulations regarding underage drivers. If your child is not yet old enough to drive, they may need to rely on friends who are licensed or use public transportation. As a parent, it's crucial to teach your child about responsibility and decision-making skills.
 
-In conclusion, growing older brings many changes, including increased freedom and new responsibilities. As you navigate these changes, always prioritize your safety and the safety of those around you.
+If you're planning a night out with friends and family, make sure to discuss the plans in advance and agree on what's acceptable behavior while going out at home, school, or elsewhere. Remember, being old enough doesn't necessarily mean someone is mature enough for certain situations.
 
-**Chinese Translations**
+### 中文翻译
+**与父母出行**
 
-随着年龄的增长，会发生一些变化。其中一些变化包括在得到父母同意后可以夜晚外出。成年人可以一个人到夜晚外出，不需要别人的许可。但是，这种新的独立也带来了新的责任。
+作为负责任的父母，你可能会担心孩子夜间不受监管地出行。但是，如果他们已经足够大可以与朋友出去玩，你可能会更舒服地让他们自己去。但是，如果你的孩子有成年朋友或老朋友也是足够大的，可以开车，你可能会考虑允许他们一起出去。
 
-最显著的变化之一就是开车。要做到这一点，需要有驾照，它需要通过驾驶考试并遵守道路上的某些规则。一旦你获得了你的驾照，它不是关于驾驶的乐趣；它也是关于在路上照顾自己和他人的责任。
+在很多地方，驾照需要满18岁，所以你需要检查当地的法律规定。如果你的孩子尚未到达驾照年龄，他们可能需要依靠已具备驾照的朋友，或使用公共交通。作为父母，你必须教导孩子责任感和决策能力。
 
-好友们可以一起开车，因为这表明他们负责且能在驾驶时自我保管。然而，也要记住，未经许可就开车不仅违法，而且极其危险。
-
-综上所述，年龄的增长带来了许多变化，包括增大的自由和新的责任。在这些变化中，请优先考虑你的安全和周围那些人的安全。
+如果你打算与朋友和家人夜出，你一定要提前商量并同意行为准则。这一点对于在家、学校或其他地方都重要。有时，年龄大并不意味着某人已经成熟足够应对特定情况。
+    

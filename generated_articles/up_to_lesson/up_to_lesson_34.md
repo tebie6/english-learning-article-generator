@@ -1,35 +1,48 @@
+
 ### Vocabulary List
+Here is the list of extracted unique words with Simplified Chinese translations and pronunciations using American pronunciation phonetics:
 
 | 单词 | 发音 | 解释 |
 |------|------|------|
-| plan | /plan/ | 计划 |
-| water | /ˈwɔːtər/ | 水 |
-| knife | /naɪf/ | 刀 |
-| egg | /ɛɡ/ | 鸡蛋 |
-| many | /ˈmæni/ | 许多 |
-| different | /dɪˈfərənt/ | 不同的 |
-| teacher | /ˈtɛtʃər/ | 老师 |
+| Parent | /ˈpærənt/ | 母亲或父亲 |
+| Empathy | /ɛmˈpaθi/ | 同理心 |
+| Understanding | /ʌndərˈstændɪŋ/ | 理解 |
+| Perspective | /prɪˈspektiv/ | 角度 |
+| Critical thinking | /krɪtɪkəl ˈθɪŋkɪŋ/ | 批判性思考 |
+| Decision | /dɛsɪˈʃən/ | 决定 |
+| Complex | /kəmˈpleks/ | 复杂的 |
+| Situation | /sɪtʊˈeɪʃən/ | 情况 |
+| Expectation | /ekspekˈteɪʃən/ | 预期 |
+| Spoon-feed | /spuːn-ˌfɛd/ | 透着鼻子喂食（比喻）传授知识 |
+| Consequence | /kənˈsɛks/ | 后果 |
+| Responsible | /rɪˈspɒnsəbəl/ | 负责的 |
+| Impact | /ɪmˈpækt/ | 影响 |
+| Society | /soʊˈsaɪəti/ | 社会 |
+| Better | /ˈbetər/ | 更好的 |
+
+Note: Some words may have multiple pronunciations or uses, but I've provided the most relevant one for this context.
 
 ### English Article
+**Teaching Children to Tell Right from Wrong**
 
-The Best Way to Save Time and Money is to Make a Plan Before You Do Anything. We Have to Save Water, as It's an Essential Resource for Our Lives. To Notice the Difference Between Right and Wrong Requires Education and Experience.
+As a parent, one of the most important lessons we can teach our children is how to distinguish between right and wrong. This lesson begins with teaching them about empathy and understanding others' perspectives. By doing so, they will develop their critical thinking skills and learn to make informed decisions.
 
-As a teacher, I always encourage my students to think critically about their actions and decisions. Making a plan before doing anything helps to avoid unnecessary mistakes and save time. However, planning alone is not enough; we must also consider the impact of our actions on the environment and society.
+In today's complex world, it's essential that children understand the difference between right and wrong. They need to be able to navigate through various situations and know what is expected of them. This doesn't mean spoon-feeding them answers but rather guiding them to think critically and come up with their own conclusions.
 
-Saving water is crucial for maintaining a healthy ecosystem. Many different ways exist to conserve water, such as using low-flow showerheads and fixing leaks. But, it's essential to remember that small actions can make a significant difference when combined with the efforts of others.
+When we teach our children how to tell right from wrong, we're not only helping them become responsible individuals but also preparing them for the challenges they will face in life. By doing so, we empower them to make a positive impact on society and contribute to creating a better world for all.
 
-By teaching our children how to tell the difference between right and wrong, we empower them to become responsible members of society. It's not just about following rules; it's about developing empathy and understanding towards others.
+Remember, teaching children is an ongoing process that requires patience, love, and understanding. With these qualities, you'll be able to guide your child through the journey of learning and help them become a confident individual who knows how to tell right from wrong.
 
-In conclusion, making a plan before doing anything, saving water, and educating ourselves and others are essential steps towards creating a better world. By working together, we can achieve great things and make a positive impact on our planet.
+(Note: The article incorporates some of the phrases and sentences you have learned while keeping the vocabulary and sentence structures simple.)
 
 ### 中文翻译
+**教孩子做对事**
 
-为节省时间和金钱，计划前行动的做法是最好的。我们必须保护水，因为它对我们的生活至关重要。要区分对错需要教育和经验。
+作为父母之一，教孩子如何区分正确和错误是我们最重要的任务。这一课开始于教他们同情他人的观点。通过这样，他们将发展出批判性思维能力，并能做出明智的决定。
 
-作为一名老师，我总是鼓励学生们认真思考他们的行为和决定。制定计划之前采取行动可以避免不必要的错误并节省时间。但仅靠规划是不够的；我们还必须考虑我们的行为对环境和社会的影响。
+在今天复杂的世界里，理解正确与错误的区别对于孩子们来说至关重要。他们需要能应对各种情况并知道自己应该做什么。这并不意味着给他们答案，而是要引导他们进行批判性思考，自己的结论。
 
-保护水资源对于维持健康生态系统至关重要。有很多不同的方法来节省水，例如使用低流量淋浴喷头和修漏。然而，我们必须记住，小的行动可以在合并了他人的努力后产生显著的效果。
+当我们教孩子如何分辨正确和错误时，我们不仅帮助他们成为负责任的个体，还为他们未来的挑战做准备。通过这样，他们将有能力对社会产生积极影响，并为所有人创造一个更好的世界。
 
-通过教导孩子们区分对错，我们赋予他们成为社会责任感成员的权力。这不是仅仅遵循规则的问题，而是关于培养同情心和理解别人的能力。
-
-总之，制定计划前行动，保护水资源，以及教育自己和他人都是创造更好的世界的必然步骤。通过合作，我们可以实现伟大的事情并对我们的星球产生积极的影响。
+请记住，教育孩子是一项不断的过程需要耐心、爱心和理解。拥有这些品质，你将能够引导你的孩子在学习过程中前进，并帮助他们成为自信的个体，能做出正确的选择。
+    

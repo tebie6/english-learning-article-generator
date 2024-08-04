@@ -1,29 +1,51 @@
-**Vocabulary List**
+
+### Vocabulary List
+Here is the list of unique words extracted from the article:
 
 | 单词 | 发音 | 解释 |
 |------|------|------|
-| permit | /pər'mit/ | 允许,准许 |
-| teacher | /'tiːtʃər/ | 老师 |
-| class | /klæs/ | 课堂 |
-| music | /'mjuːzik/ | 音乐 |
-| sing | /sɪŋ/ | 歌唱 |
-| in | /ɪn/ | 在,inside |
-| him | /hɪm/ | 他 |
-| father | /'fɑːðər/ | 父亲 |
-| policy | /'pəʊlɪsɪ/ | 政策 |
-| stop | /stoʊp/ | 停止,停止做某事 |
-| bus | /bʌs/ | 巴士 |
-| buy | /baɪ/ | 买,购买 |
-| fight | /faɪt/ | 打架 |
-| remember | /rɛmər/'ber/ | 记住 |
-| mom | /mɑːm/ | 妈妈 |
+| Yesterday | /yɛs'tədɛɪ/ | 昨天 |
+| Beautiful | /bjuːtɪfʊl/ | 美丽的 |
+| Perfect | /pərˈfɛkt/ | 完美的 |
+| Swimming | /ˈswiːmɪŋ/ | 游泳 |
+| Sea | /siː/ | 海洋 |
+| Sunset | /ˈsʌnɛt/ | 日落 |
+| Permit | /pərˈmit/ | 许可 |
+| Lunch | /lʌntʃ/ | 午餐 |
+| Smoking | /ˈsmoʊkɪŋ/ | 吸烟 |
+| Health | /hɛlθ/ | 健康 |
+| Proud | /praʊd/ | 自豪 |
+| Friend | /fraɪnd/ | 朋友 |
+| Gift | /ɡɪft/ | 礼物 |
+| Argument | /ˈær.gu.mənt/ | 讨论、争执 |
+| Fight | /faɪt/ | 打架 |
+| Relationship | /rɛləʊʃən.ʃɪp/ | 关系 |
+| Dinner | /ˈdɪ.nər/ | 晚餐 |
+| Call | /kæl/ | 拨打电话 |
+| Catching | /ˈkætʃɪŋ/ | 见面 |
 
-**English Article**
+Note: The pronunciation is in American English phonetics, and the Simplified Chinese translations are provided in traditional characters for reference.
 
-As the teacher permits singing in the music class, many students enjoy singing their favorite songs. One student, whose father permits him to sing in the class, loves singing during recess. However, some policies prohibit singing in certain areas of the school. On his way home, a student stopped buying flowers for her because they had a fight after she said something hurtful.
+### English Article
+**A Day at the Beach**
 
-Before sunset, a group of friends decided to swim in the sea. The policy permits swimming in the sea before sunset, but not after. As they swam, they remembered how much fun it was last year when they went swimming with their mom. But this time, one friend forgot to bring her swimsuit, so she had to stop swimming and go back home.
+Yesterday was a beautiful day, perfect for swimming in the sea before sunset. My father permits me to swim in the sea before sunset, so I spent the morning with my friends at the beach. We had a great time playing and laughing together.
 
-**Chinese Translations**
+After we got hungry, my father took us to buy some fish for lunch. On our way back, he told us that he stopped smoking for his health, and it's been three years now. He's really proud of himself, and so are we. My mother even started buying flowers for her friends as a gift.
 
-作为老师允许在音乐课上歌唱，很多学生都喜欢歌唱他们的喜爱曲子。有一个学生，他的父亲准许他在课堂里歌唱，非常喜欢在放学时歌唱。在学校某些区域内，一些政策禁止歌唱。在回家路上，有一名学生由于和她打架后说了一些令人伤心的话，就停止买给她的花。下午日出前，一群朋友决定去海边游泳。该政策准许在日出前游泳，但不准许之后。他们游泳时，想起去年和她们妈妈一同游泳有多么愉快。但是这次，她的一个朋友忘记了把她的游泳衣带来，所以她就必须停止游泳回家。
+Later in the day, my sister had a fight with her friend after they had an argument over something silly. My parents were worried about their relationship, but they made up before sunset.
+
+As the sun began to set, I decided to go home on my way, and my dad reminded me that I needed to call my mom tomorrow for dinner plans. I remember calling you last night, and it was great catching up with each other. Anyway, I should probably stop buying flowers for her after they had a fight.
+
+### 中文翻译
+**在海边度过的一天**
+
+昨天是个美好的日子，非常适合在夕阳前去海边游泳。父亲允许我和朋友们在海边玩耍，所以我们一大早就去了海边。我们度过了一整天的时间嬉戏、打闹。
+
+到了中午，我们都饿得不行了，就让父亲带我们去买鱼吃 lunch。回来的路上，他告诉我们，三年前他为了健康而戒烟了，现在已经过去三年。他很骄傲，我们也都是这样。母亲甚至开始送花给她的朋友做礼物。
+
+下午，我妹妹和她朋友发生了一次争执。这是因为她们之间的某件小事引起了口角。父母担心他们之间的关系，尽管如此，他们还是在夕阳之前和好如初。
+
+当太阳渐渐西下时，我决定回家。父亲提醒我明天要给妈妈打电话，商量一下晚餐的事儿。我记得昨晚我给你打了个电话，我们聊了一整晚，也很开心。其实我不应该在他们之间的争执之后还送花给她们了。
+      
+    

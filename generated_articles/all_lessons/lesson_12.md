@@ -1,35 +1,47 @@
-Here's the vocabulary list, followed by the reading comprehension article, and finally the Chinese translation.
 
 ### Vocabulary List
+Here is the list of unique words with their Simplified Chinese translations and pronunciations using American pronunciation phonetics:
 
 | 单词 | 发音 | 解释 |
 |------|------|------|
-| Dictionary | /dɪkˈsənəri/ |词典 |
-| Use | /juːz/ | 使用 |
-| Need | /niːd/ | 需要 |
-| Time | /taɪm/ | 时间 |
-| Lock | /lɒk/ | 锁住 |
-| Forget | /fərˈget/ | 忘记 |
-| Remember | /rɪˈmembər/ | 记得 |
-| Do | /duː/ | 做 |
-| Teach | /tɛtʃ/ | 教学 |
-| Show | /ʃoʊ/ | 展示 |
-| Let | /lɛt/ | 允许 |
+| Directions | /dɪrˈekʃənz/ | 方向,指南 |
+| Locals | /ˈloʊkəls/ | 局民,当地人 |
+| Google | /ˈguːɡəl/ | 谷歌 |
+| Maps | /mæps/ | 地图 |
+| Housework | /haʊsˈwɜːrk/ | 家务活 |
+| Dictionary | /dɪkˈsənəri/ | 字典 |
+| Mindful | /ˈmaɪndfəl/ | 有意识,注意力 |
+| Truth | /trʌθ/ | 真相 |
+| Yourself | /jɔɪself/ | 自己 |
+| Tokyo | /toʊˈkoʊ/ | 东京 |
+| New York | /nuː ˈjɔrk/ | 纽约 |
+| Night | /naɪt/ | 夜晚 |
+| Dangerous | /dænˈdʒərəs/ | 危险 |
+| Father | /ˈfæðər/ | 父亲 |
+| Panic | /ˈpænɪk/ | 紧张,惊慌 |
+| Others | /ˈoʊðərz/ | 别人 |
+
+Note: The pronunciations are in American English pronunciation phonetics.
 
 ### English Article
+**Lost in a Big City? Don't Forget to Ask for Directions!**
 
-As I got ready to leave the house, my mother reminded me to lock the door and not forget to do the housework when I'm out. I promised her that I would use my time wisely and complete all the tasks before nightfall. She also asked me to show her how to use the dictionary she bought for our trip next week.
+Are you visiting a new city and need to get there soon? You might want to know how to get there as soon as possible. Just ask the locals or take out your phone to use Google Maps. If you're not sure, don't worry; it's always good to ask for help. But remember to lock the door when you leave the house.
 
-I wanted to teach her something important, but she politely declined, saying that she didn't want to learn anything new today. Feeling a bit frustrated, I decided to let my curiosity get the better of me and ask my father to join us on this adventure. He agreed, and we set off towards our destination, eager to explore and learn.
+When you arrive at your destination, try to do the housework and make yourself at home. You might want to teach someone how to use the dictionary or show them something important. Just be mindful of the time and don't forget to let them know the truth about yourself.
 
-When we arrived, I couldn't wait to use the dictionary to translate some words written in an unfamiliar language. My father smiled and said that he was proud of me for remembering to bring it along. As we sat down to rest and discuss our plan, my mother walked in with a worried look on her face. "Don't forget to lock the door when you leave," she called out, reminding us one last time.
+In big cities like Tokyo or New York, it's always a good idea to stay safe and avoid going out at night because it can be very dangerous. If you need to go out, make sure to take someone with you. And remember, your father might want to call you when you get there.
+
+So, when you're lost in a big city, don't panic! Just ask for directions or use a map to find your way. And always keep in mind the time and safety of yourself and others.
 
 ### 中文翻译
+**在大城市迷路? 不要忘记向导游问路!**
 
-为了离开家，我母亲提醒我锁上门并在外面不要忘记做家务。 我答应她会利用时间合理地完成所有任务之前下班。 她也请我展示一下如何使用最近买的词典。
+你可能正在访问一个新城镇，急着前往某个地方? 想要知道怎么去那儿吧! 可以向当地人问路或者用谷歌地图找出路线。 如果不确定, 别担心; 总是可以问帮助的。 但是, 当你离开家时, 不要忘记锁门。
 
-我想教她一些重要的事，但她礼貌地拒绝了，说今天不想学新的东西。感到有点烦躁，我决定让我的好奇心高兴，问父亲是否能一起出发。他同意了，我们去我们的目的地，迫切地想要探索和学习。
+一到目的地后，尝试做些家务和让自己像家里一样舒适。你可能想教一些人如何使用字典或展示他们应该知道的事物。但是，请记住时间问题，不要忘记告诉他们关于你的真相。
 
-当我们到达时，我无法等待使用词典来翻译一些用一种陌生语言写的单词。 我父亲微笑着说他很自豪我记住带上它。 当我们坐下来休息讨论计划时，我的母亲走进来了，她脸上的表情有些担忧。“不要忘记锁门”她叫出最后一次。
+在像东京或者纽约这样的大城市, 总是要小心安全并避免晚上出门，因为它可能很危险。如果你需要出去，确保带上有人陪伴。你也可以回忆一下，你的父亲可能想要打电话给你。
 
-I hope you enjoy practicing and improving your English with this reading comprehension article!
+所以，当你迷路在大城市时，不要害怕! 只要向导游问路或者使用地图找到路。请始终记住时间和安全问题,以及对自己和他人的影响。
+    

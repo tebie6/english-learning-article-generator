@@ -1,24 +1,44 @@
-I'd be happy to help you practice your English reading comprehension skills.
 
-**Vocabulary List**
-
-Since the list of phrases and sentences you provided is quite extensive, I'll focus on adding some new vocabulary that might be relevant to the article. Here's a reduced list:
+### Vocabulary List
+Here is the list of unique words from the article with their Simplified Chinese translations and pronunciations using American pronunciation phonetics:
 
 | 单词 | 发音 | 解释 |
 |------|------|------|
-| travel | /trəˈvɛl/ | 旅行 |
-| world | /wərld/ | 世界 |
-| pay | /peɪ/ | 付钱 |
-| important | /ɪmˈpɔrtənt/ | 重要 |
+| accommodation | /əˈkɒmpənmɛnt/ | 宿舍 |
+| adventure | /ædˈvɛn.tʃər/ | 旅行 |
+| apartment | /ˌæp.ərˈmɛnt/ | 公寓 |
+| bill | /bɪl/ | 账单 |
+| trip | /trɪp/ | 旅行 |
+| travel | /ˈtræv.əl/ | 旅游 |
+| important | /ɪmˈpɔr.tnt/ | 重要的 |
+| plan | /plæn/ | 计划 |
+| prepare | /priˈɛr/ | 准备 |
+| pay | /peɪ/ | 支付 |
+| TV | /ti:vē/ | 电视 |
+| tonight | /təʊ.naɪt/ | 今晚 |
+| while | /waɪl/ | 当然 |
+| want | /wɒnt/ | 想要 |
+| year | /jɪr/ | 年 |
 
-**English Article**
+Note: The pronunciations are in American English phonetics, which may be different from the phonetic transcriptions used in other regions.
 
-As I plan to travel the world next year, I've been thinking about who I'd like to join me on this adventure. My friend Xingrong has always been interested in exploring new places, and I think she would love to stay here with me while we travel. However, she plans to leave the city next week, so it's not possible for her to accompany us on our trip.
+### English Article
+**Planning a Trip Around the World**
 
-Instead, I've decided to pay the bill for my family to join me on this journey. It's very important that they feel included in this experience, and I'm excited to share it with them. We plan to stay here as early as possible and make the most of our time together. Who knows? Maybe one day we'll even travel to every country in the world!
+As I plan to travel the world, I want to stay here with you for a while. However, I need to pay the bill for my accommodation before I leave. I plan to pay the bill for them because it is very important and I need to do it. They would like to stay here with me next year.
 
-**Chinese Translations**
+Recently, I asked a friend who plans to travel the world if he wants to join me on this trip. He said that he would like to travel the world with her next year. However, she doesn't plan to travel the world with him because she needs to pay the bill for her new apartment.
 
-当我打算下年去世界旅游的时候，我就开始思考谁会陪同我一起进行这次冒险。我的朋友邢荣一直对探索新地方感兴趣，我想她一定会喜欢在此地与我们共同度过旅程。但是，她计划于下周离开城市，所以她无法与我们一起出行。
+I plan to stay here and watch TV tonight while I think about what I need to do before my trip. It is very important to me that I am well-prepared for this adventure. My friend who wants to travel the world with her next year is excited to see new places and try different foods.
 
-相反，我决定付钱，让家人加入我在这次旅行中。它非常重要，确保他们感觉被包含在这个体验之中，而且我兴奋于与他们共享。这次我们的时间短暂，我们打算尽早出发并充分利用每一分钟。不知道呢？也许有一天我们甚至会前往世界上的每一个国家！
+### 中文翻译
+**环球旅行计划**
+
+我打算去环球旅行，暂时留在这里和你们一起呆一会儿。然而，我必须先付我的住宿费再离开，因为这很重要，我必须这么做。他们下年还想和我一起待在这里。
+
+最近，我问了一个朋友，他也打算去环球旅行，是否要与我一起出行。他说他下年想与她一起出行，但是她不打算与他一起出行，因为她需要付她的新公寓租金。
+
+我打算今晚留在这里看电视，思考我在离开前还需要做些什么。对我来说，这次旅行很重要，我必须准备好。我的朋友希望下年能和她一起环球旅行，他非常渴望去看看新的地方尝试不同种类的食物。
+
+注：原文中有些句子可能因为原意未明确而导致难以理解，仅做了基本翻译处理。
+    

@@ -1,30 +1,44 @@
-**Vocabulary List**
+
+### Vocabulary List
+Here is the list of unique words from the article:
 
 | 单词 | 发音 | 解释 |
 |------|------|------|
-| surprise | /ˈsərpraɪz/ | 震惊 |
-| big | /bɪg/ | 大 |
-| advice | /ədˈvaɪs/ | 建议 |
-| can | /kæn/ | 能 |
-| give | /ɡɪv/ | 给予 |
-| hope | /həʊp/ | 希望 |
-| hand | /hænd/ | 手 |
-| knife | /naɪf/ | 刀子 |
-| read | /rɛd/ | 阅读 |
-| story | /ˈstɒri/ | 故事 |
+| Special | /ˈspiʃəl/ | 特别的 |
+| Birthday | /ˈbɜrðdeɪ/ | 生日 |
+| Gift | /ɡɪft/ | 礼物 |
+| Dress | /drɛs/ | 衣服 |
+| Daughter | /ˈdɔʊtər/ | 女儿 |
+| Advice | /ədˈvaɪz/ | 助言 |
+| Bedtime | /ˈbɛdtaim/ | 睡前 |
+| Story | /ˈstɒri/ | 故事 |
+| Present | /prɪˈzent/ | 礼物 |
+| Coffee | /kəˈfi/ | 咖啡 |
+| Morning | /ˈmɔrnɪŋ/ | 上午 |
+| Amazing | /əˈmeɪzɪŋ/ | 难以置信的 |
+| People | /ˈpipli/ | 人 |
 
-**English Article**
+Note: I used the Simplified Chinese translations and American pronunciation phonetics as requested.
 
-It's tomorrow, and it's Xiaoyueliang's birthday. I'm so excited to make her happy. Last week, I bought her a big surprise - a new dress! She was thrilled when she opened the gift. I also made her a cup of coffee in the morning every day last week, hoping that she would feel happy and energized.
+### English Article
+**A Special Gift for Xiaoyueliang's Birthday**
 
-I plan to buy her another birthday gift next month. This time, it's going to be something special, a handmade craft that shows how much I care about her. I'm sure she will love it, and it will make her feel even more loved on her special day.
+Tomorrow is a special day - it's Xiaoyueliang's birthday! I want to make her happy, so I bought her a new dress last week. My daughter loves this dress, and she can't wait to wear it tomorrow. I hope you can give me some advice on what to do for her birthday gift.
 
-When you come home tomorrow, don't forget to call me! I'll be waiting for you, ready to celebrate Xiaoyueliang's birthday with you both. We can read a bedtime story together, just like we did last week, and make this day truly unforgettable.
+Her favorite thing is to hear a bedtime story before sleeping. So, I will buy my daughter a birthday gift next month - something that she can enjoy at bedtime. Maybe you can help me choose the perfect present? To make her happy, I want to buy her something special, like a new book or a stuffed animal.
 
-**Chinese Translations**
+Every morning, I make myself a cup of coffee. If you can make me a cup of coffee, it would be really nice! But most importantly, tomorrow is Xiaoyueliang's birthday, and I hope she has an amazing day with the people she loves.
 
-明天是Xiaoyueliang的生日，我非常期待让她高兴。上周，我给了她一个大惊喜——一件新裙子！当她打开礼物时，她的脸上都是喜色。我还每天早晨给她煮了杯咖啡，希望她会感到高兴和精力充沛。
+How about that? A simple article to help you practice your English skills.
 
-我计划在下个月再给她买生日礼物。这次要是件特别的东西——一件手工艺品，展示出我对她的关爱。肯定她会喜欢，它还会让她在这个特殊的日子里更感到被爱。
+### 中文翻译
+**特别的礼物给小月亮生日**
 
-当你回家时，不要忘记给我打电话！明天，我等着你们庆祝Xiaoyueliang生日吧。当你回家后，我们一起读故事，就像我们上周一样，创造出一个令人难忘的夜晚。
+明天是一个特别的日子——这是小月亮的生日!我想让她开心，所以上周我买了一件新裙子。我的女儿喜欢这件裙子，她已经等不及想要穿着它了。希望你们能给我一些建议，关于如何庆祝她的生日。
+
+她最爱的事情是睡前听故事。所以，下个月，我将购买一个礼物给她——让她在睡觉时可以享受的东西。也许你们能够帮我选择合适的礼物?为了让她开心，我想买一些特别的礼物，比如新书或毛绒玩具。
+
+每天早晨，我都会煮一杯咖啡。如果你能给我煮一杯咖啡，那会非常好!但是最重要的是，明天是小月亮的生日，我希望她和她爱的人们一起度过一个美好的日子。
+
+你们觉得呢?一个简单的文章，让你们练习英语技能。
+    

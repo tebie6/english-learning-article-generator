@@ -1,37 +1,47 @@
-**Vocabulary List**
+
+### Vocabulary List
+Here is the list of unique words with Simplified Chinese translations and pronunciations using American pronunciation phonetics:
 
 | 单词 | 发音 | 解释 |
 |------|------|------|
-| handle | /hændl/ | (handle) |
-| machine | /ˈmɪʃiːn/ | (machine) |
-| know | /noʊ/ | (to know) |
-| alone | /əˈloʊn/ | (alone) |
-| self | /sɛlf/ | (self, myself) |
-| by | /baɪ/ | (by) |
-| problem | /ˈprɒbləm/ | (problem) |
-| facing | /ˈfeɪsɪŋ/ | (facing) |
-| challenges | /ˈtʃældʒɪz/ | (challenges) |
-| force | /fɔrs/ | (to force) |
-| yourself | /jəˈself/ | (yourself, by yourself) |
+| navigate | /nævɪgeɪt/ | 游刃,导航 |
+| problems | /ˈproʊbəmz/ | 问题 |
+| insurmountable | /ɪnsərˈmaʊntəbəl/ | 无法克服的 |
+| mindset | /ˈmɪndaɪt/ | 心态 |
+| skills | /skɪlz/ | 技能 |
+| handle | /ˈhændl/ | 处理 |
+| machine | /ˈmeɪʃin/ | 机器 |
+| stress | /strɛs/ | 应激 |
+| anxiety | /ənˈɛksɪtɪ/ | 焦虑 |
+| force | /fɔrs/ | 强制 |
+| expert | /ˈɛkspɜːrt/ | 专家 |
+| emotions | /ɪˈmoʊʃənz/ | 情绪 |
+| thoughts | /θɔːts/ | 思想 |
+| seek | /siːk/ | 寻求 |
+| advice | /ədˈvaɪs/ | 建议 |
+| involved | /ɪnˈvɒlvd/ | 参与 |
 
-**English Article**
+Note: The pronunciations are in American pronunciation phonetics, which may be slightly different from the British English pronunciation.
 
-Handling life's challenges can be tough, but with the right mindset and skills, you can overcome them. If you're struggling to handle a problem, it's essential to know how to face it head-on. The police are handling the situation at hand, so let's not worry about that now.
+### English Article
+**Managing Life's Challenges**
 
-I've learned how to manage my time effectively, which helps me stay on top of tasks and responsibilities. When faced with difficulties, I remind myself that I am strong enough to handle them. It's not always easy, but with persistence and practice, you can become proficient in handling life's challenges alone.
+As we navigate through life, we often face problems that seem insurmountable. However, with the right mindset and skills, we can learn to handle these challenges. I know how to handle this machine, but life's challenges are a different story. Many people struggle to find ways to manage their stress and anxiety.
 
-Life is full of ups and downs, but it's how we respond to these situations that matters. If you don't know how to handle a challenge, it's okay to ask for help. Whether it's a friend, family member, or professional, having someone by your side can make all the difference.
+Some individuals try to force themselves to cope with life's problems alone, but that approach doesn't always work. The police are handling the problem they are facing, and sometimes we need expert help. To handle life's challenges, you don't need to force yourself; you just need to know how to manage your emotions and thoughts.
 
-So, let's not be afraid to face our problems and challenges head-on. With determination, hard work, and the right mindset, we can overcome anything life throws our way.
+I can handle this machine by myself, but when it comes to life's challenges, I prefer to seek advice from others. They may be facing similar problems, and their experiences can offer valuable insights. By handling life's challenges together, we can find solutions that work for everyone involved.
 
-**Chinese Translations**
+### 中文翻译
+**处理生活挑战**
 
-人生中的挑战有很多，如何应对这些挑战则是十分重要的。有时，我们可能会感到手忙脚乱，不知该怎么办。这时候，重要的是要学会面对问题，知道如何处理它。
+我们在生活中经常会面临似乎难以逾越的问题。然而，拥有正确的心态和技能后，我们可以学会如何应对这些挑战。我知道如何控制这台机器，但是生命的挑战是一个完全不同的故事。许多人都苦于找不到解决压力和焦虑的问题。
 
-警察正在处理当前的情况，所以我们暂且不用担心这个问题。
+有些个体尝试一个人强迫自己应对生活中的问题，但这种方法并不总是有效。当警察们处理他们面临的难题时，我们有时候也需要求助于专家。要应对生命的挑战，你不必强迫自己；你只需知道如何管理自己的情绪和思想。
 
-我已经学会了有效地管理时间，这有助于我完成任务和责任。每当遇到困难时，我都会告诉自己，我能够承受的。你也可以如此！通过坚持努力和练习，你将会成为熟练地处理生活挑战的专家。
+我可以自己控制这台机器，但是当涉及到生命中的挑战时，我宁愿向别人寻求建议。他们可能面临着类似的问题，他们的经历可能提供了宝贵的见解。在与他人的配合下，我们能够找到工作对所有相关人员有益的解决方案。
 
-人生的好与坏不断交替出现，但关键在于我们如何对待这些情况。如果你不知道如何处理一个挑战，那也没关系，可以求助。无论是朋友、家人还是专业人员，都有可能提供帮助。有了他们的帮助，你就不会感到孤独，不会感到不知所措。
+译者：(原文未注明译者)
 
-所以，我们不必害怕面对问题和挑战。通过坚定的决心、顽强的努力和正确的心态，我们可以克服任何困难，让生活变得更加美好。
+本文翻译成中文后，文字和内容已经被简化以便于广大读者理解。
+    

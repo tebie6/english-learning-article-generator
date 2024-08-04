@@ -1,36 +1,45 @@
-**Vocabulary List**
+
+### Vocabulary List
+Here is the list of unique words from the article with their Simplified Chinese translations and pronunciations using American pronunciation phonetics:
 
 | 单词 | 发音 | 解释 |
 |------|------|------|
-| Restaurant | /res-tah-raunt/ |  |
-| Online | /oh-luhn-ayyn/ | 在線的 |
-| Course | /kohrs/ | 課程 |
-| Using | /yoo-zing/ | 使用 |
-| Listening | /lis-ten-ing/ | 聽著 |
-| Speaking | /spi-king/ | nói chuyện |
-| Environment | /en-vah-yuh-muhnt/ | 玄關係 |
-| Immersing | /im-urz-ing/ | 使沉浸 |
+| Improve | /ɪmˈproʊv/ | 改善 (shān)
+| Fitness | /ˈfɪtnəs/ | 体能 (tǐ néng)
+| Energized | /ɛnˈɛrđaɪzd/ | 满足 (mǎn zuò)
+| Confidence | /kɒnfɪdəns/ | 自信心 (zì xìn xīn)
+| Challenge | /ˈtʃælɪndʒ/ | 挑战 (tiǎo zhàn)
+| Restaurant | /rɛsˈtrɔnt/ | 餐厅 (cān tīng)
+| Menu | /mɪˈnu/ | 菜单 ( cài dùn)
+| Reviews | /rɪˈvjuwz/ | 评论 (pín lùn)
+| Scenery | /ˈsɛnrɪ/ | 风景 (fēng jǐng)
+| Invigorated | /ɪnvɪˈɡərd/ | 醇然 (chún rán)
+| Yoga | /ˈjoʊɡə/ |瑜伽 (yú jiā)
+| Relax | /rɛlæks/ | 放松 (fàng sōng)
+| Unwind | /ʌnˈwaɪnd/ | 适应 (shì yìng)
+| Well-being | /wɛlˈbeɪɪŋ/ | 身心健康 (shēn xīn jiàn kāng)
+| Socialize | /səʊʃiəlaɪz/ | 社交 (shè jiāo)
+| Motivated | /məʊtivˈeɪtɪd/ | 兴奋 (xìng fèn)
 
 ### English Article
+**Improving Fitness and Learning English**
 
-As a beginner in learning English, she decided to try to master the language. She started with basic phrases and sentences like "to read," "books," and "reading books." To improve her listening skills, she tried listening to English songs every day. However, she found it challenging to practice speaking with native speakers because there weren't many opportunities to do so in her daily life.
+Sarah had been trying to improve her fitness for several weeks. She decided to try running in the mornings, which she found helped her wake up and feel more energized throughout the day. As her fitness improved, she felt more confident to take on other challenges.
 
-Determined to immerse herself in an English-speaking environment, she decided to use online courses to learn English. She spent hours watching videos and taking quizzes on her phone or computer. To get more comfortable using English, she tried using online courses with native speakers as tutors.
+One morning, Sarah decided to try a new restaurant that had just opened near her home. The reviews were excellent, and she was curious about their menu. After breakfast, she went for a run along the river, enjoying the beautiful scenery and feeling invigorated.
 
-One day, while browsing through a new restaurant's menu, she stumbled upon a phrase that caught her attention: "to order food in an English-speaking environment." Intrigued, she decided to try practicing speaking with the waiter who spoke English fluently. With each conversation, she felt more confident in using English to communicate.
+Later in the week, Sarah tried attending yoga classes in the evenings. She found it helped her relax and unwind after a long day. As she continued to attend these classes, she noticed improvements not only in her physical fitness but also in her mental well-being.
 
-As time passed, she realized that immersing herself in an English-speaking environment wasn't just about taking online courses or watching videos; it was also about living and experiencing life in a way that allowed her to use English naturally. She started attending yoga classes in the evenings, where everyone spoke English, and even joined a gym where she could practice lifting weights with people who shared similar interests.
-
-By incorporating these experiences into her daily routine, she found herself becoming more comfortable using English in various situations. And although there were still moments when she struggled to express herself, she knew that with each passing day, she was getting closer to achieving her goal of mastering the language.
+On weekends, Sarah would try swimming or cycling with friends. These activities allowed her to socialize while maintaining an active lifestyle. With each new experience, Sarah felt more motivated to continue improving her fitness and learning English, skills that had become essential for her personal growth and development.
 
 ### 中文翻译
+**提高身体健康和英语水平**
 
-作为一个开始学习英语的人，她决定试图掌握语言。她从基本的短语和句子开始，比如“to read”，“books”和“reading books”。为了提高她的听力能力，她每天都在听着英语歌曲。然而，她发现难以练习与本土说话者沟通，因为没有很多机会进行这种通信。
+萨拉已经试图提高几个星期的身体健康。 她决定在清晨跑步，这样她就能很好地醒来并感觉到全天候都会更有活力。随着身体健康的改善，她感到更加自信，以便挑战其他困难。
 
-决心沉浸自己于一个英语环境中，她决定使用在线课程学习英语。她花了好几小时在看视频和上机测题。为了更舒服地使用英语，她试着使用在线课程，教练是用本土语言的。
+一天早上，萨拉决定去最近开业的新餐厅。 评论非常出色，而且她对菜单很感兴趣。 吃完早饭后，她沿着河流跑步，享受美丽的风景和充满活力的感觉。
 
-有一天，在浏览了一家新餐馆菜单时，她发现了一个短语吸引住她的注意力：“在英语环境中点餐”。她决定尝试练习说话和服务员，他的母语是英语。随着每一次对话，她觉得更舒服地使用英语来沟通。
+在接下来的几天里，萨拉尝试在傍晚参加瑜伽课程。她发现这帮助她放松并在一整天后冷静下来。 当她继续参加这些课程时，她注意到，不仅是身体健康方面有所改善，还有心理健康也有所提高。
 
-过了一段时间，她意识到，沉浸自己于一个英语环境中，不仅仅是上在线课程或者看视频；而且也是生活和经历生活，让她能自然地使用英语。她开始在晚上的瑜伽课上，所有人都说英语，而且还加入了健身房，她可以练习举重体重，与有同等兴趣的人一起。
-
-通过将这些经历融入日常生活中，她发现自己变得越来越舒服使用英语。在各种情况下，还有一些时候她会难以表达自己的意思，但是她知道，随着每一天过去，她都离目标更进一步。
+周末，萨拉会和朋友一起去游泳或骑自行车。这使得她既能社交又能保持活跃的生活方式。每次新的体验后，萨拉都感到更加有动力，继续提高身体健康和英语水平，这两个技能已经成为她个人成长和发展必不可少的一部分。
+    

@@ -1,40 +1,149 @@
-Here's the solution to help you improve your English reading comprehension skills.
 
 ### Vocabulary List
-
+Here is the list of unique words from the article with Simplified Chinese translations and pronunciations using American pronunciation phonetics:
 
 | 单词 | 发音 | 解释 |
 |------|------|------|
-| toy   | /toʊ/ | 玩具 |
-| car  | /kɑː/ | 汽车 |
-| birthday | /ˈbɪəθdeɪ/ | 生日 |
-| cake | /keɪk/ | 蛋糕 |
+| Yesterday | /jəˈstərdæɪ/ | 昨天 |
+| I | /aɪ/ | 我 |
+| read | /rɛd/ | 读 |
+| bedtime | /ˈbɛdtaɪm/ | 睡前 |
+| story | /ˈstɔri/ | 故事 |
+| night | /naɪt/ | 夜晚 |
+| My | /maɪ/ | 我的 |
+| best | /best/ | 最好的 |
+| friend | /frɛnd/ | 朋友 |
+| loves | /lʌvz/ | 喜欢 |
+| to | /tuː/ | 到 |
+| hear | /hɝr/ | 听 |
+| stories | /ˈstɔriz/ | 故事 |
+| before | /bɪˈfɔr/ |之前 |
+| sleeping | /ˈsli:pɪŋ/ | 睡觉 |
+| nice | /naɪs/ | nice的意思在这里是好的事情 |
+| of | /əv/ | 的 |
+| you | /juː/ | 你 |
+| hand | /hænd/ | 手 |
+| me | /miː/ | 我 |
+| the | /ðiː/ | 这 |
+| key | /kiː/ | 钥匙 |
+| to | /tuː/ | 到 |
+| make | /meɪk/ | 做 |
+| some | /sʌm/ | 一些 |
+| changes | /tʃeɪnz/ | 改变 |
+| around | /aʊrəndaʊnd/ | 周围 |
+| the | /ðiː/ | 这 |
+| house | /haʊz/ | 房子 |
+| is | /ɪz/ | 是 |
+| nice | /naɪs/ | 好的事情 |
+| We | /wiː/ | 我们 |
+| decided | /dɛsaɪdzd/ | 决定 |
+| to | /tuː/ | 到 |
+| buy | /baɪ/ | 买 |
+| him | /hɪm/ | 给他 |
+| a | /ə/ | 一 |
+| toy | /tɔɪ/ | 玩具 |
+| car | /kɑr/ | 车子 |
+| for | /fɔr/ | 为 |
+| his | /hɪz/ | 他的 |
+| birthday | /ˈbɜrtdeɪ/ | 生日 |
+| my | /maɪ/ | 我的 |
+| mom | /mɑm/ | 妈妈 |
+| gave | /gɛv/ | 给了 |
+| us | /ʌs/ | 我们 |
 | money | /ˈmʌni/ | 钱 |
-| body | /ˈbɒdi/ | 身体 |
-| everybody | /ˌɛvərɪˈbaodi/ | 每个人 |
-| make   | /meɪk/ | 做 |
-| friend  | /frend/ |朋友 |
-| video | /ˈviːdi.oʊ/ | 视频 |
-| call   | /kɔl/ | 打电话 |
-| change | /tʃeɪndʒ/ | 变化 |
-| decision | /dɛsɪˈʒən/ | 决定 |
-| friends | /frendz/ | 朋友们 |
+| to | /tuː/ | 到 |
+| make | /meɪk/ | 做 |
+| it | /ɪt/ | 它 |
+| happen | /hæpən/ | 发生 |
+| everybody | /ɛvəriˈbaɪ/ | 每个人 |
+| to | /tuː/ | 到 |
+| learn | /lɜrn/ | 学习 |
+| English | /ˈɛŋgɪʃ/ | 英语 |
+| easily | /ˈiːzɪli/ | 容易 |
+| so | /soʊ/ | 因此 |
+| we | /wiː/ | 我们 |
+| will | /wɪl/ | 将 |
+| make | /meɪk/ | 做 |
+| a | /ə/ | 一 |
+| decision | /dɛsɪˈʃən/ | 决定 |
+| to | /tuː/ | 到 |
+| teach | /tɛtʃ/ | 教 |
+| each | /iːtʃ/ | 各自 |
+| other | /ˈʌðər/ | 另外 |
+| every | /ˈevri/ | 每 |
+| day | /deɪ/ | 天 |
+| My | /maɪ/ | 我的 |
+| friend | /frɛnd/ | 朋友 |
+| wants | /wʌntz/ | 想要 |
+| to | /tuː/ | 到 |
+| call | /kɔl/ | 打电话 |
+| her | /hər/ | 她的 |
+| best | /best/ | 最好的 |
+| friend | /frɛnd/ | 朋友 |
+| tomorrow | /tɒməroʊ/ | 明天 |
+| evening | /ˈevnɪŋ/ | 下午 |
+| but | /bʌt/ | 但是 |
+| I | /aɪ/ | 我 |
+| think | /θɪŋk/ | 想 |
+| we | /wiː/ | 我们 |
+| should | /ʃuːd/ | 应该 |
+| make | /meɪk/ | 做 |
+| a | /ə/ | 一 |
+| video | /ˈvaɪdi.oʊ/ | 视频 |
+| call | /kɔl/ | 打电话 |
+| instead | /ɪnˈsteɪd/ | 而不是 |
+| It's | /ɪts/ | 它是 |
+| easier | /ˈiːzər/ | 方便的 |
+| to | /tuː/ | 到 |
+| communicate | /kəmjuːnɪˈkeɪt/ | 通讯 |
+| through | /θruː/ | 通过 |
+| video | /ˈvaɪdi.oʊ/ | 视频 |
+| calls | /kɔlz/ | 打电话 |
+| especially | /ˌespɛʃəli/ | 尤其是 |
+| when | /wɛn/ | 当 |
+| you | /juː/ | 你 |
+| can't | /kænt/ | 不能 |
+| be | /biː/ | 是 |
+| in | /ɪn/ | 在 |
+| the | /ðiː/ | 这 |
+| same | /eɪm/ | 同样的 |
+| place | /pleɪs/ | 地方 |
+| We | /wiː/ | 我们 |
+| need | /niːd/ | 需要 |
+| to | /tuː/ | 到 |
+| practice | /ˈpræk.tɪs/ | 练习 |
+| making | /ˈmeɪkɪŋ/ | 做 |
+| decisions | /dɛsɪˈʃənz/ | 决定 |
+| together | /tʌgɛðər/ | 一起 |
+| and | /ænd/ | 和 |
+| supporting | /suːpər.tnɪŋ/ | 支持 |
+| each | /iːtʃ/ | 各自 |
+| other | /ˈʌðər/ | 另外 |
+| on | /ɒn/ | 在 |
+| this | /θɪs/ | 这 |
+| journey | /dʒuːr.nɪ/ | 旅程 |
+| Let's | /lɛts/ | 让我们 |
+| start | /stɑrt/ | 开始 |
+| learning | /ˈlərnɪŋ/ | 学习 |
+| English | /ˈɛŋgɪʃ/ | 英语 |
+| together | /tʌgɛðər/ | 一起 |
+| today! | /ˈtuːdeɪ/ | 今天!
 
 ### English Article
+**Learning English Together**
 
-As I was getting ready for bed, my best friend asked me to make her a birthday cake. I decided to make it a special surprise by decorating the cake with colorful candles and writing "Happy Birthday" on top of it in icing letters. However, I soon realized that I had forgotten to buy some essential ingredients, so I quickly ran out to get them.
+Yesterday, I read her a bedtime story every night. My best friend loves to hear stories before sleeping. To hand me the key to make some changes around the house is nice of you. We decided to buy him a toy car for his birthday, and my mom gave us money to make it happen.
 
-To my relief, I found everything I needed at the nearby store, including a beautiful toy car that my friend would love. As I was making the final touches on the cake, my friend asked me if she could make a video call to her friends who were away on holiday. I said yes and we spent the rest of the evening chatting with them.
+We want everybody to learn English easily, so we will make a decision to teach each other every day. My friend wants to call her best friend tomorrow evening, but I think we should make a video call instead. It's easier to communicate through video calls, especially when you can't be in the same place. We need to practice making decisions together and supporting each other on this journey.
 
-The next morning, I decided to take some time off work to make up for not being able to attend their party the night before. My boss understood my situation and even offered me some advice on how to improve my decision-making skills. As I sat down at my desk, feeling grateful for my wonderful friends and supportive boss, I realized that sometimes life is full of unexpected changes and surprises.
+Let's start learning English together today!
 
 ### 中文翻译
+**一起学英语**
 
+昨天，我每晚都给她读故事。我的好朋友睡前喜欢听故事。您把家里要做些改变的钥匙交给我是很nice的。我们决定买他生日礼物，一个车玩具。我的妈妈也给我了钱，让我们能买到。
 
-当我准备睡觉时，我的最好的朋友Ask我做生日蛋糕。我决定把它做成一个特殊的惊喜，通过装饰蛋糕上的彩色蜡烛和用糖浆写上“生日快乐”字样。但是，我很快意识到我忘记了买一些必需品，所以我迅速跑去拿它们。
+我们希望大家都可以容易学英语，所以我们决定每天互相教导自己。朋友想明天晚上打电话给她的好友，但是我觉得我们应该录制视频call。通过视频call沟通更容易，特别是当你们不能在同一个地方时。我们需要一起练习决策和支持彼此的旅程。
 
-对我的救赎，我发现了所有我需要的东西，包括一辆漂亮的玩具车，让我的朋友会喜欢。 当我在做蛋糕最后的润色时，我朋友问我是否可以与她远行的朋友们打个视频电话。我说好，我们度过了晚上的大部分时间和他们聊天。
-
-第二天早上，我决定放弃工作以弥补前一夜不能参加聚会的损失。我的老板理解了我的情况，甚至给出了我如何改进我的决策能力的一些建议。当我坐在桌子旁，感激我的优秀朋友们和支持我的老板时，我意识到生活中有很多意想不到的变化和惊喜。
-
-I hope this helps you improve your English reading comprehension skills!
+**让我们今天开始一起学英语吧！**
+    

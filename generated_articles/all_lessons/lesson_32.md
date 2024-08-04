@@ -1,28 +1,51 @@
-**Vocabulary List**
+
+### Vocabulary List
+Here is the list of unique words with Simplified Chinese translations and pronunciations using American pronunciation phonetics:
 
 | 单词 | 发音 | 解释 |
 |------|------|------|
-| promise | /ˈprɪmɪs/ | 使人信任的承诺 |
-| keep | /kɛp/ | 保持、守护 |
-| secret | /ˈsikt/ | 秘密 |
-| balance | /ˈbæləns/ | 平衡 |
-| work | /wɜrk/ | 工作 |
-| life | /laɪf/ | 生活 |
-| between | /biːtwən/ | 在……之间 |
-| difficult | /dɪˈfɪklt/ | 困难的 |
+| Balance | /ˈbæləns/ | 平衡 |
+| Life | /laɪf/ | 生命 |
+| Promise | /ˈprɒmɪs/ | 保证 |
+| Daily | /deɪli/ | 每日的 |
+| Communicate | /kəmyʊnɪkeɪt/ | 相互交流 |
+| Cultures | /ˈkʌltʃərz/ | 文化 |
+| Backgrounds | /bækgraʊnzd/ | 背景 |
+| Minute | /ˈmɪnɪt/ | 分钟 |
+| Work | /wɜrk/ | 工作 |
+| Quality | /ˈkwɒlɪti/ | 质量 |
+| Time | /taɪm/ | 时间 |
+| Private | /ˈpraɪvət/ | 私密的 |
+| Tough | /tɔf/ | 困难的 |
+| Prioritize | /ˌprʌrɪˈtɪsaɪz/ | 优先考虑 |
+| Well-being | /wɛlbiːnɪŋ/ | 幸福 |
+| Loved ones | /ˈlʊvd wənz/ | 爱人 |
+| Happiness | /hæpɪnɪs/ | 喜欢 |
+| Will | /wɪl/ | 愿意 |
 
-**English Article**
+Note: I've only extracted unique words from the article, which means that common function words like "the", "and", etc. are not included in this list.
 
-As I sat by the river, watching my friends fish, I made a promise to myself that I would learn English every day. "You need to keep quiet when you are fishing," my friend whispered to me. I nodded in agreement and continued to observe their technique.
+### English Article
+**Finding Balance in Life**
 
-Suddenly, one of them exclaimed, "I told you, it's all about keeping a good balance between work and life!" I smiled, remembering the promise I made earlier. My friend's words resonated with me, as I too was struggling to keep a balance between my responsibilities and personal life.
+As I sit here, reflecting on my life, I am reminded of a promise I made to myself when I was younger. I wanted to learn English every day, so I could communicate better with people from different cultures and backgrounds. To keep this promise, I had to make time for learning each day, even if it was just for a few minutes.
 
-To this day, I keep quiet about my struggles, but I'm grateful for the secret advice my friend shared. It reminded me that even in difficult times, we can find peace by keeping our priorities straight. Now, whenever I'm faced with a challenging situation, I recall those words of wisdom: "Keep a good balance between work and life."
+Keeping a good balance between work and life is not always easy, but I have learned that it's essential. When I'm fishing or spending quality time outdoors, I like to keep quiet and appreciate the beauty around me. My friends and family are my secret support system; they keep our conversations private, even when things get tough.
 
-**Chinese Translations**
+Recently, I realized that keeping a good balance between work and life is very difficult for many people. It's not just about working hard; it's also about taking care of oneself and loved ones. I wish more people could promise themselves to prioritize their well-being and make time for what truly matters in life.
 
-当我坐在河边，观察朋友钓鱼时，我向自己许下了一份承诺：每天都要学好英语。朋友轻声告诉我：“你钓鱼时需要保持沉默。”我点了点头表示同意，并继续观察他们的技巧。
+I hope you will learn from my experience and remember that keeping a good balance between work and life is key to happiness. Will you promise me that you will take care of yourself and your loved ones?
 
-突然，一个朋友大声地说：“我告诉过你，这是关于把工作和生活之间的平衡做好！”我微笑着回忆起我之前许下的承诺。我的朋友的话让我感到耳熟，因为我也曾经为在职责和个人生活之间取得平衡而努力。
+### 中文翻译
+### **生活的平衡**
 
-如今，我仍会保持沉默，但我感激我的朋友分享了这个秘密建议。它使我意识到即使是在困难的时候，我们也能通过坚持自己的优先事项来找到宁静。每当我面临着一个挑战性的情况时，我都会回忆起这些智慧的话： “把工作和生活之间的平衡做好。”
+当我坐在这里,思考着我的生命时，我想起了在年轻的时候对自己做出的承诺。我希望每天都能学习英语，以便能够更好地与不同文化和背景的人进行交流。为了实现这个目标，我必须每天留出时间学习，甚至只需几分钟。
+
+保持工作和生活之间的平衡并不是件容易的事情，但我已经学到了它很重要。当我在钓鱼或户外时，我喜欢保持沉默并欣赏周围美丽的事物。我的朋友们和家人是我的秘密支持系统；即使事情变得困难，他们也会为我们的对话保守秘密。
+
+最近我意识到很多人都难以找到工作和生活之间的平衡。这不仅仅是工作努力的问题，还要注重照顾自己和所爱的人。更希望更多人能够对自己许下一个承诺，即优先考虑自己的幸福感，并为生命中真正重要的事情留出时间。
+
+我希望你能从我的经验中学到点什么，记住保持工作和生活之间的平衡对于幸福至关重要。你能否向我保证保佑好自己以及所爱的人？
+
+(翻译者注：该文的主题是保持工作和生活之间的平衡对于个人幸福感很重要。作者通过分享自己的经验来鼓励读者优先考虑自我照顾，并为生命中真正重要的事情留出时间。)
+    

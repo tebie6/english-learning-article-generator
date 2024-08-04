@@ -1,36 +1,50 @@
-## Vocabulary List
+
+### Vocabulary List
+Here is the list of unique words extracted from the article:
+
 | 单词 | 发音 | 解释 |
 |------|------|------|
-| want | /wænt/ | 想要 |
-| teacher | /ˈtitʃər/ | 老师 |
-| rich | /rɪtʃ/ | 富有 |
-| notice | /nəʊˈtis/ | 注意到 |
-| that | /ðæt/ | 这个 |
-| something | /sʌmθɪŋ/ | quelquething |
-| wrong | /rɔŋ/ | 错误的 |
-| there | /ðeə/ | 那里 |
-| different | /dɪˈfərənt/ | 不同的 |
-| between | /bɪtwiːn/ | 在...之间 |
-| you and me | /juː ænd miː/ | 你们和我 |
-| big | /baɪg/ | 大 |
-| weapon | /ˈwɑpn/ | 武器 |
-| tool | /tuːl/ | 工具 |
-| right | /raɪt/ | 正确的 |
-| know | /nəʊ/ | 知道 |
-| we | /wiː/ | 我们 |
-| all | /ɔːl/ | 全部 |
-| have to | /hæv tu/ | 必须 |
-| tell | /tɛl/ | 告诉 |
-| old enough | /oʊld ɛnʌf/ | 足够老 |
+| Teacher | /ˈtiːtʃər/ | 教师 |
+| Values | /ˈvæljuːz/ | 道德 |
+| Morals | /ˈmɔːrlz/ | 道德 |
+| Young | /jʌŋ/ | 年轻的 |
+| Enough | /ɛnˈəʊf/ | 足够 |
+| Hurt | /hɜːrt/ | 伤害 |
+| Belong | /bɪˈlɒŋ/ | 属于 |
+| Notice | /ˈnoʊtis/ | 注意到 |
+| Understand | /ʌndərˈstænd/ | 理解 |
+| Case | /keɪs/ | 案例 |
+| Consequences | /kənˈsɛkwənsiːz/ | 后果 |
+| Apologize | /əpɒˈlədʒaɪz/ | 道歉 |
+| Fix | /fɪks/ | 修理 |
+| Responsibility | /rɪˌspɒnzəbɪlɪti/ | 责任 |
+| Respect | /rɪˈspekt/ | 尊严 |
+| Parents | /ˈpærəntz/ | 父母 |
+| Raise | /reɪz/ | 培养 |
+| Caring | /kærɪŋ/ | 关心 |
+| Responsible | /rɪˌspɒnzəbəl/ | 负责任的 |
 
-## English Article
-As a teacher, I want to be here and help our children learn. But first, we need to notice that there is something wrong with the way they are taught. When I was a student, I didn't know the difference between right and wrong, but now I want to teach them how to tell the difference. My students are old enough to understand, so let's start by teaching them about the importance of knowing what is right and wrong.
+Note: The pronunciations are in American English phonetics, and the Simplified Chinese translations are provided based on the context of the article.
 
-We can begin by using real-life examples, like the difference between a weapon and a tool. It's not just about being big or small, but about understanding the consequences of our actions. As their teacher, I want to be there for them, guiding them through this process. We all know that we have to be aware of the world around us, so let's make sure they learn how to notice and understand what is right and wrong.
+### English Article
+**Teaching Children to Tell Right from Wrong**
 
-## Chinese Translations
-作为一名老师，我想要在这里帮助我们的孩子学习。但是首先，我们需要注意到他们的教导中存在着一些问题。当我还是一个学生的时候，我不知道什么是正确和错误，但现在我想教他们如何区分。我的学生已经足够老了来理解，所以让我们从教会他们正确和错误的重要性开始。
+As a teacher, I want our children to grow up with good values and morals. We need to teach them the difference between right and wrong from a young age. When they are old enough, we can start explaining why certain actions are considered wrong, such as hurting someone's feelings or taking something that doesn't belong to us.
 
-我们可以通过使用现实生活中的例子，像武器和工具之间的差别。这不仅仅关于大小的问题，而是要理解我们的行为的后果。在孩子们面前，我想要作为他们的老师存在，并指导他们完成这个过程。我们都知道，我们必须对周围的世界保持警惕，所以让我们确保他们学会注意并理解什么是正确和错误。
+I notice that many times, children don't understand what is right and wrong. They might see their friends doing something bad and think it's okay because their friends did it. However, this is not the case. We need to teach them that just because everyone else is doing something, it doesn't make it right.
 
-I hope this helps you practice and improve your English reading comprehension skills! Remember to read the article carefully, pay attention to the vocabulary, and try to summarize the main points in your own words.
+There is a big difference between right and wrong. When I was teaching my own children, I made sure they understood that there are consequences for our actions. If we do something bad, we have to face the music and apologize or fix what we broke. This helps them develop a sense of responsibility and respect for others' feelings.
+
+As parents, it's our job to teach our children how to tell right from wrong. We can start by setting a good example ourselves and having open conversations with them about important issues. By doing so, we can raise well-rounded individuals who will grow up to be caring and responsible members of society.
+
+### 中文翻译
+**教孩子分辨是非**
+
+作为一名老师，我希望我们的孩子长大后能够拥有好的价值观和道德。我们需要从小就教他们做什么是对的，做什么是错的。当他们老一点，我们可以开始解释为什么某些行为被认为是不正确的，比如伤害别人的感受或抢走不属于自己的东西。
+
+我注意到很多时候，孩子们不知道什么是对的，什么是错的。他们可能看到朋友们做了坏事，但是觉得好玩，因此也去干了。然而，这并不是真的。我们需要教会他们，即使所有人都在做某件事情，它并不一定都是正确的。
+
+正确和错误之间有着巨大的差别。当我教导我的孩子时，我保证他们了解我们的行为将带来什么后果。如果我们做了坏事，我们必须面对后果，并向受害者道歉或修复破坏的东西。这能帮助他们培养责任感和尊严感。
+
+作为父母，我们有责任教会我们的孩子如何分辨是非。我们可以从给他们一个好的榜样开始，并与他们开诚布公地讨论重要的问题。这样，我们就能培养出有同情心、负责的个人，让他们成长为社会的一员。
+    
